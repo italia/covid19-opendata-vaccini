@@ -442,6 +442,28 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
   </tr>
 </table>
 
+<table>
+  <tr>
+   <td colspan="3" ><strong>last-update-dataset</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Campo</strong>
+   </td>
+   <td><strong>Tipo di dati</strong>
+   </td>
+   <td><strong>Descrizione</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>ultimo_aggiornamento
+   </td>
+   <td>datetime
+   </td>
+   <td>Data e ora di ultimo aggiornamento del dataset.
+   </td>
+  </tr>
+</table>
 
 # Licenza 
 
