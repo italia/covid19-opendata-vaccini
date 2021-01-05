@@ -287,7 +287,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
    </td>
    <td>integer
    </td>
-   <td>Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno e regione 
+   <td>Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno e regione. 
    </td>
   </tr>
   <tr>
@@ -295,7 +295,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
    </td>
    <td>integer
    </td>
-   <td>Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno e regione 
+   <td>Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno e regione. 
    </td>
   </tr>
   <tr>
@@ -303,7 +303,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
    </td>
    <td>integer
    </td>
-   <td>Totale dei soggetti appartenenti alla categoria degli operatori sanitari e sociosanitari a cui è stato somministrato il vaccino per giorno e regione 
+   <td>Totale dei soggetti appartenenti alla categoria degli operatori sanitari e sociosanitari a cui è stato somministrato il vaccino per giorno e regione. 
    </td>
   </tr>
   <tr>
@@ -319,7 +319,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
    </td>
    <td>integer
    </td>
-   <td>Totale dei soggetti ospiti della struttura residenziale a cui è stato somministrato il vaccino per giorno e regione 
+   <td>Totale dei soggetti ospiti della struttura residenziale a cui è stato somministrato il vaccino per giorno e regione. 
    </td>
   </tr>
 </table>
