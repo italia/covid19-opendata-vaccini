@@ -178,7 +178,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
    </td>
   </tr>
   <tr>
-   <td>data
+   <td>data_somministrazione
    </td>
    <td>datetime
    </td>
@@ -267,7 +267,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
    </td>
   </tr>
   <tr>
-   <td>data
+   <td>data_somministrazione
    </td>
    <td>datetime
    </td>
