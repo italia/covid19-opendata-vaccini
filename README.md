@@ -30,6 +30,7 @@ Nella cartella dati si possono trovare 6 tabelle in formato json e csv:
 *   **somministrazioni-vaccini-summary-latest**: dati sul totale delle somministrazioni giornaliere per regioni e categorie di appartenenza dei soggetti vaccinati.
 *   **punti-somministrazione-latest**: punti di somministrazione per ciascuna Regione e Provincia Autonoma.
 *   **anagrafica-vaccini-summary-latest**: totali delle somministrazioni per fasce d'età.
+*   **last-update-dataset**: data e ora di ultimo aggiornamento del dataset.
 
 I campi di ogni tabella sono schematizzati nelle seguenti tavole: 
 
@@ -112,7 +113,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
    </td>
   </tr>
   <tr>
-   <td>data
+   <td>ultimo_aggiornamento
    </td>
    <td>datetime
    </td>
