@@ -465,6 +465,10 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
   </tr>
 </table>
 
+# Maintainer
+
+* datateam-opendata - utenza appertenente alla Struttura Commissariale per l'Emergenza Covid-19
+
 # Licenza 
 
 [Creative Commons - Attribuzione 4.0 Internazionale (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.it)
