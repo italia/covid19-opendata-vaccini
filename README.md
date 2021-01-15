@@ -65,6 +65,14 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
    </td>
   </tr>
   <tr>
+   <td>fornitore
+   </td>
+   <td>string
+   </td>
+   <td>Nome completo del fornitore del vaccino.
+   </td>
+  </tr>
+  <tr>
    <td>data_consegna
    </td>
    <td>datetime
