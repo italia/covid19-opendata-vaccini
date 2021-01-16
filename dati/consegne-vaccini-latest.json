@@ -10,6 +10,10 @@
                 "type":"string"
             },
             {
+                "name":"fornitore",
+                "type":"string"
+            },
+            {
                 "name":"numero_dosi",
                 "type":"integer"
             },
@@ -27,726 +31,847 @@
         {
             "index":0,
             "area":"ABR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":135,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":1,
             "area":"ABR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7800,
             "data_consegna":"2020-12-30T00:00:00.000Z"
         },
         {
             "index":2,
             "area":"ABR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3900,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":3,
             "area":"ABR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3900,
             "data_consegna":"2021-01-07T00:00:00.000Z"
         },
         {
             "index":4,
             "area":"ABR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3900,
             "data_consegna":"2021-01-11T00:00:00.000Z"
         },
         {
             "index":5,
             "area":"ABR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":6,
             "area":"ABR",
+            "fornitore":"Moderna",
             "numero_dosi":1300,
             "data_consegna":"2021-01-13T00:00:00.000Z"
         },
         {
             "index":7,
             "area":"BAS",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":105,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":8,
             "area":"BAS",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
             "data_consegna":"2020-12-31T00:00:00.000Z"
         },
         {
             "index":9,
             "area":"BAS",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2925,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":10,
             "area":"BAS",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3900,
             "data_consegna":"2021-01-11T00:00:00.000Z"
         },
         {
             "index":11,
             "area":"BAS",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":12,
             "area":"CAL",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":280,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":13,
             "area":"CAL",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":8775,
             "data_consegna":"2020-12-31T00:00:00.000Z"
         },
         {
             "index":14,
             "area":"CAL",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3900,
             "data_consegna":"2021-01-01T00:00:00.000Z"
         },
         {
             "index":15,
             "area":"CAL",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":12675,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":16,
             "area":"CAL",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":13650,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":17,
             "area":"CAM",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":720,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":18,
             "area":"CAM",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":26325,
             "data_consegna":"2020-12-30T00:00:00.000Z"
         },
         {
             "index":19,
             "area":"CAM",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
             "data_consegna":"2020-12-31T00:00:00.000Z"
         },
         {
             "index":20,
             "area":"CAM",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
             "data_consegna":"2021-01-01T00:00:00.000Z"
         },
         {
             "index":21,
             "area":"CAM",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":23400,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":22,
             "area":"CAM",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":9750,
             "data_consegna":"2021-01-07T00:00:00.000Z"
         },
         {
             "index":23,
             "area":"CAM",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":6825,
             "data_consegna":"2021-01-11T00:00:00.000Z"
         },
         {
             "index":24,
             "area":"CAM",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":27300,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":25,
             "area":"CAM",
+            "fornitore":"Moderna",
             "numero_dosi":8200,
             "data_consegna":"2021-01-13T00:00:00.000Z"
         },
         {
             "index":26,
             "area":"EMR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":27,
             "area":"EMR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":42900,
             "data_consegna":"2020-12-30T00:00:00.000Z"
         },
         {
             "index":28,
             "area":"EMR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":15600,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":29,
             "area":"EMR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":28275,
             "data_consegna":"2021-01-07T00:00:00.000Z"
         },
         {
             "index":30,
             "area":"EMR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":10725,
             "data_consegna":"2021-01-11T00:00:00.000Z"
         },
         {
             "index":31,
             "area":"EMR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":33150,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":32,
             "area":"EMR",
+            "fornitore":"Moderna",
             "numero_dosi":7400,
             "data_consegna":"2021-01-13T00:00:00.000Z"
         },
         {
             "index":33,
             "area":"FVG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":265,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":34,
             "area":"FVG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":11700,
             "data_consegna":"2020-12-30T00:00:00.000Z"
         },
         {
             "index":35,
             "area":"FVG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7800,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":36,
             "area":"FVG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
             "data_consegna":"2021-01-07T00:00:00.000Z"
         },
         {
             "index":37,
             "area":"FVG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
             "data_consegna":"2021-01-11T00:00:00.000Z"
         },
         {
             "index":38,
             "area":"FVG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":10725,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":39,
             "area":"LAZ",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":955,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":40,
             "area":"LAZ",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":44850,
             "data_consegna":"2020-12-30T00:00:00.000Z"
         },
         {
             "index":41,
             "area":"LAZ",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":15600,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":42,
             "area":"LAZ",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":26325,
             "data_consegna":"2021-01-07T00:00:00.000Z"
         },
         {
             "index":43,
             "area":"LAZ",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":6825,
             "data_consegna":"2021-01-11T00:00:00.000Z"
         },
         {
             "index":44,
             "area":"LAZ",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":38025,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":45,
             "area":"LAZ",
+            "fornitore":"Moderna",
             "numero_dosi":7500,
             "data_consegna":"2021-01-13T00:00:00.000Z"
         },
         {
             "index":46,
             "area":"LIG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":320,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":47,
             "area":"LIG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":15600,
             "data_consegna":"2020-12-30T00:00:00.000Z"
         },
         {
             "index":48,
             "area":"LIG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":12675,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":49,
             "area":"LIG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
             "data_consegna":"2021-01-07T00:00:00.000Z"
         },
         {
             "index":50,
             "area":"LIG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2925,
             "data_consegna":"2021-01-11T00:00:00.000Z"
         },
         {
             "index":51,
             "area":"LIG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":13650,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":52,
             "area":"LOM",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1620,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":53,
             "area":"LOM",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":78975,
             "data_consegna":"2020-12-30T00:00:00.000Z"
         },
         {
             "index":54,
             "area":"LOM",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":30225,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":55,
             "area":"LOM",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":43875,
             "data_consegna":"2021-01-07T00:00:00.000Z"
         },
         {
             "index":56,
             "area":"LOM",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
             "data_consegna":"2021-01-11T00:00:00.000Z"
         },
         {
             "index":57,
             "area":"LOM",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":78975,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":58,
             "area":"MAR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":200,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":59,
             "area":"MAR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":8775,
             "data_consegna":"2020-12-30T00:00:00.000Z"
         },
         {
             "index":60,
             "area":"MAR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":6825,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":61,
             "area":"MAR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
             "data_consegna":"2021-01-07T00:00:00.000Z"
         },
         {
             "index":62,
             "area":"MAR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":9750,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":63,
             "area":"MAR",
+            "fornitore":"Moderna",
             "numero_dosi":1500,
             "data_consegna":"2021-01-13T00:00:00.000Z"
         },
         {
             "index":64,
             "area":"MOL",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":50,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":65,
             "area":"MOL",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
             "data_consegna":"2020-12-30T00:00:00.000Z"
         },
         {
             "index":66,
             "area":"MOL",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
             "data_consegna":"2020-12-31T00:00:00.000Z"
         },
         {
             "index":67,
             "area":"MOL",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":68,
             "area":"MOL",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2925,
             "data_consegna":"2021-01-11T00:00:00.000Z"
         },
         {
             "index":69,
             "area":"MOL",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":70,
             "area":"PAB",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":145,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":71,
             "area":"PAB",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
             "data_consegna":"2020-12-30T00:00:00.000Z"
         },
         {
             "index":72,
             "area":"PAB",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":6825,
             "data_consegna":"2021-01-07T00:00:00.000Z"
         },
         {
             "index":73,
             "area":"PAB",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":6825,
             "data_consegna":"2021-01-11T00:00:00.000Z"
         },
         {
             "index":74,
             "area":"PAT",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":100,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":75,
             "area":"PAT",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
             "data_consegna":"2020-12-30T00:00:00.000Z"
         },
         {
             "index":76,
             "area":"PAT",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":77,
             "area":"PAT",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2925,
             "data_consegna":"2021-01-07T00:00:00.000Z"
         },
         {
             "index":78,
             "area":"PAT",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":79,
             "area":"PIE",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":910,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":80,
             "area":"PIE",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":39975,
             "data_consegna":"2020-12-30T00:00:00.000Z"
         },
         {
             "index":81,
             "area":"PIE",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":20475,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":82,
             "area":"PIE",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":21450,
             "data_consegna":"2021-01-07T00:00:00.000Z"
         },
         {
             "index":83,
             "area":"PIE",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":40950,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":84,
             "area":"PUG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":505,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":85,
             "area":"PUG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":21450,
             "data_consegna":"2020-12-31T00:00:00.000Z"
         },
         {
             "index":86,
             "area":"PUG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3900,
             "data_consegna":"2021-01-01T00:00:00.000Z"
         },
         {
             "index":87,
             "area":"PUG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":88,
             "area":"PUG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":16575,
             "data_consegna":"2021-01-07T00:00:00.000Z"
         },
         {
             "index":89,
             "area":"PUG",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":26325,
             "data_consegna":"2021-01-11T00:00:00.000Z"
         },
         {
             "index":90,
             "area":"SAR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":180,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":91,
             "area":"SAR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":12675,
             "data_consegna":"2020-12-31T00:00:00.000Z"
         },
         {
             "index":92,
             "area":"SAR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":6825,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":93,
             "area":"SAR",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":13650,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":94,
             "area":"SIC",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":685,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":95,
             "area":"SIC",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":45825,
             "data_consegna":"2020-12-31T00:00:00.000Z"
         },
         {
             "index":96,
             "area":"SIC",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":32175,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":97,
             "area":"SIC",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":46800,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":98,
             "area":"SIC",
+            "fornitore":"Moderna",
             "numero_dosi":6600,
             "data_consegna":"2021-01-13T00:00:00.000Z"
         },
         {
             "index":99,
             "area":"TOS",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":620,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":100,
             "area":"TOS",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":27300,
             "data_consegna":"2020-12-30T00:00:00.000Z"
         },
         {
             "index":101,
             "area":"TOS",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3900,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":102,
             "area":"TOS",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":20475,
             "data_consegna":"2021-01-07T00:00:00.000Z"
         },
         {
             "index":103,
             "area":"TOS",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":28275,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":104,
             "area":"TOS",
+            "fornitore":"Moderna",
             "numero_dosi":5300,
             "data_consegna":"2021-01-13T00:00:00.000Z"
         },
         {
             "index":105,
             "area":"UMB",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":85,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":106,
             "area":"UMB",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
             "data_consegna":"2020-12-30T00:00:00.000Z"
         },
         {
             "index":107,
             "area":"UMB",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":108,
             "area":"UMB",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":109,
             "area":"UMB",
+            "fornitore":"Moderna",
             "numero_dosi":1000,
             "data_consegna":"2021-01-13T00:00:00.000Z"
         },
         {
             "index":110,
             "area":"VDA",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":20,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":111,
             "area":"VDA",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
             "data_consegna":"2020-12-30T00:00:00.000Z"
         },
         {
             "index":112,
             "area":"VDA",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":113,
             "area":"VDA",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":114,
             "area":"VDA",
+            "fornitore":"Moderna",
             "numero_dosi":200,
             "data_consegna":"2021-01-13T00:00:00.000Z"
         },
         {
             "index":115,
             "area":"VEN",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":875,
             "data_consegna":"2020-12-27T00:00:00.000Z"
         },
         {
             "index":116,
             "area":"VEN",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":38025,
             "data_consegna":"2020-12-30T00:00:00.000Z"
         },
         {
             "index":117,
             "area":"VEN",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
             "data_consegna":"2021-01-05T00:00:00.000Z"
         },
         {
             "index":118,
             "area":"VEN",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":34125,
             "data_consegna":"2021-01-07T00:00:00.000Z"
         },
         {
             "index":119,
             "area":"VEN",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":39000,
             "data_consegna":"2021-01-12T00:00:00.000Z"
         },
         {
             "index":120,
             "area":"VEN",
+            "fornitore":"Moderna",
             "numero_dosi":7800,
             "data_consegna":"2021-01-13T00:00:00.000Z"
         }
