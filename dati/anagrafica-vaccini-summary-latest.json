@@ -34,6 +34,18 @@
                 "type":"integer"
             },
             {
+                "name":"categoria_over80",
+                "type":"integer"
+            },
+            {
+                "name":"prima_dose",
+                "type":"integer"
+            },
+            {
+                "name":"seconda_dose",
+                "type":"integer"
+            },
+            {
                 "name":"ultimo_aggiornamento",
                 "type":"datetime"
             }
@@ -47,101 +59,128 @@
         {
             "index":0,
             "fascia_anagrafica":"16-19",
-            "totale":3465,
-            "sesso_maschile":1279,
-            "sesso_femminile":2186,
-            "categoria_operatori_sanitari_sociosanitari":2176,
-            "categoria_personale_non_sanitario":1163,
-            "categoria_ospiti_rsa":126,
-            "ultimo_aggiornamento":"2021-01-17T00:00:00.000Z"
+            "totale":2475,
+            "sesso_maschile":951,
+            "sesso_femminile":1524,
+            "categoria_operatori_sanitari_sociosanitari":1436,
+            "categoria_personale_non_sanitario":929,
+            "categoria_ospiti_rsa":110,
+            "categoria_over80":0,
+            "prima_dose":2475,
+            "seconda_dose":0,
+            "ultimo_aggiornamento":"2021-01-18T00:00:00.000Z"
         },
         {
             "index":1,
             "fascia_anagrafica":"20-29",
-            "totale":132034,
-            "sesso_maschile":45479,
-            "sesso_femminile":86555,
-            "categoria_operatori_sanitari_sociosanitari":107951,
-            "categoria_personale_non_sanitario":23262,
-            "categoria_ospiti_rsa":821,
-            "ultimo_aggiornamento":"2021-01-17T00:00:00.000Z"
+            "totale":127411,
+            "sesso_maschile":43561,
+            "sesso_femminile":83850,
+            "categoria_operatori_sanitari_sociosanitari":101751,
+            "categoria_personale_non_sanitario":21363,
+            "categoria_ospiti_rsa":4297,
+            "categoria_over80":0,
+            "prima_dose":127050,
+            "seconda_dose":361,
+            "ultimo_aggiornamento":"2021-01-18T00:00:00.000Z"
         },
         {
             "index":2,
             "fascia_anagrafica":"30-39",
-            "totale":181774,
-            "sesso_maschile":71279,
-            "sesso_femminile":110495,
-            "categoria_operatori_sanitari_sociosanitari":152725,
-            "categoria_personale_non_sanitario":27932,
-            "categoria_ospiti_rsa":1117,
-            "ultimo_aggiornamento":"2021-01-17T00:00:00.000Z"
+            "totale":185046,
+            "sesso_maschile":72619,
+            "sesso_femminile":112427,
+            "categoria_operatori_sanitari_sociosanitari":150609,
+            "categoria_personale_non_sanitario":27704,
+            "categoria_ospiti_rsa":6733,
+            "categoria_over80":0,
+            "prima_dose":184399,
+            "seconda_dose":647,
+            "ultimo_aggiornamento":"2021-01-18T00:00:00.000Z"
         },
         {
             "index":3,
             "fascia_anagrafica":"40-49",
-            "totale":235702,
-            "sesso_maschile":76261,
-            "sesso_femminile":159441,
-            "categoria_operatori_sanitari_sociosanitari":191760,
-            "categoria_personale_non_sanitario":41787,
-            "categoria_ospiti_rsa":2155,
-            "ultimo_aggiornamento":"2021-01-17T00:00:00.000Z"
+            "totale":233756,
+            "sesso_maschile":76314,
+            "sesso_femminile":157442,
+            "categoria_operatori_sanitari_sociosanitari":183434,
+            "categoria_personale_non_sanitario":39279,
+            "categoria_ospiti_rsa":11043,
+            "categoria_over80":0,
+            "prima_dose":232953,
+            "seconda_dose":803,
+            "ultimo_aggiornamento":"2021-01-18T00:00:00.000Z"
         },
         {
             "index":4,
             "fascia_anagrafica":"50-59",
-            "totale":306324,
-            "sesso_maschile":102276,
-            "sesso_femminile":204048,
-            "categoria_operatori_sanitari_sociosanitari":243109,
-            "categoria_personale_non_sanitario":58792,
-            "categoria_ospiti_rsa":4423,
-            "ultimo_aggiornamento":"2021-01-17T00:00:00.000Z"
+            "totale":310879,
+            "sesso_maschile":102563,
+            "sesso_femminile":208316,
+            "categoria_operatori_sanitari_sociosanitari":238721,
+            "categoria_personale_non_sanitario":54754,
+            "categoria_ospiti_rsa":17401,
+            "categoria_over80":3,
+            "prima_dose":309650,
+            "seconda_dose":1229,
+            "ultimo_aggiornamento":"2021-01-18T00:00:00.000Z"
         },
         {
             "index":5,
             "fascia_anagrafica":"60-69",
-            "totale":174032,
-            "sesso_maschile":92638,
-            "sesso_femminile":81394,
-            "categoria_operatori_sanitari_sociosanitari":137355,
-            "categoria_personale_non_sanitario":29150,
-            "categoria_ospiti_rsa":7527,
-            "ultimo_aggiornamento":"2021-01-17T00:00:00.000Z"
+            "totale":185603,
+            "sesso_maschile":96334,
+            "sesso_femminile":89269,
+            "categoria_operatori_sanitari_sociosanitari":142093,
+            "categoria_personale_non_sanitario":31628,
+            "categoria_ospiti_rsa":11856,
+            "categoria_over80":26,
+            "prima_dose":184782,
+            "seconda_dose":821,
+            "ultimo_aggiornamento":"2021-01-18T00:00:00.000Z"
         },
         {
             "index":6,
             "fascia_anagrafica":"70-79",
-            "totale":36038,
-            "sesso_maschile":21863,
-            "sesso_femminile":14175,
-            "categoria_operatori_sanitari_sociosanitari":13109,
-            "categoria_personale_non_sanitario":6863,
-            "categoria_ospiti_rsa":16066,
-            "ultimo_aggiornamento":"2021-01-17T00:00:00.000Z"
+            "totale":37798,
+            "sesso_maschile":23527,
+            "sesso_femminile":14271,
+            "categoria_operatori_sanitari_sociosanitari":14263,
+            "categoria_personale_non_sanitario":15721,
+            "categoria_ospiti_rsa":7765,
+            "categoria_over80":49,
+            "prima_dose":37746,
+            "seconda_dose":52,
+            "ultimo_aggiornamento":"2021-01-18T00:00:00.000Z"
         },
         {
             "index":7,
             "fascia_anagrafica":"80-89",
-            "totale":50448,
-            "sesso_maschile":15000,
-            "sesso_femminile":35448,
-            "categoria_operatori_sanitari_sociosanitari":1614,
-            "categoria_personale_non_sanitario":8565,
-            "categoria_ospiti_rsa":40269,
-            "ultimo_aggiornamento":"2021-01-17T00:00:00.000Z"
+            "totale":51719,
+            "sesso_maschile":16114,
+            "sesso_femminile":35605,
+            "categoria_operatori_sanitari_sociosanitari":1674,
+            "categoria_personale_non_sanitario":31690,
+            "categoria_ospiti_rsa":17932,
+            "categoria_over80":423,
+            "prima_dose":51666,
+            "seconda_dose":53,
+            "ultimo_aggiornamento":"2021-01-18T00:00:00.000Z"
         },
         {
             "index":8,
             "fascia_anagrafica":"90+",
-            "totale":33684,
-            "sesso_maschile":5247,
-            "sesso_femminile":28437,
-            "categoria_operatori_sanitari_sociosanitari":420,
-            "categoria_personale_non_sanitario":1828,
-            "categoria_ospiti_rsa":31436,
-            "ultimo_aggiornamento":"2021-01-17T00:00:00.000Z"
+            "totale":36661,
+            "sesso_maschile":5723,
+            "sesso_femminile":30938,
+            "categoria_operatori_sanitari_sociosanitari":298,
+            "categoria_personale_non_sanitario":22140,
+            "categoria_ospiti_rsa":14093,
+            "categoria_over80":130,
+            "prima_dose":36630,
+            "seconda_dose":31,
+            "ultimo_aggiornamento":"2021-01-18T00:00:00.000Z"
         }
     ]
 }
