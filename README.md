@@ -477,6 +477,10 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 
 * datateam-opendata - utenza appertenente alla Struttura Commissariale per l'Emergenza Covid-19
 
+# NOTE
+
+A partire dal 18/01/2021 i dati sono in fase di consolidamento da parte delle regioni e potranno subire alcune variazioni.
+
 # Licenza 
 
 [Creative Commons - Attribuzione 4.0 Internazionale (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.it)
