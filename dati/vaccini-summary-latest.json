@@ -34,110 +34,38 @@
     "data":[
         {
             "index":0,
-            "area":"FVG",
-            "dosi_somministrate":39976,
-            "dosi_consegnate":53695,
-            "percentuale_somministrazione":74.5,
+            "area":"PAB",
+            "dosi_somministrate":24618,
+            "dosi_consegnate":32515,
+            "percentuale_somministrazione":75.7,
             "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
         },
         {
             "index":1,
-            "area":"LAZ",
-            "dosi_somministrate":159988,
-            "dosi_consegnate":216130,
-            "percentuale_somministrazione":74.0,
+            "area":"LIG",
+            "dosi_somministrate":44215,
+            "dosi_consegnate":74030,
+            "percentuale_somministrazione":59.7,
             "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
         },
         {
             "index":2,
-            "area":"EMR",
-            "dosi_somministrate":147283,
-            "dosi_consegnate":197525,
-            "percentuale_somministrazione":74.6,
+            "area":"FVG",
+            "dosi_somministrate":40416,
+            "dosi_consegnate":53695,
+            "percentuale_somministrazione":75.3,
             "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
         },
         {
             "index":3,
-            "area":"MOL",
-            "dosi_somministrate":7844,
-            "dosi_consegnate":12335,
-            "percentuale_somministrazione":63.6,
+            "area":"LAZ",
+            "dosi_somministrate":162063,
+            "dosi_consegnate":216130,
+            "percentuale_somministrazione":75.0,
             "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
         },
         {
             "index":4,
-            "area":"LIG",
-            "dosi_somministrate":42861,
-            "dosi_consegnate":74030,
-            "percentuale_somministrazione":57.9,
-            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
-        },
-        {
-            "index":5,
-            "area":"SAR",
-            "dosi_somministrate":29157,
-            "dosi_consegnate":53220,
-            "percentuale_somministrazione":54.8,
-            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
-        },
-        {
-            "index":6,
-            "area":"BAS",
-            "dosi_somministrate":14135,
-            "dosi_consegnate":18435,
-            "percentuale_somministrazione":76.7,
-            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
-        },
-        {
-            "index":7,
-            "area":"PAB",
-            "dosi_somministrate":24459,
-            "dosi_consegnate":32515,
-            "percentuale_somministrazione":75.2,
-            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
-        },
-        {
-            "index":8,
-            "area":"ABR",
-            "dosi_somministrate":22806,
-            "dosi_consegnate":36340,
-            "percentuale_somministrazione":62.8,
-            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
-        },
-        {
-            "index":9,
-            "area":"CAM",
-            "dosi_somministrate":134919,
-            "dosi_consegnate":167845,
-            "percentuale_somministrazione":80.4,
-            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
-        },
-        {
-            "index":10,
-            "area":"LOM",
-            "dosi_somministrate":245100,
-            "dosi_consegnate":356130,
-            "percentuale_somministrazione":68.8,
-            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
-        },
-        {
-            "index":11,
-            "area":"SIC",
-            "dosi_somministrate":120903,
-            "dosi_consegnate":181225,
-            "percentuale_somministrazione":66.7,
-            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
-        },
-        {
-            "index":12,
-            "area":"UMB",
-            "dosi_somministrate":18044,
-            "dosi_consegnate":24875,
-            "percentuale_somministrazione":72.5,
-            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
-        },
-        {
-            "index":13,
             "area":"CAL",
             "dosi_somministrate":28898,
             "dosi_consegnate":49810,
@@ -145,7 +73,47 @@
             "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
         },
         {
-            "index":14,
+            "index":5,
+            "area":"EMR",
+            "dosi_somministrate":152186,
+            "dosi_consegnate":197525,
+            "percentuale_somministrazione":77.0,
+            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
+        },
+        {
+            "index":6,
+            "area":"MOL",
+            "dosi_somministrate":8130,
+            "dosi_consegnate":12335,
+            "percentuale_somministrazione":65.9,
+            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
+        },
+        {
+            "index":7,
+            "area":"PIE",
+            "dosi_somministrate":160991,
+            "dosi_consegnate":186940,
+            "percentuale_somministrazione":86.1,
+            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
+        },
+        {
+            "index":8,
+            "area":"VDA",
+            "dosi_somministrate":4309,
+            "dosi_consegnate":6460,
+            "percentuale_somministrazione":66.7,
+            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
+        },
+        {
+            "index":9,
+            "area":"BAS",
+            "dosi_somministrate":14199,
+            "dosi_consegnate":18435,
+            "percentuale_somministrazione":77.0,
+            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
+        },
+        {
+            "index":10,
             "area":"MAR",
             "dosi_somministrate":34124,
             "dosi_consegnate":40700,
@@ -153,51 +121,83 @@
             "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
         },
         {
-            "index":15,
+            "index":11,
             "area":"PAT",
-            "dosi_somministrate":16583,
+            "dosi_somministrate":16711,
             "dosi_consegnate":18040,
-            "percentuale_somministrazione":91.9,
+            "percentuale_somministrazione":92.6,
+            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
+        },
+        {
+            "index":12,
+            "area":"TOS",
+            "dosi_somministrate":100657,
+            "dosi_consegnate":127990,
+            "percentuale_somministrazione":78.6,
+            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
+        },
+        {
+            "index":13,
+            "area":"PUG",
+            "dosi_somministrate":88083,
+            "dosi_consegnate":112045,
+            "percentuale_somministrazione":78.6,
+            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
+        },
+        {
+            "index":14,
+            "area":"VEN",
+            "dosi_somministrate":143344,
+            "dosi_consegnate":160970,
+            "percentuale_somministrazione":89.1,
+            "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
+        },
+        {
+            "index":15,
+            "area":"SAR",
+            "dosi_somministrate":29510,
+            "dosi_consegnate":53220,
+            "percentuale_somministrazione":55.4,
             "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
         },
         {
             "index":16,
-            "area":"TOS",
-            "dosi_somministrate":98393,
-            "dosi_consegnate":127990,
-            "percentuale_somministrazione":76.9,
+            "area":"ABR",
+            "dosi_somministrate":22806,
+            "dosi_consegnate":36340,
+            "percentuale_somministrazione":62.8,
             "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
         },
         {
             "index":17,
-            "area":"PIE",
-            "dosi_somministrate":159135,
-            "dosi_consegnate":186940,
-            "percentuale_somministrazione":85.1,
+            "area":"CAM",
+            "dosi_somministrate":137767,
+            "dosi_consegnate":167845,
+            "percentuale_somministrazione":82.1,
             "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
         },
         {
             "index":18,
-            "area":"VDA",
-            "dosi_somministrate":4233,
-            "dosi_consegnate":6460,
-            "percentuale_somministrazione":65.5,
+            "area":"LOM",
+            "dosi_somministrate":250358,
+            "dosi_consegnate":356130,
+            "percentuale_somministrazione":70.3,
             "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
         },
         {
             "index":19,
-            "area":"PUG",
-            "dosi_somministrate":86298,
-            "dosi_consegnate":112045,
-            "percentuale_somministrazione":77.0,
+            "area":"SIC",
+            "dosi_somministrate":120903,
+            "dosi_consegnate":181225,
+            "percentuale_somministrazione":66.7,
             "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
         },
         {
             "index":20,
-            "area":"VEN",
-            "dosi_somministrate":140119,
-            "dosi_consegnate":160970,
-            "percentuale_somministrazione":87.0,
+            "area":"UMB",
+            "dosi_somministrate":18044,
+            "dosi_consegnate":24875,
+            "percentuale_somministrazione":72.5,
             "ultimo_aggiornamento":"2021-01-27T00:00:00.000Z"
         }
     ]
