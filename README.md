@@ -1,3 +1,4 @@
+
 <h1 align="center">Covid-19 Opendata Vaccini</h1>
 
 <div align="center">
@@ -88,6 +89,38 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
    <td>Il numero di dosi del vaccino consegnate in quel giorno per regione.
    </td>
   </tr>
+  <tr>
+   <td>codice_NUTS1
+   </td>
+   <td>string
+   </td>
+   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 1.
+   </td>
+  </tr>
+    <tr>
+   <td>codice_NUTS2
+   </td>
+   <td>string
+   </td>
+   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 2.
+   </td>
+  </tr>
+    <tr>
+   <td>codice_regione_ISTAT
+   </td>
+   <td>integer
+   </td>
+   <td>Codice ISTAT della Regione.
+   </td>
+  </tr>
+    <tr>
+   <td>nome_regione
+   </td>
+   <td>string
+   </td>
+   <td>Denominazione standard dell'area (dove necessario denominazione bilingue).
+   </td>
+  </tr>
 </table>
 
 
@@ -152,6 +185,38 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
    <td>Percentuale di dosi somministrate sulle dosi consegnate.
    </td>
   </tr>
+   <tr>
+   <td>codice_NUTS1
+   </td>
+   <td>string
+   </td>
+   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 1.
+   </td>
+  </tr>
+    <tr>
+   <td>codice_NUTS2
+   </td>
+   <td>string
+   </td>
+   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 2.
+   </td>
+  </tr>
+    <tr>
+   <td>codice_regione_ISTAT
+   </td>
+   <td>integer
+   </td>
+   <td>Codice ISTAT della Regione.
+   </td>
+  </tr>
+    <tr>
+   <td>nome_regione
+   </td>
+   <td>string
+   </td>
+   <td>Denominazione standard dell'area (dove necessario denominazione bilingue).
+   </td>
+  </tr>
 </table>
 
 
@@ -183,6 +248,14 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
    <td>string
    </td>
    <td>Sigla della regione di consegna. 
+   </td>
+  </tr>
+    <tr>
+   <td>fornitore
+   </td>
+   <td>string
+   </td>
+   <td>nome completo del fornitore del vaccino.
    </td>
   </tr>
   <tr>
@@ -239,6 +312,63 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
    <td>integer
    </td>
    <td>Totale dei soggetti ospiti della struttura residenziale a cui è stato somministrato il vaccino per giorno, regione e fascia d'età.
+   </td>
+  </tr>
+   <tr>
+   <td>categoria_over80
+   </td>
+   <td>integer
+   </td>
+   <td>Numero somministrazioni categoria di rischio prevalente over 80 per giorno, regione e fascia d'età.
+   </td>
+  </tr>
+    </tr>
+   <tr>
+   <td>prima_dose
+   </td>
+   <td>integer
+   </td>
+   <td>Numero prime somministrazioni.
+   </td>
+  </tr>
+     <tr>
+   <td>seconda_dose
+   </td>
+   <td>integer
+   </td>
+   <td>Numero seconde somministrazioni.
+   </td>
+  </tr>
+   <tr>
+   <td>codice_NUTS1
+   </td>
+   <td>string
+   </td>
+   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 1.
+   </td>
+  </tr>
+    <tr>
+   <td>codice_NUTS2
+   </td>
+   <td>string
+   </td>
+   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 2.
+   </td>
+  </tr>
+    <tr>
+   <td>codice_regione_ISTAT
+   </td>
+   <td>integer
+   </td>
+   <td>Codice ISTAT della Regione.
+   </td>
+  </tr>
+    <tr>
+   <td>nome_regione
+   </td>
+   <td>string
+   </td>
+   <td>Denominazione standard dell'area (dove necessario denominazione bilingue).
    </td>
   </tr>
 </table>
@@ -330,6 +460,63 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
    <td>Totale dei soggetti ospiti della struttura residenziale a cui è stato somministrato il vaccino per giorno e regione. 
    </td>
   </tr>
+  <tr>
+   <td>categoria_over80
+   </td>
+   <td>integer
+   </td>
+   <td>Numero somministrazioni categoria di rischio prevalente over 80 per giorno, regione e fascia d'età.
+   </td>
+  </tr>
+    </tr>
+   <tr>
+   <td>prima_dose
+   </td>
+   <td>integer
+   </td>
+   <td>Numero prime somministrazioni.
+   </td>
+  </tr>
+     <tr>
+   <td>seconda_dose
+   </td>
+   <td>integer
+   </td>
+   <td>Numero seconde somministrazioni.
+   </td>
+  </tr>
+   <tr>
+   <td>codice_NUTS1
+   </td>
+   <td>string
+   </td>
+   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 1.
+   </td>
+  </tr>
+    <tr>
+   <td>codice_NUTS2
+   </td>
+   <td>string
+   </td>
+   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 2.
+   </td>
+  </tr>
+    <tr>
+   <td>codice_regione_ISTAT
+   </td>
+   <td>integer
+   </td>
+   <td>Codice ISTAT della Regione.
+   </td>
+  </tr>
+    <tr>
+   <td>nome_regione
+   </td>
+   <td>string
+   </td>
+   <td>Denominazione standard dell'area (dove necessario denominazione bilingue).
+   </td>
+  </tr>
 </table>
 
 <table>
@@ -375,6 +562,38 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
    <td>string
    </td>
    <td>Presidio di somministrazione.
+   </td>
+  </tr>
+   <tr>
+   <td>codice_NUTS1
+   </td>
+   <td>string
+   </td>
+   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 1.
+   </td>
+  </tr>
+    <tr>
+   <td>codice_NUTS2
+   </td>
+   <td>string
+   </td>
+   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 2.
+   </td>
+  </tr>
+    <tr>
+   <td>codice_regione_ISTAT
+   </td>
+   <td>integer
+   </td>
+   <td>Codice ISTAT della Regione.
+   </td>
+  </tr>
+    <tr>
+   <td>nome_regione
+   </td>
+   <td>string
+   </td>
+   <td>Denominazione standard dell'area (dove necessario denominazione bilingue).
    </td>
   </tr>
 </table>
@@ -448,6 +667,31 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
    <td>Totale dei soggetti ospiti della struttura residenziale a cui è stato somministrato il vaccino per giorno, regione e fascia d'età.
    </td>
   </tr>
+  <tr>
+   <td>categoria_over80
+   </td>
+   <td>integer
+   </td>
+   <td>Numero somministrazioni categoria di rischio prevalente over 80 per giorno, regione e fascia d'età.
+   </td>
+  </tr>
+    </tr>
+   <tr>
+   <td>prima_dose
+   </td>
+   <td>integer
+   </td>
+   <td>Numero prime somministrazioni.
+   </td>
+  </tr>
+     <tr>
+   <td>seconda_dose
+   </td>
+   <td>integer
+   </td>
+   <td>Numero seconde somministrazioni.
+   </td>
+  </tr>
 </table>
 
 <table>
@@ -488,5 +732,3 @@ A partire dal 18/01/2021 i dati sono in fase di consolidamento da parte delle re
 ## Authors / Copyright 
 
 2021 (c) Commissario straordinario per l'emergenza Covid-19 - Presidenza del Consiglio dei Ministri.
-
-
