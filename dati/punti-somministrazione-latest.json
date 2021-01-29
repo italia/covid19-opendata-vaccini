@@ -20,6 +20,22 @@
             {
                 "name":"presidio_ospedaliero",
                 "type":"string"
+            },
+            {
+                "name":"codice_NUTS1",
+                "type":"string"
+            },
+            {
+                "name":"codice_NUTS2",
+                "type":"string"
+            },
+            {
+                "name":"codice_regione_ISTAT",
+                "type":"integer"
+            },
+            {
+                "name":"nome_area",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -33,2051 +49,3223 @@
             "area":"ABR",
             "provincia":"CHIETI",
             "comune":"CHIETI",
-            "presidio_ospedaliero":"PRESIDIO OSPEDALIERO SS ANNUNZIATA"
+            "presidio_ospedaliero":"PRESIDIO OSPEDALIERO SS ANNUNZIATA",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF1",
+            "codice_regione_ISTAT":13,
+            "nome_area":"Abruzzo"
         },
         {
             "index":1,
             "area":"ABR",
             "provincia":"CHIETI",
             "comune":"LANCIANO",
-            "presidio_ospedaliero":"PRESIDIO OSPEDALIERO RENZETTI"
+            "presidio_ospedaliero":"PRESIDIO OSPEDALIERO RENZETTI",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF1",
+            "codice_regione_ISTAT":13,
+            "nome_area":"Abruzzo"
         },
         {
             "index":2,
             "area":"ABR",
             "provincia":"CHIETI",
             "comune":"VASTO",
-            "presidio_ospedaliero":"PRESIDIO OSPEDALIERO SAN PIO"
+            "presidio_ospedaliero":"PRESIDIO OSPEDALIERO SAN PIO",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF1",
+            "codice_regione_ISTAT":13,
+            "nome_area":"Abruzzo"
         },
         {
             "index":3,
             "area":"ABR",
             "provincia":"L'AQUILA",
             "comune":"AVEZZANO",
-            "presidio_ospedaliero":"P.O. SS. FILIPPO E NICOLA"
+            "presidio_ospedaliero":"P.O. SS. FILIPPO E NICOLA",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF1",
+            "codice_regione_ISTAT":13,
+            "nome_area":"Abruzzo"
         },
         {
             "index":4,
             "area":"ABR",
             "provincia":"L'AQUILA",
             "comune":"L'AQUILA",
-            "presidio_ospedaliero":"PRESIDIO OSPEDALIERO SAN SALVATORE"
+            "presidio_ospedaliero":"PRESIDIO OSPEDALIERO SAN SALVATORE",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF1",
+            "codice_regione_ISTAT":13,
+            "nome_area":"Abruzzo"
         },
         {
             "index":5,
             "area":"ABR",
             "provincia":"PESCARA",
             "comune":"PESCARA",
-            "presidio_ospedaliero":"PRESIDIO OSPEDALIERO SPIRITO SANTO"
+            "presidio_ospedaliero":"PRESIDIO OSPEDALIERO SPIRITO SANTO",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF1",
+            "codice_regione_ISTAT":13,
+            "nome_area":"Abruzzo"
         },
         {
             "index":6,
             "area":"ABR",
             "provincia":"TERAMO",
             "comune":"TERAMO",
-            "presidio_ospedaliero":"PRESIDIO OSPEDALIERO MAZZINI \n"
+            "presidio_ospedaliero":"PRESIDIO OSPEDALIERO MAZZINI \n",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF1",
+            "codice_regione_ISTAT":13,
+            "nome_area":"Abruzzo"
         },
         {
             "index":7,
             "area":"BAS",
             "provincia":"MATERA",
             "comune":"MATERA",
-            "presidio_ospedaliero":"A.S.M. P.O. MADONNA DELLE GRAZIE"
+            "presidio_ospedaliero":"A.S.M. P.O. MADONNA DELLE GRAZIE",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF5",
+            "codice_regione_ISTAT":17,
+            "nome_area":"Basilicata"
         },
         {
             "index":8,
             "area":"BAS",
             "provincia":"POTENZA",
             "comune":"CHIAROMONTE",
-            "presidio_ospedaliero":"CHIAROMONTE-ASP DI POTENZA"
+            "presidio_ospedaliero":"CHIAROMONTE-ASP DI POTENZA",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF5",
+            "codice_regione_ISTAT":17,
+            "nome_area":"Basilicata"
         },
         {
             "index":9,
             "area":"BAS",
             "provincia":"POTENZA",
             "comune":"POTENZA",
-            "presidio_ospedaliero":"AOR SAN CARLO"
+            "presidio_ospedaliero":"AOR SAN CARLO",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF5",
+            "codice_regione_ISTAT":17,
+            "nome_area":"Basilicata"
         },
         {
             "index":10,
             "area":"BAS",
             "provincia":"POTENZA",
             "comune":"RIONERO IN VULTURE",
-            "presidio_ospedaliero":"IRCCS CROB"
+            "presidio_ospedaliero":"IRCCS CROB",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF5",
+            "codice_regione_ISTAT":17,
+            "nome_area":"Basilicata"
         },
         {
             "index":11,
             "area":"BAS",
             "provincia":"POTENZA",
             "comune":"VENOSA",
-            "presidio_ospedaliero":"VENOSA-ASP DI POTENZA"
+            "presidio_ospedaliero":"VENOSA-ASP DI POTENZA",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF5",
+            "codice_regione_ISTAT":17,
+            "nome_area":"Basilicata"
         },
         {
             "index":12,
             "area":"CAL",
             "provincia":"CATANZARO",
             "comune":"CATANZARO",
-            "presidio_ospedaliero":"MATER DOMINI"
+            "presidio_ospedaliero":"MATER DOMINI",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF6",
+            "codice_regione_ISTAT":18,
+            "nome_area":"Calabria"
         },
         {
             "index":13,
             "area":"CAL",
             "provincia":"CATANZARO",
             "comune":"CATANZARO",
-            "presidio_ospedaliero":"PUGLIESE -CIACCIO"
+            "presidio_ospedaliero":"PUGLIESE -CIACCIO",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF6",
+            "codice_regione_ISTAT":18,
+            "nome_area":"Calabria"
         },
         {
             "index":14,
             "area":"CAL",
             "provincia":"COSENZA",
             "comune":"COSENZA",
-            "presidio_ospedaliero":"AO COSENZA\u00a0 - AZIENDA OSPEDALIERA DI COSENZA \"SS. ANNUNZIATA\""
+            "presidio_ospedaliero":"AO COSENZA\u00a0 - AZIENDA OSPEDALIERA DI COSENZA \"SS. ANNUNZIATA\"",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF6",
+            "codice_regione_ISTAT":18,
+            "nome_area":"Calabria"
         },
         {
             "index":15,
             "area":"CAL",
             "provincia":"CROTONE",
             "comune":"CROTONE",
-            "presidio_ospedaliero":"OSPEDALE SPOKE CROTONE"
+            "presidio_ospedaliero":"OSPEDALE SPOKE CROTONE",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF6",
+            "codice_regione_ISTAT":18,
+            "nome_area":"Calabria"
         },
         {
             "index":16,
             "area":"CAL",
             "provincia":"REGGIO CALABRIA",
             "comune":"REGGIO CALABRIA",
-            "presidio_ospedaliero":"GOM"
+            "presidio_ospedaliero":"GOM",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF6",
+            "codice_regione_ISTAT":18,
+            "nome_area":"Calabria"
         },
         {
             "index":17,
             "area":"CAL",
             "provincia":"VIBO VALENTIA",
             "comune":"VIBO VALENTIA",
-            "presidio_ospedaliero":"OSPEDALE SPOKE VIBO VALENTIA"
+            "presidio_ospedaliero":"OSPEDALE SPOKE VIBO VALENTIA",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF6",
+            "codice_regione_ISTAT":18,
+            "nome_area":"Calabria"
         },
         {
             "index":18,
             "area":"CAM",
             "provincia":"AVELLINO",
             "comune":"ARIANO IRPINO",
-            "presidio_ospedaliero":"ASL AV P.O. S.OTTONE FRANGIPANE"
+            "presidio_ospedaliero":"ASL AV P.O. S.OTTONE FRANGIPANE",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":19,
             "area":"CAM",
             "provincia":"AVELLINO",
             "comune":"AVELLINO",
-            "presidio_ospedaliero":"A.O.R.N. MOSCATI"
+            "presidio_ospedaliero":"A.O.R.N. MOSCATI",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":20,
             "area":"CAM",
             "provincia":"BENEVENTO",
             "comune":"BENEVENTO",
-            "presidio_ospedaliero":"A.O. SAN PIO"
+            "presidio_ospedaliero":"A.O. SAN PIO",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":21,
             "area":"CAM",
             "provincia":"CASERTA",
             "comune":"AVERSA",
-            "presidio_ospedaliero":"ASL CE PO MOSCATI"
+            "presidio_ospedaliero":"ASL CE PO MOSCATI",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":22,
             "area":"CAM",
             "provincia":"CASERTA",
             "comune":"CASERTA",
-            "presidio_ospedaliero":"A.O.R.N. SANT'ANNA E SAN SEBASTIANO"
+            "presidio_ospedaliero":"A.O.R.N. SANT'ANNA E SAN SEBASTIANO",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":23,
             "area":"CAM",
             "provincia":"CASERTA",
             "comune":"MADDALONI",
-            "presidio_ospedaliero":"ASL CE PO MADDALONI"
+            "presidio_ospedaliero":"ASL CE PO MADDALONI",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":24,
             "area":"CAM",
             "provincia":"CASERTA",
             "comune":"MARCIANISE",
-            "presidio_ospedaliero":"ASL CE PO MARCIANISE"
+            "presidio_ospedaliero":"ASL CE PO MARCIANISE",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":25,
             "area":"CAM",
             "provincia":"CASERTA",
             "comune":"PIEDIMONTE MATESE",
-            "presidio_ospedaliero":"ASL CE PO PIEDIMONTE MATESE"
+            "presidio_ospedaliero":"ASL CE PO PIEDIMONTE MATESE",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":26,
             "area":"CAM",
             "provincia":"CASERTA",
             "comune":"SESSA AURUNCA",
-            "presidio_ospedaliero":"ASL CE PO SESSA AURUNCA"
+            "presidio_ospedaliero":"ASL CE PO SESSA AURUNCA",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":27,
             "area":"CAM",
             "provincia":"NAPOLI",
             "comune":"CASTELLAMARE DI STABIA",
-            "presidio_ospedaliero":"ASL NAPOLI 3 SUD  PO SAN LEONARDO"
+            "presidio_ospedaliero":"ASL NAPOLI 3 SUD  PO SAN LEONARDO",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":28,
             "area":"CAM",
             "provincia":"NAPOLI",
             "comune":"FRATTAMAGGIORE",
-            "presidio_ospedaliero":"ASL NAPOLI 2 NORD PO  SAN GIOVANNI DI DIO"
+            "presidio_ospedaliero":"ASL NAPOLI 2 NORD PO  SAN GIOVANNI DI DIO",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":29,
             "area":"CAM",
             "provincia":"NAPOLI",
             "comune":"GIUGLIANO IN CAMPANIA",
-            "presidio_ospedaliero":"ASL NAPOLI 2 NORD PO  SAN GIULIANO"
+            "presidio_ospedaliero":"ASL NAPOLI 2 NORD PO  SAN GIULIANO",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":30,
             "area":"CAM",
             "provincia":"NAPOLI",
             "comune":"ISCHIA",
-            "presidio_ospedaliero":"ASL NAPOLI 2 NORD PO A.M. RIZZOLI"
+            "presidio_ospedaliero":"ASL NAPOLI 2 NORD PO A.M. RIZZOLI",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":31,
             "area":"CAM",
             "provincia":"NAPOLI",
             "comune":"NAPOLI",
-            "presidio_ospedaliero":"A.O. DEI COLLI - PO COTUGNO"
+            "presidio_ospedaliero":"A.O. DEI COLLI - PO COTUGNO",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":32,
             "area":"CAM",
             "provincia":"NAPOLI",
             "comune":"NAPOLI",
-            "presidio_ospedaliero":"A.O. SANTOBONO PAUSILIPON"
+            "presidio_ospedaliero":"A.O. SANTOBONO PAUSILIPON",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":33,
             "area":"CAM",
             "provincia":"NAPOLI",
             "comune":"NAPOLI",
-            "presidio_ospedaliero":"A.O.R.N. CARDARELLI"
+            "presidio_ospedaliero":"A.O.R.N. CARDARELLI",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":34,
             "area":"CAM",
             "provincia":"NAPOLI",
             "comune":"NAPOLI",
-            "presidio_ospedaliero":"A.O.U. FEDERICO II"
+            "presidio_ospedaliero":"A.O.U. FEDERICO II",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":35,
             "area":"CAM",
             "provincia":"NAPOLI",
             "comune":"NAPOLI",
-            "presidio_ospedaliero":"A.O.U. VANVITELLI"
+            "presidio_ospedaliero":"A.O.U. VANVITELLI",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":36,
             "area":"CAM",
             "provincia":"NAPOLI",
             "comune":"NAPOLI",
-            "presidio_ospedaliero":"ASL NA 1 CENTRO PO DEL MARE"
+            "presidio_ospedaliero":"ASL NA 1 CENTRO PO DEL MARE",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":37,
             "area":"CAM",
             "provincia":"NAPOLI",
             "comune":"NAPOLI",
-            "presidio_ospedaliero":"ASL NA1 CENTRO PO SAN PAOLO"
+            "presidio_ospedaliero":"ASL NA1 CENTRO PO SAN PAOLO",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":38,
             "area":"CAM",
             "provincia":"NAPOLI",
             "comune":"NOLA",
-            "presidio_ospedaliero":"ASL NAPOLI 3 SUD  PO NOLA"
+            "presidio_ospedaliero":"ASL NAPOLI 3 SUD  PO NOLA",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":39,
             "area":"CAM",
             "provincia":"NAPOLI",
             "comune":"POZZUOLI",
-            "presidio_ospedaliero":"ASL NAPOLI 2 NORD P.O SANTA MARIA DELLE  GRAZIE"
+            "presidio_ospedaliero":"ASL NAPOLI 2 NORD P.O SANTA MARIA DELLE  GRAZIE",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":40,
             "area":"CAM",
             "provincia":"SALERNO",
             "comune":"BATTIPAGLIA",
-            "presidio_ospedaliero":"ASL SA PO SANTA MARIA DELLA SPERANZA"
+            "presidio_ospedaliero":"ASL SA PO SANTA MARIA DELLA SPERANZA",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":41,
             "area":"CAM",
             "provincia":"SALERNO",
             "comune":"NOCERA INFERIORE",
-            "presidio_ospedaliero":"ASL SA PO UMBERTO I"
+            "presidio_ospedaliero":"ASL SA PO UMBERTO I",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":42,
             "area":"CAM",
             "provincia":"SALERNO",
             "comune":"POLLA",
-            "presidio_ospedaliero":"ASL SA PO LUIGI CURTO"
+            "presidio_ospedaliero":"ASL SA PO LUIGI CURTO",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":43,
             "area":"CAM",
             "provincia":"SALERNO",
             "comune":"SALERNO",
-            "presidio_ospedaliero":"A.O.U. RUGGI D'ARAGONA"
+            "presidio_ospedaliero":"A.O.U. RUGGI D'ARAGONA",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":44,
             "area":"CAM",
             "provincia":"SALERNO",
             "comune":"VALLO DELLA LUCANIA",
-            "presidio_ospedaliero":"ASL SA PO SAN LUCA"
+            "presidio_ospedaliero":"ASL SA PO SAN LUCA",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":45,
             "area":"EMR",
             "provincia":"BOLOGNA",
             "comune":"BOLOGNA",
-            "presidio_ospedaliero":"AOSP S.ORSOLA MALPIGHI"
+            "presidio_ospedaliero":"AOSP S.ORSOLA MALPIGHI",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH5",
+            "codice_regione_ISTAT":8,
+            "nome_area":"Emilia-Romagna"
         },
         {
             "index":46,
             "area":"EMR",
             "provincia":"BOLOGNA",
             "comune":"BOLOGNA",
-            "presidio_ospedaliero":"AUSL BOLOGNA OSP.LE BELLARIA"
+            "presidio_ospedaliero":"AUSL BOLOGNA OSP.LE BELLARIA",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH5",
+            "codice_regione_ISTAT":8,
+            "nome_area":"Emilia-Romagna"
         },
         {
             "index":47,
             "area":"EMR",
             "provincia":"BOLOGNA",
             "comune":"BOLOGNA",
-            "presidio_ospedaliero":"IRCCS ISTITUTO ORTOPEDICO RIZZOLI"
+            "presidio_ospedaliero":"IRCCS ISTITUTO ORTOPEDICO RIZZOLI",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH5",
+            "codice_regione_ISTAT":8,
+            "nome_area":"Emilia-Romagna"
         },
         {
             "index":48,
             "area":"EMR",
             "provincia":"BOLOGNA",
             "comune":"IMOLA",
-            "presidio_ospedaliero":"AUSL IMOLA"
+            "presidio_ospedaliero":"AUSL IMOLA",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH5",
+            "codice_regione_ISTAT":8,
+            "nome_area":"Emilia-Romagna"
         },
         {
             "index":49,
             "area":"EMR",
             "provincia":"FERRARA",
             "comune":"CONA",
-            "presidio_ospedaliero":"AOU FERRARA"
+            "presidio_ospedaliero":"AOU FERRARA",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH5",
+            "codice_regione_ISTAT":8,
+            "nome_area":"Emilia-Romagna"
         },
         {
             "index":50,
             "area":"EMR",
             "provincia":"FERRARA",
             "comune":"LAGOSANTO",
-            "presidio_ospedaliero":"AUSL FERRARA \nOSPEDALE DEL DELTA \u00a0"
+            "presidio_ospedaliero":"AUSL FERRARA \nOSPEDALE DEL DELTA \u00a0",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH5",
+            "codice_regione_ISTAT":8,
+            "nome_area":"Emilia-Romagna"
         },
         {
             "index":51,
             "area":"EMR",
             "provincia":"FORL\u00cc-CESENA",
             "comune":"PIEVESESTINA",
-            "presidio_ospedaliero":"CENTRO SERVIZI PIEVESISTINA"
+            "presidio_ospedaliero":"CENTRO SERVIZI PIEVESISTINA",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH5",
+            "codice_regione_ISTAT":8,
+            "nome_area":"Emilia-Romagna"
         },
         {
             "index":52,
             "area":"EMR",
             "provincia":"MODENA",
             "comune":"MODENA",
-            "presidio_ospedaliero":"AUSL\/AOU MODENA"
+            "presidio_ospedaliero":"AUSL\/AOU MODENA",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH5",
+            "codice_regione_ISTAT":8,
+            "nome_area":"Emilia-Romagna"
         },
         {
             "index":53,
             "area":"EMR",
             "provincia":"PARMA",
             "comune":"PARMA",
-            "presidio_ospedaliero":"AUSL\/AOU PARMA OSP.LE MAGGIORE"
+            "presidio_ospedaliero":"AUSL\/AOU PARMA OSP.LE MAGGIORE",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH5",
+            "codice_regione_ISTAT":8,
+            "nome_area":"Emilia-Romagna"
         },
         {
             "index":54,
             "area":"EMR",
             "provincia":"PIACENZA",
             "comune":"PIACENZA",
-            "presidio_ospedaliero":"OSP.LE GUGLIELMO DA SALICETO"
+            "presidio_ospedaliero":"OSP.LE GUGLIELMO DA SALICETO",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH5",
+            "codice_regione_ISTAT":8,
+            "nome_area":"Emilia-Romagna"
         },
         {
             "index":55,
             "area":"EMR",
             "provincia":"RAVENNA",
             "comune":"RAVENNA",
-            "presidio_ospedaliero":"OSPEDALE RAVENNA"
+            "presidio_ospedaliero":"OSPEDALE RAVENNA",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH5",
+            "codice_regione_ISTAT":8,
+            "nome_area":"Emilia-Romagna"
         },
         {
             "index":56,
             "area":"EMR",
             "provincia":"REGGIO EMILIA",
             "comune":"REGGIO EMILIA",
-            "presidio_ospedaliero":"IRCCS SANTA MARIA NUOVA"
+            "presidio_ospedaliero":"IRCCS SANTA MARIA NUOVA",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH5",
+            "codice_regione_ISTAT":8,
+            "nome_area":"Emilia-Romagna"
         },
         {
             "index":57,
             "area":"EMR",
             "provincia":"RIMINI",
             "comune":"RIMINI",
-            "presidio_ospedaliero":"OSPEDALE RIMINI"
+            "presidio_ospedaliero":"OSPEDALE RIMINI",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH5",
+            "codice_regione_ISTAT":8,
+            "nome_area":"Emilia-Romagna"
         },
         {
             "index":58,
             "area":"FVG",
             "provincia":"GORIZIA",
             "comune":"MONFALCONE",
-            "presidio_ospedaliero":"MONFALCONE"
+            "presidio_ospedaliero":"MONFALCONE",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH4",
+            "codice_regione_ISTAT":6,
+            "nome_area":"Friuli-Venezia Giulia"
         },
         {
             "index":59,
             "area":"FVG",
             "provincia":"PORDENONE",
             "comune":"PORDENONE",
-            "presidio_ospedaliero":"SANTA MARIA DEGLI ANGELI"
+            "presidio_ospedaliero":"SANTA MARIA DEGLI ANGELI",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH4",
+            "codice_regione_ISTAT":6,
+            "nome_area":"Friuli-Venezia Giulia"
         },
         {
             "index":60,
             "area":"FVG",
             "provincia":"TRIESTE",
             "comune":"TRIESTE",
-            "presidio_ospedaliero":"CATTINARA"
+            "presidio_ospedaliero":"CATTINARA",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH4",
+            "codice_regione_ISTAT":6,
+            "nome_area":"Friuli-Venezia Giulia"
         },
         {
             "index":61,
             "area":"FVG",
             "provincia":"UDINE",
             "comune":"TOLMEZZO",
-            "presidio_ospedaliero":"TOLMEZZO"
+            "presidio_ospedaliero":"TOLMEZZO",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH4",
+            "codice_regione_ISTAT":6,
+            "nome_area":"Friuli-Venezia Giulia"
         },
         {
             "index":62,
             "area":"FVG",
             "provincia":"UDINE",
             "comune":"UDINE",
-            "presidio_ospedaliero":"SANTA MARIA DELLA MISERICORDIA"
+            "presidio_ospedaliero":"SANTA MARIA DELLA MISERICORDIA",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH4",
+            "codice_regione_ISTAT":6,
+            "nome_area":"Friuli-Venezia Giulia"
         },
         {
             "index":63,
             "area":"LAZ",
             "provincia":"FROSINONE",
             "comune":"FROSINONE",
-            "presidio_ospedaliero":"OSPEDALE SPAZIANI"
+            "presidio_ospedaliero":"OSPEDALE SPAZIANI",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":64,
             "area":"LAZ",
             "provincia":"LATINA",
             "comune":"LATINA",
-            "presidio_ospedaliero":"OSPEDALE SANTA MARIA GORETTI"
+            "presidio_ospedaliero":"OSPEDALE SANTA MARIA GORETTI",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":65,
             "area":"LAZ",
             "provincia":"RIETI",
             "comune":"RIETI",
-            "presidio_ospedaliero":"OSPEDALE SAN CAMILLO DE LELLIS"
+            "presidio_ospedaliero":"OSPEDALE SAN CAMILLO DE LELLIS",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":66,
             "area":"LAZ",
             "provincia":"RM",
             "comune":"ROMA",
-            "presidio_ospedaliero":"AO SAN GIOVANNI ADDOLORATA"
+            "presidio_ospedaliero":"AO SAN GIOVANNI ADDOLORATA",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":67,
             "area":"LAZ",
             "provincia":"RM",
             "comune":"ROMA",
-            "presidio_ospedaliero":"FONDAZIONE POLICLINICO A. GEMELLI IRCCS"
+            "presidio_ospedaliero":"FONDAZIONE POLICLINICO A. GEMELLI IRCCS",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":68,
             "area":"LAZ",
             "provincia":"RM",
             "comune":"ROMA",
-            "presidio_ospedaliero":"POLICLINICO TOR VERGATA"
+            "presidio_ospedaliero":"POLICLINICO TOR VERGATA",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":69,
             "area":"LAZ",
             "provincia":"ROMA",
             "comune":"ARICCIA RM",
-            "presidio_ospedaliero":"ASL RM6 OSPEDALE DEI CASTELLI"
+            "presidio_ospedaliero":"ASL RM6 OSPEDALE DEI CASTELLI",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":70,
             "area":"LAZ",
             "provincia":"ROMA",
             "comune":"CIVITAVECCHIA - RM",
-            "presidio_ospedaliero":"ASL RM4 OSPEDALE SAN PAOLO"
+            "presidio_ospedaliero":"ASL RM4 OSPEDALE SAN PAOLO",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":71,
             "area":"LAZ",
             "provincia":"ROMA",
             "comune":"COLLEFERRO RM",
-            "presidio_ospedaliero":"ASL RM5 OSPEDALE PARODI DELFINO  DISTRETTO SANITARIO  G6 FARMACIA"
+            "presidio_ospedaliero":"ASL RM5 OSPEDALE PARODI DELFINO  DISTRETTO SANITARIO  G6 FARMACIA",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":72,
             "area":"LAZ",
             "provincia":"ROMA",
             "comune":"OSTIA-ROMA",
-            "presidio_ospedaliero":"ASL RM3 OSPEDALE G.B. GRASSI"
+            "presidio_ospedaliero":"ASL RM3 OSPEDALE G.B. GRASSI",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":73,
             "area":"LAZ",
             "provincia":"ROMA",
             "comune":"ROMA",
-            "presidio_ospedaliero":"ASL RM2 OSPEDALE SANDRO PERTINI"
+            "presidio_ospedaliero":"ASL RM2 OSPEDALE SANDRO PERTINI",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":74,
             "area":"LAZ",
             "provincia":"ROMA",
             "comune":"ROMA",
-            "presidio_ospedaliero":"AZIENDA OPEDALIERASAN CAMILLO-FORLANINI"
+            "presidio_ospedaliero":"AZIENDA OPEDALIERASAN CAMILLO-FORLANINI",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":75,
             "area":"LAZ",
             "provincia":"ROMA",
             "comune":"ROMA",
-            "presidio_ospedaliero":"AZIENDA OSPEDALIERA UNIVERSITARIA SANT'ANDREA"
+            "presidio_ospedaliero":"AZIENDA OSPEDALIERA UNIVERSITARIA SANT'ANDREA",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":76,
             "area":"LAZ",
             "provincia":"ROMA",
             "comune":"ROMA",
-            "presidio_ospedaliero":"COMPRENSORIO SANTA MARIA DELLA PIET\u00c0 - PADIGLIONE 28"
+            "presidio_ospedaliero":"COMPRENSORIO SANTA MARIA DELLA PIET\u00c0 - PADIGLIONE 28",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":77,
             "area":"LAZ",
             "provincia":"ROMA",
             "comune":"ROMA",
-            "presidio_ospedaliero":"IFO ISTITUTI FIOSIOTERAPICI OSPITALIERI"
+            "presidio_ospedaliero":"IFO ISTITUTI FIOSIOTERAPICI OSPITALIERI",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":78,
             "area":"LAZ",
             "provincia":"ROMA",
             "comune":"ROMA",
-            "presidio_ospedaliero":"IRCCS LAZZARO SPALLANZANI"
+            "presidio_ospedaliero":"IRCCS LAZZARO SPALLANZANI",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":79,
             "area":"LAZ",
             "provincia":"ROMA",
             "comune":"ROMA",
-            "presidio_ospedaliero":"IRCCS OSPEDALE PEDIATRICO BAMBINO GES\u00d9"
+            "presidio_ospedaliero":"IRCCS OSPEDALE PEDIATRICO BAMBINO GES\u00d9",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":80,
             "area":"LAZ",
             "provincia":"ROMA",
             "comune":"ROMA",
-            "presidio_ospedaliero":"POLICLINICO UMBERTO I"
+            "presidio_ospedaliero":"POLICLINICO UMBERTO I",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":81,
             "area":"LAZ",
             "provincia":"ROMA",
             "comune":"ROMA",
-            "presidio_ospedaliero":"POLICLINICO UNIVERSITARIO CAMPUS BIO-MEDICO"
+            "presidio_ospedaliero":"POLICLINICO UNIVERSITARIO CAMPUS BIO-MEDICO",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":82,
             "area":"LAZ",
             "provincia":"VITERBO",
             "comune":"VITERBO",
-            "presidio_ospedaliero":"OSPEDALE BEL COLLE"
+            "presidio_ospedaliero":"OSPEDALE BEL COLLE",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":83,
             "area":"LIG",
             "provincia":"GENOVA (ASL3)",
             "comune":"GENOVA",
-            "presidio_ospedaliero":"ENTE OSPEDALI GALLIERA"
+            "presidio_ospedaliero":"ENTE OSPEDALI GALLIERA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC3",
+            "codice_regione_ISTAT":7,
+            "nome_area":"Liguria"
         },
         {
             "index":84,
             "area":"LIG",
             "provincia":"GENOVA (ASL3)",
             "comune":"GENOVA",
-            "presidio_ospedaliero":"ISTITUTO G. GASLINI-IRCCS"
+            "presidio_ospedaliero":"ISTITUTO G. GASLINI-IRCCS",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC3",
+            "codice_regione_ISTAT":7,
+            "nome_area":"Liguria"
         },
         {
             "index":85,
             "area":"LIG",
             "provincia":"GENOVA (ASL3)",
             "comune":"GENOVA",
-            "presidio_ospedaliero":"OSPEDALE EVANGELICO INTERNAZIONALE"
+            "presidio_ospedaliero":"OSPEDALE EVANGELICO INTERNAZIONALE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC3",
+            "codice_regione_ISTAT":7,
+            "nome_area":"Liguria"
         },
         {
             "index":86,
             "area":"LIG",
             "provincia":"GENOVA (ASL3)",
             "comune":"GENOVA",
-            "presidio_ospedaliero":"OSPEDALE POLICLINICO SAN MARTINO-IRCCS"
+            "presidio_ospedaliero":"OSPEDALE POLICLINICO SAN MARTINO-IRCCS",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC3",
+            "codice_regione_ISTAT":7,
+            "nome_area":"Liguria"
         },
         {
             "index":87,
             "area":"LIG",
             "provincia":"GENOVA (ASL3)",
             "comune":"GENOVA",
-            "presidio_ospedaliero":"OSPEDALE VILLA SCASSI"
+            "presidio_ospedaliero":"OSPEDALE VILLA SCASSI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC3",
+            "codice_regione_ISTAT":7,
+            "nome_area":"Liguria"
         },
         {
             "index":88,
             "area":"LIG",
             "provincia":"GENOVA (ASL4)",
             "comune":"SESTRI LEVANTE (GE)",
-            "presidio_ospedaliero":"OSPEDALE SESTRI LEVANTE"
+            "presidio_ospedaliero":"OSPEDALE SESTRI LEVANTE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC3",
+            "codice_regione_ISTAT":7,
+            "nome_area":"Liguria"
         },
         {
             "index":89,
             "area":"LIG",
             "provincia":"IMPERIA (ASL1)",
             "comune":"BORDIGHERA (IM)",
-            "presidio_ospedaliero":"OSPEDALE BORDIGHERA"
+            "presidio_ospedaliero":"OSPEDALE BORDIGHERA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC3",
+            "codice_regione_ISTAT":7,
+            "nome_area":"Liguria"
         },
         {
             "index":90,
             "area":"LIG",
             "provincia":"IMPERIA (ASL1)",
             "comune":"IMPERIA",
-            "presidio_ospedaliero":"OSPEDALE IMPERIA"
+            "presidio_ospedaliero":"OSPEDALE IMPERIA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC3",
+            "codice_regione_ISTAT":7,
+            "nome_area":"Liguria"
         },
         {
             "index":91,
             "area":"LIG",
             "provincia":"IMPERIA (ASL1)",
             "comune":"SANREMO (IM)",
-            "presidio_ospedaliero":"OSPEDALE SANREMO"
+            "presidio_ospedaliero":"OSPEDALE SANREMO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC3",
+            "codice_regione_ISTAT":7,
+            "nome_area":"Liguria"
         },
         {
             "index":92,
             "area":"LIG",
             "provincia":"LA SPEZIA (ASL5)",
             "comune":"LA SPEZIA",
-            "presidio_ospedaliero":"OSPEDALE SANT'ANDREA"
+            "presidio_ospedaliero":"OSPEDALE SANT'ANDREA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC3",
+            "codice_regione_ISTAT":7,
+            "nome_area":"Liguria"
         },
         {
             "index":93,
             "area":"LIG",
             "provincia":"LA SPEZIA (ASL5)",
             "comune":"SARZANA (SP)",
-            "presidio_ospedaliero":"OSPEDALE SAN BARTOLOMEO"
+            "presidio_ospedaliero":"OSPEDALE SAN BARTOLOMEO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC3",
+            "codice_regione_ISTAT":7,
+            "nome_area":"Liguria"
         },
         {
             "index":94,
             "area":"LIG",
             "provincia":"SAVONA (ASL2)",
             "comune":"CAIRO MONTENOTTE (SV)",
-            "presidio_ospedaliero":"OSPEDALE SAN GIUSEPPE - CAIRO MONTENOTTE"
+            "presidio_ospedaliero":"OSPEDALE SAN GIUSEPPE - CAIRO MONTENOTTE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC3",
+            "codice_regione_ISTAT":7,
+            "nome_area":"Liguria"
         },
         {
             "index":95,
             "area":"LIG",
             "provincia":"SAVONA (ASL2)",
             "comune":"PIETRA LIGURA (SV)",
-            "presidio_ospedaliero":"OSPEDALE SANTA CORONA"
+            "presidio_ospedaliero":"OSPEDALE SANTA CORONA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC3",
+            "codice_regione_ISTAT":7,
+            "nome_area":"Liguria"
         },
         {
             "index":96,
             "area":"LIG",
             "provincia":"SAVONA (ASL2)",
             "comune":"SAVONA",
-            "presidio_ospedaliero":"OSPEDALE SAN PAOLO"
+            "presidio_ospedaliero":"OSPEDALE SAN PAOLO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC3",
+            "codice_regione_ISTAT":7,
+            "nome_area":"Liguria"
         },
         {
             "index":97,
             "area":"LOM",
             "provincia":"BERGAMO",
             "comune":"ALZANO LOMBARDO",
-            "presidio_ospedaliero":"ASST BERGAMO EST ALZANO LOMBARDO"
+            "presidio_ospedaliero":"ASST BERGAMO EST ALZANO LOMBARDO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":98,
             "area":"LOM",
             "provincia":"BERGAMO",
             "comune":"BERGAMO",
-            "presidio_ospedaliero":"ASST PAPA GIOVANNI XXIII 03090500 - BERGAMO OSPEDALI RIUNITI"
+            "presidio_ospedaliero":"ASST PAPA GIOVANNI XXIII 03090500 - BERGAMO OSPEDALI RIUNITI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":99,
             "area":"LOM",
             "provincia":"BERGAMO",
             "comune":"PIARIO (BG)",
-            "presidio_ospedaliero":"ASST DI BERGAMO EST 03038200 - GROPPINO PIARIO  OSP. M.O.A. LOCATELLI"
+            "presidio_ospedaliero":"ASST DI BERGAMO EST 03038200 - GROPPINO PIARIO  OSP. M.O.A. LOCATELLI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":100,
             "area":"LOM",
             "provincia":"BERGAMO",
             "comune":"SERIATE",
-            "presidio_ospedaliero":"ASST DI BERGAMO EST 03014000 - SERIATE OSP. BOLOGNINI"
+            "presidio_ospedaliero":"ASST DI BERGAMO EST 03014000 - SERIATE OSP. BOLOGNINI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":101,
             "area":"LOM",
             "provincia":"BERGAMO",
             "comune":"TREVIGLIO",
-            "presidio_ospedaliero":"ASST BERGAMO OVEST TREVIGLIO"
+            "presidio_ospedaliero":"ASST BERGAMO OVEST TREVIGLIO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":102,
             "area":"LOM",
             "provincia":"BRESCIA",
             "comune":"BRESCIA",
-            "presidio_ospedaliero":"ASST SPEDALI CIVILI DI BRESCIA, UOC FARMACIA AZIENDALE"
+            "presidio_ospedaliero":"ASST SPEDALI CIVILI DI BRESCIA, UOC FARMACIA AZIENDALE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":103,
             "area":"LOM",
             "provincia":"BRESCIA",
             "comune":"BRESCIA",
-            "presidio_ospedaliero":"FONDAZIONE POLIAMBULANZA"
+            "presidio_ospedaliero":"FONDAZIONE POLIAMBULANZA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":104,
             "area":"LOM",
             "provincia":"BRESCIA",
             "comune":"BRESCIA",
-            "presidio_ospedaliero":"ISTITUTO CLINICO CITT\u00c0 DI BRESCIA DI ISTITUTI OSPEDALIERI BRESCIANI"
+            "presidio_ospedaliero":"ISTITUTO CLINICO CITT\u00c0 DI BRESCIA DI ISTITUTI OSPEDALIERI BRESCIANI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":105,
             "area":"LOM",
             "provincia":"BRESCIA",
             "comune":"CHIARI",
-            "presidio_ospedaliero":"ASST FRANCIACORTA CHIARI"
+            "presidio_ospedaliero":"ASST FRANCIACORTA CHIARI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":106,
             "area":"LOM",
             "provincia":"BRESCIA",
             "comune":"DESENZANO",
-            "presidio_ospedaliero":"ASST DEL GARDA DESENZANO"
+            "presidio_ospedaliero":"ASST DEL GARDA DESENZANO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":107,
             "area":"LOM",
             "provincia":"BRESCIA",
             "comune":"EDOLO",
-            "presidio_ospedaliero":"ASST DELLA VALCAMONICA 03027402 - OSPEDALE VALCAMONICA - EDOLO"
+            "presidio_ospedaliero":"ASST DELLA VALCAMONICA 03027402 - OSPEDALE VALCAMONICA - EDOLO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":108,
             "area":"LOM",
             "provincia":"BRESCIA",
             "comune":"ESINE",
-            "presidio_ospedaliero":"ASST VALCAMONICA ESINE"
+            "presidio_ospedaliero":"ASST VALCAMONICA ESINE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":109,
             "area":"LOM",
             "provincia":"BRESCIA",
             "comune":"GAVARDO",
-            "presidio_ospedaliero":"ASST DEL GARDA 03015700 \n- GAVARDO OSP. CIV. LA MEMORIA"
+            "presidio_ospedaliero":"ASST DEL GARDA 03015700 \n- GAVARDO OSP. CIV. LA MEMORIA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":110,
             "area":"LOM",
             "provincia":"BRESCIA",
             "comune":"ISEO",
-            "presidio_ospedaliero":"ASST DELLA FRANCIACORTA 03016300 - ISEO OSP. CIVILE"
+            "presidio_ospedaliero":"ASST DELLA FRANCIACORTA 03016300 - ISEO OSP. CIVILE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":111,
             "area":"LOM",
             "provincia":"BRESCIA",
             "comune":"MANERBIO",
-            "presidio_ospedaliero":"ASST GARDA MANERBIO"
+            "presidio_ospedaliero":"ASST GARDA MANERBIO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":112,
             "area":"LOM",
             "provincia":"COMO",
             "comune":"CANT\u00d9",
-            "presidio_ospedaliero":"ASST LARIANA 03002200 - CANTU' OSP. CIRCOLO"
+            "presidio_ospedaliero":"ASST LARIANA 03002200 - CANTU' OSP. CIRCOLO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":113,
             "area":"LOM",
             "provincia":"COMO",
             "comune":"MENAGGIO",
-            "presidio_ospedaliero":"ASST LARIANA 03002600 - MENAGGIO OSP. DI ZONA"
+            "presidio_ospedaliero":"ASST LARIANA 03002600 - MENAGGIO OSP. DI ZONA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":114,
             "area":"LOM",
             "provincia":"COMO",
             "comune":"SAN FERMO DELLA BATTAGLIA",
-            "presidio_ospedaliero":"ASST LARIANA - PRESIDIO OSPEDALIERO SANT'ANNA COMO"
+            "presidio_ospedaliero":"ASST LARIANA - PRESIDIO OSPEDALIERO SANT'ANNA COMO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":115,
             "area":"LOM",
             "provincia":"CREMONA",
             "comune":", CASALMAGGIORE",
-            "presidio_ospedaliero":"ASST DI CREMONA 03027300 - CASALMAGGIORE OSPEDALE (OGLIO PO)"
+            "presidio_ospedaliero":"ASST DI CREMONA 03027300 - CASALMAGGIORE OSPEDALE (OGLIO PO)",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":116,
             "area":"LOM",
             "provincia":"CREMONA",
             "comune":"CREMA",
-            "presidio_ospedaliero":"ASST CREMA  OSPEDALE MAGGIORE DI CREMA"
+            "presidio_ospedaliero":"ASST CREMA  OSPEDALE MAGGIORE DI CREMA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":117,
             "area":"LOM",
             "provincia":"CREMONA",
             "comune":"CREMONA",
-            "presidio_ospedaliero":"ASST CREMONA PRESIDIO CREMONA  IMMUNOEMATOLOGIA E MEDICINA TRASFUSIONALE"
+            "presidio_ospedaliero":"ASST CREMONA PRESIDIO CREMONA  IMMUNOEMATOLOGIA E MEDICINA TRASFUSIONALE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":118,
             "area":"LOM",
             "provincia":"LECCO",
             "comune":"BELLANO",
-            "presidio_ospedaliero":"ASST DI LECCO 03002300 - BELLANO OSP. CIRCOLO"
+            "presidio_ospedaliero":"ASST DI LECCO 03002300 - BELLANO OSP. CIRCOLO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":119,
             "area":"LOM",
             "provincia":"LECCO",
             "comune":"LECCO",
-            "presidio_ospedaliero":"ASST DI LECCO \"P.O.MANZONI\" LECCO"
+            "presidio_ospedaliero":"ASST DI LECCO \"P.O.MANZONI\" LECCO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":120,
             "area":"LOM",
             "provincia":"LODI",
             "comune":"CODOGNO",
-            "presidio_ospedaliero":"ASST LODI - OSPEDALE CODOGNO"
+            "presidio_ospedaliero":"ASST LODI - OSPEDALE CODOGNO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":121,
             "area":"LOM",
             "provincia":"LODI",
             "comune":"LODI",
-            "presidio_ospedaliero":"ASST LODI - OSPEDALE LODI"
+            "presidio_ospedaliero":"ASST LODI - OSPEDALE LODI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":122,
             "area":"LOM",
             "provincia":"MANTOVA",
             "comune":"MANTOVA",
-            "presidio_ospedaliero":"ASST DI MANTOVA - POMA"
+            "presidio_ospedaliero":"ASST DI MANTOVA - POMA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":123,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"CINISELLO BALSAMO",
-            "presidio_ospedaliero":"ASST NORD MILANO 03005800 - CINISELLO B. OSP. BASSINI"
+            "presidio_ospedaliero":"ASST NORD MILANO 03005800 - CINISELLO B. OSP. BASSINI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":124,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"GARBAGNATE MILANESE",
-            "presidio_ospedaliero":"ASST RHODENSE 03006600 - GARBAGNATE MILANESE OSP. SALVINI"
+            "presidio_ospedaliero":"ASST RHODENSE 03006600 - GARBAGNATE MILANESE OSP. SALVINI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":125,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"LEGNANO",
-            "presidio_ospedaliero":"ASST OVEST MILANESE LEGNANO"
+            "presidio_ospedaliero":"ASST OVEST MILANESE LEGNANO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":126,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"MAGENTA",
-            "presidio_ospedaliero":"ASST OVEST MILANESE MAGENTA"
+            "presidio_ospedaliero":"ASST OVEST MILANESE MAGENTA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":127,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"MELZO",
-            "presidio_ospedaliero":"ASST MELEGNANO E DELLA MARTESANA 03007101 - MELZO OSP. S.MARIA DELLE STELLE"
+            "presidio_ospedaliero":"ASST MELEGNANO E DELLA MARTESANA 03007101 - MELZO OSP. S.MARIA DELLE STELLE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":128,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"MILANO",
-            "presidio_ospedaliero":"ASST FATEBENEFRATELLI SACCO 03091000 - MILANO OSP. FATEBENEFRATELLI OFTALMICO"
+            "presidio_ospedaliero":"ASST FATEBENEFRATELLI SACCO 03091000 - MILANO OSP. FATEBENEFRATELLI OFTALMICO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":129,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"MILANO",
-            "presidio_ospedaliero":"ASST FBF SACCO - P.O. SACCO"
+            "presidio_ospedaliero":"ASST FBF SACCO - P.O. SACCO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":130,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"MILANO",
-            "presidio_ospedaliero":"ASST GAETANO PINI CTO"
+            "presidio_ospedaliero":"ASST GAETANO PINI CTO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":131,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"MILANO",
-            "presidio_ospedaliero":"ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA"
+            "presidio_ospedaliero":"ASST GRANDE OSPEDALE METROPOLITANO NIGUARDA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":132,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"MILANO",
-            "presidio_ospedaliero":"ASST SANTI PAOLO E CARLO"
+            "presidio_ospedaliero":"ASST SANTI PAOLO E CARLO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":133,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"MILANO",
-            "presidio_ospedaliero":"ASST SANTI PAOLO E CARLO 03091500 - MILANO OSP. S.CARLO"
+            "presidio_ospedaliero":"ASST SANTI PAOLO E CARLO 03091500 - MILANO OSP. S.CARLO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":134,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"MILANO",
-            "presidio_ospedaliero":"FONDAZIONE IRCCS CA' GRANDA OSPEDALE MAGGIORE POLICLINICO"
+            "presidio_ospedaliero":"FONDAZIONE IRCCS CA' GRANDA OSPEDALE MAGGIORE POLICLINICO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":135,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"MILANO",
-            "presidio_ospedaliero":"FONDAZIONE IRCCS ISTITUTO NAZIONALE DEI TUMORI MILANO"
+            "presidio_ospedaliero":"FONDAZIONE IRCCS ISTITUTO NAZIONALE DEI TUMORI MILANO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":136,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"MILANO",
-            "presidio_ospedaliero":"FONDAZIONE IRCCS ISTITUTO NEUROLOGICO BESTA"
+            "presidio_ospedaliero":"FONDAZIONE IRCCS ISTITUTO NEUROLOGICO BESTA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":137,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"MILANO",
-            "presidio_ospedaliero":"GRUPPO MULTIMEDICA - OSPEDALE SAN GIUSEPPE"
+            "presidio_ospedaliero":"GRUPPO MULTIMEDICA - OSPEDALE SAN GIUSEPPE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":138,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"MILANO",
-            "presidio_ospedaliero":"IRCCS OSPEDALE SAN RAFFAELE"
+            "presidio_ospedaliero":"IRCCS OSPEDALE SAN RAFFAELE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":139,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"MILANO",
-            "presidio_ospedaliero":"IRCSS SANTA MARIA NASCENTE (DON GNOCCHI)"
+            "presidio_ospedaliero":"IRCSS SANTA MARIA NASCENTE (DON GNOCCHI)",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":140,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"MILANO",
-            "presidio_ospedaliero":"ISTITUTO AUXOLOGICO ITALIANO - OSPEDALE SAN LUCA"
+            "presidio_ospedaliero":"ISTITUTO AUXOLOGICO ITALIANO - OSPEDALE SAN LUCA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":141,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"MILANO",
-            "presidio_ospedaliero":"PIO ALBERGO TRIVULZIO"
+            "presidio_ospedaliero":"PIO ALBERGO TRIVULZIO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":142,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"RHO",
-            "presidio_ospedaliero":"ASST RHODENSE 03007300 - RHO  OSP. CIRCOLO"
+            "presidio_ospedaliero":"ASST RHODENSE 03007300 - RHO  OSP. CIRCOLO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":143,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"ROZZANO",
-            "presidio_ospedaliero":"HUMANTIAS MIRASOLE"
+            "presidio_ospedaliero":"HUMANTIAS MIRASOLE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":144,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"SAN DONATO MILANESE",
-            "presidio_ospedaliero":"IRCCS POLICLINICO SAN DONATO S.P.A."
+            "presidio_ospedaliero":"IRCCS POLICLINICO SAN DONATO S.P.A.",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":145,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"SESTO",
-            "presidio_ospedaliero":"ASST NORD MILANO - P.O. SESTO S.G."
+            "presidio_ospedaliero":"ASST NORD MILANO - P.O. SESTO S.G.",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":146,
             "area":"LOM",
             "provincia":"MILANO",
             "comune":"VIZZOLO PREDABISSI",
-            "presidio_ospedaliero":"ASST MELEGNANO E DELLA MARTESANA 03007201 - MELEGNANO OSP. PREDABISSI"
+            "presidio_ospedaliero":"ASST MELEGNANO E DELLA MARTESANA 03007201 - MELEGNANO OSP. PREDABISSI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":147,
             "area":"LOM",
             "provincia":"MONZA BRIANZA",
             "comune":"DESIO",
-            "presidio_ospedaliero":"ASST DI MONZA 03006800 - DESIO OSP. CIRCOLO"
+            "presidio_ospedaliero":"ASST DI MONZA 03006800 - DESIO OSP. CIRCOLO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":148,
             "area":"LOM",
             "provincia":"MONZA BRIANZA",
             "comune":"MONZA",
-            "presidio_ospedaliero":"ASST DI MONZA 03090900 - MONZA OSP. S.GERARDO"
+            "presidio_ospedaliero":"ASST DI MONZA 03090900 - MONZA OSP. S.GERARDO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":149,
             "area":"LOM",
             "provincia":"MONZA BRIANZA",
             "comune":"VIMERCATE",
-            "presidio_ospedaliero":"ASST VIMERCATE"
+            "presidio_ospedaliero":"ASST VIMERCATE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":150,
             "area":"LOM",
             "provincia":"PAVIA",
             "comune":"PAVIA",
-            "presidio_ospedaliero":"FONDAZIONE IRCCS POLICLINICO SAN MATTEO"
+            "presidio_ospedaliero":"FONDAZIONE IRCCS POLICLINICO SAN MATTEO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":151,
             "area":"LOM",
             "provincia":"PAVIA",
             "comune":"VIGEVANO",
-            "presidio_ospedaliero":"ASST DI PAVIA 03019300 - VIGEVANO OSP. CIVILE"
+            "presidio_ospedaliero":"ASST DI PAVIA 03019300 - VIGEVANO OSP. CIVILE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":152,
             "area":"LOM",
             "provincia":"PAVIA",
             "comune":"VOGHERA",
-            "presidio_ospedaliero":"ASST DI PAVIA 03019400 - VOGHERA OSP. CIVILE"
+            "presidio_ospedaliero":"ASST DI PAVIA 03019400 - VOGHERA OSP. CIVILE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":153,
             "area":"LOM",
             "provincia":"SONDRIO",
             "comune":"CHIAVENNA",
-            "presidio_ospedaliero":"ASST DELLA VALTELLINA E DELL'ALTO LARIO 03004400 - CHIAVENNA OSP. CIVILE"
+            "presidio_ospedaliero":"ASST DELLA VALTELLINA E DELL'ALTO LARIO 03004400 - CHIAVENNA OSP. CIVILE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":154,
             "area":"LOM",
             "provincia":"SONDRIO",
             "comune":"SONDALO",
-            "presidio_ospedaliero":"ASST DELLA VALTELLINA E DELL'ALTO LARIO 03090400 - SONDALO OSP. EUGENIO MORELLI"
+            "presidio_ospedaliero":"ASST DELLA VALTELLINA E DELL'ALTO LARIO 03090400 - SONDALO OSP. EUGENIO MORELLI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":155,
             "area":"LOM",
             "provincia":"SONDRIO",
             "comune":"SONDRIO",
-            "presidio_ospedaliero":"ASST VALTELLINA E DELL'ALTO LARIO PO DI SONDRIO"
+            "presidio_ospedaliero":"ASST VALTELLINA E DELL'ALTO LARIO PO DI SONDRIO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":156,
             "area":"LOM",
             "provincia":"VARESE",
             "comune":"ANGERA",
-            "presidio_ospedaliero":"ASST DEI SETTE LAGHI 03001200 - ANGERA OSP. ONDOLI"
+            "presidio_ospedaliero":"ASST DEI SETTE LAGHI 03001200 - ANGERA OSP. ONDOLI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":157,
             "area":"LOM",
             "provincia":"VARESE",
             "comune":"BUSTO ARSIZIO",
-            "presidio_ospedaliero":"ASST VALLE OLONA DI BUSTO ARSIZIO - PRESIDIO DI BUSTO ARSIZIO"
+            "presidio_ospedaliero":"ASST VALLE OLONA DI BUSTO ARSIZIO - PRESIDIO DI BUSTO ARSIZIO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":158,
             "area":"LOM",
             "provincia":"VARESE",
             "comune":"GALLARATE",
-            "presidio_ospedaliero":"ASST DELLA VALLE OLONA 03000600 - GALLARATE OSP. S.ANTONIO ABATE"
+            "presidio_ospedaliero":"ASST DELLA VALLE OLONA 03000600 - GALLARATE OSP. S.ANTONIO ABATE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":159,
             "area":"LOM",
             "provincia":"VARESE",
             "comune":"LUINO",
-            "presidio_ospedaliero":"ASST DEI SETTE LAGHI 03028202 - LUINO PRES.DEL VERBANO"
+            "presidio_ospedaliero":"ASST DEI SETTE LAGHI 03028202 - LUINO PRES.DEL VERBANO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":160,
             "area":"LOM",
             "provincia":"VARESE",
             "comune":"SARONNO",
-            "presidio_ospedaliero":"ASST DELLA VALLE OLONA 03000800 - SARONNO OSP. CIRCOLO"
+            "presidio_ospedaliero":"ASST DELLA VALLE OLONA 03000800 - SARONNO OSP. CIRCOLO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":161,
             "area":"LOM",
             "provincia":"VARESE",
             "comune":"VARESE",
-            "presidio_ospedaliero":"ASST SETTE LAGHI"
+            "presidio_ospedaliero":"ASST SETTE LAGHI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":162,
             "area":"MAR",
             "provincia":"ANCONA",
             "comune":"ANCONA",
-            "presidio_ospedaliero":"INRCA - PRESIDIO OSPEDALIERO DI RICERCA"
+            "presidio_ospedaliero":"INRCA - PRESIDIO OSPEDALIERO DI RICERCA",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI3",
+            "codice_regione_ISTAT":11,
+            "nome_area":"Marche"
         },
         {
             "index":163,
             "area":"MAR",
             "provincia":"ANCONA",
             "comune":"JESI",
-            "presidio_ospedaliero":"OSPEDALE \"CARLO URBANI\" - HUB"
+            "presidio_ospedaliero":"OSPEDALE \"CARLO URBANI\" - HUB",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI3",
+            "codice_regione_ISTAT":11,
+            "nome_area":"Marche"
         },
         {
             "index":164,
             "area":"MAR",
             "provincia":"ASCOLI PICENO",
             "comune":"SAN BENEDETTO DEL TRONTO",
-            "presidio_ospedaliero":"OSPEDALE MADONNA DEL SOCCORSO"
+            "presidio_ospedaliero":"OSPEDALE MADONNA DEL SOCCORSO",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI3",
+            "codice_regione_ISTAT":11,
+            "nome_area":"Marche"
         },
         {
             "index":165,
             "area":"MAR",
             "provincia":"FERMO",
             "comune":"FERMO",
-            "presidio_ospedaliero":"OSPEDALE AUGUSTO MURRI - FERMO"
+            "presidio_ospedaliero":"OSPEDALE AUGUSTO MURRI - FERMO",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI3",
+            "codice_regione_ISTAT":11,
+            "nome_area":"Marche"
         },
         {
             "index":166,
             "area":"MAR",
             "provincia":"MACERATA",
             "comune":"CAMERINO",
-            "presidio_ospedaliero":"OSPEDALE DI CAMERINO"
+            "presidio_ospedaliero":"OSPEDALE DI CAMERINO",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI3",
+            "codice_regione_ISTAT":11,
+            "nome_area":"Marche"
         },
         {
             "index":167,
             "area":"MAR",
             "provincia":"MACERATA",
             "comune":"CIVITANOVA MARCHE",
-            "presidio_ospedaliero":"OSPEDALE DI CIVITANOVA MARCHE"
+            "presidio_ospedaliero":"OSPEDALE DI CIVITANOVA MARCHE",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI3",
+            "codice_regione_ISTAT":11,
+            "nome_area":"Marche"
         },
         {
             "index":168,
             "area":"MAR",
             "provincia":"PESARO URBINO",
             "comune":"FOSSOMBRONE",
-            "presidio_ospedaliero":"OSPEDALE DI COMUNIT\u00c0 FOSSOMBRONE"
+            "presidio_ospedaliero":"OSPEDALE DI COMUNIT\u00c0 FOSSOMBRONE",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI3",
+            "codice_regione_ISTAT":11,
+            "nome_area":"Marche"
         },
         {
             "index":169,
             "area":"MOL",
             "provincia":"CAMPOBASSO",
             "comune":"CAMPOBASSO",
-            "presidio_ospedaliero":"P.O. \"A. CARDARELLI\""
+            "presidio_ospedaliero":"P.O. \"A. CARDARELLI\"",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF2",
+            "codice_regione_ISTAT":14,
+            "nome_area":"Molise"
         },
         {
             "index":170,
             "area":"MOL",
             "provincia":"CAMPOBASSO",
             "comune":"TERMOLI",
-            "presidio_ospedaliero":"P.O. \"SAN TIMOTEO\""
+            "presidio_ospedaliero":"P.O. \"SAN TIMOTEO\"",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF2",
+            "codice_regione_ISTAT":14,
+            "nome_area":"Molise"
         },
         {
             "index":171,
             "area":"PAB",
             "provincia":"PA BOLZANO",
             "comune":"BOLZANO",
-            "presidio_ospedaliero":"OSPEDALE DI BOLZANO"
+            "presidio_ospedaliero":"OSPEDALE DI BOLZANO",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH1",
+            "codice_regione_ISTAT":4,
+            "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
             "index":172,
             "area":"PAB",
             "provincia":"PA BOLZANO",
             "comune":"BRESSANONE",
-            "presidio_ospedaliero":"OSPEDALE DI BRESSANONE"
+            "presidio_ospedaliero":"OSPEDALE DI BRESSANONE",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH1",
+            "codice_regione_ISTAT":4,
+            "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
             "index":173,
             "area":"PAB",
             "provincia":"PA BOLZANO",
             "comune":"BRUNICO",
-            "presidio_ospedaliero":"OSPEDALE DI BRUNICO"
+            "presidio_ospedaliero":"OSPEDALE DI BRUNICO",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH1",
+            "codice_regione_ISTAT":4,
+            "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
             "index":174,
             "area":"PAB",
             "provincia":"PA BOLZANO",
             "comune":"MERANO",
-            "presidio_ospedaliero":"OSPEDALE DI MERANO"
+            "presidio_ospedaliero":"OSPEDALE DI MERANO",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH1",
+            "codice_regione_ISTAT":4,
+            "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
             "index":175,
             "area":"PAB",
             "provincia":"PA BOLZANO",
             "comune":"SAN CANDIDO BZ",
-            "presidio_ospedaliero":"OSPEDALE DI SAN CANDIDO"
+            "presidio_ospedaliero":"OSPEDALE DI SAN CANDIDO",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH1",
+            "codice_regione_ISTAT":4,
+            "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
             "index":176,
             "area":"PAB",
             "provincia":"PA BOLZANO",
             "comune":"SILANDRO",
-            "presidio_ospedaliero":"OSPEDALE DI SILANDRO"
+            "presidio_ospedaliero":"OSPEDALE DI SILANDRO",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH1",
+            "codice_regione_ISTAT":4,
+            "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
             "index":177,
             "area":"PAB",
             "provincia":"PA BOLZANO",
             "comune":"VIPITENO BZ",
-            "presidio_ospedaliero":"OSPEDALE DI VIPITENO"
+            "presidio_ospedaliero":"OSPEDALE DI VIPITENO",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH1",
+            "codice_regione_ISTAT":4,
+            "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
             "index":178,
             "area":"PAT",
             "provincia":"PA TRENTO",
             "comune":"RAVINA",
-            "presidio_ospedaliero":"HUB - UNIFARM"
+            "presidio_ospedaliero":"HUB - UNIFARM",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH2",
+            "codice_regione_ISTAT":4,
+            "nome_area":"Provincia Autonoma Trento"
         },
         {
             "index":179,
             "area":"PAT",
             "provincia":"PA TRENTO",
             "comune":"ROVERETO",
-            "presidio_ospedaliero":"OSPEDALE DI ROVERETO"
+            "presidio_ospedaliero":"OSPEDALE DI ROVERETO",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH2",
+            "codice_regione_ISTAT":4,
+            "nome_area":"Provincia Autonoma Trento"
         },
         {
             "index":180,
             "area":"PAT",
             "provincia":"PA TRENTO",
             "comune":"TRENTO",
-            "presidio_ospedaliero":"OSPEDALE DI TRENTO"
+            "presidio_ospedaliero":"OSPEDALE DI TRENTO",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH2",
+            "codice_regione_ISTAT":4,
+            "nome_area":"Provincia Autonoma Trento"
         },
         {
             "index":181,
             "area":"PIE",
             "provincia":"ALESSANDRIA",
             "comune":"ALESSANDRIA",
-            "presidio_ospedaliero":"AOU SANTI ANTONIO BIAGIO E CESARE ARRIGO ALESSANDRIA"
+            "presidio_ospedaliero":"AOU SANTI ANTONIO BIAGIO E CESARE ARRIGO ALESSANDRIA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":182,
             "area":"PIE",
             "provincia":"ALESSANDRIA",
             "comune":"CASALE MONFERRATO",
-            "presidio_ospedaliero":"ASL AL OSPEDALE CASALE  MONFERRATO"
+            "presidio_ospedaliero":"ASL AL OSPEDALE CASALE  MONFERRATO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":183,
             "area":"PIE",
             "provincia":"ALESSANDRIA",
             "comune":"NOVI LIGURE",
-            "presidio_ospedaliero":"ASL AL OSPEDALE NOVI LIGURE"
+            "presidio_ospedaliero":"ASL AL OSPEDALE NOVI LIGURE",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":184,
             "area":"PIE",
             "provincia":"ALESSANDRIA",
             "comune":"TORTONA",
-            "presidio_ospedaliero":"ASL AL OSPEDALE TORTONA"
+            "presidio_ospedaliero":"ASL AL OSPEDALE TORTONA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":185,
             "area":"PIE",
             "provincia":"ASTI",
             "comune":"ASTI",
-            "presidio_ospedaliero":"ASL AT OSPEDALE CARDINAL MASSAIA ASTI"
+            "presidio_ospedaliero":"ASL AT OSPEDALE CARDINAL MASSAIA ASTI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":186,
             "area":"PIE",
             "provincia":"ASTI",
             "comune":"NIZZA MONFERRATO",
-            "presidio_ospedaliero":"ASL AT OSPEDALE NIZZA MONFERRATO"
+            "presidio_ospedaliero":"ASL AT OSPEDALE NIZZA MONFERRATO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":187,
             "area":"PIE",
             "provincia":"BIELLA",
             "comune":"PONDERANO",
-            "presidio_ospedaliero":"ASL BI OSPEDALE DEGLI INFERMI BIELLA"
+            "presidio_ospedaliero":"ASL BI OSPEDALE DEGLI INFERMI BIELLA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":188,
             "area":"PIE",
             "provincia":"CUNEO",
             "comune":"CUNEO",
-            "presidio_ospedaliero":"AO S. CROCE E CARLE CUNEO"
+            "presidio_ospedaliero":"AO S. CROCE E CARLE CUNEO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":189,
             "area":"PIE",
             "provincia":"CUNEO",
             "comune":"MONDOVI\u2019",
-            "presidio_ospedaliero":"ASL CN 1 OSPEDALE MONDOVI\u2019"
+            "presidio_ospedaliero":"ASL CN 1 OSPEDALE MONDOVI\u2019",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":190,
             "area":"PIE",
             "provincia":"CUNEO",
             "comune":"SAVIGLIANO",
-            "presidio_ospedaliero":"ASL CN 1 OSPEDALE SAVIGLIANO"
+            "presidio_ospedaliero":"ASL CN 1 OSPEDALE SAVIGLIANO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":191,
             "area":"PIE",
             "provincia":"CUNEO",
             "comune":"VERDUNO",
-            "presidio_ospedaliero":"ASL CN 2 OSPEDALE VERDUNO"
+            "presidio_ospedaliero":"ASL CN 2 OSPEDALE VERDUNO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":192,
             "area":"PIE",
             "provincia":"NOVARA",
             "comune":"BORGOMANERO",
-            "presidio_ospedaliero":"ASL NO OSPEDALE BORGOMANERO"
+            "presidio_ospedaliero":"ASL NO OSPEDALE BORGOMANERO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":193,
             "area":"PIE",
             "provincia":"NOVARA",
             "comune":"NOVARA",
-            "presidio_ospedaliero":"AOU MAGGIORE DELLA CARITA\u2019 NOVARA"
+            "presidio_ospedaliero":"AOU MAGGIORE DELLA CARITA\u2019 NOVARA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":194,
             "area":"PIE",
             "provincia":"NOVARA",
             "comune":"NOVARA",
-            "presidio_ospedaliero":"ASL NOVARA"
+            "presidio_ospedaliero":"ASL NOVARA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":195,
             "area":"PIE",
             "provincia":"TORINO",
             "comune":"CHIVASSO",
-            "presidio_ospedaliero":"ASL TO 4 OSPEDALE CHIVASSO"
+            "presidio_ospedaliero":"ASL TO 4 OSPEDALE CHIVASSO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":196,
             "area":"PIE",
             "provincia":"TORINO",
             "comune":"CIRIE\u2019",
-            "presidio_ospedaliero":"ASL TO 4 OSPEDALE CIRIE\u2019"
+            "presidio_ospedaliero":"ASL TO 4 OSPEDALE CIRIE\u2019",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":197,
             "area":"PIE",
             "provincia":"TORINO",
             "comune":"IVREA",
-            "presidio_ospedaliero":"ASL TO 4 OSPEDALE IVREA"
+            "presidio_ospedaliero":"ASL TO 4 OSPEDALE IVREA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":198,
             "area":"PIE",
             "provincia":"TORINO",
             "comune":"MONCALIERI",
-            "presidio_ospedaliero":"ASL TO 5 OSPEDALE MONCALIERI"
+            "presidio_ospedaliero":"ASL TO 5 OSPEDALE MONCALIERI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":199,
             "area":"PIE",
             "provincia":"TORINO",
             "comune":"ORBASSANO",
-            "presidio_ospedaliero":"AOU SAN LUIGI GONZAGA  ORBASSANO"
+            "presidio_ospedaliero":"AOU SAN LUIGI GONZAGA  ORBASSANO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":200,
             "area":"PIE",
             "provincia":"TORINO",
             "comune":"PINEROLO",
-            "presidio_ospedaliero":"ASL TO 3 OSPEDALE PINEROLO"
+            "presidio_ospedaliero":"ASL TO 3 OSPEDALE PINEROLO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":201,
             "area":"PIE",
             "provincia":"TORINO",
             "comune":"RIVOLI",
-            "presidio_ospedaliero":"ASL TO 3 OSPEDALE RIVOLI"
+            "presidio_ospedaliero":"ASL TO 3 OSPEDALE RIVOLI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":202,
             "area":"PIE",
             "provincia":"TORINO",
             "comune":"TORINO",
-            "presidio_ospedaliero":"AO MAURIZIANO TORINO"
+            "presidio_ospedaliero":"AO MAURIZIANO TORINO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":203,
             "area":"PIE",
             "provincia":"TORINO",
             "comune":"TORINO",
-            "presidio_ospedaliero":"AOU CITTA\u2019 DELLA SALUTE E DELLA SCIENZA DI TORINO"
+            "presidio_ospedaliero":"AOU CITTA\u2019 DELLA SALUTE E DELLA SCIENZA DI TORINO",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":204,
             "area":"PIE",
             "provincia":"TORINO",
             "comune":"TORINO",
-            "presidio_ospedaliero":"ASL CITTA\u2019 DI TORINO OSPEDALE SAN GIOVANNI BOSCO\/OSPEDALE MARIA VITTORIA"
+            "presidio_ospedaliero":"ASL CITTA\u2019 DI TORINO OSPEDALE SAN GIOVANNI BOSCO\/OSPEDALE MARIA VITTORIA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":205,
             "area":"PIE",
             "provincia":"VERBANO CUSIO OSSOLA",
             "comune":"DOMODOSSOLA",
-            "presidio_ospedaliero":"ASL VCO OSPEDALE DOMODOSSOLA"
+            "presidio_ospedaliero":"ASL VCO OSPEDALE DOMODOSSOLA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":206,
             "area":"PIE",
             "provincia":"VERBANO CUSIO OSSOLA",
             "comune":"PALLANZA",
-            "presidio_ospedaliero":"ASL VCO OSPEDALE VERBANIA"
+            "presidio_ospedaliero":"ASL VCO OSPEDALE VERBANIA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":207,
             "area":"PIE",
             "provincia":"VERCELLI",
             "comune":"BORGOSESIA",
-            "presidio_ospedaliero":"ASL VC OSPEDALE BORGOSESIA"
+            "presidio_ospedaliero":"ASL VC OSPEDALE BORGOSESIA",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":208,
             "area":"PIE",
             "provincia":"VERCELLI",
             "comune":"VERCELLI",
-            "presidio_ospedaliero":"ASL VC OSPEDALE S. ANDREA VERCELLI"
+            "presidio_ospedaliero":"ASL VC OSPEDALE S. ANDREA VERCELLI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":209,
             "area":"PUG",
             "provincia":"BARI",
             "comune":"ACQUAVIVA DELLE FONTI",
-            "presidio_ospedaliero":"IRCCS MIULLI"
+            "presidio_ospedaliero":"IRCCS MIULLI",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF4",
+            "codice_regione_ISTAT":16,
+            "nome_area":"Puglia"
         },
         {
             "index":210,
             "area":"PUG",
             "provincia":"BARI",
             "comune":"BARI",
-            "presidio_ospedaliero":"CONSORZIALE POLICLINICO"
+            "presidio_ospedaliero":"CONSORZIALE POLICLINICO",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF4",
+            "codice_regione_ISTAT":16,
+            "nome_area":"Puglia"
         },
         {
             "index":211,
             "area":"PUG",
             "provincia":"BARI",
             "comune":"BARI",
-            "presidio_ospedaliero":"IRCCS GIOVANNI PAOLO II"
+            "presidio_ospedaliero":"IRCCS GIOVANNI PAOLO II",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF4",
+            "codice_regione_ISTAT":16,
+            "nome_area":"Puglia"
         },
         {
             "index":212,
             "area":"PUG",
             "provincia":"BARI",
             "comune":"CASTELLANA GROTTE",
-            "presidio_ospedaliero":"IRCCS DE BELLIS"
+            "presidio_ospedaliero":"IRCCS DE BELLIS",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF4",
+            "codice_regione_ISTAT":16,
+            "nome_area":"Puglia"
         },
         {
             "index":213,
             "area":"PUG",
             "provincia":"BARLETTA ANDRIA TRANI",
             "comune":"BARLETTA",
-            "presidio_ospedaliero":"DIMICCOLI (BARLETTA)"
+            "presidio_ospedaliero":"DIMICCOLI (BARLETTA)",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF4",
+            "codice_regione_ISTAT":16,
+            "nome_area":"Puglia"
         },
         {
             "index":214,
             "area":"PUG",
             "provincia":"BRINDISI",
             "comune":"BRINDISI",
-            "presidio_ospedaliero":"OSPEDALE DI SUMMA PERRINO"
+            "presidio_ospedaliero":"OSPEDALE DI SUMMA PERRINO",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF4",
+            "codice_regione_ISTAT":16,
+            "nome_area":"Puglia"
         },
         {
             "index":215,
             "area":"PUG",
             "provincia":"FOGGIA",
             "comune":"FOGGIA",
-            "presidio_ospedaliero":"OSPEDALI RIUNITI"
+            "presidio_ospedaliero":"OSPEDALI RIUNITI",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF4",
+            "codice_regione_ISTAT":16,
+            "nome_area":"Puglia"
         },
         {
             "index":216,
             "area":"PUG",
             "provincia":"FOGGIA",
             "comune":"SAN GIOVANNI ROTONDO",
-            "presidio_ospedaliero":"IRCCS CASA SOLLIEVO SOFFERENZA"
+            "presidio_ospedaliero":"IRCCS CASA SOLLIEVO SOFFERENZA",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF4",
+            "codice_regione_ISTAT":16,
+            "nome_area":"Puglia"
         },
         {
             "index":217,
             "area":"PUG",
             "provincia":"LECCE",
             "comune":"LECCE",
-            "presidio_ospedaliero":"OSPEDALE VITO FAZZI"
+            "presidio_ospedaliero":"OSPEDALE VITO FAZZI",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF4",
+            "codice_regione_ISTAT":16,
+            "nome_area":"Puglia"
         },
         {
             "index":218,
             "area":"PUG",
             "provincia":"LECCE",
             "comune":"TRICASE",
-            "presidio_ospedaliero":"IRCCS CARD. G. PANICO"
+            "presidio_ospedaliero":"IRCCS CARD. G. PANICO",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF4",
+            "codice_regione_ISTAT":16,
+            "nome_area":"Puglia"
         },
         {
             "index":219,
             "area":"PUG",
             "provincia":"TARANTO",
             "comune":"STATTE",
-            "presidio_ospedaliero":"OSPEDALE SAN GIUSEPPE MOSCATI"
+            "presidio_ospedaliero":"OSPEDALE SAN GIUSEPPE MOSCATI",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF4",
+            "codice_regione_ISTAT":16,
+            "nome_area":"Puglia"
         },
         {
             "index":220,
             "area":"SAR",
             "provincia":"CAGLIARI",
             "comune":"CAGLIARI",
-            "presidio_ospedaliero":"A. BUSINCO - ARNAS G BROTZU"
+            "presidio_ospedaliero":"A. BUSINCO - ARNAS G BROTZU",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG2",
+            "codice_regione_ISTAT":20,
+            "nome_area":"Sardegna"
         },
         {
             "index":221,
             "area":"SAR",
             "provincia":"CAGLIARI",
             "comune":"CAGLIARI",
-            "presidio_ospedaliero":"PO BINAGHI"
+            "presidio_ospedaliero":"PO BINAGHI",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG2",
+            "codice_regione_ISTAT":20,
+            "nome_area":"Sardegna"
         },
         {
             "index":222,
             "area":"SAR",
             "provincia":"CAGLIARI",
             "comune":"CAGLIARI",
-            "presidio_ospedaliero":"SAN MICHELE - ARNAS G BROTZU"
+            "presidio_ospedaliero":"SAN MICHELE - ARNAS G BROTZU",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG2",
+            "codice_regione_ISTAT":20,
+            "nome_area":"Sardegna"
         },
         {
             "index":223,
             "area":"SAR",
             "provincia":"CAGLIARI",
             "comune":"MONSERRATO",
-            "presidio_ospedaliero":"AOU CAGLIARI POLICLINICO DUILIO CASULA"
+            "presidio_ospedaliero":"AOU CAGLIARI POLICLINICO DUILIO CASULA",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG2",
+            "codice_regione_ISTAT":20,
+            "nome_area":"Sardegna"
         },
         {
             "index":224,
             "area":"SAR",
             "provincia":"CARBONIA IGLESIAS",
             "comune":"CARBONIA",
-            "presidio_ospedaliero":"PO SIRAI"
+            "presidio_ospedaliero":"PO SIRAI",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG2",
+            "codice_regione_ISTAT":20,
+            "nome_area":"Sardegna"
         },
         {
             "index":225,
             "area":"SAR",
             "provincia":"MEDIO CAMPIDANO",
             "comune":"SAN GAVINO MONREALE",
-            "presidio_ospedaliero":"PO NS DI BONARIA"
+            "presidio_ospedaliero":"PO NS DI BONARIA",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG2",
+            "codice_regione_ISTAT":20,
+            "nome_area":"Sardegna"
         },
         {
             "index":226,
             "area":"SAR",
             "provincia":"NUORO",
             "comune":"NUORO",
-            "presidio_ospedaliero":"PO SAN FRANCESCO"
+            "presidio_ospedaliero":"PO SAN FRANCESCO",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG2",
+            "codice_regione_ISTAT":20,
+            "nome_area":"Sardegna"
         },
         {
             "index":227,
             "area":"SAR",
             "provincia":"OGLIASTRA",
             "comune":"LANUSEI",
-            "presidio_ospedaliero":"PO NOSTRA SIGNORA DELLA MERCEDE"
+            "presidio_ospedaliero":"PO NOSTRA SIGNORA DELLA MERCEDE",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG2",
+            "codice_regione_ISTAT":20,
+            "nome_area":"Sardegna"
         },
         {
             "index":228,
             "area":"SAR",
             "provincia":"OLBIA TEMPIO",
             "comune":"OLBIA",
-            "presidio_ospedaliero":"PO GIOVANNI PAOLO II"
+            "presidio_ospedaliero":"PO GIOVANNI PAOLO II",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG2",
+            "codice_regione_ISTAT":20,
+            "nome_area":"Sardegna"
         },
         {
             "index":229,
             "area":"SAR",
             "provincia":"ORISTANO",
             "comune":"ORISTANO",
-            "presidio_ospedaliero":"PO SAN MARTINO"
+            "presidio_ospedaliero":"PO SAN MARTINO",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG2",
+            "codice_regione_ISTAT":20,
+            "nome_area":"Sardegna"
         },
         {
             "index":230,
             "area":"SAR",
             "provincia":"SASSARI",
             "comune":"OZIERI",
-            "presidio_ospedaliero":"PO ANTONIO SEGNI"
+            "presidio_ospedaliero":"PO ANTONIO SEGNI",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG2",
+            "codice_regione_ISTAT":20,
+            "nome_area":"Sardegna"
         },
         {
             "index":231,
             "area":"SAR",
             "provincia":"SASSARI",
             "comune":"SASSARI",
-            "presidio_ospedaliero":"AOU DI SASSARI"
+            "presidio_ospedaliero":"AOU DI SASSARI",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG2",
+            "codice_regione_ISTAT":20,
+            "nome_area":"Sardegna"
         },
         {
             "index":232,
             "area":"SIC",
             "provincia":"AGRIGENTO",
             "comune":"AGRIGENTO",
-            "presidio_ospedaliero":"P.O. \u201cS. GIOVANNI DI DIO\u201d DI AGRIGENTO"
+            "presidio_ospedaliero":"P.O. \u201cS. GIOVANNI DI DIO\u201d DI AGRIGENTO",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":233,
             "area":"SIC",
             "provincia":"AGRIGENTO",
             "comune":"CANICATTI\u00cc",
-            "presidio_ospedaliero":"P.O. \"BARONE LOMBARDO\" DI CANICATT\u00cc"
+            "presidio_ospedaliero":"P.O. \"BARONE LOMBARDO\" DI CANICATT\u00cc",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":234,
             "area":"SIC",
             "provincia":"AGRIGENTO",
             "comune":"LICATA",
-            "presidio_ospedaliero":"P.O. \"SAN GIACOMO D'ALTOPASSO\" DI LICATA"
+            "presidio_ospedaliero":"P.O. \"SAN GIACOMO D'ALTOPASSO\" DI LICATA",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":235,
             "area":"SIC",
             "provincia":"AGRIGENTO",
             "comune":"RIBERA",
-            "presidio_ospedaliero":"P.O. \"F.LLI PARLAPIANO\" DI RIBERA"
+            "presidio_ospedaliero":"P.O. \"F.LLI PARLAPIANO\" DI RIBERA",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":236,
             "area":"SIC",
             "provincia":"AGRIGENTO",
             "comune":"SCIACCA",
-            "presidio_ospedaliero":"P.O. \u201cOSPEDALI CIVILI RIUNITI\u201d DI SCIACCA"
+            "presidio_ospedaliero":"P.O. \u201cOSPEDALI CIVILI RIUNITI\u201d DI SCIACCA",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":237,
             "area":"SIC",
             "provincia":"CALTANISSETTA",
             "comune":"CALTANISSETTA",
-            "presidio_ospedaliero":"P.O. \u201cS. ELIA\u201d DI CALTANISSETTA"
+            "presidio_ospedaliero":"P.O. \u201cS. ELIA\u201d DI CALTANISSETTA",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":238,
             "area":"SIC",
             "provincia":"CATANIA",
             "comune":"CALTAGIRONE",
-            "presidio_ospedaliero":"P.O. GRAVINA DI CALTAGIRONE ASP CT"
+            "presidio_ospedaliero":"P.O. GRAVINA DI CALTAGIRONE ASP CT",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":239,
             "area":"SIC",
             "provincia":"CATANIA",
             "comune":"CATANIA",
-            "presidio_ospedaliero":"A.O. PER L'EMERGENZA \"CANNIZZARO\" \u2013 CATANIA"
+            "presidio_ospedaliero":"A.O. PER L'EMERGENZA \"CANNIZZARO\" \u2013 CATANIA",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":240,
             "area":"SIC",
             "provincia":"CATANIA",
             "comune":"CATANIA",
-            "presidio_ospedaliero":"A.O. UNIVERSITARIA POLICLINICO DI CATANIA \"S. MARCO\""
+            "presidio_ospedaliero":"A.O. UNIVERSITARIA POLICLINICO DI CATANIA \"S. MARCO\"",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":241,
             "area":"SIC",
             "provincia":"CATANIA",
             "comune":"CATANIA",
-            "presidio_ospedaliero":"NUOVO OSPEDALE GARIBALDI - NESIMA \u2013 OSPEDALE GARIBALDI \u2013 CENTRO"
+            "presidio_ospedaliero":"NUOVO OSPEDALE GARIBALDI - NESIMA \u2013 OSPEDALE GARIBALDI \u2013 CENTRO",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":242,
             "area":"SIC",
             "provincia":"CATANIA",
             "comune":"CATANIA",
-            "presidio_ospedaliero":"P.O. GASAPARE RODOLICO"
+            "presidio_ospedaliero":"P.O. GASAPARE RODOLICO",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":243,
             "area":"SIC",
             "provincia":"ENNA",
             "comune":"ENNA",
-            "presidio_ospedaliero":"P.O. \u201cUMBERTO I\u201d \u2013 ENNA"
+            "presidio_ospedaliero":"P.O. \u201cUMBERTO I\u201d \u2013 ENNA",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":244,
             "area":"SIC",
             "provincia":"ENNA",
             "comune":"TROINA",
-            "presidio_ospedaliero":"IRCCS OASI MARIA SS."
+            "presidio_ospedaliero":"IRCCS OASI MARIA SS.",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":245,
             "area":"SIC",
             "provincia":"MESSINA",
             "comune":"MESSINA",
-            "presidio_ospedaliero":"AUOP G. MARTINO"
+            "presidio_ospedaliero":"AUOP G. MARTINO",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":246,
             "area":"SIC",
             "provincia":"MESSINA",
             "comune":"MESSINA",
-            "presidio_ospedaliero":"IRCCS CENTRO NEUROLESI 2 \u2013 BONINO PULEJO \u2013 P.O. CASAZZA"
+            "presidio_ospedaliero":"IRCCS CENTRO NEUROLESI 2 \u2013 BONINO PULEJO \u2013 P.O. CASAZZA",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":247,
             "area":"SIC",
             "provincia":"MESSINA",
             "comune":"MESSINA",
-            "presidio_ospedaliero":"IRCCS CENTRO NEUROLESI 2 \u2013 BONINO PULEJO \u2013 P.O. PIEMONTE"
+            "presidio_ospedaliero":"IRCCS CENTRO NEUROLESI 2 \u2013 BONINO PULEJO \u2013 P.O. PIEMONTE",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":248,
             "area":"SIC",
             "provincia":"MESSINA",
             "comune":"MESSINA",
-            "presidio_ospedaliero":"P.O. PAPARDO MESSINA"
+            "presidio_ospedaliero":"P.O. PAPARDO MESSINA",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":249,
             "area":"SIC",
             "provincia":"MESSINA",
             "comune":"PATTI",
-            "presidio_ospedaliero":"P.O. PATTI"
+            "presidio_ospedaliero":"P.O. PATTI",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":250,
             "area":"SIC",
             "provincia":"MESSINA",
             "comune":"TAORMINA",
-            "presidio_ospedaliero":"P.O. TAORMINA"
+            "presidio_ospedaliero":"P.O. TAORMINA",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":251,
             "area":"SIC",
             "provincia":"PALERMO",
             "comune":null,
-            "presidio_ospedaliero":"P.O. \u201cDEI BIANCHI\u201d \u2013 CORLEONE"
+            "presidio_ospedaliero":"P.O. \u201cDEI BIANCHI\u201d \u2013 CORLEONE",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":252,
             "area":"SIC",
             "provincia":"PALERMO",
             "comune":null,
-            "presidio_ospedaliero":"P.O. \u201cG. F. INGRASSIA\u201d \/VILLA DELLE GINESTRE"
+            "presidio_ospedaliero":"P.O. \u201cG. F. INGRASSIA\u201d \/VILLA DELLE GINESTRE",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":253,
             "area":"SIC",
             "provincia":"PALERMO",
             "comune":null,
-            "presidio_ospedaliero":"P.O. PARTINICO"
+            "presidio_ospedaliero":"P.O. PARTINICO",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":254,
             "area":"SIC",
             "provincia":"PALERMO",
             "comune":"PALERMO",
-            "presidio_ospedaliero":"A.O.O.R. VILLA SOFIA \u2013 CERVELLO P.O. CTO"
+            "presidio_ospedaliero":"A.O.O.R. VILLA SOFIA \u2013 CERVELLO P.O. CTO",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":255,
             "area":"SIC",
             "provincia":"PALERMO",
             "comune":"PALERMO",
-            "presidio_ospedaliero":"A.U.O.P. PALERMO"
+            "presidio_ospedaliero":"A.U.O.P. PALERMO",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":256,
             "area":"SIC",
             "provincia":"PALERMO",
             "comune":"PALERMO",
-            "presidio_ospedaliero":"ISMETT"
+            "presidio_ospedaliero":"ISMETT",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":257,
             "area":"SIC",
             "provincia":"PALERMO",
             "comune":"PALERMO",
-            "presidio_ospedaliero":"P.O. ARNAS CIVICO PA"
+            "presidio_ospedaliero":"P.O. ARNAS CIVICO PA",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":258,
             "area":"SIC",
             "provincia":"PALERMO",
             "comune":"PETRALIA SOTTANA",
-            "presidio_ospedaliero":"P.O. MADONNA DELL\u2019ALTO \u2013 PETRALIA SOTTANA"
+            "presidio_ospedaliero":"P.O. MADONNA DELL\u2019ALTO \u2013 PETRALIA SOTTANA",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":259,
             "area":"SIC",
             "provincia":"PALERMO",
             "comune":"TERMINI IMERESE",
-            "presidio_ospedaliero":"P.O. S.CIMINO TERMINI IMERESE"
+            "presidio_ospedaliero":"P.O. S.CIMINO TERMINI IMERESE",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":260,
             "area":"SIC",
             "provincia":"RAGUSA",
             "comune":"RAGUSA",
-            "presidio_ospedaliero":"DEA I LIVELLO RAGUSA (SIMT)\\GIOVANNI PAOLO II"
+            "presidio_ospedaliero":"DEA I LIVELLO RAGUSA (SIMT)\\GIOVANNI PAOLO II",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":261,
             "area":"SIC",
             "provincia":"RAGUSA",
             "comune":"RAGUSA",
-            "presidio_ospedaliero":"P.O. \u201cBUSACCA\u201d DI SCICLI"
+            "presidio_ospedaliero":"P.O. \u201cBUSACCA\u201d DI SCICLI",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":262,
             "area":"SIC",
             "provincia":"RAGUSA",
             "comune":"RAGUSA",
-            "presidio_ospedaliero":"P.O. \u201cGUZZARDI\u201d DI VITTORIA"
+            "presidio_ospedaliero":"P.O. \u201cGUZZARDI\u201d DI VITTORIA",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":263,
             "area":"SIC",
             "provincia":"RAGUSA",
             "comune":"RAGUSA",
-            "presidio_ospedaliero":"P.O. \u201cMAGGIORE\u201d DI MODICA"
+            "presidio_ospedaliero":"P.O. \u201cMAGGIORE\u201d DI MODICA",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":264,
             "area":"SIC",
             "provincia":"RAGUSA",
             "comune":"RAGUSA",
-            "presidio_ospedaliero":"P.O. \u201cR. MARGHERITA\u201d DI COMISO"
+            "presidio_ospedaliero":"P.O. \u201cR. MARGHERITA\u201d DI COMISO",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":265,
             "area":"SIC",
             "provincia":"SIRACUSA",
             "comune":"SIRACUSA",
-            "presidio_ospedaliero":"P.O. \u201cUMBERTO I\u201d \u2013 SIRACUSA"
+            "presidio_ospedaliero":"P.O. \u201cUMBERTO I\u201d \u2013 SIRACUSA",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":266,
             "area":"SIC",
             "provincia":"TRAPANI",
             "comune":"CASA SANTA",
-            "presidio_ospedaliero":"\u201cS. ANTONIO ABATE\u201d DI TRAPANI"
+            "presidio_ospedaliero":"\u201cS. ANTONIO ABATE\u201d DI TRAPANI",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":267,
             "area":"SIC",
             "provincia":"TRAPANI",
             "comune":"MAZARA DEL VALLO",
-            "presidio_ospedaliero":"P.O. \"ABELE AJELLO\" - MAZARA DEL VALLO"
+            "presidio_ospedaliero":"P.O. \"ABELE AJELLO\" - MAZARA DEL VALLO",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":268,
             "area":"TOS",
             "provincia":"AREZZO",
             "comune":"AREZZO",
-            "presidio_ospedaliero":"OSPEDALE S. DONATO"
+            "presidio_ospedaliero":"OSPEDALE S. DONATO",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI1",
+            "codice_regione_ISTAT":9,
+            "nome_area":"Toscana"
         },
         {
             "index":269,
             "area":"TOS",
             "provincia":"FIRENZE",
             "comune":"EMPOLI",
-            "presidio_ospedaliero":"OSPEDALE SAN GIUSEPPE"
+            "presidio_ospedaliero":"OSPEDALE SAN GIUSEPPE",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI1",
+            "codice_regione_ISTAT":9,
+            "nome_area":"Toscana"
         },
         {
             "index":270,
             "area":"TOS",
             "provincia":"FIRENZE",
             "comune":"FIRENZE",
-            "presidio_ospedaliero":"AOU CAREGGI"
+            "presidio_ospedaliero":"AOU CAREGGI",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI1",
+            "codice_regione_ISTAT":9,
+            "nome_area":"Toscana"
         },
         {
             "index":271,
             "area":"TOS",
             "provincia":"FIRENZE",
             "comune":"FIRENZE",
-            "presidio_ospedaliero":"OSPEDALE NUOVO S.GIOVANNI DI DIO"
+            "presidio_ospedaliero":"OSPEDALE NUOVO S.GIOVANNI DI DIO",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI1",
+            "codice_regione_ISTAT":9,
+            "nome_area":"Toscana"
         },
         {
             "index":272,
             "area":"TOS",
             "provincia":"GROSSETO",
             "comune":"GROSSETO",
-            "presidio_ospedaliero":"OSPEDALE DELLA MISERICORDIA"
+            "presidio_ospedaliero":"OSPEDALE DELLA MISERICORDIA",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI1",
+            "codice_regione_ISTAT":9,
+            "nome_area":"Toscana"
         },
         {
             "index":273,
             "area":"TOS",
             "provincia":"LIVORNO",
             "comune":"LIVORNO",
-            "presidio_ospedaliero":"OSPEDALE LIVORNO"
+            "presidio_ospedaliero":"OSPEDALE LIVORNO",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI1",
+            "codice_regione_ISTAT":9,
+            "nome_area":"Toscana"
         },
         {
             "index":274,
             "area":"TOS",
             "provincia":"LUCCA",
             "comune":"LUCCA",
-            "presidio_ospedaliero":"PRESIDIO OSPEDALIERO SAN LUCA"
+            "presidio_ospedaliero":"PRESIDIO OSPEDALIERO SAN LUCA",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI1",
+            "codice_regione_ISTAT":9,
+            "nome_area":"Toscana"
         },
         {
             "index":275,
             "area":"TOS",
             "provincia":"MASSA-CARRARA",
             "comune":"MASSA",
-            "presidio_ospedaliero":"OSPEDALE  DELLE APUANE"
+            "presidio_ospedaliero":"OSPEDALE  DELLE APUANE",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI1",
+            "codice_regione_ISTAT":9,
+            "nome_area":"Toscana"
         },
         {
             "index":276,
             "area":"TOS",
             "provincia":"PISA",
             "comune":"PISA",
-            "presidio_ospedaliero":"AOU PISANA"
+            "presidio_ospedaliero":"AOU PISANA",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI1",
+            "codice_regione_ISTAT":9,
+            "nome_area":"Toscana"
         },
         {
             "index":277,
             "area":"TOS",
             "provincia":"PISTOIA",
             "comune":"PISTOIA",
-            "presidio_ospedaliero":"OSPEDALE SAN IACOPO"
+            "presidio_ospedaliero":"OSPEDALE SAN IACOPO",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI1",
+            "codice_regione_ISTAT":9,
+            "nome_area":"Toscana"
         },
         {
             "index":278,
             "area":"TOS",
             "provincia":"PRATO",
             "comune":"PRATO",
-            "presidio_ospedaliero":"OSPEDALE SANTO STEFANO"
+            "presidio_ospedaliero":"OSPEDALE SANTO STEFANO",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI1",
+            "codice_regione_ISTAT":9,
+            "nome_area":"Toscana"
         },
         {
             "index":279,
             "area":"TOS",
             "provincia":"SIENA",
             "comune":"SIENA",
-            "presidio_ospedaliero":"AOU SENESE"
+            "presidio_ospedaliero":"AOU SENESE",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI1",
+            "codice_regione_ISTAT":9,
+            "nome_area":"Toscana"
         },
         {
             "index":280,
             "area":"UMB",
             "provincia":"PERUGIA",
             "comune":"CITT\u00c0 DI CASTELLO",
-            "presidio_ospedaliero":"OSPEDALE DI CITTA' DI CASTELLO"
+            "presidio_ospedaliero":"OSPEDALE DI CITTA' DI CASTELLO",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI2",
+            "codice_regione_ISTAT":10,
+            "nome_area":"Umbria"
         },
         {
             "index":281,
             "area":"UMB",
             "provincia":"PERUGIA",
             "comune":"FOLIGNO",
-            "presidio_ospedaliero":"OSPEDALE DI FOLIGNO"
+            "presidio_ospedaliero":"OSPEDALE DI FOLIGNO",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI2",
+            "codice_regione_ISTAT":10,
+            "nome_area":"Umbria"
         },
         {
             "index":282,
             "area":"UMB",
             "provincia":"PERUGIA",
             "comune":"PERUGIA",
-            "presidio_ospedaliero":"AZIENDA OSPEDALIERA DI PERUGIA"
+            "presidio_ospedaliero":"AZIENDA OSPEDALIERA DI PERUGIA",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI2",
+            "codice_regione_ISTAT":10,
+            "nome_area":"Umbria"
         },
         {
             "index":283,
             "area":"UMB",
             "provincia":"TERNI",
             "comune":"TERNI",
-            "presidio_ospedaliero":"AZIENDA OSPEDALIERA DI TERNI"
+            "presidio_ospedaliero":"AZIENDA OSPEDALIERA DI TERNI",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI2",
+            "codice_regione_ISTAT":10,
+            "nome_area":"Umbria"
         },
         {
             "index":284,
             "area":"VDA",
             "provincia":"AOSTA",
             "comune":"AOSTA",
-            "presidio_ospedaliero":"OSPEDALE UMBERTO PARINI"
+            "presidio_ospedaliero":"OSPEDALE UMBERTO PARINI",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC2",
+            "codice_regione_ISTAT":2,
+            "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
             "index":285,
             "area":"VDA",
             "provincia":"AOSTA",
             "comune":"AOSTA",
-            "presidio_ospedaliero":"OSPEDALE UMBERTO PARINI - HUB"
+            "presidio_ospedaliero":"OSPEDALE UMBERTO PARINI - HUB",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC2",
+            "codice_regione_ISTAT":2,
+            "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
             "index":286,
             "area":"VEN",
             "provincia":"BELLUNO",
             "comune":"BELLUNO",
-            "presidio_ospedaliero":"OSPEDALE S. MARTINO BELLUNO"
+            "presidio_ospedaliero":"OSPEDALE S. MARTINO BELLUNO",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
         },
         {
             "index":287,
             "area":"VEN",
             "provincia":"PADOVA",
             "comune":"PADOVA",
-            "presidio_ospedaliero":"AZIENDA OSPEDALE UNIVERSITA' PADOVA"
+            "presidio_ospedaliero":"AZIENDA OSPEDALE UNIVERSITA' PADOVA",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
         },
         {
             "index":288,
             "area":"VEN",
             "provincia":"ROVIGO",
             "comune":"ROVIGO",
-            "presidio_ospedaliero":"OSPEDALE \"SANTA MARIA DELLA MISERICORDIA\""
+            "presidio_ospedaliero":"OSPEDALE \"SANTA MARIA DELLA MISERICORDIA\"",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
         },
         {
             "index":289,
             "area":"VEN",
             "provincia":"TREVISO",
             "comune":"VITTORIO VENETO",
-            "presidio_ospedaliero":"OSPEDALE DI VITTORIO VENETO"
+            "presidio_ospedaliero":"OSPEDALE DI VITTORIO VENETO",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
         },
         {
             "index":290,
             "area":"VEN",
             "provincia":"VENEZIA",
             "comune":"VENEZIA MESTRE",
-            "presidio_ospedaliero":"OSPEDALE DELL'ANGELO"
+            "presidio_ospedaliero":"OSPEDALE DELL'ANGELO",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
         },
         {
             "index":291,
             "area":"VEN",
             "provincia":"VERONA",
             "comune":"VERONA",
-            "presidio_ospedaliero":"AZIENDA OSPEDALIERA UNIVERSITARIA INTEGRATA DI VERONA"
+            "presidio_ospedaliero":"AZIENDA OSPEDALIERA UNIVERSITARIA INTEGRATA DI VERONA",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
         },
         {
             "index":292,
             "area":"VEN",
             "provincia":"VICENZA",
             "comune":"VICENZA",
-            "presidio_ospedaliero":"OSPEDALE DI VICENZA"
+            "presidio_ospedaliero":"OSPEDALE DI VICENZA",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
         }
     ]
 }

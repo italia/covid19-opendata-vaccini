@@ -24,6 +24,22 @@
             {
                 "name":"ultimo_aggiornamento",
                 "type":"datetime"
+            },
+            {
+                "name":"codice_NUTS1",
+                "type":"string"
+            },
+            {
+                "name":"codice_NUTS2",
+                "type":"string"
+            },
+            {
+                "name":"codice_regione_ISTAT",
+                "type":"integer"
+            },
+            {
+                "name":"nome_area",
+                "type":"string"
             }
         ],
         "primaryKey":[
@@ -35,170 +51,254 @@
         {
             "index":0,
             "area":"ABR",
-            "dosi_somministrate":24609,
+            "dosi_somministrate":26298,
             "dosi_consegnate":38680,
-            "percentuale_somministrazione":63.6,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":68.0,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF1",
+            "codice_regione_ISTAT":13,
+            "nome_area":"Abruzzo"
         },
         {
             "index":1,
             "area":"BAS",
-            "dosi_somministrate":15244,
+            "dosi_somministrate":15774,
             "dosi_consegnate":20775,
-            "percentuale_somministrazione":73.4,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":75.9,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF5",
+            "codice_regione_ISTAT":17,
+            "nome_area":"Basilicata"
         },
         {
             "index":2,
             "area":"CAL",
-            "dosi_somministrate":32484,
+            "dosi_somministrate":33808,
             "dosi_consegnate":62680,
-            "percentuale_somministrazione":51.8,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":53.9,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF6",
+            "codice_regione_ISTAT":18,
+            "nome_area":"Calabria"
         },
         {
             "index":3,
             "area":"CAM",
-            "dosi_somministrate":147734,
+            "dosi_somministrate":156354,
             "dosi_consegnate":173695,
-            "percentuale_somministrazione":85.1,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":90.0,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
         },
         {
             "index":4,
             "area":"EMR",
-            "dosi_somministrate":162643,
+            "dosi_somministrate":171834,
             "dosi_consegnate":220925,
-            "percentuale_somministrazione":73.6,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":77.8,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH5",
+            "codice_regione_ISTAT":8,
+            "nome_area":"Emilia-Romagna"
         },
         {
             "index":5,
             "area":"FVG",
-            "dosi_somministrate":43253,
+            "dosi_somministrate":44339,
             "dosi_consegnate":60715,
-            "percentuale_somministrazione":71.2,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":73.0,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH4",
+            "codice_regione_ISTAT":6,
+            "nome_area":"Friuli-Venezia Giulia"
         },
         {
             "index":6,
             "area":"LAZ",
-            "dosi_somministrate":170632,
+            "dosi_somministrate":177047,
             "dosi_consegnate":230170,
-            "percentuale_somministrazione":74.1,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":76.9,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
         },
         {
             "index":7,
             "area":"LIG",
-            "dosi_somministrate":47258,
+            "dosi_somministrate":49343,
             "dosi_consegnate":77540,
-            "percentuale_somministrazione":60.9,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":63.6,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC3",
+            "codice_regione_ISTAT":7,
+            "nome_area":"Liguria"
         },
         {
             "index":8,
             "area":"LOM",
-            "dosi_somministrate":264918,
+            "dosi_somministrate":277302,
             "dosi_consegnate":379530,
-            "percentuale_somministrazione":69.8,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":73.1,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
         },
         {
             "index":9,
             "area":"MAR",
-            "dosi_somministrate":37427,
+            "dosi_somministrate":38853,
             "dosi_consegnate":45380,
-            "percentuale_somministrazione":82.5,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":85.6,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI3",
+            "codice_regione_ISTAT":11,
+            "nome_area":"Marche"
         },
         {
             "index":10,
             "area":"MOL",
-            "dosi_somministrate":8784,
+            "dosi_somministrate":9203,
             "dosi_consegnate":13505,
-            "percentuale_somministrazione":65.0,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":68.1,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF2",
+            "codice_regione_ISTAT":14,
+            "nome_area":"Molise"
         },
         {
             "index":11,
             "area":"PAB",
-            "dosi_somministrate":25766,
+            "dosi_somministrate":26985,
             "dosi_consegnate":32515,
-            "percentuale_somministrazione":79.2,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":83.0,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH1",
+            "codice_regione_ISTAT":4,
+            "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
             "index":12,
             "area":"PAT",
-            "dosi_somministrate":17389,
+            "dosi_somministrate":17904,
             "dosi_consegnate":25060,
-            "percentuale_somministrazione":69.4,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":71.4,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH2",
+            "codice_regione_ISTAT":4,
+            "nome_area":"Provincia Autonoma Trento"
         },
         {
             "index":13,
             "area":"PIE",
-            "dosi_somministrate":166572,
+            "dosi_somministrate":171821,
             "dosi_consegnate":200980,
-            "percentuale_somministrazione":82.9,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":85.5,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
         },
         {
             "index":14,
             "area":"PUG",
-            "dosi_somministrate":94315,
+            "dosi_somministrate":98929,
             "dosi_consegnate":120235,
-            "percentuale_somministrazione":78.4,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":82.3,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF4",
+            "codice_regione_ISTAT":16,
+            "nome_area":"Puglia"
         },
         {
             "index":15,
             "area":"SAR",
-            "dosi_somministrate":32550,
+            "dosi_somministrate":35266,
             "dosi_consegnate":53220,
-            "percentuale_somministrazione":61.2,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":66.3,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG2",
+            "codice_regione_ISTAT":20,
+            "nome_area":"Sardegna"
         },
         {
             "index":16,
             "area":"SIC",
-            "dosi_somministrate":137156,
+            "dosi_somministrate":144617,
             "dosi_consegnate":201115,
-            "percentuale_somministrazione":68.2,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":71.9,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
         },
         {
             "index":17,
             "area":"TOS",
-            "dosi_somministrate":107498,
+            "dosi_somministrate":112829,
             "dosi_consegnate":133840,
-            "percentuale_somministrazione":80.3,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":84.3,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI1",
+            "codice_regione_ISTAT":9,
+            "nome_area":"Toscana"
         },
         {
             "index":18,
             "area":"UMB",
-            "dosi_somministrate":19381,
+            "dosi_somministrate":20267,
             "dosi_consegnate":24875,
-            "percentuale_somministrazione":77.9,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":81.5,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI2",
+            "codice_regione_ISTAT":10,
+            "nome_area":"Umbria"
         },
         {
             "index":19,
             "area":"VDA",
-            "dosi_somministrate":4674,
+            "dosi_somministrate":4838,
             "dosi_consegnate":6460,
-            "percentuale_somministrazione":72.4,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":74.9,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC2",
+            "codice_regione_ISTAT":2,
+            "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
             "index":20,
             "area":"VEN",
-            "dosi_somministrate":153075,
+            "dosi_somministrate":161019,
             "dosi_consegnate":197240,
-            "percentuale_somministrazione":77.6,
-            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z"
+            "percentuale_somministrazione":81.6,
+            "ultimo_aggiornamento":"2021-01-29T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
         }
     ]
 }
