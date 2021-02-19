@@ -5,6 +5,7 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 ## Prossimi aggiornamenti
 
 **20/02/2021**
+
 I file contenenti le categorie prevalenti per le somminitrsazioni saranno estese con:
 * la categoria relativa ai soggetti appartenti alle Forze Armate (**TML_CAT_FORZE_ARMATE**)
 * la categoria relativa al personale scolastico (**TML_CAT_PERSONALE_SCOL**)
