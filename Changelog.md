@@ -4,7 +4,13 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
-**29/01/2021** 
+**20/02/2021**
+I file contenenti le categorie prevalenti per le somminitrsazioni saranno estese con:
+* la categoria relativa ai soggetti appartenti alle Forze Armate (**TML_CAT_FORZE_ARMATE**)
+* la categoria relativa al personale scolastico (**TML_CAT_PERSONALE_SCOL**)
+
+
+## 29/01/2021
 * Verranno aggiunti i campi **codice_NUTS1**, **codice_NUTS2**, **codice_regione_ISTAT**, **nome_regione** contenenti informazioni standard relative alla dimensione geografica. Le modifiche riguarderanno i seguenti file: `consegne-vaccini-latest`, `punti-somministrazione-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `vaccini-summary-latest`. 
 * rimozione di area = ITA sul file `somministrazioni-vaccini-summary-latest`
 * modifiche al file README.md
