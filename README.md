@@ -35,687 +35,112 @@ Nella cartella dati si possono trovare 6 tabelle in formato json e csv:
 
 I campi di ogni tabella sono schematizzati nelle seguenti tavole: 
 
+**consegne-vaccini-latest**
 
-<table>
-  <tr>
-   <td colspan="3" ><strong>consegne-vaccini-latest</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Campo</strong>
-   </td>
-   <td><strong>Tipo di dati</strong>
-   </td>
-   <td><strong>Descrizione</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>index
-   </td>
-   <td>integer
-   </td>
-   <td>Codice identificativo del record.
-   </td>
-  </tr>
-  <tr>
-   <td>area
-   </td>
-   <td>string
-   </td>
-   <td>Sigla della regione di consegna. 
-   </td>
-  </tr>
-  <tr>
-   <td>fornitore
-   </td>
-   <td>string
-   </td>
-   <td>Nome completo del fornitore del vaccino.
-   </td>
-  </tr>
-  <tr>
-   <td>data_consegna
-   </td>
-   <td>datetime
-   </td>
-   <td>Il giorno in cui è avvenuta la consegna.
-   </td>
-  </tr>
-  <tr>
-   <td>numero_dosi
-   </td>
-   <td>integer
-   </td>
-   <td>Il numero di dosi del vaccino consegnate in quel giorno per regione.
-   </td>
-  </tr>
-  <tr>
-   <td>codice_NUTS1
-   </td>
-   <td>string
-   </td>
-   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 1.
-   </td>
-  </tr>
-    <tr>
-   <td>codice_NUTS2
-   </td>
-   <td>string
-   </td>
-   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 2.
-   </td>
-  </tr>
-    <tr>
-   <td>codice_regione_ISTAT
-   </td>
-   <td>integer
-   </td>
-   <td>Codice ISTAT della Regione.
-   </td>
-  </tr>
-    <tr>
-   <td>nome_regione
-   </td>
-   <td>string
-   </td>
-   <td>Denominazione standard dell'area (dove necessario denominazione bilingue).
-   </td>
-  </tr>
-</table>
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| index | integer | Codice identificativo del record. |
+| area | string | Sigla della regione di consegna. |
+| fornitore | string | Nome completo del fornitore del vaccino. |
+| data_consegna | datetime | Il giorno in cui è avvenuta la consegna. |
+| numero_dosi | integer | Il numero di dosi del vaccino consegnate in quel giorno per regione. |
+| codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
+| codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
+| codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
+| nome_regione | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 
+**vaccini-summary-latest**
 
-<table>
-  <tr>
-   <td colspan="3" ><strong>vaccini-summary-latest</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Campo</strong>
-   </td>
-   <td><strong>Tipo di dati</strong>
-   </td>
-   <td><strong>Descrizione</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>index
-   </td>
-   <td>integer
-   </td>
-   <td>Codice identificativo del record.
-   </td>
-  </tr>
-  <tr>
-   <td>area
-   </td>
-   <td>string
-   </td>
-   <td>Sigla della regione di consegna.
-   </td>
-  </tr>
-  <tr>
-   <td>ultimo_aggiornamento
-   </td>
-   <td>datetime
-   </td>
-   <td>Giorno dell’ultimo aggiornamento del totale.
-   </td>
-  </tr>
-  <tr>
-   <td>dosi_consegnate
-   </td>
-   <td>integer
-   </td>
-   <td>Numero totale di dosi di vaccino consegnate per regione.
-   </td>
-  </tr>
-  <tr>
-   <td>dosi_somministrate
-   </td>
-   <td>integer
-   </td>
-   <td>Numero totale di dosi di vaccino somministrate per regione.
-   </td>
-  </tr>
-  <tr>
-   <td>percentuale_somministrazione
-   </td>
-   <td>number
-   </td>
-   <td>Percentuale di dosi somministrate sulle dosi consegnate.
-   </td>
-  </tr>
-   <tr>
-   <td>codice_NUTS1
-   </td>
-   <td>string
-   </td>
-   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 1.
-   </td>
-  </tr>
-    <tr>
-   <td>codice_NUTS2
-   </td>
-   <td>string
-   </td>
-   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 2.
-   </td>
-  </tr>
-    <tr>
-   <td>codice_regione_ISTAT
-   </td>
-   <td>integer
-   </td>
-   <td>Codice ISTAT della Regione.
-   </td>
-  </tr>
-    <tr>
-   <td>nome_regione
-   </td>
-   <td>string
-   </td>
-   <td>Denominazione standard dell'area (dove necessario denominazione bilingue).
-   </td>
-  </tr>
-</table>
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| index | integer | Codice identificativo del record. |
+| area | string | Sigla della regione di consegna. |
+| ultimo_aggiornamento | datetime | Giorno dell’ultimo aggiornamento del totale. |
+| dosi_consegnate | integer | Numero totale di dosi di vaccino consegnate per regione. |
+| dosi_somministrate | integer | Numero totale di dosi di vaccino somministrate per regione. |
+| percentuale_somministrazione | number | Percentuale di dosi somministrate sulle dosi consegnate. |
+| codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
+| codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
+| codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
+| nome_regione | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 
+**somministrazioni-vaccini-latest**
 
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| index | integer | Codice identificativo del record. |
+| area | string | Sigla della regione di consegna. |
+| fornitore | string | nome completo del fornitore del vaccino. |
+| data_somministrazione | datetime | Data di somministrazione. |
+| fascia_anagrafica | string | Identifica la fascia anagrafiche in cui appartengono i soggetti a cui è stato somministrato il vaccino. |
+| sesso_maschile | integer | Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
+| sesso_femminile | integer | Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
+| categoria_operatori_sanitari_sociosanitari | integer | Totale dei soggetti appartenenti alla categoria degli operatori sanitari e sociosanitari a cui è stato somministrato il vaccino per giorno, regione e fascia d'età. |
+| categoria_personale_non_sanitario | integer | Totale dei soggetti appartenenti alla categoria del personale non sanitario a cui è stato somministrato il vaccino per giorno, regione e fascia d'età. |
+| categoria_ospiti_rsa | integer | Totale dei soggetti ospiti della struttura residenziale a cui è stato somministrato il vaccino per giorno, regione e fascia d'età. |
+| categoria_over80 | integer | Numero somministrazioni categoria di rischio prevalente over 80 per giorno, regione e fascia d'età. |
+| prima_dose | integer | Numero prime somministrazioni. |
+| seconda_dose | integer | Numero seconde somministrazioni. |
+| codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
+| codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
+| codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
+| nome_regione | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 
-<table>
-  <tr>
-   <td colspan="3" ><strong>somministrazioni-vaccini-latest</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Campo</strong>
-   </td>
-   <td><strong>Tipo di dati</strong>
-   </td>
-   <td><strong>Descrizione</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>index
-   </td>
-   <td>integer
-   </td>
-   <td>Codice identificativo del record.
-   </td>
-  </tr>
-  <tr>
-   <td>area
-   </td>
-   <td>string
-   </td>
-   <td>Sigla della regione di consegna. 
-   </td>
-  </tr>
-    <tr>
-   <td>fornitore
-   </td>
-   <td>string
-   </td>
-   <td>nome completo del fornitore del vaccino.
-   </td>
-  </tr>
-  <tr>
-   <td>data_somministrazione
-   </td>
-   <td>datetime
-   </td>
-   <td>Data di somministrazione.
-   </td>
-  </tr>
-  <tr>
-   <td>fascia_anagrafica
-   </td>
-   <td>string
-   </td>
-   <td>Identifica la fascia anagrafiche in cui appartengono i soggetti a cui è stato somministrato il vaccino.
-   </td>
-  </tr>
-  <tr>
-   <td>sesso_maschile
-   </td>
-   <td>integer
-   </td>
-   <td>Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età.
-   </td>
-  </tr>
-  <tr>
-   <td>sesso_femminile
-   </td>
-   <td>integer
-   </td>
-   <td>Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età.
-   </td>
-  </tr>
-  <tr>
-   <td>categoria_operatori_sanitari_sociosanitari
-   </td>
-   <td>integer
-   </td>
-   <td>Totale dei soggetti appartenenti alla categoria degli operatori sanitari e sociosanitari a cui è stato somministrato il vaccino per giorno, regione e fascia d'età.
-   </td>
-  </tr>
-  <tr>
-   <td>categoria_personale_non_sanitario
-   </td>
-   <td>integer
-   </td>
-   <td>Totale dei soggetti appartenenti alla categoria del personale non sanitario a cui è stato somministrato il vaccino per giorno, regione e fascia d'età.
-   </td>
-  </tr>
-  <tr>
-   <td>categoria_ospiti_rsa
-   </td>
-   <td>integer
-   </td>
-   <td>Totale dei soggetti ospiti della struttura residenziale a cui è stato somministrato il vaccino per giorno, regione e fascia d'età.
-   </td>
-  </tr>
-   <tr>
-   <td>categoria_over80
-   </td>
-   <td>integer
-   </td>
-   <td>Numero somministrazioni categoria di rischio prevalente over 80 per giorno, regione e fascia d'età.
-   </td>
-  </tr>
-    </tr>
-   <tr>
-   <td>prima_dose
-   </td>
-   <td>integer
-   </td>
-   <td>Numero prime somministrazioni.
-   </td>
-  </tr>
-     <tr>
-   <td>seconda_dose
-   </td>
-   <td>integer
-   </td>
-   <td>Numero seconde somministrazioni.
-   </td>
-  </tr>
-   <tr>
-   <td>codice_NUTS1
-   </td>
-   <td>string
-   </td>
-   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 1.
-   </td>
-  </tr>
-    <tr>
-   <td>codice_NUTS2
-   </td>
-   <td>string
-   </td>
-   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 2.
-   </td>
-  </tr>
-    <tr>
-   <td>codice_regione_ISTAT
-   </td>
-   <td>integer
-   </td>
-   <td>Codice ISTAT della Regione.
-   </td>
-  </tr>
-    <tr>
-   <td>nome_regione
-   </td>
-   <td>string
-   </td>
-   <td>Denominazione standard dell'area (dove necessario denominazione bilingue).
-   </td>
-  </tr>
-</table>
+**somministrazioni-vaccini-summary-latest**
 
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| index | integer | Codice identificativo del record. |
+| area | string | Sigla della regione in cui è avvenuta la somministrazione. |
+| data_somministrazione | datetime | Giorno in cui è avvenuta la somministrazione. |
+| totale | integer | Numero totale di dosi di vaccino somministrate per giorno e regione. |
+| sesso_maschile | integer | Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno e regione. |
+| sesso_femminile | integer | Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno e regione. |
+| categoria_operatori_sanitari_sociosanitari | integer | Totale dei soggetti appartenenti alla categoria degli operatori sanitari e sociosanitari a cui è stato somministrato il vaccino per giorno e regione. |
+| categoria_personale_non_sanitario | integer | Totale dei soggetti appartenenti alla categoria del personale non sanitario a cui è stato somministrato il vaccino per giorno, regione e fascia d'età. |
+| categoria_ospiti_rsa | integer | Totale dei soggetti ospiti della struttura residenziale a cui è stato somministrato il vaccino per giorno e regione. |
+| categoria_over80 | integer | Numero somministrazioni categoria di rischio prevalente over 80 per giorno, regione e fascia d'età. |
+| prima_dose | integer | Numero prime somministrazioni. |
+| seconda_dose | integer | Numero seconde somministrazioni. |
+| codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
+| codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
+| codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
+| nome_regione | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 
+**punti-somministrazione-latest**
 
-<table>
-  <tr>
-   <td colspan="3" ><strong>somministrazioni-vaccini-summary-latest</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Campo</strong>
-   </td>
-   <td><strong>Tipo di dati</strong>
-   </td>
-   <td><strong>Descrizione</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>index
-   </td>
-   <td>integer
-   </td>
-   <td>Codice identificativo del record.
-   </td>
-  </tr>
-  <tr>
-   <td>area
-   </td>
-   <td>string
-   </td>
-   <td>Sigla della regione in cui è avvenuta la somministrazione.
-   </td>
-  </tr>
-  <tr>
-   <td>data_somministrazione
-   </td>
-   <td>datetime
-   </td>
-   <td>Giorno in cui è avvenuta la somministrazione.
-   </td>
-  </tr>
-  <tr>
-   <td>totale
-   </td>
-   <td>integer
-   </td>
-   <td>Numero totale di dosi di vaccino somministrate per giorno e regione.
-   </td>
-  </tr>
-  <tr>
-   <td>sesso_maschile
-   </td>
-   <td>integer
-   </td>
-   <td>Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno e regione. 
-   </td>
-  </tr>
-  <tr>
-   <td>sesso_femminile
-   </td>
-   <td>integer
-   </td>
-   <td>Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno e regione. 
-   </td>
-  </tr>
-  <tr>
-   <td>categoria_operatori_sanitari_sociosanitari
-   </td>
-   <td>integer
-   </td>
-   <td>Totale dei soggetti appartenenti alla categoria degli operatori sanitari e sociosanitari a cui è stato somministrato il vaccino per giorno e regione. 
-   </td>
-  </tr>
-  <tr>
-   <td>categoria_personale_non_sanitario
-   </td>
-   <td>integer
-   </td>
-   <td>Totale dei soggetti appartenenti alla categoria del personale non sanitario a cui è stato somministrato il vaccino per giorno, regione e fascia d'età.
-   </td>
-  </tr>
-  <tr>
-   <td>categoria_ospiti_rsa
-   </td>
-   <td>integer
-   </td>
-   <td>Totale dei soggetti ospiti della struttura residenziale a cui è stato somministrato il vaccino per giorno e regione. 
-   </td>
-  </tr>
-  <tr>
-   <td>categoria_over80
-   </td>
-   <td>integer
-   </td>
-   <td>Numero somministrazioni categoria di rischio prevalente over 80 per giorno, regione e fascia d'età.
-   </td>
-  </tr>
-    </tr>
-   <tr>
-   <td>prima_dose
-   </td>
-   <td>integer
-   </td>
-   <td>Numero prime somministrazioni.
-   </td>
-  </tr>
-     <tr>
-   <td>seconda_dose
-   </td>
-   <td>integer
-   </td>
-   <td>Numero seconde somministrazioni.
-   </td>
-  </tr>
-   <tr>
-   <td>codice_NUTS1
-   </td>
-   <td>string
-   </td>
-   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 1.
-   </td>
-  </tr>
-    <tr>
-   <td>codice_NUTS2
-   </td>
-   <td>string
-   </td>
-   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 2.
-   </td>
-  </tr>
-    <tr>
-   <td>codice_regione_ISTAT
-   </td>
-   <td>integer
-   </td>
-   <td>Codice ISTAT della Regione.
-   </td>
-  </tr>
-    <tr>
-   <td>nome_regione
-   </td>
-   <td>string
-   </td>
-   <td>Denominazione standard dell'area (dove necessario denominazione bilingue).
-   </td>
-  </tr>
-</table>
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| area | string | Regione. |
+| provincia | string | Provincia. |
+| comune | string | Comune. |
+| presidio_ospedaliero | string | Presidio di somministrazione. |
+| codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
+| codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
+| codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
+| nome_regione | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 
-<table>
-  <tr>
-   <td colspan="3" ><strong>punti-somministrazione-latest</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Campo</strong>
-   </td>
-   <td><strong>Tipo di dati</strong>
-   </td>
-   <td><strong>Descrizione</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>area
-   </td>
-   <td>string
-   </td>
-   <td>Regione.
-   </td>
-  </tr>
-  <tr>
-   <td>provincia
-   </td>
-   <td>string
-   </td>
-   <td>Provincia.
-   </td>
-  </tr>
-  <tr>
-   <td>comune
-   </td>
-   <td>string
-   </td>
-   <td>Comune.
-   </td>
-  </tr>
-  <tr>
-   <td>presidio_ospedaliero
-   </td>
-   <td>string
-   </td>
-   <td>Presidio di somministrazione.
-   </td>
-  </tr>
-   <tr>
-   <td>codice_NUTS1
-   </td>
-   <td>string
-   </td>
-   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 1.
-   </td>
-  </tr>
-    <tr>
-   <td>codice_NUTS2
-   </td>
-   <td>string
-   </td>
-   <td>Classificazione europea delle unità territoriali NUTS: livello NUTS 2.
-   </td>
-  </tr>
-    <tr>
-   <td>codice_regione_ISTAT
-   </td>
-   <td>integer
-   </td>
-   <td>Codice ISTAT della Regione.
-   </td>
-  </tr>
-    <tr>
-   <td>nome_regione
-   </td>
-   <td>string
-   </td>
-   <td>Denominazione standard dell'area (dove necessario denominazione bilingue).
-   </td>
-  </tr>
-</table>
+**anagrafica-vaccini-summary-latest**
 
-<table>
-  <tr>
-   <td colspan="3" ><strong>anagrafica-vaccini-summary-latest</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Campo</strong>
-   </td>
-   <td><strong>Tipo di dati</strong>
-   </td>
-   <td><strong>Descrizione</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>fascia_anagrafica
-   </td>
-   <td>string
-   </td>
-   <td>Fascia anagrafica.
-   </td>
-  </tr>
-  <tr>
-   <td>totale
-   </td>
-   <td>integer
-   </td>
-   <td>Totale vaccini somministrati.
-   </td>
-  </tr>
-  <tr>
-   <td>sesso_maschile
-   </td>
-   <td>integer
-   </td>
-   <td>Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età.
-   </td>
-  </tr>
-  <tr>
-   <td>sesso_femminile
-   </td>
-   <td>integer
-   </td>
-   <td>Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età.
-   </td>
-  </tr>
-  <tr>
-   <td>categoria_operatori_sanitari_sociosanitari
-   </td>
-   <td>integer
-   </td>
-   <td>Totale dei soggetti appartenenti alla categoria degli operatori sanitari e sociosanitari a cui è stato somministrato il vaccino per giorno, regione e fascia d'età.
-   </td>
-  </tr>
-   <tr>
-   <td>categoria_personale_non_sanitario
-   </td>
-   <td>integer
-   </td>
-   <td>Totale dei soggetti appartenenti alla categoria del personale non sanitario a cui è stato somministrato il vaccino per giorno, regione e fascia d'età.
-   </td>
-  </tr>
-  <tr>
-   <td>categoria_ospiti_rsa
-   </td>
-   <td>integer
-   </td>
-   <td>Totale dei soggetti ospiti della struttura residenziale a cui è stato somministrato il vaccino per giorno, regione e fascia d'età.
-   </td>
-  </tr>
-  <tr>
-   <td>categoria_over80
-   </td>
-   <td>integer
-   </td>
-   <td>Numero somministrazioni categoria di rischio prevalente over 80 per giorno, regione e fascia d'età.
-   </td>
-  </tr>
-    </tr>
-   <tr>
-   <td>prima_dose
-   </td>
-   <td>integer
-   </td>
-   <td>Numero prime somministrazioni.
-   </td>
-  </tr>
-     <tr>
-   <td>seconda_dose
-   </td>
-   <td>integer
-   </td>
-   <td>Numero seconde somministrazioni.
-   </td>
-  </tr>
-</table>
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| fascia_anagrafica | string | Fascia anagrafica. |
+| totale | integer | Totale vaccini somministrati. |
+| sesso_maschile | integer | Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
+| sesso_femminile | integer | Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
+| categoria_operatori_sanitari_sociosanitari | integer | Totale dei soggetti appartenenti alla categoria degli operatori sanitari e sociosanitari a cui è stato somministrato il vaccino per giorno, regione e fascia d'età. |
+| categoria_personale_non_sanitario | integer | Totale dei soggetti appartenenti alla categoria del personale non sanitario a cui è stato somministrato il vaccino per giorno, regione e fascia d'età. |
+| categoria_ospiti_rsa | integer | Totale dei soggetti ospiti della struttura residenziale a cui è stato somministrato il vaccino per giorno, regione e fascia d'età. |
+| categoria_over80 | integer | Numero somministrazioni categoria di rischio prevalente over 80 per giorno, regione e fascia d'età. |
+| prima_dose | integer | Numero prime somministrazioni. |
+| seconda_dose | integer | Numero seconde somministrazioni. |
 
-<table>
-  <tr>
-   <td colspan="3" ><strong>last-update-dataset</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Campo</strong>
-   </td>
-   <td><strong>Tipo di dati</strong>
-   </td>
-   <td><strong>Descrizione</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>ultimo_aggiornamento
-   </td>
-   <td>datetime
-   </td>
-   <td>Data e ora di ultimo aggiornamento del dataset.
-   </td>
-  </tr>
-</table>
+**last-update-dataset**
+
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| ultimo_aggiornamento | datetime | Data e ora di ultimo aggiornamento del dataset. |
+
 
 # Maintainer
 
