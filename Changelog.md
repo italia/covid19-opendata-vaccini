@@ -4,7 +4,13 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
-**20/02/2021**
+**25/02/2021**
+
+Sarà aggiunto il file contenente i principali punti di somministrazione suddivisi per tipologia (`punti-somministrazione-tipologia`).
+
+Il file `punti-somministrazione-latest` sarà dismesso nei prossimi giorni.
+
+## 20/02/2021
 
 I file contenenti le categorie prevalenti per le somminitrsazioni saranno estese con:
 * la categoria relativa ai soggetti appartenti alle Forze Armate (**categoria_forze_armate**)
