@@ -107,14 +107,13 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
 | nome_regione | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 
-**punti-somministrazione-latest**
+**punti-somministrazione-tipologia**
 
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
 | area | string | Regione. |
-| provincia | string | Provincia. |
-| comune | string | Comune. |
-| presidio_ospedaliero | string | Presidio di somministrazione. |
+| denominazione_struttura | string | Presidio di somministrazione. |
+| tipologia | string | Tipologia del presidio di somministrazione: ospedaliero o territoriale. |
 | codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
 | codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
 | codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
