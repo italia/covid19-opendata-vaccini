@@ -299,6 +299,17 @@
         },
         {
             "index":23,
+            "area":"ABR",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":9400,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF1",
+            "codice_regione_ISTAT":13,
+            "nome_area":"Abruzzo"
+        },
+        {
+            "index":24,
             "area":"BAS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":105,
@@ -309,7 +320,7 @@
             "nome_area":"Basilicata"
         },
         {
-            "index":24,
+            "index":25,
             "area":"BAS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
@@ -320,7 +331,7 @@
             "nome_area":"Basilicata"
         },
         {
-            "index":25,
+            "index":26,
             "area":"BAS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2925,
@@ -331,7 +342,7 @@
             "nome_area":"Basilicata"
         },
         {
-            "index":26,
+            "index":27,
             "area":"BAS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3900,
@@ -342,7 +353,7 @@
             "nome_area":"Basilicata"
         },
         {
-            "index":27,
+            "index":28,
             "area":"BAS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
@@ -353,22 +364,11 @@
             "nome_area":"Basilicata"
         },
         {
-            "index":28,
+            "index":29,
             "area":"BAS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
             "data_consegna":"2021-01-18T00:00:00.000Z",
-            "codice_NUTS1":"ITF",
-            "codice_NUTS2":"ITF5",
-            "codice_regione_ISTAT":17,
-            "nome_area":"Basilicata"
-        },
-        {
-            "index":29,
-            "area":"BAS",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":1170,
-            "data_consegna":"2021-01-19T00:00:00.000Z",
             "codice_NUTS1":"ITF",
             "codice_NUTS2":"ITF5",
             "codice_regione_ISTAT":17,
@@ -379,7 +379,7 @@
             "area":"BAS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
-            "data_consegna":"2021-01-25T00:00:00.000Z",
+            "data_consegna":"2021-01-19T00:00:00.000Z",
             "codice_NUTS1":"ITF",
             "codice_NUTS2":"ITF5",
             "codice_regione_ISTAT":17,
@@ -387,6 +387,17 @@
         },
         {
             "index":31,
+            "area":"BAS",
+            "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":1170,
+            "data_consegna":"2021-01-25T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF5",
+            "codice_regione_ISTAT":17,
+            "nome_area":"Basilicata"
+        },
+        {
+            "index":32,
             "area":"BAS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -397,21 +408,10 @@
             "nome_area":"Basilicata"
         },
         {
-            "index":32,
+            "index":33,
             "area":"BAS",
             "fornitore":"Moderna",
             "numero_dosi":600,
-            "data_consegna":"2021-02-01T00:00:00.000Z",
-            "codice_NUTS1":"ITF",
-            "codice_NUTS2":"ITF5",
-            "codice_regione_ISTAT":17,
-            "nome_area":"Basilicata"
-        },
-        {
-            "index":33,
-            "area":"BAS",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":2340,
             "data_consegna":"2021-02-01T00:00:00.000Z",
             "codice_NUTS1":"ITF",
             "codice_NUTS2":"ITF5",
@@ -422,6 +422,17 @@
             "index":34,
             "area":"BAS",
             "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":2340,
+            "data_consegna":"2021-02-01T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF5",
+            "codice_regione_ISTAT":17,
+            "nome_area":"Basilicata"
+        },
+        {
+            "index":35,
+            "area":"BAS",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
             "data_consegna":"2021-02-02T00:00:00.000Z",
             "codice_NUTS1":"ITF",
@@ -430,7 +441,7 @@
             "nome_area":"Basilicata"
         },
         {
-            "index":35,
+            "index":36,
             "area":"BAS",
             "fornitore":"AstraZeneca",
             "numero_dosi":2300,
@@ -441,7 +452,7 @@
             "nome_area":"Basilicata"
         },
         {
-            "index":36,
+            "index":37,
             "area":"BAS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -452,7 +463,7 @@
             "nome_area":"Basilicata"
         },
         {
-            "index":37,
+            "index":38,
             "area":"BAS",
             "fornitore":"AstraZeneca",
             "numero_dosi":2700,
@@ -463,7 +474,7 @@
             "nome_area":"Basilicata"
         },
         {
-            "index":38,
+            "index":39,
             "area":"BAS",
             "fornitore":"Moderna",
             "numero_dosi":1300,
@@ -474,7 +485,7 @@
             "nome_area":"Basilicata"
         },
         {
-            "index":39,
+            "index":40,
             "area":"BAS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -485,7 +496,7 @@
             "nome_area":"Basilicata"
         },
         {
-            "index":40,
+            "index":41,
             "area":"BAS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -496,7 +507,7 @@
             "nome_area":"Basilicata"
         },
         {
-            "index":41,
+            "index":42,
             "area":"BAS",
             "fornitore":"AstraZeneca",
             "numero_dosi":4700,
@@ -507,7 +518,7 @@
             "nome_area":"Basilicata"
         },
         {
-            "index":42,
+            "index":43,
             "area":"BAS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -518,7 +529,7 @@
             "nome_area":"Basilicata"
         },
         {
-            "index":43,
+            "index":44,
             "area":"BAS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -529,7 +540,18 @@
             "nome_area":"Basilicata"
         },
         {
-            "index":44,
+            "index":45,
+            "area":"BAS",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":4000,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF5",
+            "codice_regione_ISTAT":17,
+            "nome_area":"Basilicata"
+        },
+        {
+            "index":46,
             "area":"CAL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":280,
@@ -540,7 +562,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":45,
+            "index":47,
             "area":"CAL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":12675,
@@ -551,7 +573,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":46,
+            "index":48,
             "area":"CAL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":10725,
@@ -562,7 +584,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":47,
+            "index":49,
             "area":"CAL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
@@ -573,7 +595,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":48,
+            "index":50,
             "area":"CAL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":13650,
@@ -584,7 +606,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":49,
+            "index":51,
             "area":"CAL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":8190,
@@ -595,7 +617,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":50,
+            "index":52,
             "area":"CAL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -606,7 +628,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":51,
+            "index":53,
             "area":"CAL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -617,7 +639,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":52,
+            "index":54,
             "area":"CAL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":12870,
@@ -628,7 +650,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":53,
+            "index":55,
             "area":"CAL",
             "fornitore":"Moderna",
             "numero_dosi":2100,
@@ -639,7 +661,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":54,
+            "index":56,
             "area":"CAL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":15210,
@@ -650,7 +672,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":55,
+            "index":57,
             "area":"CAL",
             "fornitore":"AstraZeneca",
             "numero_dosi":8000,
@@ -661,7 +683,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":56,
+            "index":58,
             "area":"CAL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":16380,
@@ -672,7 +694,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":57,
+            "index":59,
             "area":"CAL",
             "fornitore":"AstraZeneca",
             "numero_dosi":9300,
@@ -683,7 +705,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":58,
+            "index":60,
             "area":"CAL",
             "fornitore":"Moderna",
             "numero_dosi":3900,
@@ -694,7 +716,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":59,
+            "index":61,
             "area":"CAL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":18720,
@@ -705,7 +727,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":60,
+            "index":62,
             "area":"CAL",
             "fornitore":"AstraZeneca",
             "numero_dosi":16100,
@@ -716,7 +738,7 @@
             "nome_area":"Calabria"
         },
         {
-            "index":61,
+            "index":63,
             "area":"CAL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":19890,
@@ -727,7 +749,18 @@
             "nome_area":"Calabria"
         },
         {
-            "index":62,
+            "index":64,
+            "area":"CAL",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":13600,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF6",
+            "codice_regione_ISTAT":18,
+            "nome_area":"Calabria"
+        },
+        {
+            "index":65,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":720,
@@ -738,7 +771,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":63,
+            "index":66,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":30225,
@@ -749,7 +782,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":64,
+            "index":67,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2925,
@@ -760,7 +793,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":65,
+            "index":68,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":18525,
@@ -771,7 +804,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":66,
+            "index":69,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
@@ -782,7 +815,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":67,
+            "index":70,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":9750,
@@ -793,7 +826,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":68,
+            "index":71,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":9750,
@@ -804,7 +837,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":69,
+            "index":72,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":27300,
@@ -815,7 +848,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":70,
+            "index":73,
             "area":"CAM",
             "fornitore":"Moderna",
             "numero_dosi":8200,
@@ -826,7 +859,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":71,
+            "index":74,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
@@ -837,7 +870,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":72,
+            "index":75,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":10530,
@@ -848,7 +881,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":73,
+            "index":76,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14040,
@@ -859,7 +892,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":74,
+            "index":77,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14040,
@@ -870,7 +903,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":75,
+            "index":78,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -881,7 +914,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":76,
+            "index":79,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":16380,
@@ -892,7 +925,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":77,
+            "index":80,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -903,7 +936,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":78,
+            "index":81,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -914,7 +947,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":79,
+            "index":82,
             "area":"CAM",
             "fornitore":"Moderna",
             "numero_dosi":6300,
@@ -925,7 +958,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":80,
+            "index":83,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -936,7 +969,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":81,
+            "index":84,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":38610,
@@ -947,7 +980,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":82,
+            "index":85,
             "area":"CAM",
             "fornitore":"AstraZeneca",
             "numero_dosi":24200,
@@ -958,7 +991,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":83,
+            "index":86,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":49140,
@@ -969,7 +1002,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":84,
+            "index":87,
             "area":"CAM",
             "fornitore":"AstraZeneca",
             "numero_dosi":28400,
@@ -980,7 +1013,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":85,
+            "index":88,
             "area":"CAM",
             "fornitore":"Moderna",
             "numero_dosi":9100,
@@ -991,7 +1024,7 @@
             "nome_area":"Campania"
         },
         {
-            "index":86,
+            "index":89,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -1002,44 +1035,11 @@
             "nome_area":"Campania"
         },
         {
-            "index":87,
+            "index":90,
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
             "data_consegna":"2021-02-16T00:00:00.000Z",
-            "codice_NUTS1":"ITF",
-            "codice_NUTS2":"ITF3",
-            "codice_regione_ISTAT":15,
-            "nome_area":"Campania"
-        },
-        {
-            "index":88,
-            "area":"CAM",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":33930,
-            "data_consegna":"2021-02-18T00:00:00.000Z",
-            "codice_NUTS1":"ITF",
-            "codice_NUTS2":"ITF3",
-            "codice_regione_ISTAT":15,
-            "nome_area":"Campania"
-        },
-        {
-            "index":89,
-            "area":"CAM",
-            "fornitore":"AstraZeneca",
-            "numero_dosi":49000,
-            "data_consegna":"2021-02-19T00:00:00.000Z",
-            "codice_NUTS1":"ITF",
-            "codice_NUTS2":"ITF3",
-            "codice_regione_ISTAT":15,
-            "nome_area":"Campania"
-        },
-        {
-            "index":90,
-            "area":"CAM",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":10530,
-            "data_consegna":"2021-02-22T00:00:00.000Z",
             "codice_NUTS1":"ITF",
             "codice_NUTS2":"ITF3",
             "codice_regione_ISTAT":15,
@@ -1050,7 +1050,7 @@
             "area":"CAM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":33930,
-            "data_consegna":"2021-02-23T00:00:00.000Z",
+            "data_consegna":"2021-02-18T00:00:00.000Z",
             "codice_NUTS1":"ITF",
             "codice_NUTS2":"ITF3",
             "codice_regione_ISTAT":15,
@@ -1058,6 +1058,50 @@
         },
         {
             "index":92,
+            "area":"CAM",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":49000,
+            "data_consegna":"2021-02-19T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
+        },
+        {
+            "index":93,
+            "area":"CAM",
+            "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":10530,
+            "data_consegna":"2021-02-22T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
+        },
+        {
+            "index":94,
+            "area":"CAM",
+            "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":33930,
+            "data_consegna":"2021-02-23T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
+        },
+        {
+            "index":95,
+            "area":"CAM",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":43900,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF3",
+            "codice_regione_ISTAT":15,
+            "nome_area":"Campania"
+        },
+        {
+            "index":96,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
@@ -1068,7 +1112,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":93,
+            "index":97,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":30225,
@@ -1079,7 +1123,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":94,
+            "index":98,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":12675,
@@ -1090,7 +1134,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":95,
+            "index":99,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":16575,
@@ -1101,7 +1145,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":96,
+            "index":100,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":28275,
@@ -1112,7 +1156,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":97,
+            "index":101,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
@@ -1123,7 +1167,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":98,
+            "index":102,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":39000,
@@ -1134,7 +1178,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":99,
+            "index":103,
             "area":"EMR",
             "fornitore":"Moderna",
             "numero_dosi":7400,
@@ -1145,7 +1189,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":100,
+            "index":104,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":9360,
@@ -1156,7 +1200,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":101,
+            "index":105,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -1167,7 +1211,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":102,
+            "index":106,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14040,
@@ -1178,7 +1222,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":103,
+            "index":107,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":31590,
@@ -1189,7 +1233,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":104,
+            "index":108,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":23400,
@@ -1200,7 +1244,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":105,
+            "index":109,
             "area":"EMR",
             "fornitore":"Moderna",
             "numero_dosi":4900,
@@ -1211,7 +1255,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":106,
+            "index":110,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":50310,
@@ -1222,7 +1266,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":107,
+            "index":111,
             "area":"EMR",
             "fornitore":"AstraZeneca",
             "numero_dosi":18300,
@@ -1233,7 +1277,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":108,
+            "index":112,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -1244,7 +1288,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":109,
+            "index":113,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":35100,
@@ -1255,7 +1299,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":110,
+            "index":114,
             "area":"EMR",
             "fornitore":"AstraZeneca",
             "numero_dosi":21400,
@@ -1266,7 +1310,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":111,
+            "index":115,
             "area":"EMR",
             "fornitore":"Moderna",
             "numero_dosi":11000,
@@ -1277,7 +1321,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":112,
+            "index":116,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":51480,
@@ -1288,7 +1332,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":113,
+            "index":117,
             "area":"EMR",
             "fornitore":"AstraZeneca",
             "numero_dosi":9500,
@@ -1299,7 +1343,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":114,
+            "index":118,
             "area":"EMR",
             "fornitore":"AstraZeneca",
             "numero_dosi":27600,
@@ -1310,7 +1354,7 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":115,
+            "index":119,
             "area":"EMR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":52650,
@@ -1321,7 +1365,18 @@
             "nome_area":"Emilia-Romagna"
         },
         {
-            "index":116,
+            "index":120,
+            "area":"EMR",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":31200,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH5",
+            "codice_regione_ISTAT":8,
+            "nome_area":"Emilia-Romagna"
+        },
+        {
+            "index":121,
             "area":"FVG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":265,
@@ -1332,7 +1387,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":117,
+            "index":122,
             "area":"FVG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -1343,7 +1398,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":118,
+            "index":123,
             "area":"FVG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -1354,7 +1409,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":119,
+            "index":124,
             "area":"FVG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":6825,
@@ -1365,7 +1420,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":120,
+            "index":125,
             "area":"FVG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
@@ -1376,7 +1431,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":121,
+            "index":126,
             "area":"FVG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
@@ -1387,7 +1442,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":122,
+            "index":127,
             "area":"FVG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
@@ -1398,7 +1453,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":123,
+            "index":128,
             "area":"FVG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":10725,
@@ -1409,7 +1464,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":124,
+            "index":129,
             "area":"FVG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -1420,7 +1475,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":125,
+            "index":130,
             "area":"FVG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -1431,7 +1486,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":126,
+            "index":131,
             "area":"FVG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":9360,
@@ -1442,7 +1497,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":127,
+            "index":132,
             "area":"FVG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7020,
@@ -1453,7 +1508,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":128,
+            "index":133,
             "area":"FVG",
             "fornitore":"Moderna",
             "numero_dosi":1300,
@@ -1464,7 +1519,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":129,
+            "index":134,
             "area":"FVG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14040,
@@ -1475,7 +1530,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":130,
+            "index":135,
             "area":"FVG",
             "fornitore":"AstraZeneca",
             "numero_dosi":5000,
@@ -1486,7 +1541,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":131,
+            "index":136,
             "area":"FVG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":10530,
@@ -1497,7 +1552,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":132,
+            "index":137,
             "area":"FVG",
             "fornitore":"AstraZeneca",
             "numero_dosi":5900,
@@ -1508,7 +1563,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":133,
+            "index":138,
             "area":"FVG",
             "fornitore":"Moderna",
             "numero_dosi":3100,
@@ -1519,7 +1574,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":134,
+            "index":139,
             "area":"FVG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":16380,
@@ -1530,7 +1585,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":135,
+            "index":140,
             "area":"FVG",
             "fornitore":"AstraZeneca",
             "numero_dosi":10100,
@@ -1541,7 +1596,7 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":136,
+            "index":141,
             "area":"FVG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14040,
@@ -1552,7 +1607,18 @@
             "nome_area":"Friuli-Venezia Giulia"
         },
         {
-            "index":137,
+            "index":142,
+            "area":"FVG",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":8500,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH4",
+            "codice_regione_ISTAT":6,
+            "nome_area":"Friuli-Venezia Giulia"
+        },
+        {
+            "index":143,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":955,
@@ -1563,7 +1629,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":138,
+            "index":144,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":38025,
@@ -1574,7 +1640,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":139,
+            "index":145,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":6825,
@@ -1585,7 +1651,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":140,
+            "index":146,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":12675,
@@ -1596,7 +1662,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":141,
+            "index":147,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":21450,
@@ -1607,7 +1673,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":142,
+            "index":148,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14625,
@@ -1618,7 +1684,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":143,
+            "index":149,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":38025,
@@ -1629,7 +1695,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":144,
+            "index":150,
             "area":"LAZ",
             "fornitore":"Moderna",
             "numero_dosi":7400,
@@ -1640,7 +1706,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":145,
+            "index":151,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -1651,7 +1717,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":146,
+            "index":152,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":12870,
@@ -1662,7 +1728,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":147,
+            "index":153,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":19890,
@@ -1673,7 +1739,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":148,
+            "index":154,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":26910,
@@ -1684,7 +1750,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":149,
+            "index":155,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14040,
@@ -1695,7 +1761,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":150,
+            "index":156,
             "area":"LAZ",
             "fornitore":"Moderna",
             "numero_dosi":6400,
@@ -1706,7 +1772,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":151,
+            "index":157,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":45630,
@@ -1717,7 +1783,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":152,
+            "index":158,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -1728,7 +1794,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":153,
+            "index":159,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -1739,7 +1805,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":154,
+            "index":160,
             "area":"LAZ",
             "fornitore":"AstraZeneca",
             "numero_dosi":24100,
@@ -1750,7 +1816,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":155,
+            "index":161,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":38610,
@@ -1761,7 +1827,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":156,
+            "index":162,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":10530,
@@ -1772,7 +1838,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":157,
+            "index":163,
             "area":"LAZ",
             "fornitore":"AstraZeneca",
             "numero_dosi":28300,
@@ -1783,7 +1849,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":158,
+            "index":164,
             "area":"LAZ",
             "fornitore":"Moderna",
             "numero_dosi":12000,
@@ -1794,7 +1860,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":159,
+            "index":165,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":56160,
@@ -1805,7 +1871,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":160,
+            "index":166,
             "area":"LAZ",
             "fornitore":"AstraZeneca",
             "numero_dosi":48900,
@@ -1816,7 +1882,7 @@
             "nome_area":"Lazio"
         },
         {
-            "index":161,
+            "index":167,
             "area":"LAZ",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":59670,
@@ -1827,7 +1893,18 @@
             "nome_area":"Lazio"
         },
         {
-            "index":162,
+            "index":168,
+            "area":"LAZ",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":53900,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI4",
+            "codice_regione_ISTAT":12,
+            "nome_area":"Lazio"
+        },
+        {
+            "index":169,
             "area":"LIG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":320,
@@ -1838,7 +1915,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":163,
+            "index":170,
             "area":"LIG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":15600,
@@ -1849,7 +1926,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":164,
+            "index":171,
             "area":"LIG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":11700,
@@ -1860,7 +1937,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":165,
+            "index":172,
             "area":"LIG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
@@ -1871,7 +1948,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":166,
+            "index":173,
             "area":"LIG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3900,
@@ -1882,7 +1959,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":167,
+            "index":174,
             "area":"LIG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":13650,
@@ -1893,7 +1970,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":168,
+            "index":175,
             "area":"LIG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -1904,7 +1981,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":169,
+            "index":176,
             "area":"LIG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -1915,7 +1992,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":170,
+            "index":177,
             "area":"LIG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14040,
@@ -1926,7 +2003,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":171,
+            "index":178,
             "area":"LIG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":8190,
@@ -1937,7 +2014,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":172,
+            "index":179,
             "area":"LIG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -1948,7 +2025,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":173,
+            "index":180,
             "area":"LIG",
             "fornitore":"Moderna",
             "numero_dosi":1700,
@@ -1959,7 +2036,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":174,
+            "index":181,
             "area":"LIG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":16380,
@@ -1970,7 +2047,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":175,
+            "index":182,
             "area":"LIG",
             "fornitore":"AstraZeneca",
             "numero_dosi":6300,
@@ -1981,7 +2058,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":176,
+            "index":183,
             "area":"LIG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":12870,
@@ -1992,7 +2069,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":177,
+            "index":184,
             "area":"LIG",
             "fornitore":"AstraZeneca",
             "numero_dosi":7400,
@@ -2003,7 +2080,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":178,
+            "index":185,
             "area":"LIG",
             "fornitore":"Moderna",
             "numero_dosi":4700,
@@ -2014,7 +2091,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":179,
+            "index":186,
             "area":"LIG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":21060,
@@ -2025,7 +2102,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":180,
+            "index":187,
             "area":"LIG",
             "fornitore":"AstraZeneca",
             "numero_dosi":1900,
@@ -2036,7 +2113,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":181,
+            "index":188,
             "area":"LIG",
             "fornitore":"AstraZeneca",
             "numero_dosi":10900,
@@ -2047,7 +2124,7 @@
             "nome_area":"Liguria"
         },
         {
-            "index":182,
+            "index":189,
             "area":"LIG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":22230,
@@ -2058,7 +2135,18 @@
             "nome_area":"Liguria"
         },
         {
-            "index":183,
+            "index":190,
+            "area":"LIG",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":11200,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC3",
+            "codice_regione_ISTAT":7,
+            "nome_area":"Liguria"
+        },
+        {
+            "index":191,
             "area":"LOM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1620,
@@ -2069,7 +2157,7 @@
             "nome_area":"Lombardia"
         },
         {
-            "index":184,
+            "index":192,
             "area":"LOM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":59475,
@@ -2080,7 +2168,7 @@
             "nome_area":"Lombardia"
         },
         {
-            "index":185,
+            "index":193,
             "area":"LOM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":19500,
@@ -2091,7 +2179,7 @@
             "nome_area":"Lombardia"
         },
         {
-            "index":186,
+            "index":194,
             "area":"LOM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":28275,
@@ -2102,7 +2190,7 @@
             "nome_area":"Lombardia"
         },
         {
-            "index":187,
+            "index":195,
             "area":"LOM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":39975,
@@ -2113,7 +2201,7 @@
             "nome_area":"Lombardia"
         },
         {
-            "index":188,
+            "index":196,
             "area":"LOM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -2124,7 +2212,7 @@
             "nome_area":"Lombardia"
         },
         {
-            "index":189,
+            "index":197,
             "area":"LOM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":78000,
@@ -2135,7 +2223,7 @@
             "nome_area":"Lombardia"
         },
         {
-            "index":190,
+            "index":198,
             "area":"LOM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
@@ -2146,7 +2234,7 @@
             "nome_area":"Lombardia"
         },
         {
-            "index":191,
+            "index":199,
             "area":"LOM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
@@ -2157,99 +2245,11 @@
             "nome_area":"Lombardia"
         },
         {
-            "index":192,
+            "index":200,
             "area":"LOM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14040,
             "data_consegna":"2021-01-18T00:00:00.000Z",
-            "codice_NUTS1":"ITC",
-            "codice_NUTS2":"ITC4",
-            "codice_regione_ISTAT":3,
-            "nome_area":"Lombardia"
-        },
-        {
-            "index":193,
-            "area":"LOM",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":26910,
-            "data_consegna":"2021-01-20T00:00:00.000Z",
-            "codice_NUTS1":"ITC",
-            "codice_NUTS2":"ITC4",
-            "codice_regione_ISTAT":3,
-            "nome_area":"Lombardia"
-        },
-        {
-            "index":194,
-            "area":"LOM",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":29250,
-            "data_consegna":"2021-01-21T00:00:00.000Z",
-            "codice_NUTS1":"ITC",
-            "codice_NUTS2":"ITC4",
-            "codice_regione_ISTAT":3,
-            "nome_area":"Lombardia"
-        },
-        {
-            "index":195,
-            "area":"LOM",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":50310,
-            "data_consegna":"2021-01-26T00:00:00.000Z",
-            "codice_NUTS1":"ITC",
-            "codice_NUTS2":"ITC4",
-            "codice_regione_ISTAT":3,
-            "nome_area":"Lombardia"
-        },
-        {
-            "index":196,
-            "area":"LOM",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":23400,
-            "data_consegna":"2021-01-27T00:00:00.000Z",
-            "codice_NUTS1":"ITC",
-            "codice_NUTS2":"ITC4",
-            "codice_regione_ISTAT":3,
-            "nome_area":"Lombardia"
-        },
-        {
-            "index":197,
-            "area":"LOM",
-            "fornitore":"Moderna",
-            "numero_dosi":11100,
-            "data_consegna":"2021-02-01T00:00:00.000Z",
-            "codice_NUTS1":"ITC",
-            "codice_NUTS2":"ITC4",
-            "codice_regione_ISTAT":3,
-            "nome_area":"Lombardia"
-        },
-        {
-            "index":198,
-            "area":"LOM",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":84240,
-            "data_consegna":"2021-02-02T00:00:00.000Z",
-            "codice_NUTS1":"ITC",
-            "codice_NUTS2":"ITC4",
-            "codice_regione_ISTAT":3,
-            "nome_area":"Lombardia"
-        },
-        {
-            "index":199,
-            "area":"LOM",
-            "fornitore":"AstraZeneca",
-            "numero_dosi":41800,
-            "data_consegna":"2021-02-09T00:00:00.000Z",
-            "codice_NUTS1":"ITC",
-            "codice_NUTS2":"ITC4",
-            "codice_regione_ISTAT":3,
-            "nome_area":"Lombardia"
-        },
-        {
-            "index":200,
-            "area":"LOM",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":58500,
-            "data_consegna":"2021-02-09T00:00:00.000Z",
             "codice_NUTS1":"ITC",
             "codice_NUTS2":"ITC4",
             "codice_regione_ISTAT":3,
@@ -2260,7 +2260,7 @@
             "area":"LOM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":26910,
-            "data_consegna":"2021-02-10T00:00:00.000Z",
+            "data_consegna":"2021-01-20T00:00:00.000Z",
             "codice_NUTS1":"ITC",
             "codice_NUTS2":"ITC4",
             "codice_regione_ISTAT":3,
@@ -2268,6 +2268,94 @@
         },
         {
             "index":202,
+            "area":"LOM",
+            "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":29250,
+            "data_consegna":"2021-01-21T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
+        },
+        {
+            "index":203,
+            "area":"LOM",
+            "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":50310,
+            "data_consegna":"2021-01-26T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
+        },
+        {
+            "index":204,
+            "area":"LOM",
+            "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":23400,
+            "data_consegna":"2021-01-27T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
+        },
+        {
+            "index":205,
+            "area":"LOM",
+            "fornitore":"Moderna",
+            "numero_dosi":11100,
+            "data_consegna":"2021-02-01T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
+        },
+        {
+            "index":206,
+            "area":"LOM",
+            "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":84240,
+            "data_consegna":"2021-02-02T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
+        },
+        {
+            "index":207,
+            "area":"LOM",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":41800,
+            "data_consegna":"2021-02-09T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
+        },
+        {
+            "index":208,
+            "area":"LOM",
+            "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":58500,
+            "data_consegna":"2021-02-09T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
+        },
+        {
+            "index":209,
+            "area":"LOM",
+            "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":26910,
+            "data_consegna":"2021-02-10T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
+        },
+        {
+            "index":210,
             "area":"LOM",
             "fornitore":"AstraZeneca",
             "numero_dosi":49100,
@@ -2278,7 +2366,7 @@
             "nome_area":"Lombardia"
         },
         {
-            "index":203,
+            "index":211,
             "area":"LOM",
             "fornitore":"Moderna",
             "numero_dosi":22000,
@@ -2289,7 +2377,7 @@
             "nome_area":"Lombardia"
         },
         {
-            "index":204,
+            "index":212,
             "area":"LOM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":100620,
@@ -2300,7 +2388,7 @@
             "nome_area":"Lombardia"
         },
         {
-            "index":205,
+            "index":213,
             "area":"LOM",
             "fornitore":"AstraZeneca",
             "numero_dosi":84900,
@@ -2311,7 +2399,7 @@
             "nome_area":"Lombardia"
         },
         {
-            "index":206,
+            "index":214,
             "area":"LOM",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":104130,
@@ -2322,7 +2410,18 @@
             "nome_area":"Lombardia"
         },
         {
-            "index":207,
+            "index":215,
+            "area":"LOM",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":73900,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC4",
+            "codice_regione_ISTAT":3,
+            "nome_area":"Lombardia"
+        },
+        {
+            "index":216,
             "area":"MAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":200,
@@ -2333,7 +2432,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":208,
+            "index":217,
             "area":"MAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":8775,
@@ -2344,7 +2443,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":209,
+            "index":218,
             "area":"MAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":6825,
@@ -2355,7 +2454,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":210,
+            "index":219,
             "area":"MAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
@@ -2366,7 +2465,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":211,
+            "index":220,
             "area":"MAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":9750,
@@ -2377,7 +2476,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":212,
+            "index":221,
             "area":"MAR",
             "fornitore":"Moderna",
             "numero_dosi":1500,
@@ -2388,7 +2487,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":213,
+            "index":222,
             "area":"MAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -2399,7 +2498,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":214,
+            "index":223,
             "area":"MAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":8190,
@@ -2410,7 +2509,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":215,
+            "index":224,
             "area":"MAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -2421,7 +2520,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":216,
+            "index":225,
             "area":"MAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -2432,7 +2531,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":217,
+            "index":226,
             "area":"MAR",
             "fornitore":"Moderna",
             "numero_dosi":1700,
@@ -2443,7 +2542,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":218,
+            "index":227,
             "area":"MAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":10530,
@@ -2454,7 +2553,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":219,
+            "index":228,
             "area":"MAR",
             "fornitore":"AstraZeneca",
             "numero_dosi":6300,
@@ -2465,7 +2564,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":220,
+            "index":229,
             "area":"MAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":12870,
@@ -2476,7 +2575,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":221,
+            "index":230,
             "area":"MAR",
             "fornitore":"AstraZeneca",
             "numero_dosi":7500,
@@ -2487,7 +2586,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":222,
+            "index":231,
             "area":"MAR",
             "fornitore":"Moderna",
             "numero_dosi":4000,
@@ -2498,7 +2597,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":223,
+            "index":232,
             "area":"MAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":18720,
@@ -2509,7 +2608,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":224,
+            "index":233,
             "area":"MAR",
             "fornitore":"AstraZeneca",
             "numero_dosi":12900,
@@ -2520,7 +2619,7 @@
             "nome_area":"Marche"
         },
         {
-            "index":225,
+            "index":234,
             "area":"MAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":18720,
@@ -2531,7 +2630,18 @@
             "nome_area":"Marche"
         },
         {
-            "index":226,
+            "index":235,
+            "area":"MAR",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":10900,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI3",
+            "codice_regione_ISTAT":11,
+            "nome_area":"Marche"
+        },
+        {
+            "index":236,
             "area":"MOL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":50,
@@ -2542,7 +2652,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":227,
+            "index":237,
             "area":"MOL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2925,
@@ -2553,7 +2663,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":228,
+            "index":238,
             "area":"MOL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
@@ -2564,7 +2674,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":229,
+            "index":239,
             "area":"MOL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2925,
@@ -2575,7 +2685,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":230,
+            "index":240,
             "area":"MOL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
@@ -2586,7 +2696,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":231,
+            "index":241,
             "area":"MOL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -2597,7 +2707,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":232,
+            "index":242,
             "area":"MOL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -2608,7 +2718,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":233,
+            "index":243,
             "area":"MOL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -2619,7 +2729,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":234,
+            "index":244,
             "area":"MOL",
             "fornitore":"Moderna",
             "numero_dosi":300,
@@ -2630,7 +2740,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":235,
+            "index":245,
             "area":"MOL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -2641,7 +2751,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":236,
+            "index":246,
             "area":"MOL",
             "fornitore":"AstraZeneca",
             "numero_dosi":1300,
@@ -2652,7 +2762,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":237,
+            "index":247,
             "area":"MOL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -2663,7 +2773,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":238,
+            "index":248,
             "area":"MOL",
             "fornitore":"AstraZeneca",
             "numero_dosi":1500,
@@ -2674,7 +2784,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":239,
+            "index":249,
             "area":"MOL",
             "fornitore":"Moderna",
             "numero_dosi":800,
@@ -2685,7 +2795,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":240,
+            "index":250,
             "area":"MOL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -2696,7 +2806,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":241,
+            "index":251,
             "area":"MOL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -2707,7 +2817,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":242,
+            "index":252,
             "area":"MOL",
             "fornitore":"AstraZeneca",
             "numero_dosi":2600,
@@ -2718,7 +2828,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":243,
+            "index":253,
             "area":"MOL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -2729,7 +2839,7 @@
             "nome_area":"Molise"
         },
         {
-            "index":244,
+            "index":254,
             "area":"MOL",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -2740,7 +2850,18 @@
             "nome_area":"Molise"
         },
         {
-            "index":245,
+            "index":255,
+            "area":"MOL",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":2200,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF2",
+            "codice_regione_ISTAT":14,
+            "nome_area":"Molise"
+        },
+        {
+            "index":256,
             "area":"PAB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":145,
@@ -2751,7 +2872,7 @@
             "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
-            "index":246,
+            "index":257,
             "area":"PAB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -2762,7 +2883,7 @@
             "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
-            "index":247,
+            "index":258,
             "area":"PAB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":6825,
@@ -2773,7 +2894,7 @@
             "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
-            "index":248,
+            "index":259,
             "area":"PAB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":6825,
@@ -2784,7 +2905,7 @@
             "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
-            "index":249,
+            "index":260,
             "area":"PAB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -2795,7 +2916,7 @@
             "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
-            "index":250,
+            "index":261,
             "area":"PAB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":9360,
@@ -2806,7 +2927,7 @@
             "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
-            "index":251,
+            "index":262,
             "area":"PAB",
             "fornitore":"Moderna",
             "numero_dosi":600,
@@ -2817,7 +2938,7 @@
             "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
-            "index":252,
+            "index":263,
             "area":"PAB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":8190,
@@ -2828,7 +2949,7 @@
             "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
-            "index":253,
+            "index":264,
             "area":"PAB",
             "fornitore":"AstraZeneca",
             "numero_dosi":2100,
@@ -2839,7 +2960,7 @@
             "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
-            "index":254,
+            "index":265,
             "area":"PAB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -2850,7 +2971,7 @@
             "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
-            "index":255,
+            "index":266,
             "area":"PAB",
             "fornitore":"AstraZeneca",
             "numero_dosi":2400,
@@ -2861,7 +2982,7 @@
             "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
-            "index":256,
+            "index":267,
             "area":"PAB",
             "fornitore":"Moderna",
             "numero_dosi":1000,
@@ -2872,7 +2993,7 @@
             "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
-            "index":257,
+            "index":268,
             "area":"PAB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -2883,7 +3004,7 @@
             "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
-            "index":258,
+            "index":269,
             "area":"PAB",
             "fornitore":"AstraZeneca",
             "numero_dosi":4200,
@@ -2894,7 +3015,7 @@
             "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
-            "index":259,
+            "index":270,
             "area":"PAB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -2905,7 +3026,18 @@
             "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
-            "index":260,
+            "index":271,
+            "area":"PAB",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":3600,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH1",
+            "codice_regione_ISTAT":4,
+            "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
+        },
+        {
+            "index":272,
             "area":"PAT",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":100,
@@ -2916,7 +3048,7 @@
             "nome_area":"Provincia Autonoma Trento"
         },
         {
-            "index":261,
+            "index":273,
             "area":"PAT",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
@@ -2927,7 +3059,7 @@
             "nome_area":"Provincia Autonoma Trento"
         },
         {
-            "index":262,
+            "index":274,
             "area":"PAT",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
@@ -2938,7 +3070,7 @@
             "nome_area":"Provincia Autonoma Trento"
         },
         {
-            "index":263,
+            "index":275,
             "area":"PAT",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2925,
@@ -2949,7 +3081,7 @@
             "nome_area":"Provincia Autonoma Trento"
         },
         {
-            "index":264,
+            "index":276,
             "area":"PAT",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -2960,7 +3092,7 @@
             "nome_area":"Provincia Autonoma Trento"
         },
         {
-            "index":265,
+            "index":277,
             "area":"PAT",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -2971,7 +3103,7 @@
             "nome_area":"Provincia Autonoma Trento"
         },
         {
-            "index":266,
+            "index":278,
             "area":"PAT",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7020,
@@ -2982,7 +3114,7 @@
             "nome_area":"Provincia Autonoma Trento"
         },
         {
-            "index":267,
+            "index":279,
             "area":"PAT",
             "fornitore":"Moderna",
             "numero_dosi":600,
@@ -2993,7 +3125,7 @@
             "nome_area":"Provincia Autonoma Trento"
         },
         {
-            "index":268,
+            "index":280,
             "area":"PAT",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -3004,7 +3136,7 @@
             "nome_area":"Provincia Autonoma Trento"
         },
         {
-            "index":269,
+            "index":281,
             "area":"PAT",
             "fornitore":"AstraZeneca",
             "numero_dosi":2200,
@@ -3015,7 +3147,7 @@
             "nome_area":"Provincia Autonoma Trento"
         },
         {
-            "index":270,
+            "index":282,
             "area":"PAT",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -3026,7 +3158,7 @@
             "nome_area":"Provincia Autonoma Trento"
         },
         {
-            "index":271,
+            "index":283,
             "area":"PAT",
             "fornitore":"AstraZeneca",
             "numero_dosi":2600,
@@ -3037,7 +3169,7 @@
             "nome_area":"Provincia Autonoma Trento"
         },
         {
-            "index":272,
+            "index":284,
             "area":"PAT",
             "fornitore":"Moderna",
             "numero_dosi":1100,
@@ -3048,7 +3180,7 @@
             "nome_area":"Provincia Autonoma Trento"
         },
         {
-            "index":273,
+            "index":285,
             "area":"PAT",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -3059,7 +3191,7 @@
             "nome_area":"Provincia Autonoma Trento"
         },
         {
-            "index":274,
+            "index":286,
             "area":"PAT",
             "fornitore":"AstraZeneca",
             "numero_dosi":4600,
@@ -3070,7 +3202,7 @@
             "nome_area":"Provincia Autonoma Trento"
         },
         {
-            "index":275,
+            "index":287,
             "area":"PAT",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -3081,7 +3213,18 @@
             "nome_area":"Provincia Autonoma Trento"
         },
         {
-            "index":276,
+            "index":288,
+            "area":"PAT",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":3800,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH2",
+            "codice_regione_ISTAT":4,
+            "nome_area":"Provincia Autonoma Trento"
+        },
+        {
+            "index":289,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":910,
@@ -3092,7 +3235,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":277,
+            "index":290,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":39000,
@@ -3103,7 +3246,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":278,
+            "index":291,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
@@ -3114,7 +3257,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":279,
+            "index":292,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":20475,
@@ -3125,7 +3268,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":280,
+            "index":293,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":21450,
@@ -3136,7 +3279,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":281,
+            "index":294,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":39000,
@@ -3147,7 +3290,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":282,
+            "index":295,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
@@ -3158,7 +3301,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":283,
+            "index":296,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":10530,
@@ -3169,7 +3312,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":284,
+            "index":297,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -3180,7 +3323,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":285,
+            "index":298,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":15210,
@@ -3191,7 +3334,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":286,
+            "index":299,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":17550,
@@ -3202,7 +3345,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":287,
+            "index":300,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":18720,
@@ -3213,7 +3356,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":288,
+            "index":301,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14040,
@@ -3224,7 +3367,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":289,
+            "index":302,
             "area":"PIE",
             "fornitore":"Moderna",
             "numero_dosi":4800,
@@ -3235,7 +3378,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":290,
+            "index":303,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":42120,
@@ -3246,7 +3389,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":291,
+            "index":304,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -3257,7 +3400,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":292,
+            "index":305,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":35100,
@@ -3268,7 +3411,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":293,
+            "index":306,
             "area":"PIE",
             "fornitore":"AstraZeneca",
             "numero_dosi":17800,
@@ -3279,7 +3422,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":294,
+            "index":307,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -3290,7 +3433,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":295,
+            "index":308,
             "area":"PIE",
             "fornitore":"AstraZeneca",
             "numero_dosi":20900,
@@ -3301,7 +3444,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":296,
+            "index":309,
             "area":"PIE",
             "fornitore":"Moderna",
             "numero_dosi":11100,
@@ -3312,7 +3455,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":297,
+            "index":310,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":53820,
@@ -3323,7 +3466,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":298,
+            "index":311,
             "area":"PIE",
             "fornitore":"AstraZeneca",
             "numero_dosi":36200,
@@ -3334,7 +3477,7 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":299,
+            "index":312,
             "area":"PIE",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":51480,
@@ -3345,7 +3488,18 @@
             "nome_area":"Piemonte"
         },
         {
-            "index":300,
+            "index":313,
+            "area":"PIE",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":32600,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC1",
+            "codice_regione_ISTAT":1,
+            "nome_area":"Piemonte"
+        },
+        {
+            "index":314,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":505,
@@ -3356,7 +3510,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":301,
+            "index":315,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":20475,
@@ -3367,7 +3521,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":302,
+            "index":316,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
@@ -3378,7 +3532,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":303,
+            "index":317,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -3389,7 +3543,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":304,
+            "index":318,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":16575,
@@ -3400,7 +3554,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":305,
+            "index":319,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":23400,
@@ -3411,7 +3565,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":306,
+            "index":320,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2925,
@@ -3422,7 +3576,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":307,
+            "index":321,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":16380,
@@ -3433,7 +3587,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":308,
+            "index":322,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -3444,7 +3598,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":309,
+            "index":323,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":11700,
@@ -3455,7 +3609,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":310,
+            "index":324,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7020,
@@ -3466,7 +3620,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":311,
+            "index":325,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":8190,
@@ -3477,7 +3631,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":312,
+            "index":326,
             "area":"PUG",
             "fornitore":"Moderna",
             "numero_dosi":4300,
@@ -3488,7 +3642,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":313,
+            "index":327,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14040,
@@ -3499,7 +3653,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":314,
+            "index":328,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":11700,
@@ -3510,7 +3664,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":315,
+            "index":329,
             "area":"PUG",
             "fornitore":"AstraZeneca",
             "numero_dosi":16800,
@@ -3521,7 +3675,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":316,
+            "index":330,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":33930,
@@ -3532,7 +3686,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":317,
+            "index":331,
             "area":"PUG",
             "fornitore":"AstraZeneca",
             "numero_dosi":19800,
@@ -3543,7 +3697,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":318,
+            "index":332,
             "area":"PUG",
             "fornitore":"Moderna",
             "numero_dosi":8000,
@@ -3554,7 +3708,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":319,
+            "index":333,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":30420,
@@ -3565,7 +3719,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":320,
+            "index":334,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":8190,
@@ -3576,7 +3730,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":321,
+            "index":335,
             "area":"PUG",
             "fornitore":"AstraZeneca",
             "numero_dosi":5200,
@@ -3587,7 +3741,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":322,
+            "index":336,
             "area":"PUG",
             "fornitore":"AstraZeneca",
             "numero_dosi":28900,
@@ -3598,7 +3752,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":323,
+            "index":337,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":33930,
@@ -3609,7 +3763,7 @@
             "nome_area":"Puglia"
         },
         {
-            "index":324,
+            "index":338,
             "area":"PUG",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -3620,7 +3774,18 @@
             "nome_area":"Puglia"
         },
         {
-            "index":325,
+            "index":339,
+            "area":"PUG",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":33100,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITF",
+            "codice_NUTS2":"ITF4",
+            "codice_regione_ISTAT":16,
+            "nome_area":"Puglia"
+        },
+        {
+            "index":340,
             "area":"SAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":180,
@@ -3631,7 +3796,7 @@
             "nome_area":"Sardegna"
         },
         {
-            "index":326,
+            "index":341,
             "area":"SAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":12675,
@@ -3642,7 +3807,7 @@
             "nome_area":"Sardegna"
         },
         {
-            "index":327,
+            "index":342,
             "area":"SAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":6825,
@@ -3653,7 +3818,7 @@
             "nome_area":"Sardegna"
         },
         {
-            "index":328,
+            "index":343,
             "area":"SAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":13650,
@@ -3664,7 +3829,7 @@
             "nome_area":"Sardegna"
         },
         {
-            "index":329,
+            "index":344,
             "area":"SAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7020,
@@ -3675,7 +3840,7 @@
             "nome_area":"Sardegna"
         },
         {
-            "index":330,
+            "index":345,
             "area":"SAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":12870,
@@ -3686,7 +3851,7 @@
             "nome_area":"Sardegna"
         },
         {
-            "index":331,
+            "index":346,
             "area":"SAR",
             "fornitore":"Moderna",
             "numero_dosi":1800,
@@ -3697,7 +3862,7 @@
             "nome_area":"Sardegna"
         },
         {
-            "index":332,
+            "index":347,
             "area":"SAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":9360,
@@ -3708,7 +3873,7 @@
             "nome_area":"Sardegna"
         },
         {
-            "index":333,
+            "index":348,
             "area":"SAR",
             "fornitore":"AstraZeneca",
             "numero_dosi":7100,
@@ -3719,7 +3884,7 @@
             "nome_area":"Sardegna"
         },
         {
-            "index":334,
+            "index":349,
             "area":"SAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14040,
@@ -3730,7 +3895,7 @@
             "nome_area":"Sardegna"
         },
         {
-            "index":335,
+            "index":350,
             "area":"SAR",
             "fornitore":"AstraZeneca",
             "numero_dosi":8300,
@@ -3741,7 +3906,7 @@
             "nome_area":"Sardegna"
         },
         {
-            "index":336,
+            "index":351,
             "area":"SAR",
             "fornitore":"Moderna",
             "numero_dosi":3500,
@@ -3752,7 +3917,7 @@
             "nome_area":"Sardegna"
         },
         {
-            "index":337,
+            "index":352,
             "area":"SAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":16380,
@@ -3763,7 +3928,7 @@
             "nome_area":"Sardegna"
         },
         {
-            "index":338,
+            "index":353,
             "area":"SAR",
             "fornitore":"AstraZeneca",
             "numero_dosi":14300,
@@ -3774,7 +3939,7 @@
             "nome_area":"Sardegna"
         },
         {
-            "index":339,
+            "index":354,
             "area":"SAR",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":16380,
@@ -3785,7 +3950,18 @@
             "nome_area":"Sardegna"
         },
         {
-            "index":340,
+            "index":355,
+            "area":"SAR",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":14400,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG2",
+            "codice_regione_ISTAT":20,
+            "nome_area":"Sardegna"
+        },
+        {
+            "index":356,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":685,
@@ -3796,7 +3972,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":341,
+            "index":357,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":45825,
@@ -3807,7 +3983,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":342,
+            "index":358,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":32175,
@@ -3818,7 +3994,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":343,
+            "index":359,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":45825,
@@ -3829,7 +4005,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":344,
+            "index":360,
             "area":"SIC",
             "fornitore":"Moderna",
             "numero_dosi":6600,
@@ -3840,7 +4016,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":345,
+            "index":361,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
@@ -3851,7 +4027,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":346,
+            "index":362,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":35100,
@@ -3862,7 +4038,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":347,
+            "index":363,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -3873,7 +4049,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":348,
+            "index":364,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":11700,
@@ -3884,7 +4060,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":349,
+            "index":365,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":19890,
@@ -3895,7 +4071,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":350,
+            "index":366,
             "area":"SIC",
             "fornitore":"Moderna",
             "numero_dosi":5400,
@@ -3906,7 +4082,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":351,
+            "index":367,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":23400,
@@ -3917,7 +4093,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":352,
+            "index":368,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":11700,
@@ -3928,7 +4104,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":353,
+            "index":369,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":23400,
@@ -3939,7 +4115,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":354,
+            "index":370,
             "area":"SIC",
             "fornitore":"AstraZeneca",
             "numero_dosi":20500,
@@ -3950,7 +4126,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":355,
+            "index":371,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -3961,7 +4137,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":356,
+            "index":372,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":15210,
@@ -3972,7 +4148,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":357,
+            "index":373,
             "area":"SIC",
             "fornitore":"AstraZeneca",
             "numero_dosi":24000,
@@ -3983,7 +4159,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":358,
+            "index":374,
             "area":"SIC",
             "fornitore":"Moderna",
             "numero_dosi":9400,
@@ -3994,7 +4170,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":359,
+            "index":375,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":11700,
@@ -4005,7 +4181,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":360,
+            "index":376,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":31590,
@@ -4016,7 +4192,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":361,
+            "index":377,
             "area":"SIC",
             "fornitore":"AstraZeneca",
             "numero_dosi":41600,
@@ -4027,7 +4203,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":362,
+            "index":378,
             "area":"SIC",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":46800,
@@ -4038,7 +4214,18 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":363,
+            "index":379,
+            "area":"SIC",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":38600,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG1",
+            "codice_regione_ISTAT":19,
+            "nome_area":"Sicilia"
+        },
+        {
+            "index":380,
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":620,
@@ -4049,7 +4236,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":364,
+            "index":381,
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14625,
@@ -4060,7 +4247,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":365,
+            "index":382,
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":12675,
@@ -4071,7 +4258,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":366,
+            "index":383,
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3900,
@@ -4082,7 +4269,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":367,
+            "index":384,
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":20475,
@@ -4093,7 +4280,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":368,
+            "index":385,
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":28275,
@@ -4104,7 +4291,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":369,
+            "index":386,
             "area":"TOS",
             "fornitore":"Moderna",
             "numero_dosi":5300,
@@ -4115,7 +4302,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":370,
+            "index":387,
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -4126,7 +4313,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":371,
+            "index":388,
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7020,
@@ -4137,7 +4324,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":372,
+            "index":389,
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7020,
@@ -4148,7 +4335,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":373,
+            "index":390,
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":23400,
@@ -4159,7 +4346,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":374,
+            "index":391,
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -4170,7 +4357,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":375,
+            "index":392,
             "area":"TOS",
             "fornitore":"Moderna",
             "numero_dosi":4100,
@@ -4181,7 +4368,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":376,
+            "index":393,
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":31590,
@@ -4192,7 +4379,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":377,
+            "index":394,
             "area":"TOS",
             "fornitore":"AstraZeneca",
             "numero_dosi":15400,
@@ -4203,7 +4390,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":378,
+            "index":395,
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":31590,
@@ -4214,7 +4401,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":379,
+            "index":396,
             "area":"TOS",
             "fornitore":"AstraZeneca",
             "numero_dosi":18100,
@@ -4225,7 +4412,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":380,
+            "index":397,
             "area":"TOS",
             "fornitore":"Moderna",
             "numero_dosi":9600,
@@ -4236,7 +4423,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":381,
+            "index":398,
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":8190,
@@ -4247,7 +4434,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":382,
+            "index":399,
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":36270,
@@ -4258,7 +4445,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":383,
+            "index":400,
             "area":"TOS",
             "fornitore":"AstraZeneca",
             "numero_dosi":31300,
@@ -4269,7 +4456,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":384,
+            "index":401,
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":44460,
@@ -4280,7 +4467,18 @@
             "nome_area":"Toscana"
         },
         {
-            "index":385,
+            "index":402,
+            "area":"TOS",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":29900,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI1",
+            "codice_regione_ISTAT":9,
+            "nome_area":"Toscana"
+        },
+        {
+            "index":403,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":85,
@@ -4291,7 +4489,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":386,
+            "index":404,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
@@ -4302,7 +4500,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":387,
+            "index":405,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
@@ -4313,7 +4511,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":388,
+            "index":406,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -4324,7 +4522,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":389,
+            "index":407,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":1000,
@@ -4335,7 +4533,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":390,
+            "index":408,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -4346,7 +4544,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":391,
+            "index":409,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -4357,7 +4555,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":392,
+            "index":410,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -4368,7 +4566,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":393,
+            "index":411,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":1000,
@@ -4379,7 +4577,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":394,
+            "index":412,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -4390,7 +4588,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":395,
+            "index":413,
             "area":"UMB",
             "fornitore":"AstraZeneca",
             "numero_dosi":3700,
@@ -4401,7 +4599,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":396,
+            "index":414,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7020,
@@ -4412,7 +4610,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":397,
+            "index":415,
             "area":"UMB",
             "fornitore":"AstraZeneca",
             "numero_dosi":4300,
@@ -4423,7 +4621,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":398,
+            "index":416,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":2300,
@@ -4434,7 +4632,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":399,
+            "index":417,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":10530,
@@ -4445,7 +4643,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":400,
+            "index":418,
             "area":"UMB",
             "fornitore":"AstraZeneca",
             "numero_dosi":7500,
@@ -4456,7 +4654,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":401,
+            "index":419,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":10530,
@@ -4467,7 +4665,18 @@
             "nome_area":"Umbria"
         },
         {
-            "index":402,
+            "index":420,
+            "area":"UMB",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":6300,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI2",
+            "codice_regione_ISTAT":10,
+            "nome_area":"Umbria"
+        },
+        {
+            "index":421,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":20,
@@ -4478,7 +4687,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":403,
+            "index":422,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
@@ -4489,7 +4698,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":404,
+            "index":423,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
@@ -4500,7 +4709,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":405,
+            "index":424,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
@@ -4511,7 +4720,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":406,
+            "index":425,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":200,
@@ -4522,7 +4731,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":407,
+            "index":426,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -4533,7 +4742,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":408,
+            "index":427,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -4544,7 +4753,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":409,
+            "index":428,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":100,
@@ -4555,7 +4764,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":410,
+            "index":429,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -4566,7 +4775,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":411,
+            "index":430,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -4577,7 +4786,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":412,
+            "index":431,
             "area":"VDA",
             "fornitore":"AstraZeneca",
             "numero_dosi":500,
@@ -4588,7 +4797,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":413,
+            "index":432,
             "area":"VDA",
             "fornitore":"AstraZeneca",
             "numero_dosi":600,
@@ -4599,7 +4808,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":414,
+            "index":433,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":300,
@@ -4610,7 +4819,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":415,
+            "index":434,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -4621,7 +4830,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":416,
+            "index":435,
             "area":"VDA",
             "fornitore":"AstraZeneca",
             "numero_dosi":1100,
@@ -4632,7 +4841,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":417,
+            "index":436,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -4643,7 +4852,18 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":418,
+            "index":437,
+            "area":"VDA",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":900,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC2",
+            "codice_regione_ISTAT":2,
+            "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
+        },
+        {
+            "index":438,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":875,
@@ -4654,7 +4874,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":419,
+            "index":439,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":25350,
@@ -4665,7 +4885,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":420,
+            "index":440,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":12675,
@@ -4676,7 +4896,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":421,
+            "index":441,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
@@ -4687,7 +4907,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":422,
+            "index":442,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":34125,
@@ -4698,7 +4918,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":423,
+            "index":443,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":39000,
@@ -4709,7 +4929,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":424,
+            "index":444,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":7800,
@@ -4720,7 +4940,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":425,
+            "index":445,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7020,
@@ -4731,7 +4951,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":426,
+            "index":446,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":15210,
@@ -4742,7 +4962,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":427,
+            "index":447,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14040,
@@ -4753,7 +4973,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":428,
+            "index":448,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":36270,
@@ -4764,7 +4984,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":429,
+            "index":449,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":5400,
@@ -4775,7 +4995,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":430,
+            "index":450,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":45630,
@@ -4786,7 +5006,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":431,
+            "index":451,
             "area":"VEN",
             "fornitore":"AstraZeneca",
             "numero_dosi":20400,
@@ -4797,7 +5017,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":432,
+            "index":452,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":42120,
@@ -4808,7 +5028,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":433,
+            "index":453,
             "area":"VEN",
             "fornitore":"AstraZeneca",
             "numero_dosi":23900,
@@ -4819,7 +5039,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":434,
+            "index":454,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":10700,
@@ -4830,7 +5050,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":435,
+            "index":455,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":49140,
@@ -4841,7 +5061,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":436,
+            "index":456,
             "area":"VEN",
             "fornitore":"AstraZeneca",
             "numero_dosi":41300,
@@ -4852,11 +5072,22 @@
             "nome_area":"Veneto"
         },
         {
-            "index":437,
+            "index":457,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":50310,
             "data_consegna":"2021-02-23T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
+        },
+        {
+            "index":458,
+            "area":"VEN",
+            "fornitore":"AstraZeneca",
+            "numero_dosi":37300,
+            "data_consegna":"2021-02-27T00:00:00.000Z",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
             "codice_regione_ISTAT":5,
