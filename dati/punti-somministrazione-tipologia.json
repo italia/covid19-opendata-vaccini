@@ -11603,7 +11603,7 @@
         {
             "index":1156,
             "area":"SAR",
-            "denominazione_struttura":"PUNTO VACCINAZIONE TERRITORIALE IGLESIAS",
+            "denominazione_struttura":"PUNTO VACCINALE FIERA CAGLIARI",
             "tipologia":"Territoriale",
             "codice_NUTS1":"ITG",
             "codice_NUTS2":"ITG2",
@@ -11613,7 +11613,7 @@
         {
             "index":1157,
             "area":"SAR",
-            "denominazione_struttura":"SISP-SASSARI COVID",
+            "denominazione_struttura":"PUNTO VACCINAZIONE TERRITORIALE IGLESIAS",
             "tipologia":"Territoriale",
             "codice_NUTS1":"ITG",
             "codice_NUTS2":"ITG2",
@@ -11623,8 +11623,8 @@
         {
             "index":1158,
             "area":"SAR",
-            "denominazione_struttura":"STABILIMENTO A. BUSINCO",
-            "tipologia":"Ospedaliero",
+            "denominazione_struttura":"SISP-SASSARI COVID",
+            "tipologia":"Territoriale",
             "codice_NUTS1":"ITG",
             "codice_NUTS2":"ITG2",
             "codice_regione_ISTAT":20,
@@ -11633,7 +11633,7 @@
         {
             "index":1159,
             "area":"SAR",
-            "denominazione_struttura":"STABILIMENTO CLINICHE DI SAN PIETRO",
+            "denominazione_struttura":"STABILIMENTO A. BUSINCO",
             "tipologia":"Ospedaliero",
             "codice_NUTS1":"ITG",
             "codice_NUTS2":"ITG2",
@@ -11643,7 +11643,7 @@
         {
             "index":1160,
             "area":"SAR",
-            "denominazione_struttura":"STABILIMENTO SAN MICHELE",
+            "denominazione_struttura":"STABILIMENTO CLINICHE DI SAN PIETRO",
             "tipologia":"Ospedaliero",
             "codice_NUTS1":"ITG",
             "codice_NUTS2":"ITG2",
@@ -11653,8 +11653,8 @@
         {
             "index":1161,
             "area":"SAR",
-            "denominazione_struttura":"STRUTTURA RESIDENZIALE COMUNITA' INTEGRATA VILLA CAMPUS-OZIERI",
-            "tipologia":"Territoriale",
+            "denominazione_struttura":"STABILIMENTO SAN MICHELE",
+            "tipologia":"Ospedaliero",
             "codice_NUTS1":"ITG",
             "codice_NUTS2":"ITG2",
             "codice_regione_ISTAT":20,
@@ -11663,7 +11663,7 @@
         {
             "index":1162,
             "area":"SAR",
-            "denominazione_struttura":"STRUTTURA RESIDENZIALE PER ANZIANI-VILLA DEI GIUNCHI FLORINAS",
+            "denominazione_struttura":"STRUTTURA RESIDENZIALE COMUNITA' INTEGRATA VILLA CAMPUS-OZIERI",
             "tipologia":"Territoriale",
             "codice_NUTS1":"ITG",
             "codice_NUTS2":"ITG2",
@@ -11673,7 +11673,7 @@
         {
             "index":1163,
             "area":"SAR",
-            "denominazione_struttura":"STRUTTURA RESIDENZIALE PSICHIATRICA ANTES COOPERATIVA SOCIALE STRUTTURA 2 ?AHORA? ARZANA",
+            "denominazione_struttura":"STRUTTURA RESIDENZIALE PER ANZIANI-VILLA DEI GIUNCHI FLORINAS",
             "tipologia":"Territoriale",
             "codice_NUTS1":"ITG",
             "codice_NUTS2":"ITG2",
@@ -11682,6 +11682,16 @@
         },
         {
             "index":1164,
+            "area":"SAR",
+            "denominazione_struttura":"STRUTTURA RESIDENZIALE PSICHIATRICA ANTES COOPERATIVA SOCIALE STRUTTURA 2 ?AHORA? ARZANA",
+            "tipologia":"Territoriale",
+            "codice_NUTS1":"ITG",
+            "codice_NUTS2":"ITG2",
+            "codice_regione_ISTAT":20,
+            "nome_area":"Sardegna"
+        },
+        {
+            "index":1165,
             "area":"SIC",
             "denominazione_struttura":"A.O. PER L'EMERGENZA CANNIZZARO",
             "tipologia":"Ospedaliero",
@@ -11691,7 +11701,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1165,
+            "index":1166,
             "area":"SIC",
             "denominazione_struttura":"AMBULATORIO  P.O. LIPARI",
             "tipologia":"Territoriale",
@@ -11701,7 +11711,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1166,
+            "index":1167,
             "area":"SIC",
             "denominazione_struttura":"AMBULATORIO LINGUAGLOSSA",
             "tipologia":"Territoriale",
@@ -11711,7 +11721,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1167,
+            "index":1168,
             "area":"SIC",
             "denominazione_struttura":"AMBULATORIO SCORDIA COVID",
             "tipologia":"Territoriale",
@@ -11721,7 +11731,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1168,
+            "index":1169,
             "area":"SIC",
             "denominazione_struttura":"AMBULATORIO VACCINALE COVID TERRITORIALE - GELA",
             "tipologia":"Territoriale",
@@ -11731,7 +11741,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1169,
+            "index":1170,
             "area":"SIC",
             "denominazione_struttura":"AMBULATORIO VACCINALE COVID TERRITORIALE- CALTANISSETTA",
             "tipologia":"Territoriale",
@@ -11741,7 +11751,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1170,
+            "index":1171,
             "area":"SIC",
             "denominazione_struttura":"ASP AGRIGENTO",
             "tipologia":"Ospedaliero",
@@ -11751,7 +11761,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1171,
+            "index":1172,
             "area":"SIC",
             "denominazione_struttura":"ASP CALTANISSETTA",
             "tipologia":"Ospedaliero",
@@ -11761,7 +11771,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1172,
+            "index":1173,
             "area":"SIC",
             "denominazione_struttura":"ASP CATANIA",
             "tipologia":"Ospedaliero",
@@ -11771,7 +11781,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1173,
+            "index":1174,
             "area":"SIC",
             "denominazione_struttura":"ASP DI TRAPANI",
             "tipologia":"Ospedaliero",
@@ -11781,7 +11791,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1174,
+            "index":1175,
             "area":"SIC",
             "denominazione_struttura":"ASP ENNA",
             "tipologia":"Ospedaliero",
@@ -11791,7 +11801,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1175,
+            "index":1176,
             "area":"SIC",
             "denominazione_struttura":"ASP MESSINA",
             "tipologia":"Ospedaliero",
@@ -11801,7 +11811,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1176,
+            "index":1177,
             "area":"SIC",
             "denominazione_struttura":"ASP PALERMO",
             "tipologia":"Ospedaliero",
@@ -11811,7 +11821,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1177,
+            "index":1178,
             "area":"SIC",
             "denominazione_struttura":"ASP RAGUSA",
             "tipologia":"Ospedaliero",
@@ -11821,7 +11831,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1178,
+            "index":1179,
             "area":"SIC",
             "denominazione_struttura":"ASP SIRACUSA",
             "tipologia":"Ospedaliero",
@@ -11831,7 +11841,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1179,
+            "index":1180,
             "area":"SIC",
             "denominazione_struttura":"ASSOCIAZIONE OASI MARIA SS",
             "tipologia":"Ospedaliero",
@@ -11841,7 +11851,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1180,
+            "index":1181,
             "area":"SIC",
             "denominazione_struttura":"AZ.OSP.UNIV.P.GIACCONE",
             "tipologia":"Ospedaliero",
@@ -11851,7 +11861,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1181,
+            "index":1182,
             "area":"SIC",
             "denominazione_struttura":"AZIENDA OSPEDALIERA PAPARDO",
             "tipologia":"Ospedaliero",
@@ -11861,7 +11871,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1182,
+            "index":1183,
             "area":"SIC",
             "denominazione_struttura":"C.E.P.A.I.D. ONLUS",
             "tipologia":"Territoriale",
@@ -11871,7 +11881,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1183,
+            "index":1184,
             "area":"SIC",
             "denominazione_struttura":"C.MED. NUCLEARE S. GAETANO SRL",
             "tipologia":"Territoriale",
@@ -11881,7 +11891,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1184,
+            "index":1185,
             "area":"SIC",
             "denominazione_struttura":"C.O.T. S.P.A. (CURE ORTOPED. TRAUM.)",
             "tipologia":"Ospedaliero",
@@ -11891,7 +11901,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1185,
+            "index":1186,
             "area":"SIC",
             "denominazione_struttura":"C.S.R. - CENTRO DI COMISO",
             "tipologia":"Territoriale",
@@ -11901,7 +11911,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1186,
+            "index":1187,
             "area":"SIC",
             "denominazione_struttura":"C.S.R.MILITELLO VAL DI CATANIA",
             "tipologia":"Territoriale",
@@ -11911,7 +11921,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1187,
+            "index":1188,
             "area":"SIC",
             "denominazione_struttura":"C.T.O. CENTRO TRAUMATOLOGICO ORTOPEDICO",
             "tipologia":"Ospedaliero",
@@ -11921,7 +11931,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1188,
+            "index":1189,
             "area":"SIC",
             "denominazione_struttura":"CASA CURA CENTRO CATANESE MED. E CH.",
             "tipologia":"Ospedaliero",
@@ -11931,7 +11941,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1189,
+            "index":1190,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA  MUSUMECI GESCAS",
             "tipologia":"Ospedaliero",
@@ -11941,7 +11951,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1190,
+            "index":1191,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA 'TRIOLO ZANCLA' S.P.A.",
             "tipologia":"Ospedaliero",
@@ -11951,7 +11961,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1191,
+            "index":1192,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA CANDELA SPA",
             "tipologia":"Ospedaliero",
@@ -11961,7 +11971,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1192,
+            "index":1193,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA CAPPELLANI GIOMI S.P.A.",
             "tipologia":"Ospedaliero",
@@ -11971,7 +11981,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1193,
+            "index":1194,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA CARMIDE",
             "tipologia":"Ospedaliero",
@@ -11981,7 +11991,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1194,
+            "index":1195,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA CLINICA DEL MEDITERRANEO",
             "tipologia":"Ospedaliero",
@@ -11991,7 +12001,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1195,
+            "index":1196,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA CRISTO RE",
             "tipologia":"Ospedaliero",
@@ -12001,7 +12011,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1196,
+            "index":1197,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA DI STEFANO VELONA S.R.L.",
             "tipologia":"Ospedaliero",
@@ -12011,7 +12021,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1197,
+            "index":1198,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA G.B. MORGAGNI S.R.L.",
             "tipologia":"Ospedaliero",
@@ -12021,7 +12031,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1198,
+            "index":1199,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA GIBIINO SRL",
             "tipologia":"Ospedaliero",
@@ -12031,7 +12041,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1199,
+            "index":1200,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA LA MADDALENA S.P.A.",
             "tipologia":"Ospedaliero",
@@ -12041,7 +12051,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1200,
+            "index":1201,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA LATTERI VALSAVA S.R.L.",
             "tipologia":"Ospedaliero",
@@ -12051,7 +12061,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1201,
+            "index":1202,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA MACCHIARELLA S.P.A.",
             "tipologia":"Ospedaliero",
@@ -12061,7 +12071,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1202,
+            "index":1203,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA MADONNA DEL ROSARIO",
             "tipologia":"Ospedaliero",
@@ -12071,7 +12081,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1203,
+            "index":1204,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA MARIA ELEONORA HOSPITAL SRL",
             "tipologia":"Ospedaliero",
@@ -12081,7 +12091,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1204,
+            "index":1205,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA MONS. G. CALACIURA CENACOLO",
             "tipologia":"Ospedaliero",
@@ -12091,7 +12101,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1205,
+            "index":1206,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA NOTO PASQUALINO S.R.L.",
             "tipologia":"Ospedaliero",
@@ -12101,7 +12111,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1206,
+            "index":1207,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA PROF.E.FALCIDIA SRL",
             "tipologia":"Ospedaliero",
@@ -12111,7 +12121,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1207,
+            "index":1208,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA RIABILITATIVA VILLA SOFIA",
             "tipologia":"Ospedaliero",
@@ -12121,7 +12131,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1208,
+            "index":1209,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA S.CAMILLO",
             "tipologia":"Ospedaliero",
@@ -12131,7 +12141,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1209,
+            "index":1210,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA SERENA S.P.A.",
             "tipologia":"Ospedaliero",
@@ -12141,7 +12151,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1210,
+            "index":1211,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA TORINA",
             "tipologia":"Ospedaliero",
@@ -12151,7 +12161,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1211,
+            "index":1212,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA VALSALVA  SRL",
             "tipologia":"Ospedaliero",
@@ -12161,7 +12171,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1212,
+            "index":1213,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA VILLA IGEA SRL",
             "tipologia":"Ospedaliero",
@@ -12171,7 +12181,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1213,
+            "index":1214,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA VILLA MARGHERITA",
             "tipologia":"Ospedaliero",
@@ -12181,7 +12191,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1214,
+            "index":1215,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURA VILLA SALUS S.A.S.",
             "tipologia":"Ospedaliero",
@@ -12191,7 +12201,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1215,
+            "index":1216,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURE COSENTINO DI KAROL  S.R.L.",
             "tipologia":"Ospedaliero",
@@ -12201,7 +12211,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1216,
+            "index":1217,
             "area":"SIC",
             "denominazione_struttura":"CASA DI CURE ORESTANO S.R.L.",
             "tipologia":"Ospedaliero",
@@ -12211,7 +12221,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1217,
+            "index":1218,
             "area":"SIC",
             "denominazione_struttura":"CENTRO ANDROS S.R.L.",
             "tipologia":"Ospedaliero",
@@ -12221,7 +12231,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1218,
+            "index":1219,
             "area":"SIC",
             "denominazione_struttura":"CLINICA SANT'AGATA TIGANO SRL",
             "tipologia":"Ospedaliero",
@@ -12231,7 +12241,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1219,
+            "index":1220,
             "area":"SIC",
             "denominazione_struttura":"COVID HOSPITAL",
             "tipologia":"Ospedaliero",
@@ -12241,7 +12251,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1220,
+            "index":1221,
             "area":"SIC",
             "denominazione_struttura":"FOND. IST. S. RAFFAELE - GIGLIO",
             "tipologia":"Ospedaliero",
@@ -12251,7 +12261,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1221,
+            "index":1222,
             "area":"SIC",
             "denominazione_struttura":"HUMANITAS ISTITUTO CLINICO CATANESE",
             "tipologia":"Ospedaliero",
@@ -12261,7 +12271,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1222,
+            "index":1223,
             "area":"SIC",
             "denominazione_struttura":"I.O.M.I. F.SCALABRINO GANZIRRI",
             "tipologia":"Ospedaliero",
@@ -12271,7 +12281,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1223,
+            "index":1224,
             "area":"SIC",
             "denominazione_struttura":"IRCCS CENTRO NEUROLESI",
             "tipologia":"Ospedaliero",
@@ -12281,7 +12291,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1224,
+            "index":1225,
             "area":"SIC",
             "denominazione_struttura":"IRCCS ISMETT",
             "tipologia":"Ospedaliero",
@@ -12291,7 +12301,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1225,
+            "index":1226,
             "area":"SIC",
             "denominazione_struttura":"IRCCS NEUROLESI P.O. CANNIZZARO (CT)",
             "tipologia":"Ospedaliero",
@@ -12301,7 +12311,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1226,
+            "index":1227,
             "area":"SIC",
             "denominazione_struttura":"IRCCS NEUROLESI P.O.VILLA DELLE GINESTRE",
             "tipologia":"Ospedaliero",
@@ -12311,7 +12321,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1227,
+            "index":1228,
             "area":"SIC",
             "denominazione_struttura":"ISCAS MORGAGNI NORD SRL",
             "tipologia":"Ospedaliero",
@@ -12321,7 +12331,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1228,
+            "index":1229,
             "area":"SIC",
             "denominazione_struttura":"IST.ORT. VILLA SALUS I. GALATIOTO SRL",
             "tipologia":"Ospedaliero",
@@ -12331,7 +12341,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1229,
+            "index":1230,
             "area":"SIC",
             "denominazione_struttura":"ISTITUTO CLINICO VIDIMURA SRL",
             "tipologia":"Ospedaliero",
@@ -12341,7 +12351,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1230,
+            "index":1231,
             "area":"SIC",
             "denominazione_struttura":"ISTITUTO ONCOLOGICO DEL MEDITERRANEO SPA",
             "tipologia":"Ospedaliero",
@@ -12351,7 +12361,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1231,
+            "index":1232,
             "area":"SIC",
             "denominazione_struttura":"MATER DEI DI G.NESI & C. S.P.A",
             "tipologia":"Ospedaliero",
@@ -12361,7 +12371,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1232,
+            "index":1233,
             "area":"SIC",
             "denominazione_struttura":"NUOVA CASA DI CURA D`ANNA PIA ASS. SRL",
             "tipologia":"Ospedaliero",
@@ -12371,7 +12381,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1233,
+            "index":1234,
             "area":"SIC",
             "denominazione_struttura":"NUOVA CASA DI CURA DEMMA SRL",
             "tipologia":"Ospedaliero",
@@ -12381,7 +12391,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1234,
+            "index":1235,
             "area":"SIC",
             "denominazione_struttura":"NUOVO OSPEDALE GARIBALDI - NESIMA",
             "tipologia":"Ospedaliero",
@@ -12391,7 +12401,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1235,
+            "index":1236,
             "area":"SIC",
             "denominazione_struttura":"OSP. BUCCHERI LA FERLA FATEBENEFRATELLI",
             "tipologia":"Ospedaliero",
@@ -12401,7 +12411,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1236,
+            "index":1237,
             "area":"SIC",
             "denominazione_struttura":"OSPEDALE 'GIOVANNI PAOLO II\u00b0 M.P. A.'",
             "tipologia":"Ospedaliero",
@@ -12411,7 +12421,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1237,
+            "index":1238,
             "area":"SIC",
             "denominazione_struttura":"OSPEDALE BUSACCA SCICLI",
             "tipologia":"Ospedaliero",
@@ -12421,7 +12431,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1238,
+            "index":1239,
             "area":"SIC",
             "denominazione_struttura":"OSPEDALE CIVICO",
             "tipologia":"Ospedaliero",
@@ -12431,7 +12441,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1239,
+            "index":1240,
             "area":"SIC",
             "denominazione_struttura":"OSPEDALE DEI BAMBINI G. DI CRISTINA",
             "tipologia":"Ospedaliero",
@@ -12441,7 +12451,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1240,
+            "index":1241,
             "area":"SIC",
             "denominazione_struttura":"OSPEDALE GARIBALDI - CENTRO",
             "tipologia":"Ospedaliero",
@@ -12451,7 +12461,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1241,
+            "index":1242,
             "area":"SIC",
             "denominazione_struttura":"OSPEDALE GENERALE DI ZONA",
             "tipologia":"Ospedaliero",
@@ -12461,7 +12471,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1242,
+            "index":1243,
             "area":"SIC",
             "denominazione_struttura":"OSPEDALE GUZZARDI VITTORIA",
             "tipologia":"Ospedaliero",
@@ -12471,7 +12481,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1243,
+            "index":1244,
             "area":"SIC",
             "denominazione_struttura":"OSPEDALE MAGGIORE MODICA",
             "tipologia":"Ospedaliero",
@@ -12481,7 +12491,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1244,
+            "index":1245,
             "area":"SIC",
             "denominazione_struttura":"OSPEDALE REGINA MARGHERITA  COMISO",
             "tipologia":"Ospedaliero",
@@ -12491,7 +12501,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1245,
+            "index":1246,
             "area":"SIC",
             "denominazione_struttura":"P. O. 'CARLO BASILOTTA'",
             "tipologia":"Ospedaliero",
@@ -12501,7 +12511,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1246,
+            "index":1247,
             "area":"SIC",
             "denominazione_struttura":"P. O. 'FERRO-CAPRA-BRANCIFORTE'",
             "tipologia":"Ospedaliero",
@@ -12511,7 +12521,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1247,
+            "index":1248,
             "area":"SIC",
             "denominazione_struttura":"P. O. 'M. CHIELLO'",
             "tipologia":"Ospedaliero",
@@ -12521,7 +12531,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1248,
+            "index":1249,
             "area":"SIC",
             "denominazione_struttura":"P. O. 'UMBERTO I'",
             "tipologia":"Ospedaliero",
@@ -12531,7 +12541,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1249,
+            "index":1250,
             "area":"SIC",
             "denominazione_struttura":"P.O.  F.LLI PARLAPIANO - RIBERA",
             "tipologia":"Ospedaliero",
@@ -12541,7 +12551,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1250,
+            "index":1251,
             "area":"SIC",
             "denominazione_struttura":"P.O.  LIPARI",
             "tipologia":"Ospedaliero",
@@ -12551,7 +12561,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1251,
+            "index":1252,
             "area":"SIC",
             "denominazione_struttura":"P.O. 'B. NAGAR' - PANTELLERIA",
             "tipologia":"Ospedaliero",
@@ -12561,7 +12571,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1252,
+            "index":1253,
             "area":"SIC",
             "denominazione_struttura":"P.O. 'BARONE-ROMEO' PATTI",
             "tipologia":"Ospedaliero",
@@ -12571,7 +12581,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1253,
+            "index":1254,
             "area":"SIC",
             "denominazione_struttura":"P.O. 'G. FOGLIANI' MILAZZO",
             "tipologia":"Ospedaliero",
@@ -12581,7 +12591,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1254,
+            "index":1255,
             "area":"SIC",
             "denominazione_struttura":"P.O. 'NUOVO CUTRONI ZODDA' BARCELLONA",
             "tipologia":"Ospedaliero",
@@ -12591,7 +12601,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1255,
+            "index":1256,
             "area":"SIC",
             "denominazione_struttura":"P.O. 'SS. SALVATORE' MISTRETTA",
             "tipologia":"Ospedaliero",
@@ -12601,7 +12611,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1256,
+            "index":1257,
             "area":"SIC",
             "denominazione_struttura":"P.O. BARONE LOMBARDO - CANICATTI'",
             "tipologia":"Ospedaliero",
@@ -12611,7 +12621,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1257,
+            "index":1258,
             "area":"SIC",
             "denominazione_struttura":"P.O. BASSO RAGUSA MILITELLO",
             "tipologia":"Ospedaliero",
@@ -12621,7 +12631,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1258,
+            "index":1259,
             "area":"SIC",
             "denominazione_struttura":"P.O. CASTIGLIONE PRESTIANNI BRONTE",
             "tipologia":"Ospedaliero",
@@ -12631,7 +12641,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1259,
+            "index":1260,
             "area":"SIC",
             "denominazione_struttura":"P.O. CIVICO PARTINICO",
             "tipologia":"Ospedaliero",
@@ -12641,7 +12651,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1260,
+            "index":1261,
             "area":"SIC",
             "denominazione_struttura":"P.O. DEI BIANCHI CORLEONE",
             "tipologia":"Ospedaliero",
@@ -12651,7 +12661,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1261,
+            "index":1262,
             "area":"SIC",
             "denominazione_struttura":"P.O. DI MARIA AVOLA",
             "tipologia":"Ospedaliero",
@@ -12661,7 +12671,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1262,
+            "index":1263,
             "area":"SIC",
             "denominazione_struttura":"P.O. G. F. INGRASSIA",
             "tipologia":"Ospedaliero",
@@ -12671,7 +12681,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1263,
+            "index":1264,
             "area":"SIC",
             "denominazione_struttura":"P.O. GIOVANNI PAOLO II",
             "tipologia":"Ospedaliero",
@@ -12681,7 +12691,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1264,
+            "index":1265,
             "area":"SIC",
             "denominazione_struttura":"P.O. GRAVINA E S. PIETRO CALTAGIRONE",
             "tipologia":"Ospedaliero",
@@ -12691,7 +12701,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1265,
+            "index":1266,
             "area":"SIC",
             "denominazione_struttura":"P.O. M. IMMACOLATA  LONGO",
             "tipologia":"Ospedaliero",
@@ -12701,7 +12711,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1266,
+            "index":1267,
             "area":"SIC",
             "denominazione_struttura":"P.O. MADONNA DELL'ALTO - PETR. SOTTANA",
             "tipologia":"Ospedaliero",
@@ -12711,7 +12721,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1267,
+            "index":1268,
             "area":"SIC",
             "denominazione_struttura":"P.O. MARIA SS.ADDOLORATA BIANCAVILLA",
             "tipologia":"Ospedaliero",
@@ -12721,7 +12731,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1268,
+            "index":1269,
             "area":"SIC",
             "denominazione_struttura":"P.O. MUSCATELLO AUGUSTA",
             "tipologia":"Ospedaliero",
@@ -12731,7 +12741,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1269,
+            "index":1270,
             "area":"SIC",
             "denominazione_struttura":"P.O. S. ANTONIO ABATE  - TRAPANI",
             "tipologia":"Ospedaliero",
@@ -12741,7 +12751,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1270,
+            "index":1271,
             "area":"SIC",
             "denominazione_struttura":"P.O. S. CIMINO TERMINI IMERESE",
             "tipologia":"Ospedaliero",
@@ -12751,7 +12761,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1271,
+            "index":1272,
             "area":"SIC",
             "denominazione_struttura":"P.O. S. GIACOMO D'ALTOPASSO LICATA",
             "tipologia":"Ospedaliero",
@@ -12761,7 +12771,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1272,
+            "index":1273,
             "area":"SIC",
             "denominazione_struttura":"P.O. S. GIOVANNI DI DIO",
             "tipologia":"Ospedaliero",
@@ -12771,7 +12781,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1273,
+            "index":1274,
             "area":"SIC",
             "denominazione_struttura":"P.O. S. MARTA E S. VENERA ACIREALE",
             "tipologia":"Ospedaliero",
@@ -12781,7 +12791,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1274,
+            "index":1275,
             "area":"SIC",
             "denominazione_struttura":"P.O. SAN VITO E SANTO SPIRITO -ALCAMO",
             "tipologia":"Ospedaliero",
@@ -12791,7 +12801,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1275,
+            "index":1276,
             "area":"SIC",
             "denominazione_struttura":"P.O. SANT'ELIA (EX AO)",
             "tipologia":"Ospedaliero",
@@ -12801,7 +12811,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1276,
+            "index":1277,
             "area":"SIC",
             "denominazione_struttura":"P.O. SS. SALVATORE PATERN\u00d2",
             "tipologia":"Ospedaliero",
@@ -12811,7 +12821,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1277,
+            "index":1278,
             "area":"SIC",
             "denominazione_struttura":"P.O. UMBERTO I (EX A.O.)",
             "tipologia":"Ospedaliero",
@@ -12821,7 +12831,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1278,
+            "index":1279,
             "area":"SIC",
             "denominazione_struttura":"P.O. V.EMANUELE II CASTELVETRANO",
             "tipologia":"Ospedaliero",
@@ -12831,7 +12841,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1279,
+            "index":1280,
             "area":"SIC",
             "denominazione_struttura":"P.O. VILLA DELLE GINESTRE",
             "tipologia":"Ospedaliero",
@@ -12841,7 +12851,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1280,
+            "index":1281,
             "area":"SIC",
             "denominazione_struttura":"P.O. VILLA SOFIA",
             "tipologia":"Ospedaliero",
@@ -12851,7 +12861,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1281,
+            "index":1282,
             "area":"SIC",
             "denominazione_struttura":"P.O. VITTORIO EMANUELE (EX AO)",
             "tipologia":"Ospedaliero",
@@ -12861,7 +12871,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1282,
+            "index":1283,
             "area":"SIC",
             "denominazione_struttura":"P.O. VITTORIO EMANUELE III - SALEMI",
             "tipologia":"Ospedaliero",
@@ -12871,7 +12881,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1283,
+            "index":1284,
             "area":"SIC",
             "denominazione_struttura":"P.O.' S. VINCENZO' TAORMINA",
             "tipologia":"Ospedaliero",
@@ -12881,7 +12891,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1284,
+            "index":1285,
             "area":"SIC",
             "denominazione_struttura":"P.O.ABELE AJELLO-MAZARA D.VALLO",
             "tipologia":"Ospedaliero",
@@ -12891,7 +12901,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1285,
+            "index":1286,
             "area":"SIC",
             "denominazione_struttura":"P.O.PAOLO BORSELLINO - MARSALA",
             "tipologia":"Ospedaliero",
@@ -12901,7 +12911,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1286,
+            "index":1287,
             "area":"SIC",
             "denominazione_struttura":"POLIAMBUL. SPECIAL.  MILAZZO",
             "tipologia":"Territoriale",
@@ -12911,7 +12921,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1287,
+            "index":1288,
             "area":"SIC",
             "denominazione_struttura":"POLIAMBULATORIO",
             "tipologia":"Territoriale",
@@ -12921,7 +12931,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1288,
+            "index":1289,
             "area":"SIC",
             "denominazione_struttura":"POLIAMBULATORIO  SAN LUIGI",
             "tipologia":"Territoriale",
@@ -12931,7 +12941,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1289,
+            "index":1290,
             "area":"SIC",
             "denominazione_struttura":"POLIAMBULATORIO ACIREALE",
             "tipologia":"Territoriale",
@@ -12941,7 +12951,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1290,
+            "index":1291,
             "area":"SIC",
             "denominazione_struttura":"POLIAMBULATORIO ADRANO",
             "tipologia":"Territoriale",
@@ -12951,7 +12961,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1291,
+            "index":1292,
             "area":"SIC",
             "denominazione_struttura":"POLIAMBULATORIO BELPASSO",
             "tipologia":"Territoriale",
@@ -12961,7 +12971,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1292,
+            "index":1293,
             "area":"SIC",
             "denominazione_struttura":"POLIAMBULATORIO GRAVINA",
             "tipologia":"Territoriale",
@@ -12971,7 +12981,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1293,
+            "index":1294,
             "area":"SIC",
             "denominazione_struttura":"POLIAMBULATORIO RANDAZZO",
             "tipologia":"Territoriale",
@@ -12981,7 +12991,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1294,
+            "index":1295,
             "area":"SIC",
             "denominazione_struttura":"POLIAMBULATORIO SAN GIORGIO",
             "tipologia":"Territoriale",
@@ -12991,7 +13001,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1295,
+            "index":1296,
             "area":"SIC",
             "denominazione_struttura":"PRESIDIO OSPEDALIERO GASPARE RODOLICO",
             "tipologia":"Ospedaliero",
@@ -13001,7 +13011,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1296,
+            "index":1297,
             "area":"SIC",
             "denominazione_struttura":"PRESIDIO OSPEDALIERO PIEMONTE",
             "tipologia":"Ospedaliero",
@@ -13011,7 +13021,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1297,
+            "index":1298,
             "area":"SIC",
             "denominazione_struttura":"PRESIDIO OSPEDALIERO S.MARCO",
             "tipologia":"Ospedaliero",
@@ -13021,7 +13031,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1298,
+            "index":1299,
             "area":"SIC",
             "denominazione_struttura":"PRIVATE HOSPITAL ARGENTO SRL",
             "tipologia":"Ospedaliero",
@@ -13031,7 +13041,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1299,
+            "index":1300,
             "area":"SIC",
             "denominazione_struttura":"PTA CORLEONE",
             "tipologia":"Territoriale",
@@ -13041,7 +13051,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1300,
+            "index":1301,
             "area":"SIC",
             "denominazione_struttura":"PTA SAN LUIGI COVID",
             "tipologia":"Territoriale",
@@ -13051,7 +13061,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1301,
+            "index":1302,
             "area":"SIC",
             "denominazione_struttura":"REM RADIOTERAPIA CATANIA S.R.L.",
             "tipologia":"Territoriale",
@@ -13061,7 +13071,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1302,
+            "index":1303,
             "area":"SIC",
             "denominazione_struttura":"S.GIOVANNI DI DIO E S.ISIDORO GIARRE",
             "tipologia":"Ospedaliero",
@@ -13071,7 +13081,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1303,
+            "index":1304,
             "area":"SIC",
             "denominazione_struttura":"SANT'ANGELO SOC. COOP. A.R.L. R.S.A.",
             "tipologia":"Territoriale",
@@ -13081,7 +13091,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1304,
+            "index":1305,
             "area":"SIC",
             "denominazione_struttura":"SO.GE.SA.SPA.C.DI.C.S.BARBARA",
             "tipologia":"Ospedaliero",
@@ -13091,7 +13101,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1305,
+            "index":1306,
             "area":"SIC",
             "denominazione_struttura":"STABILIMENTO OSPED. S. AGATA MILITELLO",
             "tipologia":"Ospedaliero",
@@ -13101,7 +13111,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1306,
+            "index":1307,
             "area":"SIC",
             "denominazione_struttura":"VILLA S. TERESA S.R.L.",
             "tipologia":"Territoriale",
@@ -13111,7 +13121,7 @@
             "nome_area":"Sicilia"
         },
         {
-            "index":1307,
+            "index":1308,
             "area":"TOS",
             "denominazione_struttura":"A.N.F.F.A.S.",
             "tipologia":"Territoriale",
@@ -13121,7 +13131,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1308,
+            "index":1309,
             "area":"TOS",
             "denominazione_struttura":"AIAS",
             "tipologia":"Territoriale",
@@ -13131,7 +13141,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1309,
+            "index":1310,
             "area":"TOS",
             "denominazione_struttura":"ALFA COLUMBUS",
             "tipologia":"Territoriale",
@@ -13141,7 +13151,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1310,
+            "index":1311,
             "area":"TOS",
             "denominazione_struttura":"AMB. H.CIV. S.ABATE PONTR. ATT",
             "tipologia":"Territoriale",
@@ -13151,7 +13161,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1311,
+            "index":1312,
             "area":"TOS",
             "denominazione_struttura":"AMB. N. FREDIANI",
             "tipologia":"Territoriale",
@@ -13161,7 +13171,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1312,
+            "index":1313,
             "area":"TOS",
             "denominazione_struttura":"AMB. OPA- DIPART. MATER, INFAN",
             "tipologia":"Territoriale",
@@ -13171,7 +13181,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1313,
+            "index":1314,
             "area":"TOS",
             "denominazione_struttura":"AMB. VILLA GRAZIANI",
             "tipologia":"Territoriale",
@@ -13181,7 +13191,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1314,
+            "index":1315,
             "area":"TOS",
             "denominazione_struttura":"AMBULATORIO EX-CESER",
             "tipologia":"Territoriale",
@@ -13191,7 +13201,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1315,
+            "index":1316,
             "area":"TOS",
             "denominazione_struttura":"AMBULATORIO OSP CAMPO DI MARTE",
             "tipologia":"Territoriale",
@@ -13201,7 +13211,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1316,
+            "index":1317,
             "area":"TOS",
             "denominazione_struttura":"AZ. OSPEDALIERO - UNIVERSITARIA CAREGGI",
             "tipologia":"Ospedaliero",
@@ -13211,7 +13221,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1317,
+            "index":1318,
             "area":"TOS",
             "denominazione_struttura":"AZIENDA OSPEDALIERA MEYER",
             "tipologia":"Ospedaliero",
@@ -13221,7 +13231,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1318,
+            "index":1319,
             "area":"TOS",
             "denominazione_struttura":"AZIENDA OSPEDALIERA UNIVERSITARIA SENESE",
             "tipologia":"Ospedaliero",
@@ -13231,7 +13241,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1319,
+            "index":1320,
             "area":"TOS",
             "denominazione_struttura":"AZIENDA OSPEDALIERO-UNIVERSITARIA PISANA",
             "tipologia":"Ospedaliero",
@@ -13241,7 +13251,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1320,
+            "index":1321,
             "area":"TOS",
             "denominazione_struttura":"AZIENDA USL TOSCANA CENTRO",
             "tipologia":"Ospedaliero",
@@ -13251,7 +13261,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1321,
+            "index":1322,
             "area":"TOS",
             "denominazione_struttura":"AZIENDA USL TOSCANA NORD-OVEST",
             "tipologia":"Ospedaliero",
@@ -13261,7 +13271,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1322,
+            "index":1323,
             "area":"TOS",
             "denominazione_struttura":"AZIENDA USL TOSCANA SUD-EST",
             "tipologia":"Ospedaliero",
@@ -13271,7 +13281,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1323,
+            "index":1324,
             "area":"TOS",
             "denominazione_struttura":"C.D. L'AQUILONE",
             "tipologia":"Territoriale",
@@ -13281,7 +13291,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1324,
+            "index":1325,
             "area":"TOS",
             "denominazione_struttura":"C.D.A. LE PERLE",
             "tipologia":"Territoriale",
@@ -13291,7 +13301,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1325,
+            "index":1326,
             "area":"TOS",
             "denominazione_struttura":"C.D.EX STAMPERIA-ED.KRAEPELIN",
             "tipologia":"Territoriale",
@@ -13301,7 +13311,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1326,
+            "index":1327,
             "area":"TOS",
             "denominazione_struttura":"C.D.PSICHIATRICO LA LUNA AZZUR",
             "tipologia":"Territoriale",
@@ -13311,7 +13321,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1327,
+            "index":1328,
             "area":"TOS",
             "denominazione_struttura":"C.D.PSICHIATRICO SAN FREDIANO",
             "tipologia":"Territoriale",
@@ -13321,7 +13331,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1328,
+            "index":1329,
             "area":"TOS",
             "denominazione_struttura":"C.DIURNO CELEBROLESI F.PRIMI",
             "tipologia":"Territoriale",
@@ -13331,7 +13341,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1329,
+            "index":1330,
             "area":"TOS",
             "denominazione_struttura":"CASA DELLA SALUTE CASTIGLION F",
             "tipologia":"Territoriale",
@@ -13341,7 +13351,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1330,
+            "index":1331,
             "area":"TOS",
             "denominazione_struttura":"CASA DI CURA M.D. BARBANTINI",
             "tipologia":"Territoriale",
@@ -13351,7 +13361,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1331,
+            "index":1332,
             "area":"TOS",
             "denominazione_struttura":"CASA DI CURA VILLA TIRRENA",
             "tipologia":"Territoriale",
@@ -13361,7 +13371,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1332,
+            "index":1333,
             "area":"TOS",
             "denominazione_struttura":"CD ALZHEIMER DOMUS AUREA",
             "tipologia":"Territoriale",
@@ -13371,7 +13381,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1333,
+            "index":1334,
             "area":"TOS",
             "denominazione_struttura":"CENTRO DIURNO ALZHEIMER E.PELU",
             "tipologia":"Territoriale",
@@ -13381,7 +13391,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1334,
+            "index":1335,
             "area":"TOS",
             "denominazione_struttura":"CENTRO DIURNO ALZHEIMER PONTRE",
             "tipologia":"Territoriale",
@@ -13391,7 +13401,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1335,
+            "index":1336,
             "area":"TOS",
             "denominazione_struttura":"CENTRO DIURNO ALZHEIMER VILLAF",
             "tipologia":"Territoriale",
@@ -13401,7 +13411,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1336,
+            "index":1337,
             "area":"TOS",
             "denominazione_struttura":"CENTRO DIURNO ANZIANI",
             "tipologia":"Territoriale",
@@ -13411,7 +13421,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1337,
+            "index":1338,
             "area":"TOS",
             "denominazione_struttura":"CENTRO DIURNO IL CODERINO",
             "tipologia":"Territoriale",
@@ -13421,7 +13431,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1338,
+            "index":1339,
             "area":"TOS",
             "denominazione_struttura":"CENTRO DIURNO KOCH",
             "tipologia":"Territoriale",
@@ -13431,7 +13441,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1339,
+            "index":1340,
             "area":"TOS",
             "denominazione_struttura":"CENTRO DIURNO RIAB PSICHIATRIC",
             "tipologia":"Territoriale",
@@ -13441,7 +13451,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1340,
+            "index":1341,
             "area":"TOS",
             "denominazione_struttura":"CENTRO DIURNO VILLA RUBINI MAN",
             "tipologia":"Territoriale",
@@ -13451,7 +13461,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1341,
+            "index":1342,
             "area":"TOS",
             "denominazione_struttura":"CENTRO POLITANO PSICOTICI",
             "tipologia":"Territoriale",
@@ -13461,7 +13471,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1342,
+            "index":1343,
             "area":"TOS",
             "denominazione_struttura":"CENTRO RIABILITAZ. S.CATERINA",
             "tipologia":"Territoriale",
@@ -13471,7 +13481,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1343,
+            "index":1344,
             "area":"TOS",
             "denominazione_struttura":"CENTRO SALUTE MENTALE AULLA",
             "tipologia":"Territoriale",
@@ -13481,7 +13491,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1344,
+            "index":1345,
             "area":"TOS",
             "denominazione_struttura":"CENTRO SALUTE MENTALE EMPOLI",
             "tipologia":"Territoriale",
@@ -13491,7 +13501,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1345,
+            "index":1346,
             "area":"TOS",
             "denominazione_struttura":"CENTRO SALUTE MENTALE LA BADIA",
             "tipologia":"Territoriale",
@@ -13501,7 +13511,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1346,
+            "index":1347,
             "area":"TOS",
             "denominazione_struttura":"CENTRO SOCIO SANITARIO LIVORNO",
             "tipologia":"Territoriale",
@@ -13511,7 +13521,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1347,
+            "index":1348,
             "area":"TOS",
             "denominazione_struttura":"CENTRO SOCIO SANITARIO ROSIGNA",
             "tipologia":"Territoriale",
@@ -13521,7 +13531,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1348,
+            "index":1349,
             "area":"TOS",
             "denominazione_struttura":"CENTRO TER RIAB PESCIA",
             "tipologia":"Territoriale",
@@ -13531,7 +13541,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1349,
+            "index":1350,
             "area":"TOS",
             "denominazione_struttura":"COMUNITA TERAPEUTICA LA BADIA",
             "tipologia":"Territoriale",
@@ -13541,7 +13551,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1350,
+            "index":1351,
             "area":"TOS",
             "denominazione_struttura":"CONSULTORIO  OSP. S.FRANC.",
             "tipologia":"Territoriale",
@@ -13551,7 +13561,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1351,
+            "index":1352,
             "area":"TOS",
             "denominazione_struttura":"CONSULTORIO CALENZANO",
             "tipologia":"Territoriale",
@@ -13561,7 +13571,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1352,
+            "index":1353,
             "area":"TOS",
             "denominazione_struttura":"CONSULTORIO DI AGLIANA",
             "tipologia":"Territoriale",
@@ -13571,7 +13581,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1353,
+            "index":1354,
             "area":"TOS",
             "denominazione_struttura":"CONSULTORIO FAMILIARE PIOMBINO",
             "tipologia":"Territoriale",
@@ -13581,7 +13591,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1354,
+            "index":1355,
             "area":"TOS",
             "denominazione_struttura":"CONSULTORIO MONSUMMANO T.",
             "tipologia":"Territoriale",
@@ -13591,7 +13601,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1355,
+            "index":1356,
             "area":"TOS",
             "denominazione_struttura":"CONSULTORIO QUARRATA",
             "tipologia":"Territoriale",
@@ -13601,7 +13611,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1356,
+            "index":1357,
             "area":"TOS",
             "denominazione_struttura":"CONSULTORIO SAN MARCELLO",
             "tipologia":"Territoriale",
@@ -13611,7 +13621,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1357,
+            "index":1358,
             "area":"TOS",
             "denominazione_struttura":"COOP.HUMANITAS AGENZIA TERRITO",
             "tipologia":"Territoriale",
@@ -13621,7 +13631,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1358,
+            "index":1359,
             "area":"TOS",
             "denominazione_struttura":"DIS.SOC.SAN.MARINA DI CARRARA",
             "tipologia":"Territoriale",
@@ -13631,7 +13641,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1359,
+            "index":1360,
             "area":"TOS",
             "denominazione_struttura":"DISTR.SOCIO SANITARIO REGGELLO",
             "tipologia":"Territoriale",
@@ -13641,7 +13651,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1360,
+            "index":1361,
             "area":"TOS",
             "denominazione_struttura":"DISTRETTO  MASSA CENTRO CONSUL",
             "tipologia":"Territoriale",
@@ -13651,7 +13661,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1361,
+            "index":1362,
             "area":"TOS",
             "denominazione_struttura":"DISTRETTO DI AVENZA",
             "tipologia":"Territoriale",
@@ -13661,7 +13671,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1362,
+            "index":1363,
             "area":"TOS",
             "denominazione_struttura":"EX FILANDA",
             "tipologia":"Territoriale",
@@ -13671,7 +13681,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1363,
+            "index":1364,
             "area":"TOS",
             "denominazione_struttura":"FONDAZIONE CNR-RT G. MONASTERIO",
             "tipologia":"Ospedaliero",
@@ -13681,7 +13691,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1364,
+            "index":1365,
             "area":"TOS",
             "denominazione_struttura":"H S.GIUSEPPE BOCCACCIO AMB ASS",
             "tipologia":"Territoriale",
@@ -13691,7 +13701,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1365,
+            "index":1366,
             "area":"TOS",
             "denominazione_struttura":"LABORATORIO ITACA C.TRO DIURNO",
             "tipologia":"Territoriale",
@@ -13701,7 +13711,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1366,
+            "index":1367,
             "area":"TOS",
             "denominazione_struttura":"LO STANZONE CENTRO DIURNO",
             "tipologia":"Territoriale",
@@ -13711,7 +13721,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1367,
+            "index":1368,
             "area":"TOS",
             "denominazione_struttura":"MARINA DI PISA-SPECIALISTICA",
             "tipologia":"Territoriale",
@@ -13721,7 +13731,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1368,
+            "index":1369,
             "area":"TOS",
             "denominazione_struttura":"NUOVO OSPEDALE DI PRATO S.STEFANO",
             "tipologia":"Ospedaliero",
@@ -13731,7 +13741,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1369,
+            "index":1370,
             "area":"TOS",
             "denominazione_struttura":"NUOVO OSPEDALE VALDICHIANA S. MARGHERITA",
             "tipologia":"Ospedaliero",
@@ -13741,7 +13751,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1370,
+            "index":1371,
             "area":"TOS",
             "denominazione_struttura":"OSP.  ZONA B.VAL DI CECINA VAL DI CORNIA",
             "tipologia":"Ospedaliero",
@@ -13751,7 +13761,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1371,
+            "index":1372,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE  S.ANDREA   MASSA MARITTIMA",
             "tipologia":"Ospedaliero",
@@ -13761,7 +13771,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1372,
+            "index":1373,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE AREA ARETINA NORD",
             "tipologia":"Ospedaliero",
@@ -13771,7 +13781,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1373,
+            "index":1374,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE CECINA",
             "tipologia":"Territoriale",
@@ -13781,7 +13791,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1374,
+            "index":1375,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE CIVILE CASTELDELPIANO",
             "tipologia":"Territoriale",
@@ -13791,7 +13801,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1375,
+            "index":1376,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE CIVILE DI CASTEL DEL PIANO",
             "tipologia":"Ospedaliero",
@@ -13801,7 +13811,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1376,
+            "index":1377,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE DEL CASENTINO",
             "tipologia":"Ospedaliero",
@@ -13811,7 +13821,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1377,
+            "index":1378,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE DELL'ALTA VAL D'ELSA",
             "tipologia":"Ospedaliero",
@@ -13821,7 +13831,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1378,
+            "index":1379,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE DELLA MISERICORDIA GROSSETO",
             "tipologia":"Ospedaliero",
@@ -13831,7 +13841,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1379,
+            "index":1380,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE DELLA VALDINIEVOLE",
             "tipologia":"Ospedaliero",
@@ -13841,7 +13851,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1380,
+            "index":1381,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE DELLA VALTIBERINA",
             "tipologia":"Ospedaliero",
@@ -13851,7 +13861,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1381,
+            "index":1382,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE DELLE COLLINE DELL'ALBEGNA",
             "tipologia":"Ospedaliero",
@@ -13861,7 +13871,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1382,
+            "index":1383,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE DI BORGO SAN LORENZO",
             "tipologia":"Ospedaliero",
@@ -13871,7 +13881,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1383,
+            "index":1384,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE DI PITIGLIANO",
             "tipologia":"Territoriale",
@@ -13881,7 +13891,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1384,
+            "index":1385,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE DI PORTOFERRAIO",
             "tipologia":"Ospedaliero",
@@ -13891,7 +13901,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1385,
+            "index":1386,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE FIORENTINO",
             "tipologia":"Ospedaliero",
@@ -13901,7 +13911,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1386,
+            "index":1387,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE FIORENTINO SUD-EST",
             "tipologia":"Ospedaliero",
@@ -13911,7 +13921,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1387,
+            "index":1388,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE LIVORNO",
             "tipologia":"Ospedaliero",
@@ -13921,7 +13931,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1388,
+            "index":1389,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE NUOVO VALDARNO",
             "tipologia":"Ospedaliero",
@@ -13931,7 +13941,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1389,
+            "index":1390,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE PORTOFERRAIO",
             "tipologia":"Territoriale",
@@ -13941,7 +13951,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1390,
+            "index":1391,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALE VERSILIA",
             "tipologia":"Ospedaliero",
@@ -13951,7 +13961,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1391,
+            "index":1392,
             "area":"TOS",
             "denominazione_struttura":"OSPEDALI RIUNITI DELLA VAL DI CHIANA",
             "tipologia":"Ospedaliero",
@@ -13961,7 +13971,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1392,
+            "index":1393,
             "area":"TOS",
             "denominazione_struttura":"POLIAMB. P.O. NUOVO S.GIOVANNI",
             "tipologia":"Territoriale",
@@ -13971,7 +13981,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1393,
+            "index":1394,
             "area":"TOS",
             "denominazione_struttura":"POLIAMBULATORIO - VIA DON MINZ",
             "tipologia":"Territoriale",
@@ -13981,7 +13991,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1394,
+            "index":1395,
             "area":"TOS",
             "denominazione_struttura":"POLIAMBULATORIO AULLA",
             "tipologia":"Territoriale",
@@ -13991,7 +14001,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1395,
+            "index":1396,
             "area":"TOS",
             "denominazione_struttura":"POLIAMBULATORIO CAMUCIA",
             "tipologia":"Territoriale",
@@ -14001,7 +14011,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1396,
+            "index":1397,
             "area":"TOS",
             "denominazione_struttura":"POLIAMBULATORIO DI GREVE",
             "tipologia":"Territoriale",
@@ -14011,7 +14021,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1397,
+            "index":1398,
             "area":"TOS",
             "denominazione_struttura":"POLIAMBULATORIO MONTEVARCHI",
             "tipologia":"Territoriale",
@@ -14021,7 +14031,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1398,
+            "index":1399,
             "area":"TOS",
             "denominazione_struttura":"POLIAMBULATORIO OSP. BIBBIENA",
             "tipologia":"Territoriale",
@@ -14031,7 +14041,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1399,
+            "index":1400,
             "area":"TOS",
             "denominazione_struttura":"POLIAMBULATORIO OSP.NUOVO VALD",
             "tipologia":"Territoriale",
@@ -14041,7 +14051,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1400,
+            "index":1401,
             "area":"TOS",
             "denominazione_struttura":"POLIAMBULATORIO PIAN D'OVILE",
             "tipologia":"Territoriale",
@@ -14051,7 +14061,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1401,
+            "index":1402,
             "area":"TOS",
             "denominazione_struttura":"POLIAMBULATORIO PONTR.",
             "tipologia":"Territoriale",
@@ -14061,7 +14071,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1402,
+            "index":1403,
             "area":"TOS",
             "denominazione_struttura":"POLIAMBULATORIO S.DONATO",
             "tipologia":"Territoriale",
@@ -14071,7 +14081,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1403,
+            "index":1404,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO  TANZINI PONTASSIEVE",
             "tipologia":"Territoriale",
@@ -14081,7 +14091,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1404,
+            "index":1405,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO  VILLETTE",
             "tipologia":"Territoriale",
@@ -14091,7 +14101,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1405,
+            "index":1406,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO CASA DELLA SALUTE LAM",
             "tipologia":"Territoriale",
@@ -14101,7 +14111,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1406,
+            "index":1407,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO DEL PIZZETTI GROSSETO",
             "tipologia":"Territoriale",
@@ -14111,7 +14121,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1407,
+            "index":1408,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO DI BARBANELLA",
             "tipologia":"Territoriale",
@@ -14121,7 +14131,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1408,
+            "index":1409,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO DI CASCINA",
             "tipologia":"Territoriale",
@@ -14131,7 +14141,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1409,
+            "index":1410,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO DI FIGLINE VALDARNO",
             "tipologia":"Territoriale",
@@ -14141,7 +14151,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1410,
+            "index":1411,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO DI FOLLONICA",
             "tipologia":"Territoriale",
@@ -14151,7 +14161,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1411,
+            "index":1412,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO DISTR.POGGIO A CAIANO",
             "tipologia":"Territoriale",
@@ -14161,7 +14171,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1412,
+            "index":1413,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO DISTRETT.CARMIGNANO",
             "tipologia":"Territoriale",
@@ -14171,7 +14181,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1413,
+            "index":1414,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO DISTRETT.VERNIO",
             "tipologia":"Territoriale",
@@ -14181,7 +14191,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1414,
+            "index":1415,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO DISTRETTUALE V.GGIO T",
             "tipologia":"Territoriale",
@@ -14191,7 +14201,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1415,
+            "index":1416,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO OSPEDALIERO  ZONA LUNIGIANA",
             "tipologia":"Ospedaliero",
@@ -14201,7 +14211,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1416,
+            "index":1417,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO OSPEDALIERO \"FELICE LOTTI\"",
             "tipologia":"Ospedaliero",
@@ -14211,7 +14221,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1417,
+            "index":1418,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO OSPEDALIERO \"S.MARIA MADDALENA\"",
             "tipologia":"Ospedaliero",
@@ -14221,7 +14231,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1418,
+            "index":1419,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO OSPEDALIERO AMIATA SENESE",
             "tipologia":"Ospedaliero",
@@ -14231,7 +14241,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1419,
+            "index":1420,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO OSPEDALIERO SAN LUCA",
             "tipologia":"Ospedaliero",
@@ -14241,7 +14251,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1420,
+            "index":1421,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO OSPEDALIERO VALLE DEL SERCHIO",
             "tipologia":"Ospedaliero",
@@ -14251,7 +14261,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1421,
+            "index":1422,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO OSPEDALIERO ZONA DELLE APUANE",
             "tipologia":"Ospedaliero",
@@ -14261,7 +14271,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1422,
+            "index":1423,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO PISTOIA CENTRO",
             "tipologia":"Territoriale",
@@ -14271,7 +14281,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1423,
+            "index":1424,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO SAN CASCIANO V.P.",
             "tipologia":"Territoriale",
@@ -14281,7 +14291,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1424,
+            "index":1425,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO VACCINALE FIRENZE MAN",
             "tipologia":"Territoriale",
@@ -14291,7 +14301,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1425,
+            "index":1426,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO VACCINALE PISTOIA CAT",
             "tipologia":"Territoriale",
@@ -14301,7 +14311,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1426,
+            "index":1427,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO VACCINALE PRATO PEGAS",
             "tipologia":"Territoriale",
@@ -14311,7 +14321,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1427,
+            "index":1428,
             "area":"TOS",
             "denominazione_struttura":"PRESIDIO VILLA ANKURI",
             "tipologia":"Territoriale",
@@ -14321,7 +14331,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1428,
+            "index":1429,
             "area":"TOS",
             "denominazione_struttura":"SERT PISA  SEDE DI CASCINA",
             "tipologia":"Territoriale",
@@ -14331,7 +14341,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1429,
+            "index":1430,
             "area":"TOS",
             "denominazione_struttura":"SPEDALI RIUNITI",
             "tipologia":"Ospedaliero",
@@ -14341,7 +14351,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1430,
+            "index":1431,
             "area":"TOS",
             "denominazione_struttura":"SPEDALI RIUNITI DI S,CHIARA",
             "tipologia":"Territoriale",
@@ -14351,7 +14361,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1431,
+            "index":1432,
             "area":"TOS",
             "denominazione_struttura":"SV RSA PHALESIA C19",
             "tipologia":"Territoriale",
@@ -14361,7 +14371,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1432,
+            "index":1433,
             "area":"TOS",
             "denominazione_struttura":"U.O.R.R.F. - VIA GARIBALDI",
             "tipologia":"Territoriale",
@@ -14371,7 +14381,7 @@
             "nome_area":"Toscana"
         },
         {
-            "index":1433,
+            "index":1434,
             "area":"UMB",
             "denominazione_struttura":"AUSL UMBRIA N. 1",
             "tipologia":"Ospedaliero",
@@ -14381,7 +14391,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1434,
+            "index":1435,
             "area":"UMB",
             "denominazione_struttura":"AUSL UMBRIA N. 2",
             "tipologia":"Ospedaliero",
@@ -14391,7 +14401,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1435,
+            "index":1436,
             "area":"UMB",
             "denominazione_struttura":"AZIENDA OSPEDALIERA 'S. MARIA' - TERNI",
             "tipologia":"Ospedaliero",
@@ -14401,7 +14411,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1436,
+            "index":1437,
             "area":"UMB",
             "denominazione_struttura":"AZIENDA OSPEDALIERA DI PERUGIA",
             "tipologia":"Ospedaliero",
@@ -14411,7 +14421,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1437,
+            "index":1438,
             "area":"UMB",
             "denominazione_struttura":"CENTRO DIURNO ALZHEIMER DI FOLIGNO",
             "tipologia":"Territoriale",
@@ -14421,7 +14431,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1438,
+            "index":1439,
             "area":"UMB",
             "denominazione_struttura":"CENTRO DIURNO ANZIANI PANICALE",
             "tipologia":"Territoriale",
@@ -14431,7 +14441,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1439,
+            "index":1440,
             "area":"UMB",
             "denominazione_struttura":"IMPIANTI ATLETICA NARNI - PUNTO VACCINALE TERRITORIALE",
             "tipologia":"Territoriale",
@@ -14441,7 +14451,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1440,
+            "index":1441,
             "area":"UMB",
             "denominazione_struttura":"ISTITUTO PER SOVRINTENDENTI DELLA POLIZIA DI STATO UFFICIO SANITARIO - PUNTO VACCINALE TERRITORIALE",
             "tipologia":"Territoriale",
@@ -14451,7 +14461,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1441,
+            "index":1442,
             "area":"UMB",
             "denominazione_struttura":"OSPEDALE CIVILE SAN MATTEO DEGLI INFERMI",
             "tipologia":"Ospedaliero",
@@ -14461,7 +14471,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1442,
+            "index":1443,
             "area":"UMB",
             "denominazione_struttura":"OSPEDALE DI CITTA` DI CASTELLO",
             "tipologia":"Ospedaliero",
@@ -14471,7 +14481,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1443,
+            "index":1444,
             "area":"UMB",
             "denominazione_struttura":"OSPEDALE SAN GIOVANNI BATTISTA FOLIGNO",
             "tipologia":"Ospedaliero",
@@ -14481,7 +14491,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1444,
+            "index":1445,
             "area":"UMB",
             "denominazione_struttura":"PALATENDA SPOLETO - PUNTO VACCINALE TERRITORIALE",
             "tipologia":"Territoriale",
@@ -14491,7 +14501,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1445,
+            "index":1446,
             "area":"UMB",
             "denominazione_struttura":"PES NORCIA - PUNTO VACCINALE TERRITORIALE",
             "tipologia":"Territoriale",
@@ -14501,7 +14511,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1446,
+            "index":1447,
             "area":"UMB",
             "denominazione_struttura":"POLIAMBULATORI TERNI - PUNTO VACCINALE TERRITORIALE",
             "tipologia":"Territoriale",
@@ -14511,7 +14521,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1447,
+            "index":1448,
             "area":"UMB",
             "denominazione_struttura":"POLIAMBULATORIO UMBERTIDE",
             "tipologia":"Territoriale",
@@ -14521,7 +14531,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1448,
+            "index":1449,
             "area":"UMB",
             "denominazione_struttura":"PRESIDIO OSPEDALIERO GUBBIO E G.TADINO",
             "tipologia":"Ospedaliero",
@@ -14531,7 +14541,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1449,
+            "index":1450,
             "area":"UMB",
             "denominazione_struttura":"PUNTO VACCINAZIONE ANTI COVID-19  COMANDO LEGIONE CARABINIERI UMBRIA",
             "tipologia":"Territoriale",
@@ -14541,7 +14551,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1450,
+            "index":1451,
             "area":"UMB",
             "denominazione_struttura":"PUNTO VACCINAZIONE ANTI COVID-19  POLIZIA DI STATO",
             "tipologia":"Territoriale",
@@ -14551,7 +14561,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1451,
+            "index":1452,
             "area":"UMB",
             "denominazione_struttura":"PUNTO VACCINAZIONE ANTI COVID-19 ASSISANO",
             "tipologia":"Territoriale",
@@ -14561,7 +14571,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1452,
+            "index":1453,
             "area":"UMB",
             "denominazione_struttura":"PUNTO VACCINAZIONE ANTI COVID-19 GUBBIO",
             "tipologia":"Territoriale",
@@ -14571,7 +14581,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1453,
+            "index":1454,
             "area":"UMB",
             "denominazione_struttura":"PUNTO VACCINAZIONE ANTI COVID-19 MARSCIANO",
             "tipologia":"Territoriale",
@@ -14581,7 +14591,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1454,
+            "index":1455,
             "area":"UMB",
             "denominazione_struttura":"PUNTO VACCINAZIONE ANTI COVID-19 PONTE D'ODDI",
             "tipologia":"Territoriale",
@@ -14591,7 +14601,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1455,
+            "index":1456,
             "area":"UMB",
             "denominazione_struttura":"PUNTO VACCINAZIONE ANTI COVID-19 SAN MARIANO",
             "tipologia":"Territoriale",
@@ -14601,7 +14611,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1456,
+            "index":1457,
             "area":"UMB",
             "denominazione_struttura":"PUNTO VACCINAZIONE ANTI COVID-19 TAVERNELLE",
             "tipologia":"Territoriale",
@@ -14611,7 +14621,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1457,
+            "index":1458,
             "area":"UMB",
             "denominazione_struttura":"PUNTO VACCINAZIONE ANTI COVID-19 TORGIANO",
             "tipologia":"Territoriale",
@@ -14621,7 +14631,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1458,
+            "index":1459,
             "area":"UMB",
             "denominazione_struttura":"PUNTO VACCINAZIONE ANTI COVID-19 TRESTINA",
             "tipologia":"Territoriale",
@@ -14631,7 +14641,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1459,
+            "index":1460,
             "area":"UMB",
             "denominazione_struttura":"PUNTO VACCINAZIONE ANTI COVID-19 TUORO SUL TRASIMENO",
             "tipologia":"Territoriale",
@@ -14641,7 +14651,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1460,
+            "index":1461,
             "area":"UMB",
             "denominazione_struttura":"QUESTURA DI TERNI UFFICIO SANITARIO - PUNTO VACCINALE TERRITORIALE",
             "tipologia":"Territoriale",
@@ -14651,7 +14661,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1461,
+            "index":1462,
             "area":"UMB",
             "denominazione_struttura":"SANTA MARIA DELLA STELLA",
             "tipologia":"Ospedaliero",
@@ -14661,7 +14671,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1462,
+            "index":1463,
             "area":"UMB",
             "denominazione_struttura":"STAB. OSPEDALIERO MEDIA VALLE DEL TEVERE",
             "tipologia":"Ospedaliero",
@@ -14671,7 +14681,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1463,
+            "index":1464,
             "area":"UMB",
             "denominazione_struttura":"ZONA BOCCIODROMO AMELIA - PUNTO VACCINALE TERRITORIALE",
             "tipologia":"Territoriale",
@@ -14681,7 +14691,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":1464,
+            "index":1465,
             "area":"VDA",
             "denominazione_struttura":"AZIENDA U.S.L. VALLE D'AOSTA",
             "tipologia":"Ospedaliero",
@@ -14691,7 +14701,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":1465,
+            "index":1466,
             "area":"VDA",
             "denominazione_struttura":"OSPEDALE REGIONALE UMBERTO PARINI",
             "tipologia":"Ospedaliero",
@@ -14701,7 +14711,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":1466,
+            "index":1467,
             "area":"VDA",
             "denominazione_struttura":"PRESIDIO DI VALTOURNENCHE",
             "tipologia":"Territoriale",
@@ -14711,7 +14721,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":1467,
+            "index":1468,
             "area":"VDA",
             "denominazione_struttura":"SALONE POLIFUNZIONALE SITO NEL COMUNE DI CH\u00c2TILLON",
             "tipologia":"Territoriale",
@@ -14721,7 +14731,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":1468,
+            "index":1469,
             "area":"VEN",
             "denominazione_struttura":"AOUI VERONA BORGO TRENTO",
             "tipologia":"Ospedaliero",
@@ -14731,7 +14741,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1469,
+            "index":1470,
             "area":"VEN",
             "denominazione_struttura":"AQUILONE 1",
             "tipologia":"Territoriale",
@@ -14741,7 +14751,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1470,
+            "index":1471,
             "area":"VEN",
             "denominazione_struttura":"AQUILONE 2",
             "tipologia":"Territoriale",
@@ -14751,7 +14761,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1471,
+            "index":1472,
             "area":"VEN",
             "denominazione_struttura":"AZIENDA ULSS N. 1 DOLOMITI",
             "tipologia":"Ospedaliero",
@@ -14761,7 +14771,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1472,
+            "index":1473,
             "area":"VEN",
             "denominazione_struttura":"AZIENDA ULSS N. 2 MARCA TREVIGIANA",
             "tipologia":"Ospedaliero",
@@ -14771,7 +14781,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1473,
+            "index":1474,
             "area":"VEN",
             "denominazione_struttura":"AZIENDA ULSS N. 3 SERENISSIMA",
             "tipologia":"Ospedaliero",
@@ -14781,7 +14791,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1474,
+            "index":1475,
             "area":"VEN",
             "denominazione_struttura":"AZIENDA ULSS N. 4 VENETO ORIENTALE",
             "tipologia":"Ospedaliero",
@@ -14791,7 +14801,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1475,
+            "index":1476,
             "area":"VEN",
             "denominazione_struttura":"AZIENDA ULSS N. 5 POLESANA",
             "tipologia":"Ospedaliero",
@@ -14801,7 +14811,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1476,
+            "index":1477,
             "area":"VEN",
             "denominazione_struttura":"AZIENDA ULSS N. 6 EUGANEA",
             "tipologia":"Ospedaliero",
@@ -14811,7 +14821,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1477,
+            "index":1478,
             "area":"VEN",
             "denominazione_struttura":"AZIENDA ULSS N. 7 PEDEMONTANA\t",
             "tipologia":"Ospedaliero",
@@ -14821,7 +14831,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1478,
+            "index":1479,
             "area":"VEN",
             "denominazione_struttura":"AZIENDA ULSS N. 8 BERICA\t",
             "tipologia":"Ospedaliero",
@@ -14831,7 +14841,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1479,
+            "index":1480,
             "area":"VEN",
             "denominazione_struttura":"AZIENDA ULSS N. 9 SCALIGERA",
             "tipologia":"Ospedaliero",
@@ -14841,7 +14851,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1480,
+            "index":1481,
             "area":"VEN",
             "denominazione_struttura":"C DIURNO C.D.R. CITTADELLA",
             "tipologia":"Territoriale",
@@ -14851,7 +14861,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1481,
+            "index":1482,
             "area":"VEN",
             "denominazione_struttura":"C. DIURNO A.M. BONORA",
             "tipologia":"Territoriale",
@@ -14861,7 +14871,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1482,
+            "index":1483,
             "area":"VEN",
             "denominazione_struttura":"C. SERV.RES.ANZ.- SAN GIOBBE",
             "tipologia":"Territoriale",
@@ -14871,7 +14881,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1483,
+            "index":1484,
             "area":"VEN",
             "denominazione_struttura":"C. SERV.RES.ANZ.-CONTARINI",
             "tipologia":"Territoriale",
@@ -14881,7 +14891,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1484,
+            "index":1485,
             "area":"VEN",
             "denominazione_struttura":"C.D. ANFFAS DI LONIGO 1",
             "tipologia":"Territoriale",
@@ -14891,7 +14901,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1485,
+            "index":1486,
             "area":"VEN",
             "denominazione_struttura":"C.D. COFAL",
             "tipologia":"Territoriale",
@@ -14901,7 +14911,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1486,
+            "index":1487,
             "area":"VEN",
             "denominazione_struttura":"C.D. IRPEA - SAN GIUSEPPE 1",
             "tipologia":"Territoriale",
@@ -14911,7 +14921,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1487,
+            "index":1488,
             "area":"VEN",
             "denominazione_struttura":"C.D. IRPEA - SAN GIUSEPPE 2",
             "tipologia":"Territoriale",
@@ -14921,7 +14931,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1488,
+            "index":1489,
             "area":"VEN",
             "denominazione_struttura":"C.D. IRPEA - SANTA ROSA  NUCLEO 2",
             "tipologia":"Territoriale",
@@ -14931,7 +14941,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1489,
+            "index":1490,
             "area":"VEN",
             "denominazione_struttura":"C.D. IRPEA - SANTA ROSA 1",
             "tipologia":"Territoriale",
@@ -14941,7 +14951,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1490,
+            "index":1491,
             "area":"VEN",
             "denominazione_struttura":"C.D. NEW TEAM MOSAICO",
             "tipologia":"Territoriale",
@@ -14951,7 +14961,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1491,
+            "index":1492,
             "area":"VEN",
             "denominazione_struttura":"C.D. POLIS NOVA - MOSAICO",
             "tipologia":"Territoriale",
@@ -14961,7 +14971,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1492,
+            "index":1493,
             "area":"VEN",
             "denominazione_struttura":"C.D.C. 'VILLA MARIA' SPA",
             "tipologia":"Territoriale",
@@ -14971,7 +14981,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1493,
+            "index":1494,
             "area":"VEN",
             "denominazione_struttura":"C.S.A. 'SAN GIUSEPPE' - ARSIE'",
             "tipologia":"Territoriale",
@@ -14981,7 +14991,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1494,
+            "index":1495,
             "area":"VEN",
             "denominazione_struttura":"C.S.A. COMUNALE - SEDICO",
             "tipologia":"Territoriale",
@@ -14991,7 +15001,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1495,
+            "index":1496,
             "area":"VEN",
             "denominazione_struttura":"C.S.M. VENEZIA",
             "tipologia":"Territoriale",
@@ -15001,7 +15011,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1496,
+            "index":1497,
             "area":"VEN",
             "denominazione_struttura":"CASA DI CURA ABANO TERME POLISPEC. E TER",
             "tipologia":"Ospedaliero",
@@ -15011,7 +15021,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1497,
+            "index":1498,
             "area":"VEN",
             "denominazione_struttura":"CASA DI CURA ABANO TERME SPA",
             "tipologia":"Territoriale",
@@ -15021,7 +15031,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1498,
+            "index":1499,
             "area":"VEN",
             "denominazione_struttura":"CASA DI CURA DI ABANO TERME - POLISPECIALISTICA E TERMALE SPA",
             "tipologia":"Territoriale",
@@ -15031,7 +15041,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1499,
+            "index":1500,
             "area":"VEN",
             "denominazione_struttura":"CASA DI CURA DIAZ",
             "tipologia":"Ospedaliero",
@@ -15041,7 +15051,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1500,
+            "index":1501,
             "area":"VEN",
             "denominazione_struttura":"CASA DI CURA GIOVANNI XXIII",
             "tipologia":"Ospedaliero",
@@ -15051,7 +15061,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1501,
+            "index":1502,
             "area":"VEN",
             "denominazione_struttura":"CASA DI CURA PEDERZOLI",
             "tipologia":"Ospedaliero",
@@ -15061,7 +15071,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1502,
+            "index":1503,
             "area":"VEN",
             "denominazione_struttura":"CASA DI CURA SILENO E ANNA RIZZOLA",
             "tipologia":"Ospedaliero",
@@ -15071,7 +15081,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1503,
+            "index":1504,
             "area":"VEN",
             "denominazione_struttura":"CASA DI CURA VILLA GARDA",
             "tipologia":"Territoriale",
@@ -15081,7 +15091,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1504,
+            "index":1505,
             "area":"VEN",
             "denominazione_struttura":"CASA DI RIPOSO 'A. SANTIN' - VAL DI ZOLDO",
             "tipologia":"Territoriale",
@@ -15091,7 +15101,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1505,
+            "index":1506,
             "area":"VEN",
             "denominazione_struttura":"CASA DI RIPOSO DI NOVENTA PADOVANA - CENTRO DIURNO 'LE MAGNOLIE'",
             "tipologia":"Territoriale",
@@ -15101,7 +15111,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1506,
+            "index":1507,
             "area":"VEN",
             "denominazione_struttura":"CASA DI RIPOSO VILLA 'DON G.CECCON' - S.CROCE",
             "tipologia":"Territoriale",
@@ -15111,7 +15121,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1507,
+            "index":1508,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DI SERVIZI RESIDENZIAI \"ISTITUTO PADRE PIO\" - TARZO",
             "tipologia":"Territoriale",
@@ -15121,7 +15131,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1508,
+            "index":1509,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DI SERVIZI RESIDENZIALE \"AITA\" PIEVE DEL GRAPPA",
             "tipologia":"Territoriale",
@@ -15131,7 +15141,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1509,
+            "index":1510,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DI SERVIZI RESIDENZIALE \"RESIDENZA PER ANZIANI CITTA' DI RONCADE\" - RONCADE",
             "tipologia":"Territoriale",
@@ -15141,7 +15151,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1510,
+            "index":1511,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DI SERVIZI RESIDENZIALE \"RESIDENZE PER ANZIANI CITTA' DI TREVISO\" - TREVISO",
             "tipologia":"Territoriale",
@@ -15151,7 +15161,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1511,
+            "index":1512,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DI SERVIZI RESIDENZIALE 'TRE CARPINI' - MASERADA",
             "tipologia":"Territoriale",
@@ -15161,7 +15171,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1512,
+            "index":1513,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DIURNO \"DAFNE\" - CASTELFRANCO VENETO",
             "tipologia":"Territoriale",
@@ -15171,7 +15181,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1513,
+            "index":1514,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DIURNO \"DEDALO\" - CASTELFRANCO VENETO",
             "tipologia":"Territoriale",
@@ -15181,7 +15191,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1514,
+            "index":1515,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DIURNO \"MARIA E GUIDO VETTORETTI\" - VITTORIO VENETO",
             "tipologia":"Territoriale",
@@ -15191,7 +15201,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1515,
+            "index":1516,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DIURNO \"PEGASO\" -  CASTELFRANCO VENETO",
             "tipologia":"Territoriale",
@@ -15201,7 +15211,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1516,
+            "index":1517,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DIURNO \"PLEIADI\" - CASTELFRANCO VENETO",
             "tipologia":"Territoriale",
@@ -15211,7 +15221,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1517,
+            "index":1518,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DIURNO 'ANIME LIBERE' ARZIGNANO",
             "tipologia":"Territoriale",
@@ -15221,7 +15231,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1518,
+            "index":1519,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DIURNO 'MADONNINA'",
             "tipologia":"Territoriale",
@@ -15231,7 +15241,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1519,
+            "index":1520,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DIURNO ALBERTINI",
             "tipologia":"Territoriale",
@@ -15241,7 +15251,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1520,
+            "index":1521,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DIURNO CHIAMPO E ALTA VALLE",
             "tipologia":"Territoriale",
@@ -15251,7 +15261,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1521,
+            "index":1522,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DIURNO PSCH.-RODARI",
             "tipologia":"Territoriale",
@@ -15261,7 +15271,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1522,
+            "index":1523,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DIURNO PSICHIATRICO - DOLO",
             "tipologia":"Territoriale",
@@ -15271,7 +15281,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1523,
+            "index":1524,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DIURNO PSICHIATRICO - MIRANO",
             "tipologia":"Territoriale",
@@ -15281,7 +15291,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1524,
+            "index":1525,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DIURNO PSICHIATRICO - SEDE DI CHIOGGIA",
             "tipologia":"Territoriale",
@@ -15291,7 +15301,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1525,
+            "index":1526,
             "area":"VEN",
             "denominazione_struttura":"CENTRO DIURNO RECOARO SOLIDALE",
             "tipologia":"Territoriale",
@@ -15301,7 +15311,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1526,
+            "index":1527,
             "area":"VEN",
             "denominazione_struttura":"CENTRO MED. FONIATRIA",
             "tipologia":"Territoriale",
@@ -15311,7 +15321,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1527,
+            "index":1528,
             "area":"VEN",
             "denominazione_struttura":"CENTRO SANITARIO POLIFUNZIONALE (EX DIALISI PIANO TERRA)",
             "tipologia":"Territoriale",
@@ -15321,7 +15331,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1528,
+            "index":1529,
             "area":"VEN",
             "denominazione_struttura":"CENTRO VACCINALE \"BOCCIODROMO\" - VILLORBA",
             "tipologia":"Territoriale",
@@ -15331,7 +15341,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1529,
+            "index":1530,
             "area":"VEN",
             "denominazione_struttura":"CENTRO VACCINALE \"FORO BORARIO\" - ODERZO",
             "tipologia":"Territoriale",
@@ -15341,7 +15351,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1530,
+            "index":1531,
             "area":"VEN",
             "denominazione_struttura":"CENTRO VACCINALE 'PALAINGRESSO GODEGA FIERE' - GODEGA SANT'URBANO",
             "tipologia":"Territoriale",
@@ -15351,7 +15361,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1531,
+            "index":1532,
             "area":"VEN",
             "denominazione_struttura":"CENTRO VACCINALE ?CENTRO CULTURALE CASA RIESE? ? RIESE PIO X",
             "tipologia":"Territoriale",
@@ -15361,7 +15371,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1532,
+            "index":1533,
             "area":"VEN",
             "denominazione_struttura":"CENTRO VACCINALE COVID-19 JESOLO",
             "tipologia":"Territoriale",
@@ -15371,7 +15381,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1533,
+            "index":1534,
             "area":"VEN",
             "denominazione_struttura":"CENTRO VACCINALE COVID-19 PORTOGRUARO",
             "tipologia":"Territoriale",
@@ -15381,7 +15391,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1534,
+            "index":1535,
             "area":"VEN",
             "denominazione_struttura":"CENTRO VACCINAZIONE LONIGO",
             "tipologia":"Territoriale",
@@ -15391,7 +15401,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1535,
+            "index":1536,
             "area":"VEN",
             "denominazione_struttura":"CENTRO VACCINAZIONE NOVENTA VICENTINA",
             "tipologia":"Territoriale",
@@ -15401,7 +15411,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1536,
+            "index":1537,
             "area":"VEN",
             "denominazione_struttura":"CENTRO VACCINAZIONE POPOLAZIONE COVID19 BUSSOLENGO",
             "tipologia":"Territoriale",
@@ -15411,7 +15421,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1537,
+            "index":1538,
             "area":"VEN",
             "denominazione_struttura":"CENTRO VACCINAZIONE POPOLAZIONE COVID19 FIERA VERONA",
             "tipologia":"Territoriale",
@@ -15421,7 +15431,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1538,
+            "index":1539,
             "area":"VEN",
             "denominazione_struttura":"CENTRO VACCINAZIONE POPOLAZIONE COVID19 LEGNAGO",
             "tipologia":"Territoriale",
@@ -15431,7 +15441,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1539,
+            "index":1540,
             "area":"VEN",
             "denominazione_struttura":"CENTRO VACCINAZIONE POPOLAZIONE COVID19 S. BONIFACIO",
             "tipologia":"Territoriale",
@@ -15441,7 +15451,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1540,
+            "index":1541,
             "area":"VEN",
             "denominazione_struttura":"CENTRO VACCINAZIONE TRISSINO",
             "tipologia":"Territoriale",
@@ -15451,7 +15461,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1541,
+            "index":1542,
             "area":"VEN",
             "denominazione_struttura":"CENTRO VACCINAZIONE VALDAGNO",
             "tipologia":"Territoriale",
@@ -15461,7 +15471,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1542,
+            "index":1543,
             "area":"VEN",
             "denominazione_struttura":"CENTRO VACCINAZIONE VICENZA",
             "tipologia":"Territoriale",
@@ -15471,7 +15481,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1543,
+            "index":1544,
             "area":"VEN",
             "denominazione_struttura":"CHIOSTRO S. MARIA DELLE CONSOLAZIONI",
             "tipologia":"Territoriale",
@@ -15481,7 +15491,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1544,
+            "index":1545,
             "area":"VEN",
             "denominazione_struttura":"COOPERATIVA EASY",
             "tipologia":"Territoriale",
@@ -15491,7 +15501,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1545,
+            "index":1546,
             "area":"VEN",
             "denominazione_struttura":"CRAUP - CENTRO DIURNO UMBERTO I",
             "tipologia":"Territoriale",
@@ -15501,7 +15511,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1546,
+            "index":1547,
             "area":"VEN",
             "denominazione_struttura":"CVP ADRIA C\/O CENTRO COMMERCIALE IL PORTO",
             "tipologia":"Territoriale",
@@ -15511,7 +15521,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1547,
+            "index":1548,
             "area":"VEN",
             "denominazione_struttura":"CVP CAMPONOGARA",
             "tipologia":"Territoriale",
@@ -15521,7 +15531,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1548,
+            "index":1549,
             "area":"VEN",
             "denominazione_struttura":"CVP CASTELMASSA C\/O MERCATO COPERTO",
             "tipologia":"Territoriale",
@@ -15531,7 +15541,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1549,
+            "index":1550,
             "area":"VEN",
             "denominazione_struttura":"CVP CAVARZERE",
             "tipologia":"Territoriale",
@@ -15541,7 +15551,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1550,
+            "index":1551,
             "area":"VEN",
             "denominazione_struttura":"CVP CHIOGGIA",
             "tipologia":"Territoriale",
@@ -15551,7 +15561,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1551,
+            "index":1552,
             "area":"VEN",
             "denominazione_struttura":"CVP COVID - ARSIERO PALAZZETTO DELLO SPORT",
             "tipologia":"Territoriale",
@@ -15561,7 +15571,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1552,
+            "index":1553,
             "area":"VEN",
             "denominazione_struttura":"CVP COVID - ASIAGO UNIONE MONTANA SPETT. REGGENZA DEI 7 COMUNI",
             "tipologia":"Territoriale",
@@ -15571,7 +15581,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1553,
+            "index":1554,
             "area":"VEN",
             "denominazione_struttura":"CVP COVID - BASSANO DEL GRAPPA CENTRO SOCIO RICREATIVO ROND\u00d2 BRENTA",
             "tipologia":"Territoriale",
@@ -15581,7 +15591,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1554,
+            "index":1555,
             "area":"VEN",
             "denominazione_struttura":"CVP COVID - SAN GIUSEPPE DI CASSOLA CENTRO DIURNO PER ANZIANI",
             "tipologia":"Territoriale",
@@ -15591,7 +15601,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1555,
+            "index":1556,
             "area":"VEN",
             "denominazione_struttura":"CVP COVID - SCHIO PALESTRA COMUNALE MARCONI",
             "tipologia":"Territoriale",
@@ -15601,7 +15611,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1556,
+            "index":1557,
             "area":"VEN",
             "denominazione_struttura":"CVP COVID - THIENE PADIGLIONE FIERISTICO",
             "tipologia":"Territoriale",
@@ -15611,7 +15621,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1557,
+            "index":1558,
             "area":"VEN",
             "denominazione_struttura":"CVP DOLO",
             "tipologia":"Territoriale",
@@ -15621,7 +15631,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1558,
+            "index":1559,
             "area":"VEN",
             "denominazione_struttura":"CVP FAVARO",
             "tipologia":"Territoriale",
@@ -15631,7 +15641,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1559,
+            "index":1560,
             "area":"VEN",
             "denominazione_struttura":"CVP LENDINARA C\/O PALAZZETTO DELLO SPORT",
             "tipologia":"Territoriale",
@@ -15641,7 +15651,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1560,
+            "index":1561,
             "area":"VEN",
             "denominazione_struttura":"CVP LIDO PELLESTRINA",
             "tipologia":"Territoriale",
@@ -15651,7 +15661,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1561,
+            "index":1562,
             "area":"VEN",
             "denominazione_struttura":"CVP MARCON",
             "tipologia":"Territoriale",
@@ -15661,7 +15671,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1562,
+            "index":1563,
             "area":"VEN",
             "denominazione_struttura":"CVP MESTRE",
             "tipologia":"Territoriale",
@@ -15671,7 +15681,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1563,
+            "index":1564,
             "area":"VEN",
             "denominazione_struttura":"CVP MIRANO",
             "tipologia":"Territoriale",
@@ -15681,7 +15691,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1564,
+            "index":1565,
             "area":"VEN",
             "denominazione_struttura":"CVP NOALE",
             "tipologia":"Territoriale",
@@ -15691,7 +15701,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1565,
+            "index":1566,
             "area":"VEN",
             "denominazione_struttura":"CVP PORTO TOLLE C\/O PALAZZETTO DELLO SPORT",
             "tipologia":"Territoriale",
@@ -15701,7 +15711,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1566,
+            "index":1567,
             "area":"VEN",
             "denominazione_struttura":"CVP PORTO VIRO C\/O SALA ERACLE",
             "tipologia":"Territoriale",
@@ -15711,7 +15721,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1567,
+            "index":1568,
             "area":"VEN",
             "denominazione_struttura":"CVP ROVIGO C\/O CENSER",
             "tipologia":"Territoriale",
@@ -15721,7 +15731,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1568,
+            "index":1569,
             "area":"VEN",
             "denominazione_struttura":"CVP SANTA MARIA DI SALA",
             "tipologia":"Territoriale",
@@ -15731,7 +15741,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1569,
+            "index":1570,
             "area":"VEN",
             "denominazione_struttura":"CVP TRECENTA C\/O OSPEDALE S.LUCA",
             "tipologia":"Territoriale",
@@ -15741,7 +15751,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1570,
+            "index":1571,
             "area":"VEN",
             "denominazione_struttura":"CVP VENEZIA 1",
             "tipologia":"Territoriale",
@@ -15751,7 +15761,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1571,
+            "index":1572,
             "area":"VEN",
             "denominazione_struttura":"CVP VENEZIA 2",
             "tipologia":"Territoriale",
@@ -15761,7 +15771,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1572,
+            "index":1573,
             "area":"VEN",
             "denominazione_struttura":"FIERA DI PADOVA PADIGLIONE 6 (PUNTO VACCINAZIONE)",
             "tipologia":"Territoriale",
@@ -15771,7 +15781,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1573,
+            "index":1574,
             "area":"VEN",
             "denominazione_struttura":"IL NUOVO PONTE - MAROSTICANA",
             "tipologia":"Territoriale",
@@ -15781,7 +15791,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1574,
+            "index":1575,
             "area":"VEN",
             "denominazione_struttura":"IOV PADOVA",
             "tipologia":"Ospedaliero",
@@ -15791,7 +15801,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1575,
+            "index":1576,
             "area":"VEN",
             "denominazione_struttura":"OPSA -CENTRO DIURNO SAN CAMILLO",
             "tipologia":"Territoriale",
@@ -15801,7 +15811,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1576,
+            "index":1577,
             "area":"VEN",
             "denominazione_struttura":"OPSA CENTRO DIURNO SAN RAFFAELE",
             "tipologia":"Territoriale",
@@ -15811,7 +15821,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1577,
+            "index":1578,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE CLASSIFICATO SAN CAMILLO",
             "tipologia":"Ospedaliero",
@@ -15821,7 +15831,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1578,
+            "index":1579,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI  CONEGLIANO",
             "tipologia":"Ospedaliero",
@@ -15831,7 +15841,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1579,
+            "index":1580,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI  ODERZO",
             "tipologia":"Ospedaliero",
@@ -15841,7 +15851,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1580,
+            "index":1581,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI  TREVISO",
             "tipologia":"Ospedaliero",
@@ -15851,7 +15861,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1581,
+            "index":1582,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI ARZIGNANO",
             "tipologia":"Ospedaliero",
@@ -15861,7 +15871,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1582,
+            "index":1583,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI DOLO",
             "tipologia":"Ospedaliero",
@@ -15871,7 +15881,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1583,
+            "index":1584,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI JESOLO",
             "tipologia":"Ospedaliero",
@@ -15881,7 +15891,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1584,
+            "index":1585,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI LONIGO",
             "tipologia":"Ospedaliero",
@@ -15891,7 +15901,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1585,
+            "index":1586,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI MONTEBELLUNA",
             "tipologia":"Ospedaliero",
@@ -15901,7 +15911,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1586,
+            "index":1587,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI MOTTA DI LIVENZA",
             "tipologia":"Ospedaliero",
@@ -15911,7 +15921,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1587,
+            "index":1588,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI NOVENTA",
             "tipologia":"Ospedaliero",
@@ -15921,7 +15931,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1588,
+            "index":1589,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI PORTOGRUARO",
             "tipologia":"Ospedaliero",
@@ -15931,7 +15941,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1589,
+            "index":1590,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI ROVIGO",
             "tipologia":"Ospedaliero",
@@ -15941,7 +15951,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1590,
+            "index":1591,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI SAN DONA' DI PIAVE",
             "tipologia":"Ospedaliero",
@@ -15951,7 +15961,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1591,
+            "index":1592,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI VALDAGNO",
             "tipologia":"Ospedaliero",
@@ -15961,7 +15971,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1592,
+            "index":1593,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI VICENZA",
             "tipologia":"Ospedaliero",
@@ -15971,7 +15981,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1593,
+            "index":1594,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI VITTORIO VENETO",
             "tipologia":"Ospedaliero",
@@ -15981,7 +15991,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1594,
+            "index":1595,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE SACRO CUORE DON CALABRIA",
             "tipologia":"Ospedaliero",
@@ -15991,7 +16001,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1595,
+            "index":1596,
             "area":"VEN",
             "denominazione_struttura":"PALAZZETTO DELLO SPORT 'BORGO ROSSI' (PUNTO VACCINAZIONE)",
             "tipologia":"Territoriale",
@@ -16001,7 +16011,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1596,
+            "index":1597,
             "area":"VEN",
             "denominazione_struttura":"PALAZZETTO DELLO SPORT DI CITTADELLA",
             "tipologia":"Territoriale",
@@ -16011,7 +16021,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1597,
+            "index":1598,
             "area":"VEN",
             "denominazione_struttura":"PALAZZETTO DELLO SPORT DI LOREGGIA",
             "tipologia":"Territoriale",
@@ -16021,7 +16031,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1598,
+            "index":1599,
             "area":"VEN",
             "denominazione_struttura":"POLIAMB. OSPEDALE  FATEBENEFR.",
             "tipologia":"Territoriale",
@@ -16031,7 +16041,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1599,
+            "index":1600,
             "area":"VEN",
             "denominazione_struttura":"POLIAMB. OSPEDALE  SAN MARCO",
             "tipologia":"Territoriale",
@@ -16041,7 +16051,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1600,
+            "index":1601,
             "area":"VEN",
             "denominazione_struttura":"POLIAMB. OSPEDALE  VILLA SALUS",
             "tipologia":"Territoriale",
@@ -16051,7 +16061,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1601,
+            "index":1602,
             "area":"VEN",
             "denominazione_struttura":"PRESIDIO RIABILIT. VILLA MARIA",
             "tipologia":"Territoriale",
@@ -16061,7 +16071,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1602,
+            "index":1603,
             "area":"VEN",
             "denominazione_struttura":"PRIMAVERA 85 - CAD A. BABA",
             "tipologia":"Territoriale",
@@ -16071,7 +16081,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1603,
+            "index":1604,
             "area":"VEN",
             "denominazione_struttura":"PRIMAVERA 85 - CASA RONCOLATO",
             "tipologia":"Territoriale",
@@ -16081,7 +16091,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1604,
+            "index":1605,
             "area":"VEN",
             "denominazione_struttura":"PRIMAVERA 85 - CONTATTO",
             "tipologia":"Territoriale",
@@ -16091,7 +16101,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1605,
+            "index":1606,
             "area":"VEN",
             "denominazione_struttura":"PRIMAVERA 85 - LITTORINA",
             "tipologia":"Territoriale",
@@ -16101,7 +16111,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1606,
+            "index":1607,
             "area":"VEN",
             "denominazione_struttura":"PRIMAVERA 85 CLP",
             "tipologia":"Territoriale",
@@ -16111,7 +16121,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1607,
+            "index":1608,
             "area":"VEN",
             "denominazione_struttura":"PSR ALBATROS PIANO INFINITO",
             "tipologia":"Territoriale",
@@ -16121,7 +16131,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1608,
+            "index":1609,
             "area":"VEN",
             "denominazione_struttura":"PSR MOBY DICK",
             "tipologia":"Territoriale",
@@ -16131,7 +16141,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":1609,
+            "index":1610,
             "area":"VEN",
             "denominazione_struttura":"PSR NO PROBLEM COOP. STUDIO PROGETTO",
             "tipologia":"Territoriale",
