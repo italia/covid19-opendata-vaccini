@@ -2543,7 +2543,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-01-14,Pfizer/BioNTech,LAZ,80-89,156,239,27,1,292,74,0,0,1,395,0,ITI,ITI4,12,Lazio
 2021-01-14,Pfizer/BioNTech,LAZ,90+,54,191,4,0,231,10,0,0,0,245,0,ITI,ITI4,12,Lazio
 2021-01-14,Pfizer/BioNTech,LIG,16-19,3,3,3,0,1,0,0,0,2,6,0,ITC,ITC3,7,Liguria
-2021-01-14,Pfizer/BioNTech,LIG,20-29,154,251,357,26,1,0,0,0,21,405,0,ITC,ITC3,7,Liguria
+2021-01-14,Pfizer/BioNTech,LIG,20-29,155,251,358,26,1,0,0,0,21,406,0,ITC,ITC3,7,Liguria
 2021-01-14,Pfizer/BioNTech,LIG,30-39,224,299,448,46,1,0,0,0,28,523,0,ITC,ITC3,7,Liguria
 2021-01-14,Pfizer/BioNTech,LIG,40-49,119,262,272,54,1,0,0,1,53,381,0,ITC,ITC3,7,Liguria
 2021-01-14,Pfizer/BioNTech,LIG,50-59,187,439,424,121,3,0,0,0,78,626,0,ITC,ITC3,7,Liguria
@@ -6180,8 +6180,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-01-31,Pfizer/BioNTech,VEN,50-59,419,1086,1172,56,46,0,2,1,228,142,1363,ITH,ITH3,5,Veneto
 2021-01-31,Pfizer/BioNTech,VEN,60-69,354,402,621,23,48,0,0,0,64,29,727,ITH,ITH3,5,Veneto
 2021-01-31,Pfizer/BioNTech,VEN,70-79,83,50,82,6,38,0,0,0,7,3,130,ITH,ITH3,5,Veneto
-2021-01-31,Pfizer/BioNTech,VEN,80-89,34,88,2,5,110,3,0,0,2,15,107,ITH,ITH3,5,Veneto
-2021-01-31,Pfizer/BioNTech,VEN,90+,14,75,0,0,87,1,0,0,1,5,84,ITH,ITH3,5,Veneto
+2021-01-31,Pfizer/BioNTech,VEN,80-89,34,89,2,5,110,3,0,0,3,15,108,ITH,ITH3,5,Veneto
+2021-01-31,Pfizer/BioNTech,VEN,90+,14,76,0,0,87,1,0,0,2,5,85,ITH,ITH3,5,Veneto
 2021-02-01,AstraZeneca,LAZ,90+,1,0,1,0,0,0,0,0,0,1,0,ITI,ITI4,12,Lazio
 2021-02-01,Moderna,ABR,30-39,0,1,1,0,0,0,0,0,0,0,1,ITF,ITF1,13,Abruzzo
 2021-02-01,Moderna,EMR,20-29,0,1,1,0,0,0,0,0,0,1,0,ITH,ITH5,8,Emilia-Romagna
@@ -7021,7 +7021,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-02-04,Pfizer/BioNTech,LAZ,80-89,173,279,41,0,323,64,0,0,24,69,383,ITI,ITI4,12,Lazio
 2021-02-04,Pfizer/BioNTech,LAZ,90+,59,233,19,0,264,8,0,0,1,56,236,ITI,ITI4,12,Lazio
 2021-02-04,Pfizer/BioNTech,LIG,16-19,4,3,6,0,1,0,0,0,0,0,7,ITC,ITC3,7,Liguria
-2021-02-04,Pfizer/BioNTech,LIG,20-29,96,184,230,36,0,0,0,3,11,17,263,ITC,ITC3,7,Liguria
+2021-02-04,Pfizer/BioNTech,LIG,20-29,97,184,231,36,0,0,0,3,11,17,264,ITC,ITC3,7,Liguria
 2021-02-04,Pfizer/BioNTech,LIG,30-39,124,200,272,41,0,0,0,1,10,19,305,ITC,ITC3,7,Liguria
 2021-02-04,Pfizer/BioNTech,LIG,40-49,132,295,333,67,2,0,0,1,24,20,407,ITC,ITC3,7,Liguria
 2021-02-04,Pfizer/BioNTech,LIG,50-59,191,500,524,129,5,0,1,3,29,37,654,ITC,ITC3,7,Liguria
@@ -7885,9 +7885,9 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-02-08,Moderna,LOM,40-49,11,49,40,19,1,0,0,0,0,60,0,ITC,ITC4,3,Lombardia
 2021-02-08,Moderna,LOM,50-59,20,81,64,35,2,0,0,0,0,101,0,ITC,ITC4,3,Lombardia
 2021-02-08,Moderna,LOM,60-69,17,41,34,15,9,0,0,0,0,58,0,ITC,ITC4,3,Lombardia
-2021-02-08,Moderna,LOM,70-79,12,25,1,4,32,0,0,0,0,37,0,ITC,ITC4,3,Lombardia
-2021-02-08,Moderna,LOM,80-89,24,105,1,1,125,2,0,0,0,129,0,ITC,ITC4,3,Lombardia
-2021-02-08,Moderna,LOM,90+,20,106,0,0,124,2,0,0,0,126,0,ITC,ITC4,3,Lombardia
+2021-02-08,Moderna,LOM,70-79,12,26,1,4,33,0,0,0,0,38,0,ITC,ITC4,3,Lombardia
+2021-02-08,Moderna,LOM,80-89,26,107,1,1,129,2,0,0,0,133,0,ITC,ITC4,3,Lombardia
+2021-02-08,Moderna,LOM,90+,21,109,0,0,128,2,0,0,0,130,0,ITC,ITC4,3,Lombardia
 2021-02-08,Moderna,MAR,20-29,3,5,6,0,0,0,0,0,2,8,0,ITI,ITI3,11,Marche
 2021-02-08,Moderna,MAR,30-39,8,26,29,2,0,0,0,0,3,34,0,ITI,ITI3,11,Marche
 2021-02-08,Moderna,MAR,40-49,16,36,38,5,0,0,0,0,9,52,0,ITI,ITI3,11,Marche
@@ -12862,7 +12862,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-02-24,Pfizer/BioNTech,LAZ,20-29,77,159,211,10,1,0,3,2,9,105,131,ITI,ITI4,12,Lazio
 2021-02-24,Pfizer/BioNTech,LAZ,30-39,117,160,244,17,3,0,1,0,12,138,139,ITI,ITI4,12,Lazio
 2021-02-24,Pfizer/BioNTech,LAZ,40-49,130,229,297,40,2,0,5,0,15,178,181,ITI,ITI4,12,Lazio
-2021-02-24,Pfizer/BioNTech,LAZ,50-59,156,220,263,55,11,0,4,3,40,252,124,ITI,ITI4,12,Lazio
+2021-02-24,Pfizer/BioNTech,LAZ,50-59,156,221,264,55,11,0,4,3,40,252,125,ITI,ITI4,12,Lazio
 2021-02-24,Pfizer/BioNTech,LAZ,60-69,171,151,226,22,19,0,1,0,54,237,85,ITI,ITI4,12,Lazio
 2021-02-24,Pfizer/BioNTech,LAZ,70-79,201,98,187,1,52,0,0,0,59,244,55,ITI,ITI4,12,Lazio
 2021-02-24,Pfizer/BioNTech,LAZ,80-89,1659,2144,23,2,128,3626,0,9,15,3708,95,ITI,ITI4,12,Lazio
@@ -13253,7 +13253,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-02-25,Pfizer/BioNTech,LOM,20-29,133,259,288,69,26,0,0,2,7,295,97,ITC,ITC4,3,Lombardia
 2021-02-25,Pfizer/BioNTech,LOM,30-39,189,350,335,130,53,0,5,2,14,381,158,ITC,ITC4,3,Lombardia
 2021-02-25,Pfizer/BioNTech,LOM,40-49,238,475,430,172,75,0,10,1,25,489,224,ITC,ITC4,3,Lombardia
-2021-02-25,Pfizer/BioNTech,LOM,50-59,283,562,452,239,89,0,16,3,46,549,296,ITC,ITC4,3,Lombardia
+2021-02-25,Pfizer/BioNTech,LOM,50-59,283,563,452,240,89,0,16,3,46,550,296,ITC,ITC4,3,Lombardia
 2021-02-25,Pfizer/BioNTech,LOM,60-69,233,279,262,111,82,0,2,0,55,366,146,ITC,ITC4,3,Lombardia
 2021-02-25,Pfizer/BioNTech,LOM,70-79,178,180,70,49,151,0,0,0,88,249,109,ITC,ITC4,3,Lombardia
 2021-02-25,Pfizer/BioNTech,LOM,80-89,2924,4356,14,88,418,6725,0,0,35,6983,297,ITC,ITC4,3,Lombardia
@@ -13306,7 +13306,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-02-25,Pfizer/BioNTech,PUG,50-59,326,416,383,144,39,0,17,66,93,465,277,ITF,ITF4,16,Puglia
 2021-02-25,Pfizer/BioNTech,PUG,60-69,214,224,216,67,25,0,5,68,57,262,176,ITF,ITF4,16,Puglia
 2021-02-25,Pfizer/BioNTech,PUG,70-79,61,49,33,9,51,0,0,0,17,74,36,ITF,ITF4,16,Puglia
-2021-02-25,Pfizer/BioNTech,PUG,80-89,2497,2673,4,4,123,5019,0,1,19,5097,73,ITF,ITF4,16,Puglia
+2021-02-25,Pfizer/BioNTech,PUG,80-89,2498,2673,4,4,123,5020,0,1,19,5098,73,ITF,ITF4,16,Puglia
 2021-02-25,Pfizer/BioNTech,PUG,90+,311,457,0,0,123,644,0,0,1,696,72,ITF,ITF4,16,Puglia
 2021-02-25,Pfizer/BioNTech,SAR,16-19,0,1,1,0,0,0,0,0,0,1,0,ITG,ITG2,20,Sardegna
 2021-02-25,Pfizer/BioNTech,SAR,20-29,71,121,154,22,13,0,0,0,3,102,90,ITG,ITG2,20,Sardegna
@@ -13716,7 +13716,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-02-26,Pfizer/BioNTech,TOS,60-69,122,187,242,32,34,0,0,0,1,119,190,ITI,ITI1,9,Toscana
 2021-02-26,Pfizer/BioNTech,TOS,70-79,43,17,33,7,19,0,0,0,1,36,24,ITI,ITI1,9,Toscana
 2021-02-26,Pfizer/BioNTech,TOS,80-89,171,271,4,0,22,416,0,0,0,439,3,ITI,ITI1,9,Toscana
-2021-02-26,Pfizer/BioNTech,TOS,90+,467,939,1,0,25,1377,1,0,2,1405,1,ITI,ITI1,9,Toscana
+2021-02-26,Pfizer/BioNTech,TOS,90+,468,944,1,0,25,1383,1,0,2,1411,1,ITI,ITI1,9,Toscana
 2021-02-26,Pfizer/BioNTech,UMB,20-29,12,22,31,3,0,0,0,0,0,33,1,ITI,ITI2,10,Umbria
 2021-02-26,Pfizer/BioNTech,UMB,30-39,26,52,61,11,3,0,2,1,0,76,2,ITI,ITI2,10,Umbria
 2021-02-26,Pfizer/BioNTech,UMB,40-49,29,91,91,21,5,0,1,2,0,119,1,ITI,ITI2,10,Umbria
@@ -13889,7 +13889,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-02-27,Moderna,LOM,50-59,1,4,3,2,0,0,0,0,0,5,0,ITC,ITC4,3,Lombardia
 2021-02-27,Moderna,LOM,60-69,5,3,6,0,0,0,0,0,2,8,0,ITC,ITC4,3,Lombardia
 2021-02-27,Moderna,LOM,70-79,117,159,2,0,0,0,0,0,274,276,0,ITC,ITC4,3,Lombardia
-2021-02-27,Moderna,LOM,80-89,78,102,0,0,0,180,0,0,0,180,0,ITC,ITC4,3,Lombardia
+2021-02-27,Moderna,LOM,80-89,78,103,0,0,0,180,0,0,1,181,0,ITC,ITC4,3,Lombardia
 2021-02-27,Moderna,LOM,90+,11,30,0,0,0,41,0,0,0,41,0,ITC,ITC4,3,Lombardia
 2021-02-27,Moderna,MAR,20-29,5,8,4,0,0,0,0,0,9,9,4,ITI,ITI3,11,Marche
 2021-02-27,Moderna,MAR,30-39,7,8,6,0,0,0,0,0,9,12,3,ITI,ITI3,11,Marche
@@ -14217,8 +14217,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-02-28,Moderna,EMR,30-39,1,0,1,0,0,0,0,0,0,1,0,ITH,ITH5,8,Emilia-Romagna
 2021-02-28,Moderna,EMR,40-49,2,3,0,4,0,0,0,0,1,5,0,ITH,ITH5,8,Emilia-Romagna
 2021-02-28,Moderna,EMR,50-59,2,3,0,4,0,0,0,0,1,5,0,ITH,ITH5,8,Emilia-Romagna
-2021-02-28,Moderna,EMR,60-69,12,6,1,13,0,0,0,0,4,18,0,ITH,ITH5,8,Emilia-Romagna
-2021-02-28,Moderna,EMR,70-79,18,7,0,20,0,0,0,0,5,25,0,ITH,ITH5,8,Emilia-Romagna
+2021-02-28,Moderna,EMR,60-69,12,6,2,12,0,0,0,0,4,18,0,ITH,ITH5,8,Emilia-Romagna
+2021-02-28,Moderna,EMR,70-79,18,7,1,19,0,0,0,0,5,25,0,ITH,ITH5,8,Emilia-Romagna
 2021-02-28,Moderna,EMR,80-89,88,134,0,0,0,221,0,0,1,222,0,ITH,ITH5,8,Emilia-Romagna
 2021-02-28,Moderna,EMR,90+,22,56,0,0,0,78,0,0,0,78,0,ITH,ITH5,8,Emilia-Romagna
 2021-02-28,Moderna,LAZ,50-59,1,0,1,0,0,0,0,0,0,1,0,ITI,ITI4,12,Lazio
@@ -14316,7 +14316,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-02-28,Pfizer/BioNTech,LAZ,60-69,142,121,163,6,16,0,5,1,72,213,50,ITI,ITI4,12,Lazio
 2021-02-28,Pfizer/BioNTech,LAZ,70-79,91,46,78,0,12,0,0,1,46,112,25,ITI,ITI4,12,Lazio
 2021-02-28,Pfizer/BioNTech,LAZ,80-89,1358,1850,6,0,19,3110,0,0,73,3183,25,ITI,ITI4,12,Lazio
-2021-02-28,Pfizer/BioNTech,LAZ,90+,232,376,1,0,14,582,0,0,11,592,16,ITI,ITI4,12,Lazio
+2021-02-28,Pfizer/BioNTech,LAZ,90+,232,377,1,0,14,583,0,0,11,593,16,ITI,ITI4,12,Lazio
 2021-02-28,Pfizer/BioNTech,LIG,30-39,1,4,5,0,0,0,0,0,0,5,0,ITC,ITC3,7,Liguria
 2021-02-28,Pfizer/BioNTech,LIG,40-49,0,1,1,0,0,0,0,0,0,1,0,ITC,ITC3,7,Liguria
 2021-02-28,Pfizer/BioNTech,LIG,50-59,2,3,3,0,0,0,0,0,2,5,0,ITC,ITC3,7,Liguria
@@ -14704,8 +14704,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-01,Pfizer/BioNTech,LAZ,50-59,105,221,168,16,8,0,0,3,131,211,115,ITI,ITI4,12,Lazio
 2021-03-01,Pfizer/BioNTech,LAZ,60-69,205,225,235,6,15,0,0,2,172,333,97,ITI,ITI4,12,Lazio
 2021-03-01,Pfizer/BioNTech,LAZ,70-79,242,168,154,1,47,0,0,1,207,325,85,ITI,ITI4,12,Lazio
-2021-03-01,Pfizer/BioNTech,LAZ,80-89,2907,3587,20,2,137,6132,1,0,202,3828,2666,ITI,ITI4,12,Lazio
-2021-03-01,Pfizer/BioNTech,LAZ,90+,434,858,4,0,169,1087,0,0,32,814,478,ITI,ITI4,12,Lazio
+2021-03-01,Pfizer/BioNTech,LAZ,80-89,2907,3588,20,2,137,6133,1,0,202,3829,2666,ITI,ITI4,12,Lazio
+2021-03-01,Pfizer/BioNTech,LAZ,90+,437,860,4,0,169,1092,0,0,32,819,478,ITI,ITI4,12,Lazio
 2021-03-01,Pfizer/BioNTech,LIG,20-29,14,20,25,1,7,0,0,0,1,29,5,ITC,ITC3,7,Liguria
 2021-03-01,Pfizer/BioNTech,LIG,30-39,23,44,56,5,3,0,0,0,3,49,18,ITC,ITC3,7,Liguria
 2021-03-01,Pfizer/BioNTech,LIG,40-49,28,61,59,10,12,0,0,0,8,62,27,ITC,ITC3,7,Liguria
@@ -14769,7 +14769,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-01,Pfizer/BioNTech,PUG,50-59,250,401,463,134,20,0,1,6,27,299,352,ITF,ITF4,16,Puglia
 2021-03-01,Pfizer/BioNTech,PUG,60-69,215,207,295,82,11,0,2,4,28,193,229,ITF,ITF4,16,Puglia
 2021-03-01,Pfizer/BioNTech,PUG,70-79,76,29,70,9,6,0,0,1,19,63,42,ITF,ITF4,16,Puglia
-2021-03-01,Pfizer/BioNTech,PUG,80-89,2625,2799,5,0,4,5338,1,0,76,5418,6,ITF,ITF4,16,Puglia
+2021-03-01,Pfizer/BioNTech,PUG,80-89,2626,2799,5,0,4,5339,1,0,76,5419,6,ITF,ITF4,16,Puglia
 2021-03-01,Pfizer/BioNTech,PUG,90+,322,377,3,0,3,685,0,0,8,688,11,ITF,ITF4,16,Puglia
 2021-03-01,Pfizer/BioNTech,SAR,20-29,52,83,120,7,1,0,4,0,3,94,41,ITG,ITG2,20,Sardegna
 2021-03-01,Pfizer/BioNTech,SAR,30-39,108,173,197,49,6,0,16,0,13,171,110,ITG,ITG2,20,Sardegna
@@ -15195,7 +15195,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-02,Pfizer/BioNTech,TOS,60-69,209,335,470,48,23,0,3,0,0,35,509,ITI,ITI1,9,Toscana
 2021-03-02,Pfizer/BioNTech,TOS,70-79,40,11,40,2,9,0,0,0,0,3,48,ITI,ITI1,9,Toscana
 2021-03-02,Pfizer/BioNTech,TOS,80-89,319,472,2,0,16,773,0,0,0,779,12,ITI,ITI1,9,Toscana
-2021-03-02,Pfizer/BioNTech,TOS,90+,360,716,2,2,12,1059,0,0,1,1066,10,ITI,ITI1,9,Toscana
+2021-03-02,Pfizer/BioNTech,TOS,90+,360,724,2,2,12,1067,0,0,1,1074,10,ITI,ITI1,9,Toscana
 2021-03-02,Pfizer/BioNTech,UMB,20-29,15,33,41,7,0,0,0,0,0,47,1,ITI,ITI2,10,Umbria
 2021-03-02,Pfizer/BioNTech,UMB,30-39,23,67,69,21,0,0,0,0,0,89,1,ITI,ITI2,10,Umbria
 2021-03-02,Pfizer/BioNTech,UMB,40-49,32,82,81,33,0,0,0,0,0,114,0,ITI,ITI2,10,Umbria
@@ -15252,7 +15252,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-03,AstraZeneca,EMR,60-69,170,663,20,18,0,0,10,759,26,833,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-03,AstraZeneca,EMR,70-79,1,3,0,0,0,0,0,4,0,4,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-03,AstraZeneca,FVG,20-29,27,19,0,0,0,0,24,22,0,46,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-03,AstraZeneca,FVG,30-39,64,41,0,0,0,0,48,46,11,105,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-03,AstraZeneca,FVG,30-39,64,42,0,0,0,0,48,47,11,106,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-03,AstraZeneca,FVG,40-49,122,77,0,0,0,0,109,75,15,199,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-03,AstraZeneca,FVG,50-59,283,158,0,0,0,0,260,160,21,441,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-03,AstraZeneca,FVG,60-69,77,75,0,0,0,0,26,123,3,152,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -15682,9 +15682,9 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-04,AstraZeneca,EMR,16-19,2,0,2,0,0,0,0,0,0,2,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-04,AstraZeneca,EMR,20-29,115,442,43,2,1,0,41,444,26,556,1,ITH,ITH5,8,Emilia-Romagna
 2021-03-04,AstraZeneca,EMR,30-39,312,750,53,6,1,0,97,863,42,1055,7,ITH,ITH5,8,Emilia-Romagna
-2021-03-04,AstraZeneca,EMR,40-49,403,1360,59,13,1,0,141,1492,57,1757,6,ITH,ITH5,8,Emilia-Romagna
-2021-03-04,AstraZeneca,EMR,50-59,483,1629,70,18,6,0,202,1763,53,2101,11,ITH,ITH5,8,Emilia-Romagna
-2021-03-04,AstraZeneca,EMR,60-69,163,746,23,11,3,0,15,849,8,905,4,ITH,ITH5,8,Emilia-Romagna
+2021-03-04,AstraZeneca,EMR,40-49,403,1361,59,13,1,0,141,1493,57,1758,6,ITH,ITH5,8,Emilia-Romagna
+2021-03-04,AstraZeneca,EMR,50-59,483,1632,70,18,6,0,202,1766,53,2104,11,ITH,ITH5,8,Emilia-Romagna
+2021-03-04,AstraZeneca,EMR,60-69,163,748,23,11,3,0,15,851,8,907,4,ITH,ITH5,8,Emilia-Romagna
 2021-03-04,AstraZeneca,EMR,70-79,2,1,0,0,0,0,0,3,0,3,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-04,AstraZeneca,EMR,80-89,0,1,0,0,0,0,0,1,0,1,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-04,AstraZeneca,FVG,20-29,27,19,0,0,0,0,28,18,0,46,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -15697,7 +15697,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-04,AstraZeneca,LAZ,30-39,456,615,95,15,0,0,185,743,33,1071,0,ITI,ITI4,12,Lazio
 2021-03-04,AstraZeneca,LAZ,40-49,700,1053,83,22,0,0,367,1191,90,1753,0,ITI,ITI4,12,Lazio
 2021-03-04,AstraZeneca,LAZ,50-59,965,1191,97,23,0,0,592,1252,192,2156,0,ITI,ITI4,12,Lazio
-2021-03-04,AstraZeneca,LAZ,60-69,553,804,748,13,0,0,74,496,26,1357,0,ITI,ITI4,12,Lazio
+2021-03-04,AstraZeneca,LAZ,60-69,559,809,759,13,0,0,74,496,26,1368,0,ITI,ITI4,12,Lazio
 2021-03-04,AstraZeneca,LIG,16-19,1,0,1,0,0,0,0,0,0,1,0,ITC,ITC3,7,Liguria
 2021-03-04,AstraZeneca,LIG,20-29,39,32,31,0,0,0,34,0,6,71,0,ITC,ITC3,7,Liguria
 2021-03-04,AstraZeneca,LIG,30-39,60,22,19,1,0,0,48,0,14,82,0,ITC,ITC3,7,Liguria
@@ -15960,10 +15960,10 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-04,Pfizer/BioNTech,LAZ,16-19,9,11,4,0,0,0,0,0,16,15,5,ITI,ITI4,12,Lazio
 2021-03-04,Pfizer/BioNTech,LAZ,20-29,113,213,234,9,11,0,0,5,67,120,206,ITI,ITI4,12,Lazio
 2021-03-04,Pfizer/BioNTech,LAZ,30-39,156,236,291,11,17,0,1,4,68,139,253,ITI,ITI4,12,Lazio
-2021-03-04,Pfizer/BioNTech,LAZ,40-49,172,318,329,33,8,0,3,5,112,190,300,ITI,ITI4,12,Lazio
+2021-03-04,Pfizer/BioNTech,LAZ,40-49,172,319,330,33,8,0,3,5,112,191,300,ITI,ITI4,12,Lazio
 2021-03-04,Pfizer/BioNTech,LAZ,50-59,257,392,406,45,19,0,6,9,164,263,386,ITI,ITI4,12,Lazio
 2021-03-04,Pfizer/BioNTech,LAZ,60-69,262,288,275,27,21,0,0,6,221,290,260,ITI,ITI4,12,Lazio
-2021-03-04,Pfizer/BioNTech,LAZ,70-79,229,166,109,3,47,0,0,1,235,277,118,ITI,ITI4,12,Lazio
+2021-03-04,Pfizer/BioNTech,LAZ,70-79,229,167,110,3,47,0,0,1,235,278,118,ITI,ITI4,12,Lazio
 2021-03-04,Pfizer/BioNTech,LAZ,80-89,2963,3641,18,0,190,6316,0,0,80,3722,2882,ITI,ITI4,12,Lazio
 2021-03-04,Pfizer/BioNTech,LAZ,90+,423,857,5,0,194,1052,0,0,29,679,601,ITI,ITI4,12,Lazio
 2021-03-04,Pfizer/BioNTech,LIG,16-19,2,3,1,0,4,0,0,0,0,2,3,ITC,ITC3,7,Liguria
@@ -16062,7 +16062,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-04,Pfizer/BioNTech,TOS,60-69,317,295,516,39,31,0,5,2,19,61,551,ITI,ITI1,9,Toscana
 2021-03-04,Pfizer/BioNTech,TOS,70-79,215,86,263,4,13,0,0,0,21,33,268,ITI,ITI1,9,Toscana
 2021-03-04,Pfizer/BioNTech,TOS,80-89,1350,2043,33,1,36,3298,2,0,23,3342,51,ITI,ITI1,9,Toscana
-2021-03-04,Pfizer/BioNTech,TOS,90+,1737,3155,3,0,20,4841,1,0,27,4880,12,ITI,ITI1,9,Toscana
+2021-03-04,Pfizer/BioNTech,TOS,90+,1737,3161,3,0,20,4847,1,0,27,4886,12,ITI,ITI1,9,Toscana
 2021-03-04,Pfizer/BioNTech,UMB,16-19,1,1,2,0,0,0,0,0,0,0,2,ITI,ITI2,10,Umbria
 2021-03-04,Pfizer/BioNTech,UMB,20-29,41,50,84,6,0,0,0,1,0,18,73,ITI,ITI2,10,Umbria
 2021-03-04,Pfizer/BioNTech,UMB,30-39,48,88,123,13,0,0,0,0,0,23,113,ITI,ITI2,10,Umbria
@@ -16500,8 +16500,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-05,Pfizer/BioNTech,TOS,50-59,319,641,791,97,35,0,32,4,1,79,881,ITI,ITI1,9,Toscana
 2021-03-05,Pfizer/BioNTech,TOS,60-69,319,320,562,58,12,0,2,2,3,25,614,ITI,ITI1,9,Toscana
 2021-03-05,Pfizer/BioNTech,TOS,70-79,216,66,258,10,11,0,0,0,3,14,268,ITI,ITI1,9,Toscana
-2021-03-05,Pfizer/BioNTech,TOS,80-89,883,1303,28,0,14,2125,1,1,17,2154,32,ITI,ITI1,9,Toscana
-2021-03-05,Pfizer/BioNTech,TOS,90+,1120,1986,4,0,16,3065,4,0,17,3096,10,ITI,ITI1,9,Toscana
+2021-03-05,Pfizer/BioNTech,TOS,80-89,883,1305,28,0,14,2127,1,1,17,2156,32,ITI,ITI1,9,Toscana
+2021-03-05,Pfizer/BioNTech,TOS,90+,1123,1988,4,0,16,3070,4,0,17,3101,10,ITI,ITI1,9,Toscana
 2021-03-05,Pfizer/BioNTech,UMB,20-29,23,73,82,14,0,0,0,0,0,20,76,ITI,ITI2,10,Umbria
 2021-03-05,Pfizer/BioNTech,UMB,30-39,56,131,132,53,0,0,0,2,0,24,163,ITI,ITI2,10,Umbria
 2021-03-05,Pfizer/BioNTech,UMB,40-49,71,113,134,50,0,0,0,0,0,31,153,ITI,ITI2,10,Umbria
@@ -16846,7 +16846,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-06,Pfizer/BioNTech,LOM,40-49,262,489,469,243,22,0,4,0,13,185,566,ITC,ITC4,3,Lombardia
 2021-03-06,Pfizer/BioNTech,LOM,50-59,447,672,640,397,37,0,5,1,39,199,920,ITC,ITC4,3,Lombardia
 2021-03-06,Pfizer/BioNTech,LOM,60-69,551,519,805,152,37,0,1,1,74,178,892,ITC,ITC4,3,Lombardia
-2021-03-06,Pfizer/BioNTech,LOM,70-79,380,203,379,41,34,0,0,0,129,195,388,ITC,ITC4,3,Lombardia
+2021-03-06,Pfizer/BioNTech,LOM,70-79,381,203,379,41,34,0,0,0,130,196,388,ITC,ITC4,3,Lombardia
 2021-03-06,Pfizer/BioNTech,LOM,80-89,2203,3292,42,87,93,5269,0,0,4,5363,132,ITC,ITC4,3,Lombardia
 2021-03-06,Pfizer/BioNTech,LOM,90+,724,1558,8,97,86,2089,0,0,2,2200,82,ITC,ITC4,3,Lombardia
 2021-03-06,Pfizer/BioNTech,MAR,16-19,4,3,6,0,0,0,0,0,1,0,7,ITI,ITI3,11,Marche
@@ -16939,10 +16939,10 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-06,Pfizer/BioNTech,VEN,20-29,395,630,650,1,256,0,0,2,116,549,476,ITH,ITH3,5,Veneto
 2021-03-06,Pfizer/BioNTech,VEN,30-39,286,445,342,4,240,0,3,5,137,210,521,ITH,ITH3,5,Veneto
 2021-03-06,Pfizer/BioNTech,VEN,40-49,331,576,359,5,293,0,10,18,222,293,614,ITH,ITH3,5,Veneto
-2021-03-06,Pfizer/BioNTech,VEN,50-59,517,775,496,9,384,0,5,48,350,441,851,ITH,ITH3,5,Veneto
+2021-03-06,Pfizer/BioNTech,VEN,50-59,517,776,496,9,384,0,5,48,351,442,851,ITH,ITH3,5,Veneto
 2021-03-06,Pfizer/BioNTech,VEN,60-69,414,400,284,0,141,0,2,30,357,413,401,ITH,ITH3,5,Veneto
-2021-03-06,Pfizer/BioNTech,VEN,70-79,258,161,84,0,39,0,0,1,295,322,97,ITH,ITH3,5,Veneto
-2021-03-06,Pfizer/BioNTech,VEN,80-89,876,1098,7,2,44,1838,0,0,83,1948,26,ITH,ITH3,5,Veneto
+2021-03-06,Pfizer/BioNTech,VEN,70-79,258,162,84,0,39,0,0,1,296,322,98,ITH,ITH3,5,Veneto
+2021-03-06,Pfizer/BioNTech,VEN,80-89,876,1099,7,2,44,1838,0,0,84,1949,26,ITH,ITH3,5,Veneto
 2021-03-06,Pfizer/BioNTech,VEN,90+,10,37,0,1,37,3,0,0,6,27,20,ITH,ITH3,5,Veneto
 2021-03-07,AstraZeneca,ABR,20-29,9,66,1,0,0,0,0,73,1,75,0,ITF,ITF1,13,Abruzzo
 2021-03-07,AstraZeneca,ABR,30-39,72,265,6,0,0,0,0,282,49,337,0,ITF,ITF1,13,Abruzzo
@@ -17128,7 +17128,6 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-07,Moderna,PUG,50-59,28,23,42,9,0,0,0,0,0,37,14,ITF,ITF4,16,Puglia
 2021-03-07,Moderna,PUG,60-69,29,10,37,2,0,0,0,0,0,33,6,ITF,ITF4,16,Puglia
 2021-03-07,Moderna,PUG,70-79,15,2,16,0,0,0,0,0,1,17,0,ITF,ITF4,16,Puglia
-2021-03-07,Moderna,PUG,80-89,0,1,0,0,0,1,0,0,0,1,0,ITF,ITF4,16,Puglia
 2021-03-07,Moderna,SAR,40-49,2,0,1,0,0,0,0,0,1,2,0,ITG,ITG2,20,Sardegna
 2021-03-07,Moderna,SAR,50-59,10,4,12,0,0,0,0,0,2,14,0,ITG,ITG2,20,Sardegna
 2021-03-07,Moderna,SAR,60-69,6,2,5,0,0,0,0,0,3,8,0,ITG,ITG2,20,Sardegna
@@ -17203,7 +17202,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-07,Pfizer/BioNTech,EMR,50-59,87,296,312,56,0,0,3,6,6,44,339,ITH,ITH5,8,Emilia-Romagna
 2021-03-07,Pfizer/BioNTech,EMR,60-69,98,136,178,49,1,0,0,1,5,21,213,ITH,ITH5,8,Emilia-Romagna
 2021-03-07,Pfizer/BioNTech,EMR,70-79,72,41,66,29,2,0,0,0,16,16,97,ITH,ITH5,8,Emilia-Romagna
-2021-03-07,Pfizer/BioNTech,EMR,80-89,827,1247,12,5,12,2017,0,0,28,2052,22,ITH,ITH5,8,Emilia-Romagna
+2021-03-07,Pfizer/BioNTech,EMR,80-89,828,1247,12,5,12,2018,0,0,28,2053,22,ITH,ITH5,8,Emilia-Romagna
 2021-03-07,Pfizer/BioNTech,EMR,90+,159,342,1,0,5,490,0,0,5,497,4,ITH,ITH5,8,Emilia-Romagna
 2021-03-07,Pfizer/BioNTech,FVG,60-69,0,1,1,0,0,0,0,0,0,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-07,Pfizer/BioNTech,FVG,80-89,54,72,0,0,0,126,0,0,0,126,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -17211,12 +17210,12 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-07,Pfizer/BioNTech,LAZ,16-19,6,6,4,1,0,0,0,0,7,7,5,ITI,ITI4,12,Lazio
 2021-03-07,Pfizer/BioNTech,LAZ,20-29,38,82,83,3,0,0,0,0,34,57,63,ITI,ITI4,12,Lazio
 2021-03-07,Pfizer/BioNTech,LAZ,30-39,54,88,79,0,0,0,0,1,62,86,56,ITI,ITI4,12,Lazio
-2021-03-07,Pfizer/BioNTech,LAZ,40-49,67,118,73,4,0,0,0,2,106,105,80,ITI,ITI4,12,Lazio
+2021-03-07,Pfizer/BioNTech,LAZ,40-49,67,119,74,4,0,0,0,2,106,106,80,ITI,ITI4,12,Lazio
 2021-03-07,Pfizer/BioNTech,LAZ,50-59,136,189,138,2,4,0,2,8,171,188,137,ITI,ITI4,12,Lazio
 2021-03-07,Pfizer/BioNTech,LAZ,60-69,175,172,167,4,18,0,0,0,158,179,168,ITI,ITI4,12,Lazio
-2021-03-07,Pfizer/BioNTech,LAZ,70-79,192,122,69,0,28,0,0,0,217,219,95,ITI,ITI4,12,Lazio
-2021-03-07,Pfizer/BioNTech,LAZ,80-89,2474,3296,1,0,60,5520,0,0,189,3221,2549,ITI,ITI4,12,Lazio
-2021-03-07,Pfizer/BioNTech,LAZ,90+,366,658,1,0,37,960,0,0,26,590,434,ITI,ITI4,12,Lazio
+2021-03-07,Pfizer/BioNTech,LAZ,70-79,193,122,69,0,28,0,0,0,218,220,95,ITI,ITI4,12,Lazio
+2021-03-07,Pfizer/BioNTech,LAZ,80-89,2478,3298,1,0,60,5525,0,0,190,3227,2549,ITI,ITI4,12,Lazio
+2021-03-07,Pfizer/BioNTech,LAZ,90+,366,659,1,0,37,961,0,0,26,591,434,ITI,ITI4,12,Lazio
 2021-03-07,Pfizer/BioNTech,LIG,16-19,4,5,2,0,3,0,0,0,4,5,4,ITC,ITC3,7,Liguria
 2021-03-07,Pfizer/BioNTech,LIG,20-29,21,36,24,0,21,0,0,0,12,34,23,ITC,ITC3,7,Liguria
 2021-03-07,Pfizer/BioNTech,LIG,30-39,39,24,17,1,28,0,0,0,17,26,37,ITC,ITC3,7,Liguria
@@ -17228,13 +17227,13 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-07,Pfizer/BioNTech,LIG,90+,31,61,0,0,3,89,0,0,0,92,0,ITC,ITC3,7,Liguria
 2021-03-07,Pfizer/BioNTech,LOM,16-19,6,11,6,1,10,0,0,0,0,13,4,ITC,ITC4,3,Lombardia
 2021-03-07,Pfizer/BioNTech,LOM,20-29,112,240,306,31,8,0,0,1,6,50,302,ITC,ITC4,3,Lombardia
-2021-03-07,Pfizer/BioNTech,LOM,30-39,131,251,288,69,2,0,0,3,20,79,303,ITC,ITC4,3,Lombardia
-2021-03-07,Pfizer/BioNTech,LOM,40-49,129,267,264,75,12,0,1,1,43,112,284,ITC,ITC4,3,Lombardia
+2021-03-07,Pfizer/BioNTech,LOM,30-39,132,251,288,69,2,0,0,4,20,80,303,ITC,ITC4,3,Lombardia
+2021-03-07,Pfizer/BioNTech,LOM,40-49,130,267,264,75,12,0,1,2,43,113,284,ITC,ITC4,3,Lombardia
 2021-03-07,Pfizer/BioNTech,LOM,50-59,268,354,428,125,6,0,0,5,58,141,481,ITC,ITC4,3,Lombardia
 2021-03-07,Pfizer/BioNTech,LOM,60-69,443,394,722,65,1,0,0,3,46,128,709,ITC,ITC4,3,Lombardia
 2021-03-07,Pfizer/BioNTech,LOM,70-79,272,117,342,13,1,0,0,0,33,103,286,ITC,ITC4,3,Lombardia
 2021-03-07,Pfizer/BioNTech,LOM,80-89,1453,1979,62,117,5,3248,0,0,0,3368,64,ITC,ITC4,3,Lombardia
-2021-03-07,Pfizer/BioNTech,LOM,90+,422,882,2,23,16,1261,0,0,2,1284,20,ITC,ITC4,3,Lombardia
+2021-03-07,Pfizer/BioNTech,LOM,90+,423,882,2,23,16,1262,0,0,2,1285,20,ITC,ITC4,3,Lombardia
 2021-03-07,Pfizer/BioNTech,MAR,16-19,2,1,1,0,0,0,0,0,2,0,3,ITI,ITI3,11,Marche
 2021-03-07,Pfizer/BioNTech,MAR,20-29,31,62,71,0,0,0,0,1,21,2,91,ITI,ITI3,11,Marche
 2021-03-07,Pfizer/BioNTech,MAR,30-39,48,119,141,0,0,0,0,2,24,2,165,ITI,ITI3,11,Marche
@@ -17265,16 +17264,16 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-07,Pfizer/BioNTech,PIE,50-59,103,234,186,137,3,0,0,8,3,250,87,ITC,ITC1,1,Piemonte
 2021-03-07,Pfizer/BioNTech,PIE,60-69,125,129,128,115,3,0,0,4,4,155,99,ITC,ITC1,1,Piemonte
 2021-03-07,Pfizer/BioNTech,PIE,70-79,90,82,78,78,12,0,0,0,4,77,95,ITC,ITC1,1,Piemonte
-2021-03-07,Pfizer/BioNTech,PIE,80-89,2781,3581,12,10,59,6277,0,0,4,6285,77,ITC,ITC1,1,Piemonte
-2021-03-07,Pfizer/BioNTech,PIE,90+,275,530,2,0,33,768,0,0,2,772,33,ITC,ITC1,1,Piemonte
+2021-03-07,Pfizer/BioNTech,PIE,80-89,2782,3581,12,10,59,6278,0,0,4,6286,77,ITC,ITC1,1,Piemonte
+2021-03-07,Pfizer/BioNTech,PIE,90+,275,532,2,0,33,770,0,0,2,773,34,ITC,ITC1,1,Piemonte
 2021-03-07,Pfizer/BioNTech,PUG,20-29,21,55,73,3,0,0,0,0,0,18,58,ITF,ITF4,16,Puglia
 2021-03-07,Pfizer/BioNTech,PUG,30-39,55,141,188,6,0,0,0,1,1,45,151,ITF,ITF4,16,Puglia
 2021-03-07,Pfizer/BioNTech,PUG,40-49,71,115,180,6,0,0,0,0,0,68,118,ITF,ITF4,16,Puglia
 2021-03-07,Pfizer/BioNTech,PUG,50-59,78,96,166,5,0,0,0,2,1,59,115,ITF,ITF4,16,Puglia
 2021-03-07,Pfizer/BioNTech,PUG,60-69,65,42,100,4,0,0,0,1,2,45,62,ITF,ITF4,16,Puglia
 2021-03-07,Pfizer/BioNTech,PUG,70-79,26,8,29,1,0,0,0,0,4,13,21,ITF,ITF4,16,Puglia
-2021-03-07,Pfizer/BioNTech,PUG,80-89,648,854,4,0,1,1442,0,0,55,1498,4,ITF,ITF4,16,Puglia
-2021-03-07,Pfizer/BioNTech,PUG,90+,89,93,0,0,1,176,0,0,5,181,1,ITF,ITF4,16,Puglia
+2021-03-07,Pfizer/BioNTech,PUG,80-89,648,856,4,0,1,1444,0,0,55,1500,4,ITF,ITF4,16,Puglia
+2021-03-07,Pfizer/BioNTech,PUG,90+,89,94,0,0,1,177,0,0,5,182,1,ITF,ITF4,16,Puglia
 2021-03-07,Pfizer/BioNTech,SAR,16-19,4,6,5,0,5,0,0,0,0,0,10,ITG,ITG2,20,Sardegna
 2021-03-07,Pfizer/BioNTech,SAR,20-29,24,22,34,8,3,0,0,0,1,4,42,ITG,ITG2,20,Sardegna
 2021-03-07,Pfizer/BioNTech,SAR,30-39,34,39,36,35,1,0,0,0,1,6,67,ITG,ITG2,20,Sardegna
@@ -17291,7 +17290,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-07,Pfizer/BioNTech,SIC,50-59,99,188,148,11,15,0,0,6,107,108,179,ITG,ITG1,19,Sicilia
 2021-03-07,Pfizer/BioNTech,SIC,60-69,80,100,104,7,13,0,0,7,49,67,113,ITG,ITG1,19,Sicilia
 2021-03-07,Pfizer/BioNTech,SIC,70-79,40,36,29,2,25,0,0,0,20,31,45,ITG,ITG1,19,Sicilia
-2021-03-07,Pfizer/BioNTech,SIC,80-89,1373,1723,2,0,135,2883,2,0,74,3020,76,ITG,ITG1,19,Sicilia
+2021-03-07,Pfizer/BioNTech,SIC,80-89,1374,1723,2,0,135,2884,2,0,74,3021,76,ITG,ITG1,19,Sicilia
 2021-03-07,Pfizer/BioNTech,SIC,90+,214,301,0,0,71,431,0,0,13,458,57,ITG,ITG1,19,Sicilia
 2021-03-07,Pfizer/BioNTech,TOS,16-19,7,1,4,0,0,0,0,0,4,4,4,ITI,ITI1,9,Toscana
 2021-03-07,Pfizer/BioNTech,TOS,20-29,124,260,301,27,8,0,0,3,45,62,322,ITI,ITI1,9,Toscana
@@ -17317,7 +17316,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-07,Pfizer/BioNTech,VDA,80-89,12,9,0,0,0,21,0,0,0,0,21,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2021-03-07,Pfizer/BioNTech,VDA,90+,1,4,0,0,0,5,0,0,0,0,5,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2021-03-07,Pfizer/BioNTech,VEN,16-19,0,2,2,0,0,0,0,0,0,2,0,ITH,ITH3,5,Veneto
-2021-03-07,Pfizer/BioNTech,VEN,20-29,187,383,534,0,1,0,0,0,35,411,159,ITH,ITH3,5,Veneto
+2021-03-07,Pfizer/BioNTech,VEN,20-29,187,384,534,0,1,0,0,0,36,412,159,ITH,ITH3,5,Veneto
 2021-03-07,Pfizer/BioNTech,VEN,30-39,128,292,370,0,4,0,0,0,46,233,187,ITH,ITH3,5,Veneto
 2021-03-07,Pfizer/BioNTech,VEN,40-49,116,242,261,0,3,0,0,2,92,295,63,ITH,ITH3,5,Veneto
 2021-03-07,Pfizer/BioNTech,VEN,50-59,177,291,267,0,1,0,0,64,136,388,80,ITH,ITH3,5,Veneto
@@ -17705,7 +17704,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-08,Pfizer/BioNTech,PUG,60-69,248,202,248,88,18,0,3,59,34,147,303,ITF,ITF4,16,Puglia
 2021-03-08,Pfizer/BioNTech,PUG,70-79,109,49,77,12,31,0,0,28,10,63,95,ITF,ITF4,16,Puglia
 2021-03-08,Pfizer/BioNTech,PUG,80-89,2672,3169,8,3,54,5722,0,3,51,5784,57,ITF,ITF4,16,Puglia
-2021-03-08,Pfizer/BioNTech,PUG,90+,328,425,1,1,37,709,0,0,5,717,36,ITF,ITF4,16,Puglia
+2021-03-08,Pfizer/BioNTech,PUG,90+,328,424,1,1,37,708,0,0,5,716,36,ITF,ITF4,16,Puglia
 2021-03-08,Pfizer/BioNTech,SAR,16-19,4,3,0,0,7,0,0,0,0,1,6,ITG,ITG2,20,Sardegna
 2021-03-08,Pfizer/BioNTech,SAR,20-29,36,85,65,45,5,0,1,0,5,55,66,ITG,ITG2,20,Sardegna
 2021-03-08,Pfizer/BioNTech,SAR,30-39,83,186,130,112,17,0,1,0,9,111,158,ITG,ITG2,20,Sardegna
@@ -17803,7 +17802,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-09,AstraZeneca,LAZ,30-39,476,642,122,4,0,0,198,759,35,1118,0,ITI,ITI4,12,Lazio
 2021-03-09,AstraZeneca,LAZ,40-49,716,1145,127,5,0,0,339,1270,120,1861,0,ITI,ITI4,12,Lazio
 2021-03-09,AstraZeneca,LAZ,50-59,1040,1475,135,7,0,0,508,1644,221,2515,0,ITI,ITI4,12,Lazio
-2021-03-09,AstraZeneca,LAZ,60-69,913,1214,1362,3,0,0,83,652,27,2127,0,ITI,ITI4,12,Lazio
+2021-03-09,AstraZeneca,LAZ,60-69,913,1215,1363,3,0,0,83,652,27,2128,0,ITI,ITI4,12,Lazio
 2021-03-09,AstraZeneca,LAZ,70-79,4,1,5,0,0,0,0,0,0,5,0,ITI,ITI4,12,Lazio
 2021-03-09,AstraZeneca,LAZ,80-89,0,2,1,0,0,1,0,0,0,2,0,ITI,ITI4,12,Lazio
 2021-03-09,AstraZeneca,LIG,20-29,29,32,23,2,0,0,33,0,3,61,0,ITC,ITC3,7,Liguria
@@ -17921,7 +17920,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-09,Moderna,CAM,90+,34,122,0,0,5,150,0,0,1,153,3,ITF,ITF3,15,Campania
 2021-03-09,Moderna,EMR,20-29,12,10,0,0,4,0,0,0,18,22,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-09,Moderna,EMR,30-39,8,3,0,0,2,0,0,0,9,11,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-09,Moderna,EMR,40-49,12,10,0,1,4,0,0,0,17,22,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-09,Moderna,EMR,40-49,13,10,0,1,4,0,0,0,18,23,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-09,Moderna,EMR,50-59,14,19,2,0,2,0,0,0,29,33,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-09,Moderna,EMR,60-69,16,17,0,1,7,0,0,0,25,29,4,ITH,ITH5,8,Emilia-Romagna
 2021-03-09,Moderna,EMR,70-79,49,38,0,0,14,0,0,0,73,64,23,ITH,ITH5,8,Emilia-Romagna
@@ -18182,8 +18181,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-09,Pfizer/BioNTech,TOS,50-59,391,877,1035,173,21,0,34,3,2,101,1167,ITI,ITI1,9,Toscana
 2021-03-09,Pfizer/BioNTech,TOS,60-69,351,479,720,89,13,0,0,2,6,43,787,ITI,ITI1,9,Toscana
 2021-03-09,Pfizer/BioNTech,TOS,70-79,212,83,252,5,20,0,0,0,18,38,257,ITI,ITI1,9,Toscana
-2021-03-09,Pfizer/BioNTech,TOS,80-89,851,1323,18,1,42,2101,0,1,11,2137,37,ITI,ITI1,9,Toscana
-2021-03-09,Pfizer/BioNTech,TOS,90+,399,780,1,0,25,1150,2,0,1,1173,6,ITI,ITI1,9,Toscana
+2021-03-09,Pfizer/BioNTech,TOS,80-89,852,1326,18,1,42,2105,0,1,11,2141,37,ITI,ITI1,9,Toscana
+2021-03-09,Pfizer/BioNTech,TOS,90+,408,791,1,0,25,1170,2,0,1,1193,6,ITI,ITI1,9,Toscana
 2021-03-09,Pfizer/BioNTech,UMB,20-29,8,12,17,1,1,0,0,0,1,17,3,ITI,ITI2,10,Umbria
 2021-03-09,Pfizer/BioNTech,UMB,30-39,16,14,22,0,8,0,0,0,0,23,7,ITI,ITI2,10,Umbria
 2021-03-09,Pfizer/BioNTech,UMB,40-49,29,12,10,5,26,0,0,0,0,37,4,ITI,ITI2,10,Umbria
@@ -18228,11 +18227,11 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-10,AstraZeneca,CAM,50-59,1035,712,1,2,0,0,423,807,514,1747,0,ITF,ITF3,15,Campania
 2021-03-10,AstraZeneca,CAM,60-69,259,363,0,0,0,0,87,489,46,622,0,ITF,ITF3,15,Campania
 2021-03-10,AstraZeneca,EMR,16-19,4,1,0,0,0,0,0,0,5,5,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-10,AstraZeneca,EMR,20-29,263,524,119,16,17,0,112,451,72,787,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-10,AstraZeneca,EMR,30-39,470,824,74,18,14,0,197,868,123,1294,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-10,AstraZeneca,EMR,40-49,598,1203,77,27,12,0,292,1262,131,1801,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-10,AstraZeneca,EMR,50-59,707,1253,78,21,23,0,416,1295,127,1960,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-10,AstraZeneca,EMR,60-69,235,553,68,19,19,0,40,600,42,788,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-10,AstraZeneca,EMR,20-29,263,526,119,16,17,0,112,453,72,789,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-10,AstraZeneca,EMR,30-39,473,831,74,18,14,0,197,878,123,1304,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-10,AstraZeneca,EMR,40-49,601,1204,77,27,12,0,292,1266,131,1805,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-10,AstraZeneca,EMR,50-59,707,1257,78,21,23,0,416,1299,127,1964,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-10,AstraZeneca,EMR,60-69,235,555,68,19,19,0,40,602,42,790,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-10,AstraZeneca,EMR,70-79,24,11,5,4,1,0,1,9,15,35,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-10,AstraZeneca,EMR,80-89,1,0,0,1,0,0,0,0,0,1,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-10,AstraZeneca,FVG,20-29,16,17,0,0,0,0,13,20,0,33,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -18626,8 +18625,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-10,Pfizer/BioNTech,TOS,50-59,333,810,756,319,44,0,10,1,13,85,1058,ITI,ITI1,9,Toscana
 2021-03-10,Pfizer/BioNTech,TOS,60-69,276,410,494,144,31,0,1,4,12,55,631,ITI,ITI1,9,Toscana
 2021-03-10,Pfizer/BioNTech,TOS,70-79,178,78,216,10,21,0,0,0,9,26,230,ITI,ITI1,9,Toscana
-2021-03-10,Pfizer/BioNTech,TOS,80-89,3175,4857,23,1,28,7922,5,1,52,7955,77,ITI,ITI1,9,Toscana
-2021-03-10,Pfizer/BioNTech,TOS,90+,1447,2681,2,0,21,4084,1,0,20,3978,150,ITI,ITI1,9,Toscana
+2021-03-10,Pfizer/BioNTech,TOS,80-89,3177,4859,23,1,28,7926,5,1,52,7959,77,ITI,ITI1,9,Toscana
+2021-03-10,Pfizer/BioNTech,TOS,90+,1448,2682,2,0,21,4086,1,0,20,3980,150,ITI,ITI1,9,Toscana
 2021-03-10,Pfizer/BioNTech,UMB,20-29,13,13,9,1,16,0,0,0,0,20,6,ITI,ITI2,10,Umbria
 2021-03-10,Pfizer/BioNTech,UMB,30-39,20,18,12,0,24,0,0,0,2,30,8,ITI,ITI2,10,Umbria
 2021-03-10,Pfizer/BioNTech,UMB,40-49,27,20,17,1,23,0,0,1,5,31,16,ITI,ITI2,10,Umbria
@@ -18680,11 +18679,11 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-11,AstraZeneca,CAM,60-69,287,399,0,0,0,0,94,529,63,686,0,ITF,ITF3,15,Campania
 2021-03-11,AstraZeneca,CAM,70-79,9,4,0,0,0,0,0,13,0,13,0,ITF,ITF3,15,Campania
 2021-03-11,AstraZeneca,EMR,16-19,1,3,1,0,0,0,0,0,3,4,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-11,AstraZeneca,EMR,20-29,313,547,89,22,22,0,121,387,219,860,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-11,AstraZeneca,EMR,30-39,469,696,40,27,16,0,203,695,184,1165,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-11,AstraZeneca,EMR,40-49,616,1049,47,46,26,0,327,1023,196,1663,2,ITH,ITH5,8,Emilia-Romagna
-2021-03-11,AstraZeneca,EMR,50-59,764,1115,27,55,23,0,480,1122,172,1878,1,ITH,ITH5,8,Emilia-Romagna
-2021-03-11,AstraZeneca,EMR,60-69,217,491,11,19,14,0,60,526,78,708,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-11,AstraZeneca,EMR,20-29,313,550,89,22,22,0,121,390,219,863,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-11,AstraZeneca,EMR,30-39,470,701,40,27,16,0,203,701,184,1171,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-11,AstraZeneca,EMR,40-49,617,1053,47,46,26,0,327,1028,196,1668,2,ITH,ITH5,8,Emilia-Romagna
+2021-03-11,AstraZeneca,EMR,50-59,767,1119,27,55,23,0,480,1129,172,1885,1,ITH,ITH5,8,Emilia-Romagna
+2021-03-11,AstraZeneca,EMR,60-69,218,498,11,19,14,0,60,534,78,716,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-11,AstraZeneca,EMR,70-79,13,15,5,0,1,0,0,11,11,28,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-11,AstraZeneca,EMR,80-89,0,3,0,0,0,0,0,1,2,3,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-11,AstraZeneca,FVG,16-19,1,0,0,0,0,0,0,1,0,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -18827,7 +18826,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-11,Moderna,EMR,16-19,6,1,0,0,1,0,0,0,6,7,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-11,Moderna,EMR,20-29,76,52,20,0,30,0,0,0,78,124,4,ITH,ITH5,8,Emilia-Romagna
 2021-03-11,Moderna,EMR,30-39,45,65,42,0,18,0,0,1,49,102,8,ITH,ITH5,8,Emilia-Romagna
-2021-03-11,Moderna,EMR,40-49,55,79,39,1,25,0,1,0,68,123,11,ITH,ITH5,8,Emilia-Romagna
+2021-03-11,Moderna,EMR,40-49,55,80,39,1,25,0,1,1,68,124,11,ITH,ITH5,8,Emilia-Romagna
 2021-03-11,Moderna,EMR,50-59,56,82,48,2,19,0,2,0,67,127,11,ITH,ITH5,8,Emilia-Romagna
 2021-03-11,Moderna,EMR,60-69,46,50,32,2,10,0,1,2,49,88,8,ITH,ITH5,8,Emilia-Romagna
 2021-03-11,Moderna,EMR,70-79,37,50,11,0,7,0,0,0,69,68,19,ITH,ITH5,8,Emilia-Romagna
@@ -18856,8 +18855,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-11,Moderna,LOM,50-59,37,100,75,19,13,0,1,0,29,57,80,ITC,ITC4,3,Lombardia
 2021-03-11,Moderna,LOM,60-69,57,78,24,7,19,0,0,0,85,96,39,ITC,ITC4,3,Lombardia
 2021-03-11,Moderna,LOM,70-79,105,114,4,1,52,0,0,0,162,170,49,ITC,ITC4,3,Lombardia
-2021-03-11,Moderna,LOM,80-89,478,827,0,2,159,1143,0,1,0,1147,158,ITC,ITC4,3,Lombardia
-2021-03-11,Moderna,LOM,90+,22,169,0,0,140,51,0,0,0,54,137,ITC,ITC4,3,Lombardia
+2021-03-11,Moderna,LOM,80-89,479,828,0,2,161,1143,0,1,0,1147,160,ITC,ITC4,3,Lombardia
+2021-03-11,Moderna,LOM,90+,22,179,0,0,150,51,0,0,0,54,147,ITC,ITC4,3,Lombardia
 2021-03-11,Moderna,MAR,20-29,5,10,14,0,0,0,0,0,1,15,0,ITI,ITI3,11,Marche
 2021-03-11,Moderna,MAR,30-39,6,10,11,0,0,0,0,1,4,16,0,ITI,ITI3,11,Marche
 2021-03-11,Moderna,MAR,40-49,11,10,7,0,0,0,3,3,8,21,0,ITI,ITI3,11,Marche
@@ -19088,8 +19087,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-11,Pfizer/BioNTech,TOS,50-59,309,745,664,332,42,0,8,2,6,86,968,ITI,ITI1,9,Toscana
 2021-03-11,Pfizer/BioNTech,TOS,60-69,182,364,384,130,24,0,1,3,4,48,498,ITI,ITI1,9,Toscana
 2021-03-11,Pfizer/BioNTech,TOS,70-79,126,62,163,8,7,0,0,1,9,23,165,ITI,ITI1,9,Toscana
-2021-03-11,Pfizer/BioNTech,TOS,80-89,2714,4162,19,2,29,6787,3,0,36,6831,45,ITI,ITI1,9,Toscana
-2021-03-11,Pfizer/BioNTech,TOS,90+,1180,2142,5,1,48,3243,0,0,25,3188,134,ITI,ITI1,9,Toscana
+2021-03-11,Pfizer/BioNTech,TOS,80-89,2716,4163,19,2,29,6790,3,0,36,6834,45,ITI,ITI1,9,Toscana
+2021-03-11,Pfizer/BioNTech,TOS,90+,1180,2145,5,1,48,3246,0,0,25,3191,134,ITI,ITI1,9,Toscana
 2021-03-11,Pfizer/BioNTech,UMB,16-19,3,5,0,0,8,0,0,0,0,8,0,ITI,ITI2,10,Umbria
 2021-03-11,Pfizer/BioNTech,UMB,20-29,34,21,10,0,45,0,0,0,0,54,1,ITI,ITI2,10,Umbria
 2021-03-11,Pfizer/BioNTech,UMB,30-39,30,27,12,0,43,0,0,1,1,49,8,ITI,ITI2,10,Umbria
@@ -19539,12 +19538,12 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-12,Pfizer/BioNTech,TOS,16-19,4,1,3,1,0,0,0,0,1,1,4,ITI,ITI1,9,Toscana
 2021-03-12,Pfizer/BioNTech,TOS,20-29,195,246,293,83,13,0,51,1,0,84,357,ITI,ITI1,9,Toscana
 2021-03-12,Pfizer/BioNTech,TOS,30-39,199,351,396,112,24,0,14,0,4,57,493,ITI,ITI1,9,Toscana
-2021-03-12,Pfizer/BioNTech,TOS,40-49,246,527,515,226,22,0,7,1,2,64,709,ITI,ITI1,9,Toscana
+2021-03-12,Pfizer/BioNTech,TOS,40-49,246,528,515,227,22,0,7,1,2,65,709,ITI,ITI1,9,Toscana
 2021-03-12,Pfizer/BioNTech,TOS,50-59,376,679,683,316,31,0,13,5,7,89,966,ITI,ITI1,9,Toscana
 2021-03-12,Pfizer/BioNTech,TOS,60-69,271,361,457,151,13,0,2,1,8,60,572,ITI,ITI1,9,Toscana
 2021-03-12,Pfizer/BioNTech,TOS,70-79,176,85,197,31,23,0,0,0,10,39,222,ITI,ITI1,9,Toscana
-2021-03-12,Pfizer/BioNTech,TOS,80-89,1804,2877,41,7,32,4578,2,0,21,4589,92,ITI,ITI1,9,Toscana
-2021-03-12,Pfizer/BioNTech,TOS,90+,808,1468,2,0,27,2231,0,0,16,2171,105,ITI,ITI1,9,Toscana
+2021-03-12,Pfizer/BioNTech,TOS,80-89,1814,2882,41,7,32,4593,2,0,21,4604,92,ITI,ITI1,9,Toscana
+2021-03-12,Pfizer/BioNTech,TOS,90+,818,1475,2,0,27,2248,0,0,16,2186,107,ITI,ITI1,9,Toscana
 2021-03-12,Pfizer/BioNTech,UMB,20-29,3,6,3,1,5,0,0,0,0,7,2,ITI,ITI2,10,Umbria
 2021-03-12,Pfizer/BioNTech,UMB,30-39,8,7,8,1,5,0,0,0,1,11,4,ITI,ITI2,10,Umbria
 2021-03-12,Pfizer/BioNTech,UMB,40-49,13,21,16,8,8,0,0,2,0,20,14,ITI,ITI2,10,Umbria
@@ -19615,8 +19614,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-13,AstraZeneca,LAZ,30-39,234,703,70,10,0,0,86,742,29,937,0,ITI,ITI4,12,Lazio
 2021-03-13,AstraZeneca,LAZ,40-49,394,943,106,10,0,0,233,954,34,1337,0,ITI,ITI4,12,Lazio
 2021-03-13,AstraZeneca,LAZ,50-59,516,1129,119,7,0,0,307,1151,61,1645,0,ITI,ITI4,12,Lazio
-2021-03-13,AstraZeneca,LAZ,60-69,1550,1857,2845,0,0,0,44,502,16,3407,0,ITI,ITI4,12,Lazio
-2021-03-13,AstraZeneca,LAZ,70-79,339,337,187,1,0,0,0,22,466,676,0,ITI,ITI4,12,Lazio
+2021-03-13,AstraZeneca,LAZ,60-69,1551,1858,2847,0,0,0,44,502,16,3409,0,ITI,ITI4,12,Lazio
+2021-03-13,AstraZeneca,LAZ,70-79,342,337,190,1,0,0,0,22,466,679,0,ITI,ITI4,12,Lazio
 2021-03-13,AstraZeneca,LAZ,80-89,7,11,1,0,0,16,0,0,1,18,0,ITI,ITI4,12,Lazio
 2021-03-13,AstraZeneca,LAZ,90+,3,1,2,0,0,2,0,0,0,4,0,ITI,ITI4,12,Lazio
 2021-03-13,AstraZeneca,LIG,20-29,64,75,15,3,0,0,11,63,47,139,0,ITC,ITC3,7,Liguria
@@ -19891,10 +19890,10 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-13,Pfizer/BioNTech,LAZ,30-39,89,169,128,5,4,0,0,4,117,142,116,ITI,ITI4,12,Lazio
 2021-03-13,Pfizer/BioNTech,LAZ,40-49,153,274,187,17,4,0,1,4,214,259,168,ITI,ITI4,12,Lazio
 2021-03-13,Pfizer/BioNTech,LAZ,50-59,238,410,283,23,20,0,5,14,303,388,260,ITI,ITI4,12,Lazio
-2021-03-13,Pfizer/BioNTech,LAZ,60-69,427,387,467,16,13,0,2,10,306,498,316,ITI,ITI4,12,Lazio
-2021-03-13,Pfizer/BioNTech,LAZ,70-79,524,468,378,1,32,0,0,2,579,747,245,ITI,ITI4,12,Lazio
-2021-03-13,Pfizer/BioNTech,LAZ,80-89,2729,4002,110,2,98,6418,0,0,103,3291,3440,ITI,ITI4,12,Lazio
-2021-03-13,Pfizer/BioNTech,LAZ,90+,454,967,65,0,150,1187,0,0,19,696,725,ITI,ITI4,12,Lazio
+2021-03-13,Pfizer/BioNTech,LAZ,60-69,427,388,468,16,13,0,2,10,306,498,317,ITI,ITI4,12,Lazio
+2021-03-13,Pfizer/BioNTech,LAZ,70-79,524,470,378,1,33,0,0,2,580,747,247,ITI,ITI4,12,Lazio
+2021-03-13,Pfizer/BioNTech,LAZ,80-89,2730,4003,110,2,100,6418,0,0,103,3291,3442,ITI,ITI4,12,Lazio
+2021-03-13,Pfizer/BioNTech,LAZ,90+,454,969,65,0,152,1187,0,0,19,696,727,ITI,ITI4,12,Lazio
 2021-03-13,Pfizer/BioNTech,LIG,16-19,3,0,0,0,3,0,0,0,0,0,3,ITC,ITC3,7,Liguria
 2021-03-13,Pfizer/BioNTech,LIG,20-29,17,25,30,4,7,0,0,0,1,5,37,ITC,ITC3,7,Liguria
 2021-03-13,Pfizer/BioNTech,LIG,30-39,39,29,43,7,14,0,0,0,4,8,60,ITC,ITC3,7,Liguria
@@ -20050,10 +20049,10 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-14,AstraZeneca,LAZ,20-29,146,304,43,5,0,0,61,208,133,450,0,ITI,ITI4,12,Lazio
 2021-03-14,AstraZeneca,LAZ,30-39,305,722,103,4,0,0,53,543,324,1027,0,ITI,ITI4,12,Lazio
 2021-03-14,AstraZeneca,LAZ,40-49,394,952,90,6,0,0,124,819,307,1344,2,ITI,ITI4,12,Lazio
-2021-03-14,AstraZeneca,LAZ,50-59,516,1266,105,6,0,0,154,1170,347,1782,0,ITI,ITI4,12,Lazio
+2021-03-14,AstraZeneca,LAZ,50-59,517,1266,106,6,0,0,154,1170,347,1783,0,ITI,ITI4,12,Lazio
 2021-03-14,AstraZeneca,LAZ,60-69,383,748,209,1,0,0,52,660,209,1131,0,ITI,ITI4,12,Lazio
-2021-03-14,AstraZeneca,LAZ,70-79,342,300,12,0,0,0,0,27,603,642,0,ITI,ITI4,12,Lazio
-2021-03-14,AstraZeneca,LAZ,80-89,4,12,0,0,0,16,0,0,0,16,0,ITI,ITI4,12,Lazio
+2021-03-14,AstraZeneca,LAZ,70-79,345,301,16,0,0,0,0,27,603,646,0,ITI,ITI4,12,Lazio
+2021-03-14,AstraZeneca,LAZ,80-89,5,12,1,0,0,16,0,0,0,17,0,ITI,ITI4,12,Lazio
 2021-03-14,AstraZeneca,LAZ,90+,1,1,0,0,0,2,0,0,0,2,0,ITI,ITI4,12,Lazio
 2021-03-14,AstraZeneca,LIG,16-19,1,0,0,0,0,0,0,0,1,1,0,ITC,ITC3,7,Liguria
 2021-03-14,AstraZeneca,LIG,20-29,29,16,1,0,0,0,1,16,27,45,0,ITC,ITC3,7,Liguria
@@ -20063,11 +20062,11 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-14,AstraZeneca,LIG,60-69,47,126,2,0,0,0,0,140,31,173,0,ITC,ITC3,7,Liguria
 2021-03-14,AstraZeneca,LIG,70-79,1,0,0,0,0,0,0,0,1,1,0,ITC,ITC3,7,Liguria
 2021-03-14,AstraZeneca,LOM,16-19,4,1,2,0,0,0,0,2,1,5,0,ITC,ITC4,3,Lombardia
-2021-03-14,AstraZeneca,LOM,20-29,213,548,93,8,0,0,45,479,136,759,2,ITC,ITC4,3,Lombardia
-2021-03-14,AstraZeneca,LOM,30-39,475,863,113,33,0,0,105,881,206,1337,1,ITC,ITC4,3,Lombardia
-2021-03-14,AstraZeneca,LOM,40-49,614,1315,112,39,0,0,130,1389,259,1927,2,ITC,ITC4,3,Lombardia
-2021-03-14,AstraZeneca,LOM,50-59,574,1608,105,60,0,0,95,1658,264,2180,2,ITC,ITC4,3,Lombardia
-2021-03-14,AstraZeneca,LOM,60-69,325,730,79,23,1,0,13,795,144,1055,0,ITC,ITC4,3,Lombardia
+2021-03-14,AstraZeneca,LOM,20-29,222,553,94,8,0,0,45,479,149,773,2,ITC,ITC4,3,Lombardia
+2021-03-14,AstraZeneca,LOM,30-39,495,880,113,33,0,0,105,881,243,1374,1,ITC,ITC4,3,Lombardia
+2021-03-14,AstraZeneca,LOM,40-49,633,1326,112,39,0,0,130,1389,289,1956,3,ITC,ITC4,3,Lombardia
+2021-03-14,AstraZeneca,LOM,50-59,591,1619,105,60,0,0,95,1658,292,2208,2,ITC,ITC4,3,Lombardia
+2021-03-14,AstraZeneca,LOM,60-69,333,735,79,23,1,0,13,795,157,1068,0,ITC,ITC4,3,Lombardia
 2021-03-14,AstraZeneca,LOM,70-79,43,57,26,3,0,0,0,9,62,99,1,ITC,ITC4,3,Lombardia
 2021-03-14,AstraZeneca,MAR,20-29,7,24,2,0,0,0,0,27,2,31,0,ITI,ITI3,11,Marche
 2021-03-14,AstraZeneca,MAR,30-39,23,38,4,0,0,0,0,54,3,61,0,ITI,ITI3,11,Marche
@@ -20716,8 +20715,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-15,Pfizer/BioNTech,LOM,30-39,274,550,530,148,62,0,2,32,50,209,615,ITC,ITC4,3,Lombardia
 2021-03-15,Pfizer/BioNTech,LOM,40-49,339,705,613,219,90,0,3,62,57,287,757,ITC,ITC4,3,Lombardia
 2021-03-15,Pfizer/BioNTech,LOM,50-59,454,892,716,350,128,0,5,81,66,376,970,ITC,ITC4,3,Lombardia
-2021-03-15,Pfizer/BioNTech,LOM,60-69,500,577,660,172,64,0,3,75,103,326,751,ITC,ITC4,3,Lombardia
-2021-03-15,Pfizer/BioNTech,LOM,70-79,275,176,248,43,47,0,2,12,99,167,284,ITC,ITC4,3,Lombardia
+2021-03-15,Pfizer/BioNTech,LOM,60-69,503,579,660,172,64,0,3,77,106,331,751,ITC,ITC4,3,Lombardia
+2021-03-15,Pfizer/BioNTech,LOM,70-79,276,177,248,43,47,0,2,12,101,169,284,ITC,ITC4,3,Lombardia
 2021-03-15,Pfizer/BioNTech,LOM,80-89,4775,6709,37,196,93,11112,0,6,40,7714,3770,ITC,ITC4,3,Lombardia
 2021-03-15,Pfizer/BioNTech,LOM,90+,298,548,4,16,61,750,0,0,15,389,457,ITC,ITC4,3,Lombardia
 2021-03-15,Pfizer/BioNTech,MAR,16-19,1,0,0,0,0,0,0,0,1,0,1,ITI,ITI3,11,Marche
@@ -20846,6 +20845,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-16,AstraZeneca,EMR,50-59,1,2,0,0,0,0,0,3,0,3,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-16,AstraZeneca,EMR,60-69,1,2,0,0,0,0,0,3,0,3,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-16,AstraZeneca,EMR,70-79,1,0,0,0,0,0,0,0,1,1,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-16,AstraZeneca,FVG,40-49,1,0,0,0,0,0,0,1,0,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-16,AstraZeneca,LAZ,60-69,2,5,7,0,0,0,0,0,0,7,0,ITI,ITI4,12,Lazio
 2021-03-16,AstraZeneca,LOM,20-29,0,1,0,0,0,0,0,1,0,1,0,ITC,ITC4,3,Lombardia
 2021-03-16,AstraZeneca,LOM,40-49,0,2,0,0,0,0,0,2,0,2,0,ITC,ITC4,3,Lombardia
@@ -21039,7 +21039,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-16,Pfizer/BioNTech,CAL,50-59,161,148,80,2,6,0,3,13,205,139,170,ITF,ITF6,18,Calabria
 2021-03-16,Pfizer/BioNTech,CAL,60-69,171,136,62,0,6,0,2,8,229,177,130,ITF,ITF6,18,Calabria
 2021-03-16,Pfizer/BioNTech,CAL,70-79,160,122,26,0,1,0,0,1,254,223,59,ITF,ITF6,18,Calabria
-2021-03-16,Pfizer/BioNTech,CAL,80-89,842,874,2,0,5,1616,0,1,92,1060,656,ITF,ITF6,18,Calabria
+2021-03-16,Pfizer/BioNTech,CAL,80-89,842,876,2,0,5,1618,0,1,92,1060,658,ITF,ITF6,18,Calabria
 2021-03-16,Pfizer/BioNTech,CAL,90+,153,222,2,0,1,346,0,0,26,286,89,ITF,ITF6,18,Calabria
 2021-03-16,Pfizer/BioNTech,CAM,16-19,4,1,2,0,0,0,0,0,3,3,2,ITF,ITF3,15,Campania
 2021-03-16,Pfizer/BioNTech,CAM,20-29,42,62,55,1,0,0,0,5,43,39,65,ITF,ITF3,15,Campania
@@ -21168,8 +21168,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-16,Pfizer/BioNTech,TOS,50-59,157,370,373,118,17,0,4,1,14,118,409,ITI,ITI1,9,Toscana
 2021-03-16,Pfizer/BioNTech,TOS,60-69,102,182,195,55,4,0,0,1,29,79,205,ITI,ITI1,9,Toscana
 2021-03-16,Pfizer/BioNTech,TOS,70-79,41,29,37,9,2,0,0,0,22,29,41,ITI,ITI1,9,Toscana
-2021-03-16,Pfizer/BioNTech,TOS,80-89,552,759,15,2,3,1277,0,0,14,1211,100,ITI,ITI1,9,Toscana
-2021-03-16,Pfizer/BioNTech,TOS,90+,245,545,1,0,0,779,0,0,10,402,388,ITI,ITI1,9,Toscana
+2021-03-16,Pfizer/BioNTech,TOS,80-89,554,760,15,2,3,1280,0,0,14,1214,100,ITI,ITI1,9,Toscana
+2021-03-16,Pfizer/BioNTech,TOS,90+,246,547,1,0,0,782,0,0,10,405,388,ITI,ITI1,9,Toscana
 2021-03-16,Pfizer/BioNTech,UMB,20-29,66,109,162,3,9,0,0,0,1,76,99,ITI,ITI2,10,Umbria
 2021-03-16,Pfizer/BioNTech,UMB,30-39,98,258,332,9,11,0,0,2,2,127,229,ITI,ITI2,10,Umbria
 2021-03-16,Pfizer/BioNTech,UMB,40-49,103,273,332,17,18,0,0,5,4,129,247,ITI,ITI2,10,Umbria
@@ -21427,8 +21427,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-17,Pfizer/BioNTech,LOM,30-39,295,407,338,141,153,0,4,6,60,182,520,ITC,ITC4,3,Lombardia
 2021-03-17,Pfizer/BioNTech,LOM,40-49,354,608,449,225,186,0,11,7,84,223,739,ITC,ITC4,3,Lombardia
 2021-03-17,Pfizer/BioNTech,LOM,50-59,507,785,599,324,207,0,20,19,123,309,983,ITC,ITC4,3,Lombardia
-2021-03-17,Pfizer/BioNTech,LOM,60-69,409,456,396,189,165,0,4,3,108,193,672,ITC,ITC4,3,Lombardia
-2021-03-17,Pfizer/BioNTech,LOM,70-79,323,216,172,63,153,0,0,1,150,177,362,ITC,ITC4,3,Lombardia
+2021-03-17,Pfizer/BioNTech,LOM,60-69,414,457,396,189,165,0,4,3,114,199,672,ITC,ITC4,3,Lombardia
+2021-03-17,Pfizer/BioNTech,LOM,70-79,326,217,172,63,153,0,0,1,154,181,362,ITC,ITC4,3,Lombardia
 2021-03-17,Pfizer/BioNTech,LOM,80-89,6255,9009,29,131,332,14461,0,0,311,11139,4125,ITC,ITC4,3,Lombardia
 2021-03-17,Pfizer/BioNTech,LOM,90+,1404,2847,2,72,263,3847,0,0,67,1722,2529,ITC,ITC4,3,Lombardia
 2021-03-17,Pfizer/BioNTech,MAR,20-29,11,20,23,0,0,0,0,0,8,4,27,ITI,ITI3,11,Marche
@@ -21506,8 +21506,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-17,Pfizer/BioNTech,TOS,50-59,55,44,25,5,24,0,0,1,44,68,31,ITI,ITI1,9,Toscana
 2021-03-17,Pfizer/BioNTech,TOS,60-69,44,45,17,14,14,0,0,0,44,76,13,ITI,ITI1,9,Toscana
 2021-03-17,Pfizer/BioNTech,TOS,70-79,39,32,12,3,12,0,0,0,44,62,9,ITI,ITI1,9,Toscana
-2021-03-17,Pfizer/BioNTech,TOS,80-89,2058,2981,3,0,35,4941,1,0,59,4097,942,ITI,ITI1,9,Toscana
-2021-03-17,Pfizer/BioNTech,TOS,90+,1552,3035,0,0,35,4525,1,0,26,1534,3053,ITI,ITI1,9,Toscana
+2021-03-17,Pfizer/BioNTech,TOS,80-89,2061,2983,3,0,35,4946,1,0,59,4102,942,ITI,ITI1,9,Toscana
+2021-03-17,Pfizer/BioNTech,TOS,90+,1554,3040,0,0,35,4532,1,0,26,1535,3059,ITI,ITI1,9,Toscana
 2021-03-17,Pfizer/BioNTech,UMB,20-29,54,105,118,2,36,0,0,0,3,39,120,ITI,ITI2,10,Umbria
 2021-03-17,Pfizer/BioNTech,UMB,30-39,101,228,286,6,32,0,1,3,1,108,221,ITI,ITI2,10,Umbria
 2021-03-17,Pfizer/BioNTech,UMB,40-49,105,259,321,17,19,0,5,1,1,99,265,ITI,ITI2,10,Umbria
@@ -21542,7 +21542,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-18,AstraZeneca,CAM,40-49,0,1,0,0,0,0,0,1,0,1,0,ITF,ITF3,15,Campania
 2021-03-18,AstraZeneca,CAM,50-59,0,3,0,0,0,0,0,3,0,3,0,ITF,ITF3,15,Campania
 2021-03-18,AstraZeneca,EMR,60-69,1,0,0,0,0,0,0,1,0,1,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-18,AstraZeneca,FVG,60-69,0,1,0,0,0,0,0,1,0,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-18,AstraZeneca,FVG,60-69,0,2,0,0,0,0,0,2,0,2,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-18,AstraZeneca,LAZ,60-69,3,1,4,0,0,0,0,0,0,4,0,ITI,ITI4,12,Lazio
 2021-03-18,AstraZeneca,MAR,20-29,3,0,0,0,0,0,3,0,0,3,0,ITI,ITI3,11,Marche
 2021-03-18,AstraZeneca,MAR,30-39,7,2,0,0,0,0,7,0,2,9,0,ITI,ITI3,11,Marche
@@ -21770,8 +21770,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-18,Pfizer/BioNTech,LOM,30-39,225,399,327,148,103,0,3,11,32,245,379,ITC,ITC4,3,Lombardia
 2021-03-18,Pfizer/BioNTech,LOM,40-49,301,512,413,148,130,0,11,25,86,354,459,ITC,ITC4,3,Lombardia
 2021-03-18,Pfizer/BioNTech,LOM,50-59,412,583,423,223,172,0,25,33,119,475,520,ITC,ITC4,3,Lombardia
-2021-03-18,Pfizer/BioNTech,LOM,60-69,376,399,336,133,122,0,4,26,154,421,354,ITC,ITC4,3,Lombardia
-2021-03-18,Pfizer/BioNTech,LOM,70-79,285,285,142,60,108,0,0,2,258,340,230,ITC,ITC4,3,Lombardia
+2021-03-18,Pfizer/BioNTech,LOM,60-69,378,400,336,133,122,0,4,26,157,424,354,ITC,ITC4,3,Lombardia
+2021-03-18,Pfizer/BioNTech,LOM,70-79,286,285,142,60,108,0,0,2,259,341,230,ITC,ITC4,3,Lombardia
 2021-03-18,Pfizer/BioNTech,LOM,80-89,7444,10670,18,138,270,17355,0,0,333,11399,6715,ITC,ITC4,3,Lombardia
 2021-03-18,Pfizer/BioNTech,LOM,90+,847,1776,4,43,170,2391,1,0,14,1221,1402,ITC,ITC4,3,Lombardia
 2021-03-18,Pfizer/BioNTech,MAR,20-29,23,61,67,0,0,0,0,0,17,1,83,ITI,ITI3,11,Marche
@@ -21849,8 +21849,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-18,Pfizer/BioNTech,TOS,50-59,91,134,74,50,51,0,3,1,46,123,102,ITI,ITI1,9,Toscana
 2021-03-18,Pfizer/BioNTech,TOS,60-69,70,117,53,24,39,0,0,1,70,120,67,ITI,ITI1,9,Toscana
 2021-03-18,Pfizer/BioNTech,TOS,70-79,62,55,9,20,15,0,0,0,73,104,13,ITI,ITI1,9,Toscana
-2021-03-18,Pfizer/BioNTech,TOS,80-89,1620,2384,1,9,25,3932,2,0,35,3386,618,ITI,ITI1,9,Toscana
-2021-03-18,Pfizer/BioNTech,TOS,90+,1230,2479,0,2,10,3681,2,0,14,1201,2508,ITI,ITI1,9,Toscana
+2021-03-18,Pfizer/BioNTech,TOS,80-89,1621,2385,1,9,25,3934,2,0,35,3388,618,ITI,ITI1,9,Toscana
+2021-03-18,Pfizer/BioNTech,TOS,90+,1230,2483,0,2,10,3685,2,0,14,1205,2508,ITI,ITI1,9,Toscana
 2021-03-18,Pfizer/BioNTech,UMB,16-19,4,3,1,0,6,0,0,0,0,4,3,ITI,ITI2,10,Umbria
 2021-03-18,Pfizer/BioNTech,UMB,20-29,44,92,96,7,31,0,0,0,2,60,76,ITI,ITI2,10,Umbria
 2021-03-18,Pfizer/BioNTech,UMB,30-39,67,147,160,15,33,0,0,3,3,72,142,ITI,ITI2,10,Umbria
@@ -22185,7 +22185,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-19,Pfizer/BioNTech,EMR,50-59,93,178,134,26,5,0,2,10,94,167,104,ITH,ITH5,8,Emilia-Romagna
 2021-03-19,Pfizer/BioNTech,EMR,60-69,179,176,199,37,2,0,0,9,108,130,225,ITH,ITH5,8,Emilia-Romagna
 2021-03-19,Pfizer/BioNTech,EMR,70-79,453,299,140,15,7,0,0,0,590,559,193,ITH,ITH5,8,Emilia-Romagna
-2021-03-19,Pfizer/BioNTech,EMR,80-89,2927,3979,11,1,10,6861,0,1,22,2578,4328,ITH,ITH5,8,Emilia-Romagna
+2021-03-19,Pfizer/BioNTech,EMR,80-89,2927,3980,11,1,10,6862,0,1,22,2579,4328,ITH,ITH5,8,Emilia-Romagna
 2021-03-19,Pfizer/BioNTech,EMR,90+,778,1373,2,0,10,2134,0,0,5,252,1899,ITH,ITH5,8,Emilia-Romagna
 2021-03-19,Pfizer/BioNTech,FVG,20-29,8,16,18,1,5,0,0,0,0,13,11,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-19,Pfizer/BioNTech,FVG,30-39,12,27,20,12,5,0,0,0,2,20,19,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -22271,11 +22271,11 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-19,Pfizer/BioNTech,PUG,20-29,35,80,100,9,0,0,0,0,6,17,98,ITF,ITF4,16,Puglia
 2021-03-19,Pfizer/BioNTech,PUG,30-39,57,119,133,27,0,0,1,1,14,24,152,ITF,ITF4,16,Puglia
 2021-03-19,Pfizer/BioNTech,PUG,40-49,106,148,177,46,1,0,1,8,21,28,226,ITF,ITF4,16,Puglia
-2021-03-19,Pfizer/BioNTech,PUG,50-59,119,149,170,49,2,0,5,9,33,38,230,ITF,ITF4,16,Puglia
+2021-03-19,Pfizer/BioNTech,PUG,50-59,119,150,171,49,2,0,5,9,33,38,231,ITF,ITF4,16,Puglia
 2021-03-19,Pfizer/BioNTech,PUG,60-69,93,80,101,19,3,0,3,8,39,37,136,ITF,ITF4,16,Puglia
 2021-03-19,Pfizer/BioNTech,PUG,70-79,54,34,38,5,11,0,0,1,33,31,57,ITF,ITF4,16,Puglia
-2021-03-19,Pfizer/BioNTech,PUG,80-89,2186,2503,6,1,16,4613,0,2,51,2448,2241,ITF,ITF4,16,Puglia
-2021-03-19,Pfizer/BioNTech,PUG,90+,275,353,2,0,7,616,0,0,3,335,293,ITF,ITF4,16,Puglia
+2021-03-19,Pfizer/BioNTech,PUG,80-89,2209,2537,6,1,16,4670,0,2,51,2448,2298,ITF,ITF4,16,Puglia
+2021-03-19,Pfizer/BioNTech,PUG,90+,277,358,2,0,7,623,0,0,3,335,300,ITF,ITF4,16,Puglia
 2021-03-19,Pfizer/BioNTech,SAR,16-19,4,3,1,0,0,0,0,0,6,6,1,ITG,ITG2,20,Sardegna
 2021-03-19,Pfizer/BioNTech,SAR,20-29,65,131,109,33,3,0,0,2,49,86,110,ITG,ITG2,20,Sardegna
 2021-03-19,Pfizer/BioNTech,SAR,30-39,175,275,240,95,5,0,13,0,97,125,325,ITG,ITG2,20,Sardegna
@@ -22283,8 +22283,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-19,Pfizer/BioNTech,SAR,50-59,262,452,309,128,18,0,45,2,212,271,443,ITG,ITG2,20,Sardegna
 2021-03-19,Pfizer/BioNTech,SAR,60-69,255,386,257,72,21,0,16,2,273,267,374,ITG,ITG2,20,Sardegna
 2021-03-19,Pfizer/BioNTech,SAR,70-79,334,419,102,10,34,0,0,2,605,604,149,ITG,ITG2,20,Sardegna
-2021-03-19,Pfizer/BioNTech,SAR,80-89,1286,1678,9,1,74,2793,0,0,87,2641,323,ITG,ITG2,20,Sardegna
-2021-03-19,Pfizer/BioNTech,SAR,90+,173,297,0,0,57,405,0,0,8,378,92,ITG,ITG2,20,Sardegna
+2021-03-19,Pfizer/BioNTech,SAR,80-89,1291,1683,9,1,74,2803,0,0,87,2651,323,ITG,ITG2,20,Sardegna
+2021-03-19,Pfizer/BioNTech,SAR,90+,173,298,0,0,57,406,0,0,8,379,92,ITG,ITG2,20,Sardegna
 2021-03-19,Pfizer/BioNTech,SIC,16-19,29,29,20,0,0,0,0,0,38,39,19,ITG,ITG1,19,Sicilia
 2021-03-19,Pfizer/BioNTech,SIC,20-29,279,379,363,7,2,0,1,0,285,275,383,ITG,ITG1,19,Sicilia
 2021-03-19,Pfizer/BioNTech,SIC,30-39,292,314,184,2,4,0,2,4,410,336,270,ITG,ITG1,19,Sicilia
@@ -22301,8 +22301,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-19,Pfizer/BioNTech,TOS,50-59,79,176,139,43,49,0,0,1,23,68,187,ITI,ITI1,9,Toscana
 2021-03-19,Pfizer/BioNTech,TOS,60-69,65,78,81,18,28,0,0,1,15,46,97,ITI,ITI1,9,Toscana
 2021-03-19,Pfizer/BioNTech,TOS,70-79,31,35,16,2,30,0,0,0,18,35,31,ITI,ITI1,9,Toscana
-2021-03-19,Pfizer/BioNTech,TOS,80-89,1035,1481,3,0,46,2391,2,0,74,2081,435,ITI,ITI1,9,Toscana
-2021-03-19,Pfizer/BioNTech,TOS,90+,703,1469,0,1,36,2109,1,0,25,809,1363,ITI,ITI1,9,Toscana
+2021-03-19,Pfizer/BioNTech,TOS,80-89,1039,1482,3,0,46,2396,2,0,74,2086,435,ITI,ITI1,9,Toscana
+2021-03-19,Pfizer/BioNTech,TOS,90+,705,1480,0,1,36,2122,1,0,25,810,1375,ITI,ITI1,9,Toscana
 2021-03-19,Pfizer/BioNTech,UMB,16-19,0,2,0,0,0,0,0,0,2,2,0,ITI,ITI2,10,Umbria
 2021-03-19,Pfizer/BioNTech,UMB,20-29,18,26,33,4,2,0,0,0,5,12,32,ITI,ITI2,10,Umbria
 2021-03-19,Pfizer/BioNTech,UMB,30-39,32,59,62,12,4,0,2,5,6,13,78,ITI,ITI2,10,Umbria
@@ -22381,11 +22381,11 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-20,AstraZeneca,LIG,60-69,16,10,20,1,0,0,1,0,4,26,0,ITC,ITC3,7,Liguria
 2021-03-20,AstraZeneca,LIG,70-79,9,7,14,2,0,0,0,0,0,16,0,ITC,ITC3,7,Liguria
 2021-03-20,AstraZeneca,LOM,16-19,6,7,2,1,0,0,5,3,2,13,0,ITC,ITC4,3,Lombardia
-2021-03-20,AstraZeneca,LOM,20-29,392,951,161,70,0,0,133,868,111,1340,3,ITC,ITC4,3,Lombardia
-2021-03-20,AstraZeneca,LOM,30-39,714,1464,168,110,1,0,20,1708,171,2175,3,ITC,ITC4,3,Lombardia
-2021-03-20,AstraZeneca,LOM,40-49,686,2091,188,150,2,0,41,2180,216,2775,2,ITC,ITC4,3,Lombardia
-2021-03-20,AstraZeneca,LOM,50-59,619,2012,182,141,2,0,65,2054,187,2629,2,ITC,ITC4,3,Lombardia
-2021-03-20,AstraZeneca,LOM,60-69,353,726,119,57,1,0,11,738,153,1079,0,ITC,ITC4,3,Lombardia
+2021-03-20,AstraZeneca,LOM,20-29,422,977,193,70,0,0,133,868,135,1396,3,ITC,ITC4,3,Lombardia
+2021-03-20,AstraZeneca,LOM,30-39,732,1480,169,110,1,0,20,1708,204,2209,3,ITC,ITC4,3,Lombardia
+2021-03-20,AstraZeneca,LOM,40-49,712,2107,188,150,2,0,41,2180,258,2817,2,ITC,ITC4,3,Lombardia
+2021-03-20,AstraZeneca,LOM,50-59,642,2027,182,141,2,0,65,2054,225,2667,2,ITC,ITC4,3,Lombardia
+2021-03-20,AstraZeneca,LOM,60-69,359,728,119,57,1,0,11,738,161,1087,0,ITC,ITC4,3,Lombardia
 2021-03-20,AstraZeneca,LOM,70-79,77,38,44,16,0,0,0,37,18,114,1,ITC,ITC4,3,Lombardia
 2021-03-20,AstraZeneca,LOM,80-89,2,2,0,0,0,1,0,2,1,4,0,ITC,ITC4,3,Lombardia
 2021-03-20,AstraZeneca,MAR,20-29,7,8,4,0,0,0,0,5,6,15,0,ITI,ITI3,11,Marche
@@ -22686,12 +22686,12 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-20,Pfizer/BioNTech,LIG,80-89,643,886,0,0,0,1521,0,0,8,567,962,ITC,ITC3,7,Liguria
 2021-03-20,Pfizer/BioNTech,LIG,90+,111,185,0,0,0,295,0,0,1,109,187,ITC,ITC3,7,Liguria
 2021-03-20,Pfizer/BioNTech,LOM,16-19,4,8,2,0,10,0,0,0,0,2,10,ITC,ITC4,3,Lombardia
-2021-03-20,Pfizer/BioNTech,LOM,20-29,106,132,74,21,50,0,1,13,79,113,125,ITC,ITC4,3,Lombardia
-2021-03-20,Pfizer/BioNTech,LOM,30-39,132,207,133,33,79,0,4,31,59,128,211,ITC,ITC4,3,Lombardia
-2021-03-20,Pfizer/BioNTech,LOM,40-49,172,269,143,51,96,0,1,52,98,178,263,ITC,ITC4,3,Lombardia
-2021-03-20,Pfizer/BioNTech,LOM,50-59,270,332,214,86,94,0,2,49,157,216,386,ITC,ITC4,3,Lombardia
-2021-03-20,Pfizer/BioNTech,LOM,60-69,308,246,225,87,44,0,1,24,173,200,354,ITC,ITC4,3,Lombardia
-2021-03-20,Pfizer/BioNTech,LOM,70-79,246,152,175,37,13,0,0,4,169,168,230,ITC,ITC4,3,Lombardia
+2021-03-20,Pfizer/BioNTech,LOM,20-29,106,136,76,21,50,0,1,13,81,117,125,ITC,ITC4,3,Lombardia
+2021-03-20,Pfizer/BioNTech,LOM,30-39,132,208,133,33,79,0,4,31,60,129,211,ITC,ITC4,3,Lombardia
+2021-03-20,Pfizer/BioNTech,LOM,40-49,176,277,143,51,96,0,1,52,110,190,263,ITC,ITC4,3,Lombardia
+2021-03-20,Pfizer/BioNTech,LOM,50-59,276,335,214,86,94,0,2,50,165,225,386,ITC,ITC4,3,Lombardia
+2021-03-20,Pfizer/BioNTech,LOM,60-69,312,254,225,87,44,0,1,24,185,212,354,ITC,ITC4,3,Lombardia
+2021-03-20,Pfizer/BioNTech,LOM,70-79,247,153,175,37,13,0,0,4,171,170,230,ITC,ITC4,3,Lombardia
 2021-03-20,Pfizer/BioNTech,LOM,80-89,6177,8490,19,220,17,14340,0,5,66,8964,5703,ITC,ITC4,3,Lombardia
 2021-03-20,Pfizer/BioNTech,LOM,90+,1055,2147,0,66,13,3120,0,1,2,816,2386,ITC,ITC4,3,Lombardia
 2021-03-20,Pfizer/BioNTech,MAR,20-29,3,4,6,0,0,0,0,0,1,0,7,ITI,ITI3,11,Marche
@@ -22725,7 +22725,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-20,Pfizer/BioNTech,PAT,40-49,19,4,9,0,0,0,0,0,14,14,9,ITH,ITH2,4,Provincia Autonoma Trento
 2021-03-20,Pfizer/BioNTech,PAT,50-59,24,14,10,1,0,0,0,1,26,27,11,ITH,ITH2,4,Provincia Autonoma Trento
 2021-03-20,Pfizer/BioNTech,PAT,60-69,46,20,35,0,0,0,0,0,31,34,32,ITH,ITH2,4,Provincia Autonoma Trento
-2021-03-20,Pfizer/BioNTech,PAT,70-79,198,177,36,1,0,0,0,0,338,335,40,ITH,ITH2,4,Provincia Autonoma Trento
+2021-03-20,Pfizer/BioNTech,PAT,70-79,198,178,36,1,0,0,0,0,339,336,40,ITH,ITH2,4,Provincia Autonoma Trento
 2021-03-20,Pfizer/BioNTech,PAT,80-89,22,42,2,0,0,62,0,0,0,20,44,ITH,ITH2,4,Provincia Autonoma Trento
 2021-03-20,Pfizer/BioNTech,PAT,90+,2,9,0,0,0,11,0,0,0,4,7,ITH,ITH2,4,Provincia Autonoma Trento
 2021-03-20,Pfizer/BioNTech,PIE,16-19,0,3,2,0,0,0,0,0,1,2,1,ITC,ITC1,1,Piemonte
@@ -23089,7 +23089,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-21,Pfizer/BioNTech,LAZ,60-69,327,292,163,4,23,0,0,1,428,426,193,ITI,ITI4,12,Lazio
 2021-03-21,Pfizer/BioNTech,LAZ,70-79,590,538,76,0,21,0,0,0,1031,1014,114,ITI,ITI4,12,Lazio
 2021-03-21,Pfizer/BioNTech,LAZ,80-89,2409,3436,19,1,40,5740,0,0,45,2732,3113,ITI,ITI4,12,Lazio
-2021-03-21,Pfizer/BioNTech,LAZ,90+,383,642,10,0,21,988,0,0,6,462,563,ITI,ITI4,12,Lazio
+2021-03-21,Pfizer/BioNTech,LAZ,90+,383,644,10,0,21,990,0,0,6,463,564,ITI,ITI4,12,Lazio
 2021-03-21,Pfizer/BioNTech,LIG,30-39,0,2,2,0,0,0,0,0,0,1,1,ITC,ITC3,7,Liguria
 2021-03-21,Pfizer/BioNTech,LIG,50-59,2,2,2,0,0,0,0,0,2,0,4,ITC,ITC3,7,Liguria
 2021-03-21,Pfizer/BioNTech,LIG,60-69,3,1,2,1,0,0,0,0,1,0,4,ITC,ITC3,7,Liguria
@@ -23098,11 +23098,11 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-21,Pfizer/BioNTech,LIG,90+,25,61,0,0,0,85,0,0,1,11,75,ITC,ITC3,7,Liguria
 2021-03-21,Pfizer/BioNTech,LOM,16-19,3,5,0,1,7,0,0,0,0,8,0,ITC,ITC4,3,Lombardia
 2021-03-21,Pfizer/BioNTech,LOM,20-29,99,115,32,17,105,0,24,26,10,183,31,ITC,ITC4,3,Lombardia
-2021-03-21,Pfizer/BioNTech,LOM,30-39,178,179,63,22,87,0,102,62,21,310,47,ITC,ITC4,3,Lombardia
+2021-03-21,Pfizer/BioNTech,LOM,30-39,179,181,63,22,87,0,102,62,24,313,47,ITC,ITC4,3,Lombardia
 2021-03-21,Pfizer/BioNTech,LOM,40-49,314,223,68,24,81,0,234,91,39,471,66,ITC,ITC4,3,Lombardia
 2021-03-21,Pfizer/BioNTech,LOM,50-59,426,368,102,48,79,0,329,172,64,657,137,ITC,ITC4,3,Lombardia
-2021-03-21,Pfizer/BioNTech,LOM,60-69,249,254,94,38,41,0,36,98,196,254,249,ITC,ITC4,3,Lombardia
-2021-03-21,Pfizer/BioNTech,LOM,70-79,246,187,81,15,6,0,0,8,323,111,322,ITC,ITC4,3,Lombardia
+2021-03-21,Pfizer/BioNTech,LOM,60-69,250,255,94,38,41,0,36,98,198,256,249,ITC,ITC4,3,Lombardia
+2021-03-21,Pfizer/BioNTech,LOM,70-79,248,187,81,15,6,0,0,8,325,113,322,ITC,ITC4,3,Lombardia
 2021-03-21,Pfizer/BioNTech,LOM,80-89,3515,4669,4,71,2,8067,0,3,37,5218,2966,ITC,ITC4,3,Lombardia
 2021-03-21,Pfizer/BioNTech,LOM,90+,527,1057,2,63,1,1497,0,0,21,161,1423,ITC,ITC4,3,Lombardia
 2021-03-21,Pfizer/BioNTech,MAR,20-29,1,1,2,0,0,0,0,0,0,1,1,ITI,ITI3,11,Marche
@@ -23539,8 +23539,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-22,Pfizer/BioNTech,LAZ,50-59,231,325,168,21,3,0,9,12,343,369,187,ITI,ITI4,12,Lazio
 2021-03-22,Pfizer/BioNTech,LAZ,60-69,367,395,298,11,5,0,5,12,431,453,309,ITI,ITI4,12,Lazio
 2021-03-22,Pfizer/BioNTech,LAZ,70-79,821,833,245,0,34,0,0,1,1374,1344,310,ITI,ITI4,12,Lazio
-2021-03-22,Pfizer/BioNTech,LAZ,80-89,2861,3911,71,0,87,6518,0,0,96,3034,3738,ITI,ITI4,12,Lazio
-2021-03-22,Pfizer/BioNTech,LAZ,90+,435,920,31,0,111,1181,0,0,32,591,764,ITI,ITI4,12,Lazio
+2021-03-22,Pfizer/BioNTech,LAZ,80-89,2861,3912,71,0,87,6519,0,0,96,3034,3739,ITI,ITI4,12,Lazio
+2021-03-22,Pfizer/BioNTech,LAZ,90+,438,922,31,0,111,1186,0,0,32,591,769,ITI,ITI4,12,Lazio
 2021-03-22,Pfizer/BioNTech,LIG,20-29,19,28,30,2,10,0,0,0,5,23,24,ITC,ITC3,7,Liguria
 2021-03-22,Pfizer/BioNTech,LIG,30-39,25,55,60,4,4,0,0,0,12,39,41,ITC,ITC3,7,Liguria
 2021-03-22,Pfizer/BioNTech,LIG,40-49,35,59,50,7,16,0,1,0,20,48,46,ITC,ITC3,7,Liguria
@@ -23689,11 +23689,11 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-23,AstraZeneca,CAM,70-79,1054,1078,0,7,0,0,0,22,2103,2132,0,ITF,ITF3,15,Campania
 2021-03-23,AstraZeneca,CAM,80-89,1,3,0,0,0,4,0,0,0,4,0,ITF,ITF3,15,Campania
 2021-03-23,AstraZeneca,EMR,16-19,1,3,3,0,0,0,0,0,1,4,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-23,AstraZeneca,EMR,20-29,104,198,93,13,0,0,4,161,31,302,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-23,AstraZeneca,EMR,30-39,160,321,107,19,0,0,10,292,53,481,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-23,AstraZeneca,EMR,40-49,189,383,107,30,1,0,13,347,74,572,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-23,AstraZeneca,EMR,50-59,199,378,88,45,0,0,23,322,99,577,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-23,AstraZeneca,EMR,60-69,136,169,59,18,0,0,6,169,53,304,1,ITH,ITH5,8,Emilia-Romagna
+2021-03-23,AstraZeneca,EMR,20-29,104,199,93,13,0,0,4,162,31,303,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-23,AstraZeneca,EMR,30-39,161,322,107,19,0,0,10,294,53,483,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-23,AstraZeneca,EMR,40-49,190,384,107,30,1,0,13,348,75,574,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-23,AstraZeneca,EMR,50-59,201,382,88,45,0,0,23,327,100,583,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-23,AstraZeneca,EMR,60-69,137,169,59,18,0,0,6,169,54,305,1,ITH,ITH5,8,Emilia-Romagna
 2021-03-23,AstraZeneca,EMR,70-79,1450,1649,16,2,0,0,0,13,3068,3099,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-23,AstraZeneca,EMR,80-89,10,4,0,0,0,13,0,0,1,12,2,ITH,ITH5,8,Emilia-Romagna
 2021-03-23,AstraZeneca,FVG,16-19,0,1,0,0,0,0,0,1,0,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -23708,7 +23708,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-23,AstraZeneca,LAZ,30-39,279,555,22,0,0,0,61,708,43,834,0,ITI,ITI4,12,Lazio
 2021-03-23,AstraZeneca,LAZ,40-49,447,738,30,2,0,0,170,838,145,1185,0,ITI,ITI4,12,Lazio
 2021-03-23,AstraZeneca,LAZ,50-59,586,984,80,1,0,0,209,1102,178,1570,0,ITI,ITI4,12,Lazio
-2021-03-23,AstraZeneca,LAZ,60-69,649,1073,774,1,0,0,60,858,29,1722,0,ITI,ITI4,12,Lazio
+2021-03-23,AstraZeneca,LAZ,60-69,655,1075,782,1,0,0,60,858,29,1730,0,ITI,ITI4,12,Lazio
 2021-03-23,AstraZeneca,LAZ,70-79,1603,1477,99,0,0,0,2,29,2950,3080,0,ITI,ITI4,12,Lazio
 2021-03-23,AstraZeneca,LAZ,80-89,2,2,1,0,0,3,0,0,0,4,0,ITI,ITI4,12,Lazio
 2021-03-23,AstraZeneca,LAZ,90+,2,0,2,0,0,0,0,0,0,2,0,ITI,ITI4,12,Lazio
@@ -23760,9 +23760,9 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-23,AstraZeneca,PAT,90+,0,1,0,0,0,1,0,0,0,0,1,ITH,ITH2,4,Provincia Autonoma Trento
 2021-03-23,AstraZeneca,PIE,16-19,2,0,1,0,0,0,0,1,0,2,0,ITC,ITC1,1,Piemonte
 2021-03-23,AstraZeneca,PIE,20-29,67,70,4,4,0,0,0,73,56,137,0,ITC,ITC1,1,Piemonte
-2021-03-23,AstraZeneca,PIE,30-39,81,102,10,3,0,0,0,101,69,183,0,ITC,ITC1,1,Piemonte
+2021-03-23,AstraZeneca,PIE,30-39,81,103,10,3,0,0,0,102,69,183,1,ITC,ITC1,1,Piemonte
 2021-03-23,AstraZeneca,PIE,40-49,108,157,4,2,0,0,0,188,71,265,0,ITC,ITC1,1,Piemonte
-2021-03-23,AstraZeneca,PIE,50-59,124,308,8,5,0,0,0,317,102,431,1,ITC,ITC1,1,Piemonte
+2021-03-23,AstraZeneca,PIE,50-59,124,309,8,5,0,0,0,318,102,431,2,ITC,ITC1,1,Piemonte
 2021-03-23,AstraZeneca,PIE,60-69,269,437,7,5,0,0,0,526,168,705,1,ITC,ITC1,1,Piemonte
 2021-03-23,AstraZeneca,PIE,70-79,180,65,1,9,0,0,0,21,214,245,0,ITC,ITC1,1,Piemonte
 2021-03-23,AstraZeneca,PIE,80-89,2,4,0,0,0,6,0,0,0,6,0,ITC,ITC1,1,Piemonte
@@ -24104,8 +24104,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-23,Pfizer/BioNTech,TOS,50-59,59,66,50,12,22,0,24,1,16,47,78,ITI,ITI1,9,Toscana
 2021-03-23,Pfizer/BioNTech,TOS,60-69,29,42,23,5,27,0,4,1,11,34,37,ITI,ITI1,9,Toscana
 2021-03-23,Pfizer/BioNTech,TOS,70-79,29,26,4,1,31,0,0,0,19,47,8,ITI,ITI1,9,Toscana
-2021-03-23,Pfizer/BioNTech,TOS,80-89,863,1305,1,0,53,2067,2,0,45,1426,742,ITI,ITI1,9,Toscana
-2021-03-23,Pfizer/BioNTech,TOS,90+,442,892,0,0,37,1291,1,0,5,336,998,ITI,ITI1,9,Toscana
+2021-03-23,Pfizer/BioNTech,TOS,80-89,867,1311,1,0,53,2077,2,0,45,1431,747,ITI,ITI1,9,Toscana
+2021-03-23,Pfizer/BioNTech,TOS,90+,448,904,0,0,37,1309,1,0,5,340,1012,ITI,ITI1,9,Toscana
 2021-03-23,Pfizer/BioNTech,UMB,20-29,19,45,52,9,3,0,0,0,0,22,42,ITI,ITI2,10,Umbria
 2021-03-23,Pfizer/BioNTech,UMB,30-39,36,78,87,22,3,0,0,1,1,31,83,ITI,ITI2,10,Umbria
 2021-03-23,Pfizer/BioNTech,UMB,40-49,45,100,95,34,3,0,2,9,2,39,106,ITI,ITI2,10,Umbria
@@ -24162,10 +24162,10 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-24,AstraZeneca,CAM,80-89,2,3,0,0,0,5,0,0,0,5,0,ITF,ITF3,15,Campania
 2021-03-24,AstraZeneca,EMR,16-19,0,5,4,0,0,0,0,1,0,5,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-24,AstraZeneca,EMR,20-29,113,239,113,11,0,0,6,203,19,352,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-24,AstraZeneca,EMR,30-39,213,309,91,31,0,0,14,351,35,521,1,ITH,ITH5,8,Emilia-Romagna
-2021-03-24,AstraZeneca,EMR,40-49,192,419,77,30,0,0,22,440,42,610,1,ITH,ITH5,8,Emilia-Romagna
-2021-03-24,AstraZeneca,EMR,50-59,195,457,114,41,0,0,34,405,58,652,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-24,AstraZeneca,EMR,60-69,191,262,87,20,0,0,5,206,135,452,1,ITH,ITH5,8,Emilia-Romagna
+2021-03-24,AstraZeneca,EMR,30-39,214,312,91,31,0,0,14,355,35,525,1,ITH,ITH5,8,Emilia-Romagna
+2021-03-24,AstraZeneca,EMR,40-49,192,420,77,30,0,0,22,441,42,611,1,ITH,ITH5,8,Emilia-Romagna
+2021-03-24,AstraZeneca,EMR,50-59,196,460,114,41,0,0,34,409,58,656,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-24,AstraZeneca,EMR,60-69,191,264,87,20,0,0,5,208,135,454,1,ITH,ITH5,8,Emilia-Romagna
 2021-03-24,AstraZeneca,EMR,70-79,1401,1536,30,0,0,0,0,13,2894,2936,1,ITH,ITH5,8,Emilia-Romagna
 2021-03-24,AstraZeneca,EMR,80-89,15,17,0,0,0,29,0,0,3,32,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-24,AstraZeneca,EMR,90+,1,1,0,0,0,2,0,0,0,2,0,ITH,ITH5,8,Emilia-Romagna
@@ -24180,7 +24180,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-24,AstraZeneca,LAZ,30-39,296,557,30,0,0,0,29,752,42,853,0,ITI,ITI4,12,Lazio
 2021-03-24,AstraZeneca,LAZ,40-49,355,666,36,0,0,0,94,773,118,1021,0,ITI,ITI4,12,Lazio
 2021-03-24,AstraZeneca,LAZ,50-59,414,846,99,4,0,0,89,942,126,1260,0,ITI,ITI4,12,Lazio
-2021-03-24,AstraZeneca,LAZ,60-69,859,1340,1375,3,0,0,18,789,14,2199,0,ITI,ITI4,12,Lazio
+2021-03-24,AstraZeneca,LAZ,60-69,861,1341,1378,3,0,0,18,789,14,2202,0,ITI,ITI4,12,Lazio
 2021-03-24,AstraZeneca,LAZ,70-79,1658,1408,152,1,0,0,0,22,2891,3066,0,ITI,ITI4,12,Lazio
 2021-03-24,AstraZeneca,LAZ,80-89,3,1,1,0,0,3,0,0,0,4,0,ITI,ITI4,12,Lazio
 2021-03-24,AstraZeneca,LIG,16-19,1,3,0,0,0,0,0,1,3,4,0,ITC,ITC3,7,Liguria
@@ -24317,9 +24317,9 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-24,Moderna,EMR,40-49,4,4,0,0,0,0,0,0,8,6,2,ITH,ITH5,8,Emilia-Romagna
 2021-03-24,Moderna,EMR,50-59,4,7,0,0,0,0,0,1,10,8,3,ITH,ITH5,8,Emilia-Romagna
 2021-03-24,Moderna,EMR,60-69,10,15,0,0,1,0,0,0,24,21,4,ITH,ITH5,8,Emilia-Romagna
-2021-03-24,Moderna,EMR,70-79,24,39,0,0,5,0,0,0,58,52,11,ITH,ITH5,8,Emilia-Romagna
-2021-03-24,Moderna,EMR,80-89,122,252,0,0,11,348,0,0,15,237,137,ITH,ITH5,8,Emilia-Romagna
-2021-03-24,Moderna,EMR,90+,70,191,0,0,6,249,0,0,6,137,124,ITH,ITH5,8,Emilia-Romagna
+2021-03-24,Moderna,EMR,70-79,24,40,0,0,5,0,0,0,59,53,11,ITH,ITH5,8,Emilia-Romagna
+2021-03-24,Moderna,EMR,80-89,124,257,0,0,11,348,0,0,22,244,137,ITH,ITH5,8,Emilia-Romagna
+2021-03-24,Moderna,EMR,90+,70,192,0,0,6,249,0,0,7,138,124,ITH,ITH5,8,Emilia-Romagna
 2021-03-24,Moderna,FVG,60-69,0,1,0,0,0,0,0,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-24,Moderna,FVG,80-89,5,14,0,0,0,2,0,0,17,17,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-24,Moderna,FVG,90+,6,19,0,0,0,0,0,0,25,25,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -24345,8 +24345,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-24,Moderna,LOM,50-59,74,88,24,5,20,0,11,1,101,124,38,ITC,ITC4,3,Lombardia
 2021-03-24,Moderna,LOM,60-69,82,82,7,5,29,0,4,5,114,140,24,ITC,ITC4,3,Lombardia
 2021-03-24,Moderna,LOM,70-79,108,76,3,0,27,0,0,3,151,159,25,ITC,ITC4,3,Lombardia
-2021-03-24,Moderna,LOM,80-89,357,490,1,0,79,744,0,1,22,756,91,ITC,ITC4,3,Lombardia
-2021-03-24,Moderna,LOM,90+,39,179,0,0,54,162,0,0,2,140,78,ITC,ITC4,3,Lombardia
+2021-03-24,Moderna,LOM,80-89,368,500,1,0,79,765,0,1,22,777,91,ITC,ITC4,3,Lombardia
+2021-03-24,Moderna,LOM,90+,39,182,0,0,54,165,0,0,2,143,78,ITC,ITC4,3,Lombardia
 2021-03-24,Moderna,MAR,20-29,2,6,7,0,0,0,0,0,1,6,2,ITI,ITI3,11,Marche
 2021-03-24,Moderna,MAR,30-39,7,2,3,0,2,0,0,0,4,4,5,ITI,ITI3,11,Marche
 2021-03-24,Moderna,MAR,40-49,9,15,11,3,2,0,0,0,8,6,18,ITI,ITI3,11,Marche
@@ -24415,7 +24415,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-24,Moderna,UMB,40-49,0,1,1,0,0,0,0,0,0,0,1,ITI,ITI2,10,Umbria
 2021-03-24,Moderna,UMB,50-59,0,2,2,0,0,0,0,0,0,0,2,ITI,ITI2,10,Umbria
 2021-03-24,Moderna,UMB,60-69,0,1,1,0,0,0,0,0,0,0,1,ITI,ITI2,10,Umbria
-2021-03-24,Moderna,UMB,80-89,66,183,0,0,0,236,0,0,13,249,0,ITI,ITI2,10,Umbria
+2021-03-24,Moderna,UMB,80-89,66,185,0,0,0,238,0,0,13,251,0,ITI,ITI2,10,Umbria
 2021-03-24,Moderna,UMB,90+,60,171,0,0,0,222,0,0,9,231,0,ITI,ITI2,10,Umbria
 2021-03-24,Moderna,VDA,40-49,0,1,0,0,0,0,0,0,1,1,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2021-03-24,Moderna,VDA,60-69,1,2,0,0,0,0,0,0,3,3,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -24588,8 +24588,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-24,Pfizer/BioNTech,TOS,50-59,63,60,41,13,19,0,35,0,15,41,82,ITI,ITI1,9,Toscana
 2021-03-24,Pfizer/BioNTech,TOS,60-69,27,43,32,8,7,0,2,0,21,41,29,ITI,ITI1,9,Toscana
 2021-03-24,Pfizer/BioNTech,TOS,70-79,14,12,6,2,4,0,0,0,14,20,6,ITI,ITI1,9,Toscana
-2021-03-24,Pfizer/BioNTech,TOS,80-89,2711,4233,0,0,10,6909,2,0,23,3511,3433,ITI,ITI1,9,Toscana
-2021-03-24,Pfizer/BioNTech,TOS,90+,2026,3910,0,0,12,5895,2,0,27,772,5164,ITI,ITI1,9,Toscana
+2021-03-24,Pfizer/BioNTech,TOS,80-89,2732,4283,0,0,10,6980,2,0,23,3543,3472,ITI,ITI1,9,Toscana
+2021-03-24,Pfizer/BioNTech,TOS,90+,2043,3953,0,0,12,5955,2,0,27,785,5211,ITI,ITI1,9,Toscana
 2021-03-24,Pfizer/BioNTech,UMB,20-29,11,9,20,0,0,0,0,0,0,17,3,ITI,ITI2,10,Umbria
 2021-03-24,Pfizer/BioNTech,UMB,30-39,29,28,39,15,1,0,0,1,1,30,27,ITI,ITI2,10,Umbria
 2021-03-24,Pfizer/BioNTech,UMB,40-49,25,43,42,16,0,0,0,8,2,36,32,ITI,ITI2,10,Umbria
@@ -24648,12 +24648,12 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-25,AstraZeneca,CAM,80-89,2,3,0,0,0,5,0,0,0,5,0,ITF,ITF3,15,Campania
 2021-03-25,AstraZeneca,CAM,90+,0,1,0,0,0,1,0,0,0,1,0,ITF,ITF3,15,Campania
 2021-03-25,AstraZeneca,EMR,16-19,0,2,2,0,0,0,0,0,0,2,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-25,AstraZeneca,EMR,20-29,120,260,75,16,0,0,4,268,17,380,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-25,AstraZeneca,EMR,20-29,120,263,75,16,0,0,4,271,17,383,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-25,AstraZeneca,EMR,30-39,172,351,73,24,0,0,11,378,37,523,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-25,AstraZeneca,EMR,40-49,243,499,76,33,0,0,15,567,51,742,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-25,AstraZeneca,EMR,40-49,243,500,76,33,0,0,15,568,51,743,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-25,AstraZeneca,EMR,50-59,230,528,102,45,0,0,24,513,74,758,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-25,AstraZeneca,EMR,60-69,174,248,71,14,0,0,1,280,56,422,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-25,AstraZeneca,EMR,70-79,1007,1221,12,3,0,0,0,13,2200,2227,1,ITH,ITH5,8,Emilia-Romagna
+2021-03-25,AstraZeneca,EMR,70-79,1007,1222,12,3,0,0,0,13,2201,2228,1,ITH,ITH5,8,Emilia-Romagna
 2021-03-25,AstraZeneca,EMR,80-89,13,11,0,0,0,24,0,0,0,24,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-25,AstraZeneca,EMR,90+,0,1,0,0,0,1,0,0,0,1,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-25,AstraZeneca,FVG,16-19,3,0,0,0,0,0,1,2,0,3,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -24662,14 +24662,14 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-25,AstraZeneca,FVG,40-49,65,132,0,11,0,0,4,178,4,197,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-25,AstraZeneca,FVG,50-59,75,217,0,5,0,0,10,276,1,292,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-25,AstraZeneca,FVG,60-69,61,94,0,5,0,0,6,142,2,155,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-25,AstraZeneca,FVG,70-79,430,536,0,2,0,0,0,3,961,958,8,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-25,AstraZeneca,FVG,70-79,430,537,0,2,0,0,0,3,962,959,8,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-25,AstraZeneca,FVG,80-89,1,0,0,0,0,0,0,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-25,AstraZeneca,LAZ,20-29,95,250,21,0,0,0,7,313,4,345,0,ITI,ITI4,12,Lazio
 2021-03-25,AstraZeneca,LAZ,30-39,238,605,33,1,0,0,29,764,16,843,0,ITI,ITI4,12,Lazio
 2021-03-25,AstraZeneca,LAZ,40-49,235,590,37,2,0,0,70,697,19,825,0,ITI,ITI4,12,Lazio
 2021-03-25,AstraZeneca,LAZ,50-59,285,800,106,0,0,0,72,894,13,1085,0,ITI,ITI4,12,Lazio
 2021-03-25,AstraZeneca,LAZ,60-69,1039,1448,1727,1,0,0,17,738,4,2487,0,ITI,ITI4,12,Lazio
-2021-03-25,AstraZeneca,LAZ,70-79,1586,1388,300,0,0,0,0,38,2636,2974,0,ITI,ITI4,12,Lazio
+2021-03-25,AstraZeneca,LAZ,70-79,1587,1388,301,0,0,0,0,38,2636,2975,0,ITI,ITI4,12,Lazio
 2021-03-25,AstraZeneca,LAZ,80-89,5,0,4,0,0,1,0,0,0,5,0,ITI,ITI4,12,Lazio
 2021-03-25,AstraZeneca,LAZ,90+,0,1,1,0,0,0,0,0,0,1,0,ITI,ITI4,12,Lazio
 2021-03-25,AstraZeneca,LIG,16-19,8,4,0,0,0,0,3,0,9,12,0,ITC,ITC3,7,Liguria
@@ -24840,11 +24840,11 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-25,Moderna,LOM,20-29,18,25,3,1,10,0,0,0,29,40,3,ITC,ITC4,3,Lombardia
 2021-03-25,Moderna,LOM,30-39,41,49,16,1,21,0,0,0,52,77,13,ITC,ITC4,3,Lombardia
 2021-03-25,Moderna,LOM,40-49,91,79,19,4,33,0,0,1,113,149,21,ITC,ITC4,3,Lombardia
-2021-03-25,Moderna,LOM,50-59,120,102,18,3,14,0,0,1,186,204,18,ITC,ITC4,3,Lombardia
-2021-03-25,Moderna,LOM,60-69,146,86,11,7,10,0,0,0,204,218,14,ITC,ITC4,3,Lombardia
+2021-03-25,Moderna,LOM,50-59,122,102,18,3,14,0,0,1,188,206,18,ITC,ITC4,3,Lombardia
+2021-03-25,Moderna,LOM,60-69,146,87,11,7,10,0,0,0,205,219,14,ITC,ITC4,3,Lombardia
 2021-03-25,Moderna,LOM,70-79,131,109,6,1,8,0,0,0,225,234,6,ITC,ITC4,3,Lombardia
-2021-03-25,Moderna,LOM,80-89,348,497,2,0,19,807,0,1,16,797,48,ITC,ITC4,3,Lombardia
-2021-03-25,Moderna,LOM,90+,35,90,0,0,19,106,0,0,0,90,35,ITC,ITC4,3,Lombardia
+2021-03-25,Moderna,LOM,80-89,348,498,2,0,19,808,0,1,16,798,48,ITC,ITC4,3,Lombardia
+2021-03-25,Moderna,LOM,90+,36,90,0,0,19,107,0,0,0,91,35,ITC,ITC4,3,Lombardia
 2021-03-25,Moderna,MAR,20-29,2,7,5,1,0,0,0,0,3,1,8,ITI,ITI3,11,Marche
 2021-03-25,Moderna,MAR,30-39,6,17,12,1,0,0,0,0,10,4,19,ITI,ITI3,11,Marche
 2021-03-25,Moderna,MAR,40-49,15,19,17,1,0,0,0,0,16,8,26,ITI,ITI3,11,Marche
@@ -24961,7 +24961,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-25,Pfizer/BioNTech,EMR,20-29,45,92,53,6,1,0,1,0,76,105,32,ITH,ITH5,8,Emilia-Romagna
 2021-03-25,Pfizer/BioNTech,EMR,30-39,74,127,75,9,1,0,0,1,115,169,32,ITH,ITH5,8,Emilia-Romagna
 2021-03-25,Pfizer/BioNTech,EMR,40-49,146,256,138,30,0,0,4,8,222,330,72,ITH,ITH5,8,Emilia-Romagna
-2021-03-25,Pfizer/BioNTech,EMR,50-59,283,368,144,23,1,0,1,4,478,577,74,ITH,ITH5,8,Emilia-Romagna
+2021-03-25,Pfizer/BioNTech,EMR,50-59,283,369,145,23,1,0,1,4,478,578,74,ITH,ITH5,8,Emilia-Romagna
 2021-03-25,Pfizer/BioNTech,EMR,60-69,663,424,120,14,6,0,0,2,945,1026,61,ITH,ITH5,8,Emilia-Romagna
 2021-03-25,Pfizer/BioNTech,EMR,70-79,1352,997,72,5,15,0,0,0,2257,2302,47,ITH,ITH5,8,Emilia-Romagna
 2021-03-25,Pfizer/BioNTech,EMR,80-89,3166,4151,17,3,30,7145,0,0,122,2643,4674,ITH,ITH5,8,Emilia-Romagna
@@ -24970,10 +24970,10 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-25,Pfizer/BioNTech,FVG,20-29,23,18,4,0,21,0,0,0,16,19,22,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-25,Pfizer/BioNTech,FVG,30-39,36,36,14,4,33,0,0,0,21,35,37,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-25,Pfizer/BioNTech,FVG,40-49,45,48,10,5,26,0,1,1,50,63,30,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-25,Pfizer/BioNTech,FVG,50-59,62,86,11,7,34,0,0,0,96,107,41,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-25,Pfizer/BioNTech,FVG,50-59,63,86,11,7,34,0,0,0,97,108,41,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-25,Pfizer/BioNTech,FVG,60-69,113,68,9,8,8,0,0,0,156,170,11,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-25,Pfizer/BioNTech,FVG,70-79,211,207,0,0,8,0,0,0,410,411,7,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-25,Pfizer/BioNTech,FVG,80-89,676,902,0,0,28,1527,0,0,23,233,1345,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-25,Pfizer/BioNTech,FVG,80-89,677,903,0,0,28,1529,0,0,23,235,1345,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-25,Pfizer/BioNTech,FVG,90+,74,189,0,0,25,231,0,0,7,48,215,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-25,Pfizer/BioNTech,LAZ,16-19,18,13,5,0,0,0,0,0,26,18,13,ITI,ITI4,12,Lazio
 2021-03-25,Pfizer/BioNTech,LAZ,20-29,114,134,118,3,8,0,0,0,119,140,108,ITI,ITI4,12,Lazio
@@ -24981,9 +24981,9 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-25,Pfizer/BioNTech,LAZ,40-49,225,313,255,22,28,0,0,8,225,370,168,ITI,ITI4,12,Lazio
 2021-03-25,Pfizer/BioNTech,LAZ,50-59,373,468,379,25,33,0,3,11,390,607,234,ITI,ITI4,12,Lazio
 2021-03-25,Pfizer/BioNTech,LAZ,60-69,618,556,596,13,25,0,1,14,525,902,272,ITI,ITI4,12,Lazio
-2021-03-25,Pfizer/BioNTech,LAZ,70-79,1920,2043,585,5,28,0,0,2,3343,3698,265,ITI,ITI4,12,Lazio
-2021-03-25,Pfizer/BioNTech,LAZ,80-89,2986,4113,229,2,100,6694,0,0,74,3507,3592,ITI,ITI4,12,Lazio
-2021-03-25,Pfizer/BioNTech,LAZ,90+,447,936,101,1,78,1182,0,0,21,753,630,ITI,ITI4,12,Lazio
+2021-03-25,Pfizer/BioNTech,LAZ,70-79,1920,2045,587,5,28,0,0,2,3343,3700,265,ITI,ITI4,12,Lazio
+2021-03-25,Pfizer/BioNTech,LAZ,80-89,2986,4114,230,2,100,6694,0,0,74,3508,3592,ITI,ITI4,12,Lazio
+2021-03-25,Pfizer/BioNTech,LAZ,90+,447,938,103,1,78,1182,0,0,21,755,630,ITI,ITI4,12,Lazio
 2021-03-25,Pfizer/BioNTech,LIG,16-19,2,2,0,1,2,0,0,0,1,2,2,ITC,ITC3,7,Liguria
 2021-03-25,Pfizer/BioNTech,LIG,20-29,49,49,46,16,24,0,4,0,8,52,46,ITC,ITC3,7,Liguria
 2021-03-25,Pfizer/BioNTech,LIG,30-39,72,74,71,28,19,0,1,2,25,68,78,ITC,ITC3,7,Liguria
@@ -24999,8 +24999,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-25,Pfizer/BioNTech,LOM,40-49,262,380,222,61,152,0,5,93,109,403,239,ITC,ITC4,3,Lombardia
 2021-03-25,Pfizer/BioNTech,LOM,50-59,353,497,225,105,185,0,6,146,183,569,281,ITC,ITC4,3,Lombardia
 2021-03-25,Pfizer/BioNTech,LOM,60-69,342,337,181,56,113,0,3,101,225,454,225,ITC,ITC4,3,Lombardia
-2021-03-25,Pfizer/BioNTech,LOM,70-79,425,324,99,33,78,0,0,14,525,424,325,ITC,ITC4,3,Lombardia
-2021-03-25,Pfizer/BioNTech,LOM,80-89,6128,9013,10,105,153,14471,0,4,398,9036,6105,ITC,ITC4,3,Lombardia
+2021-03-25,Pfizer/BioNTech,LOM,70-79,430,328,99,33,78,0,0,14,534,433,325,ITC,ITC4,3,Lombardia
+2021-03-25,Pfizer/BioNTech,LOM,80-89,6130,9014,10,105,153,14474,0,4,398,9039,6105,ITC,ITC4,3,Lombardia
 2021-03-25,Pfizer/BioNTech,LOM,90+,1292,2621,1,11,64,3829,0,0,8,631,3282,ITC,ITC4,3,Lombardia
 2021-03-25,Pfizer/BioNTech,MAR,16-19,0,1,1,0,0,0,0,0,0,1,0,ITI,ITI3,11,Marche
 2021-03-25,Pfizer/BioNTech,MAR,20-29,67,124,177,1,0,0,0,8,5,180,11,ITI,ITI3,11,Marche
@@ -25054,8 +25054,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-25,Pfizer/BioNTech,PUG,50-59,136,185,135,79,1,0,5,28,73,117,204,ITF,ITF4,16,Puglia
 2021-03-25,Pfizer/BioNTech,PUG,60-69,124,96,98,40,5,0,0,22,55,93,127,ITF,ITF4,16,Puglia
 2021-03-25,Pfizer/BioNTech,PUG,70-79,41,29,14,5,4,0,0,3,44,49,21,ITF,ITF4,16,Puglia
-2021-03-25,Pfizer/BioNTech,PUG,80-89,2801,3246,1,0,22,5934,0,2,88,1656,4391,ITF,ITF4,16,Puglia
-2021-03-25,Pfizer/BioNTech,PUG,90+,335,483,0,0,9,799,0,3,7,260,558,ITF,ITF4,16,Puglia
+2021-03-25,Pfizer/BioNTech,PUG,80-89,2819,3261,1,0,22,5967,0,2,88,1657,4423,ITF,ITF4,16,Puglia
+2021-03-25,Pfizer/BioNTech,PUG,90+,336,489,0,0,9,806,0,3,7,260,565,ITF,ITF4,16,Puglia
 2021-03-25,Pfizer/BioNTech,SAR,16-19,2,2,1,0,0,0,0,0,3,3,1,ITG,ITG2,20,Sardegna
 2021-03-25,Pfizer/BioNTech,SAR,20-29,42,80,77,6,5,0,1,0,33,55,67,ITG,ITG2,20,Sardegna
 2021-03-25,Pfizer/BioNTech,SAR,30-39,58,121,98,24,5,0,1,2,49,83,96,ITG,ITG2,20,Sardegna
@@ -25081,8 +25081,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-25,Pfizer/BioNTech,TOS,50-59,89,52,30,17,35,0,38,3,18,75,66,ITI,ITI1,9,Toscana
 2021-03-25,Pfizer/BioNTech,TOS,60-69,36,42,21,10,13,0,6,3,25,51,27,ITI,ITI1,9,Toscana
 2021-03-25,Pfizer/BioNTech,TOS,70-79,29,43,8,4,9,0,0,0,51,62,10,ITI,ITI1,9,Toscana
-2021-03-25,Pfizer/BioNTech,TOS,80-89,3669,5355,4,0,38,8888,6,0,88,5967,3057,ITI,ITI1,9,Toscana
-2021-03-25,Pfizer/BioNTech,TOS,90+,2015,3798,1,0,40,5732,3,0,37,1267,4546,ITI,ITI1,9,Toscana
+2021-03-25,Pfizer/BioNTech,TOS,80-89,3699,5406,4,0,38,8969,6,0,88,6026,3079,ITI,ITI1,9,Toscana
+2021-03-25,Pfizer/BioNTech,TOS,90+,2030,3823,1,0,40,5772,3,0,37,1273,4580,ITI,ITI1,9,Toscana
 2021-03-25,Pfizer/BioNTech,UMB,20-29,14,31,34,3,6,0,0,0,2,30,15,ITI,ITI2,10,Umbria
 2021-03-25,Pfizer/BioNTech,UMB,30-39,32,52,60,7,13,0,2,2,0,61,23,ITI,ITI2,10,Umbria
 2021-03-25,Pfizer/BioNTech,UMB,40-49,41,50,50,11,9,0,10,8,3,56,35,ITI,ITI2,10,Umbria
@@ -25139,12 +25139,12 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-26,AstraZeneca,CAM,70-79,1070,1265,0,0,0,0,0,12,2323,2335,0,ITF,ITF3,15,Campania
 2021-03-26,AstraZeneca,CAM,80-89,4,0,0,0,0,4,0,0,0,4,0,ITF,ITF3,15,Campania
 2021-03-26,AstraZeneca,EMR,16-19,0,2,1,0,0,0,0,0,1,2,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-26,AstraZeneca,EMR,20-29,172,384,171,25,0,0,3,301,56,555,1,ITH,ITH5,8,Emilia-Romagna
-2021-03-26,AstraZeneca,EMR,30-39,251,521,125,38,0,0,9,504,96,772,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-26,AstraZeneca,EMR,40-49,232,712,125,59,0,0,12,644,104,943,1,ITH,ITH5,8,Emilia-Romagna
-2021-03-26,AstraZeneca,EMR,50-59,277,788,163,69,0,0,15,684,134,1065,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-26,AstraZeneca,EMR,60-69,206,341,100,27,0,0,7,340,73,547,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-26,AstraZeneca,EMR,70-79,1790,2061,49,7,0,0,3,8,3784,3850,1,ITH,ITH5,8,Emilia-Romagna
+2021-03-26,AstraZeneca,EMR,20-29,173,384,171,25,0,0,3,302,56,556,1,ITH,ITH5,8,Emilia-Romagna
+2021-03-26,AstraZeneca,EMR,30-39,251,522,125,38,0,0,9,505,96,773,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-26,AstraZeneca,EMR,40-49,232,714,125,59,0,0,12,646,104,945,1,ITH,ITH5,8,Emilia-Romagna
+2021-03-26,AstraZeneca,EMR,50-59,278,788,163,69,0,0,15,685,134,1066,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-26,AstraZeneca,EMR,60-69,206,342,100,27,0,0,7,341,73,548,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-26,AstraZeneca,EMR,70-79,1790,2062,49,7,0,0,3,8,3785,3851,1,ITH,ITH5,8,Emilia-Romagna
 2021-03-26,AstraZeneca,EMR,80-89,8,5,0,0,0,13,0,0,0,13,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-26,AstraZeneca,EMR,90+,2,0,0,1,0,1,0,0,0,2,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-26,AstraZeneca,FVG,16-19,1,0,0,1,0,0,0,0,0,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -25156,11 +25156,11 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-26,AstraZeneca,FVG,70-79,256,337,0,2,0,0,3,17,571,593,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-26,AstraZeneca,LAZ,16-19,4,3,2,0,0,0,0,0,5,7,0,ITI,ITI4,12,Lazio
 2021-03-26,AstraZeneca,LAZ,20-29,122,300,53,0,0,0,13,312,44,422,0,ITI,ITI4,12,Lazio
-2021-03-26,AstraZeneca,LAZ,30-39,268,655,54,2,0,0,34,746,87,923,0,ITI,ITI4,12,Lazio
-2021-03-26,AstraZeneca,LAZ,40-49,393,657,71,2,0,0,88,705,184,1050,0,ITI,ITI4,12,Lazio
-2021-03-26,AstraZeneca,LAZ,50-59,432,826,103,3,0,0,113,825,214,1258,0,ITI,ITI4,12,Lazio
-2021-03-26,AstraZeneca,LAZ,60-69,773,1104,1200,1,0,0,20,615,41,1877,0,ITI,ITI4,12,Lazio
-2021-03-26,AstraZeneca,LAZ,70-79,1427,1351,272,0,0,0,1,11,2494,2778,0,ITI,ITI4,12,Lazio
+2021-03-26,AstraZeneca,LAZ,30-39,270,655,54,2,0,0,34,747,88,925,0,ITI,ITI4,12,Lazio
+2021-03-26,AstraZeneca,LAZ,40-49,394,657,71,2,0,0,88,705,185,1051,0,ITI,ITI4,12,Lazio
+2021-03-26,AstraZeneca,LAZ,50-59,433,826,103,3,0,0,113,825,215,1259,0,ITI,ITI4,12,Lazio
+2021-03-26,AstraZeneca,LAZ,60-69,775,1106,1202,1,0,0,20,615,43,1881,0,ITI,ITI4,12,Lazio
+2021-03-26,AstraZeneca,LAZ,70-79,1427,1352,273,0,0,0,1,11,2494,2779,0,ITI,ITI4,12,Lazio
 2021-03-26,AstraZeneca,LAZ,80-89,3,4,6,0,0,1,0,0,0,7,0,ITI,ITI4,12,Lazio
 2021-03-26,AstraZeneca,LAZ,90+,0,1,1,0,0,0,0,0,0,1,0,ITI,ITI4,12,Lazio
 2021-03-26,AstraZeneca,LIG,16-19,8,2,0,1,0,0,0,0,9,10,0,ITC,ITC3,7,Liguria
@@ -25171,11 +25171,11 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-26,AstraZeneca,LIG,60-69,557,615,25,7,0,0,31,223,886,1171,1,ITC,ITC3,7,Liguria
 2021-03-26,AstraZeneca,LIG,70-79,169,141,4,3,0,0,0,3,300,310,0,ITC,ITC3,7,Liguria
 2021-03-26,AstraZeneca,LOM,16-19,9,8,7,1,0,0,0,1,8,17,0,ITC,ITC4,3,Lombardia
-2021-03-26,AstraZeneca,LOM,20-29,418,962,239,97,4,0,8,887,145,1380,0,ITC,ITC4,3,Lombardia
-2021-03-26,AstraZeneca,LOM,30-39,718,1461,149,173,5,0,40,1553,259,2177,2,ITC,ITC4,3,Lombardia
-2021-03-26,AstraZeneca,LOM,40-49,789,2025,172,188,11,0,24,2148,271,2814,0,ITC,ITC4,3,Lombardia
-2021-03-26,AstraZeneca,LOM,50-59,795,2404,210,170,5,0,37,2480,297,3198,1,ITC,ITC4,3,Lombardia
-2021-03-26,AstraZeneca,LOM,60-69,639,1080,253,89,2,0,14,1147,214,1719,0,ITC,ITC4,3,Lombardia
+2021-03-26,AstraZeneca,LOM,20-29,419,963,239,97,4,0,8,889,145,1382,0,ITC,ITC4,3,Lombardia
+2021-03-26,AstraZeneca,LOM,30-39,720,1463,149,173,5,0,40,1557,259,2181,2,ITC,ITC4,3,Lombardia
+2021-03-26,AstraZeneca,LOM,40-49,790,2026,172,188,11,0,24,2150,271,2816,0,ITC,ITC4,3,Lombardia
+2021-03-26,AstraZeneca,LOM,50-59,797,2405,210,170,5,0,37,2483,297,3201,1,ITC,ITC4,3,Lombardia
+2021-03-26,AstraZeneca,LOM,60-69,640,1080,253,89,2,0,14,1148,214,1720,0,ITC,ITC4,3,Lombardia
 2021-03-26,AstraZeneca,LOM,70-79,209,121,175,18,0,0,1,35,101,330,0,ITC,ITC4,3,Lombardia
 2021-03-26,AstraZeneca,LOM,80-89,3,4,2,0,0,2,0,1,2,7,0,ITC,ITC4,3,Lombardia
 2021-03-26,AstraZeneca,MAR,16-19,1,1,0,0,0,0,0,0,2,2,0,ITI,ITI3,11,Marche
@@ -25333,7 +25333,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-26,Moderna,LOM,50-59,128,132,15,2,0,0,3,1,239,244,16,ITC,ITC4,3,Lombardia
 2021-03-26,Moderna,LOM,60-69,159,123,8,2,0,0,2,0,270,274,8,ITC,ITC4,3,Lombardia
 2021-03-26,Moderna,LOM,70-79,182,134,2,2,2,0,0,0,310,313,3,ITC,ITC4,3,Lombardia
-2021-03-26,Moderna,LOM,80-89,282,360,0,5,8,578,0,0,51,602,40,ITC,ITC4,3,Lombardia
+2021-03-26,Moderna,LOM,80-89,285,360,0,5,8,581,0,0,51,605,40,ITC,ITC4,3,Lombardia
 2021-03-26,Moderna,LOM,90+,40,99,0,0,5,131,0,0,3,107,32,ITC,ITC4,3,Lombardia
 2021-03-26,Moderna,MAR,20-29,2,5,5,0,0,0,0,0,2,1,6,ITI,ITI3,11,Marche
 2021-03-26,Moderna,MAR,30-39,13,6,9,2,0,0,0,0,8,5,14,ITI,ITI3,11,Marche
@@ -25395,8 +25395,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-26,Moderna,TOS,80-89,101,66,0,5,0,1,0,0,161,162,5,ITI,ITI1,9,Toscana
 2021-03-26,Moderna,TOS,90+,1,1,0,0,0,0,0,0,2,2,0,ITI,ITI1,9,Toscana
 2021-03-26,Moderna,UMB,70-79,0,1,0,0,0,0,0,0,1,1,0,ITI,ITI2,10,Umbria
-2021-03-26,Moderna,UMB,80-89,114,258,0,0,0,372,0,0,0,372,0,ITI,ITI2,10,Umbria
-2021-03-26,Moderna,UMB,90+,81,326,0,0,0,406,0,0,1,407,0,ITI,ITI2,10,Umbria
+2021-03-26,Moderna,UMB,80-89,118,262,0,0,0,380,0,0,0,380,0,ITI,ITI2,10,Umbria
+2021-03-26,Moderna,UMB,90+,82,331,0,0,0,412,0,0,1,413,0,ITI,ITI2,10,Umbria
 2021-03-26,Moderna,VDA,50-59,0,2,0,0,0,0,0,0,2,2,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2021-03-26,Moderna,VDA,60-69,0,2,0,0,0,0,0,0,2,2,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2021-03-26,Moderna,VDA,70-79,3,7,0,0,0,0,0,0,10,10,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -25453,25 +25453,25 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-26,Pfizer/BioNTech,EMR,60-69,694,515,126,8,9,0,1,9,1056,1138,71,ITH,ITH5,8,Emilia-Romagna
 2021-03-26,Pfizer/BioNTech,EMR,70-79,1284,1100,38,5,19,0,0,0,2322,2334,50,ITH,ITH5,8,Emilia-Romagna
 2021-03-26,Pfizer/BioNTech,EMR,80-89,3113,4049,6,0,45,6973,0,0,138,2993,4169,ITH,ITH5,8,Emilia-Romagna
-2021-03-26,Pfizer/BioNTech,EMR,90+,498,1038,0,0,37,1478,0,0,21,328,1208,ITH,ITH5,8,Emilia-Romagna
+2021-03-26,Pfizer/BioNTech,EMR,90+,499,1038,0,0,37,1479,0,0,21,328,1209,ITH,ITH5,8,Emilia-Romagna
 2021-03-26,Pfizer/BioNTech,FVG,16-19,3,2,0,0,0,0,0,0,5,5,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-26,Pfizer/BioNTech,FVG,20-29,40,103,95,15,0,0,0,2,31,136,7,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-26,Pfizer/BioNTech,FVG,30-39,44,106,90,25,0,0,0,1,34,144,6,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-26,Pfizer/BioNTech,FVG,40-49,59,177,117,34,0,0,0,2,83,219,17,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-26,Pfizer/BioNTech,FVG,50-59,124,204,111,63,0,0,0,2,152,314,14,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-26,Pfizer/BioNTech,FVG,60-69,149,142,52,26,0,0,1,0,212,278,13,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-26,Pfizer/BioNTech,FVG,70-79,338,281,7,6,1,0,0,1,604,614,5,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-26,Pfizer/BioNTech,FVG,40-49,59,178,117,34,0,0,0,2,84,220,17,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-26,Pfizer/BioNTech,FVG,50-59,126,204,111,63,0,0,0,3,153,316,14,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-26,Pfizer/BioNTech,FVG,60-69,150,142,52,26,0,0,1,0,213,279,13,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-26,Pfizer/BioNTech,FVG,70-79,341,284,7,6,1,0,0,1,610,620,5,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-26,Pfizer/BioNTech,FVG,80-89,654,881,0,0,3,1516,0,0,16,266,1269,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-26,Pfizer/BioNTech,FVG,90+,98,171,0,1,4,254,0,0,10,63,206,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-26,Pfizer/BioNTech,LAZ,16-19,25,17,1,0,0,0,0,0,41,19,23,ITI,ITI4,12,Lazio
 2021-03-26,Pfizer/BioNTech,LAZ,20-29,120,143,118,10,0,0,1,2,132,149,114,ITI,ITI4,12,Lazio
-2021-03-26,Pfizer/BioNTech,LAZ,30-39,175,231,185,11,12,0,1,2,195,247,159,ITI,ITI4,12,Lazio
-2021-03-26,Pfizer/BioNTech,LAZ,40-49,287,364,277,30,27,0,0,9,308,436,215,ITI,ITI4,12,Lazio
-2021-03-26,Pfizer/BioNTech,LAZ,50-59,486,603,534,27,53,0,4,11,460,833,256,ITI,ITI4,12,Lazio
-2021-03-26,Pfizer/BioNTech,LAZ,60-69,803,749,965,8,40,0,0,6,533,1288,264,ITI,ITI4,12,Lazio
-2021-03-26,Pfizer/BioNTech,LAZ,70-79,2057,2134,726,0,52,0,0,3,3410,3894,297,ITI,ITI4,12,Lazio
-2021-03-26,Pfizer/BioNTech,LAZ,80-89,3118,4153,354,0,79,6743,0,0,95,3558,3713,ITI,ITI4,12,Lazio
-2021-03-26,Pfizer/BioNTech,LAZ,90+,512,985,175,0,61,1252,0,0,9,800,697,ITI,ITI4,12,Lazio
+2021-03-26,Pfizer/BioNTech,LAZ,30-39,175,233,186,11,12,0,1,2,196,249,159,ITI,ITI4,12,Lazio
+2021-03-26,Pfizer/BioNTech,LAZ,40-49,287,368,280,30,27,0,0,9,309,439,216,ITI,ITI4,12,Lazio
+2021-03-26,Pfizer/BioNTech,LAZ,50-59,487,608,535,27,53,0,4,11,465,839,256,ITI,ITI4,12,Lazio
+2021-03-26,Pfizer/BioNTech,LAZ,60-69,807,756,969,8,40,0,0,6,540,1299,264,ITI,ITI4,12,Lazio
+2021-03-26,Pfizer/BioNTech,LAZ,70-79,2065,2147,733,0,52,0,0,3,3424,3914,298,ITI,ITI4,12,Lazio
+2021-03-26,Pfizer/BioNTech,LAZ,80-89,3123,4166,358,0,79,6757,0,0,95,3576,3713,ITI,ITI4,12,Lazio
+2021-03-26,Pfizer/BioNTech,LAZ,90+,515,995,177,0,61,1263,0,0,9,813,697,ITI,ITI4,12,Lazio
 2021-03-26,Pfizer/BioNTech,LIG,16-19,6,4,7,2,0,0,0,0,1,9,1,ITC,ITC3,7,Liguria
 2021-03-26,Pfizer/BioNTech,LIG,20-29,35,56,46,11,13,0,3,1,17,64,27,ITC,ITC3,7,Liguria
 2021-03-26,Pfizer/BioNTech,LIG,30-39,61,78,64,24,15,0,1,7,28,93,46,ITC,ITC3,7,Liguria
@@ -25562,13 +25562,13 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-26,Pfizer/BioNTech,SIC,90+,270,430,1,0,48,613,1,0,37,233,467,ITG,ITG1,19,Sicilia
 2021-03-26,Pfizer/BioNTech,TOS,16-19,1,1,0,0,1,0,0,0,1,1,1,ITI,ITI1,9,Toscana
 2021-03-26,Pfizer/BioNTech,TOS,20-29,17,23,14,6,9,0,8,0,3,17,23,ITI,ITI1,9,Toscana
-2021-03-26,Pfizer/BioNTech,TOS,30-39,40,32,29,11,9,0,16,0,7,28,44,ITI,ITI1,9,Toscana
+2021-03-26,Pfizer/BioNTech,TOS,30-39,40,33,30,11,9,0,16,0,7,29,44,ITI,ITI1,9,Toscana
 2021-03-26,Pfizer/BioNTech,TOS,40-49,47,42,37,6,17,0,17,0,12,42,47,ITI,ITI1,9,Toscana
 2021-03-26,Pfizer/BioNTech,TOS,50-59,75,69,42,15,23,0,31,0,33,73,71,ITI,ITI1,9,Toscana
 2021-03-26,Pfizer/BioNTech,TOS,60-69,57,60,31,13,2,0,3,0,68,75,42,ITI,ITI1,9,Toscana
 2021-03-26,Pfizer/BioNTech,TOS,70-79,92,62,6,4,8,0,0,0,136,126,28,ITI,ITI1,9,Toscana
-2021-03-26,Pfizer/BioNTech,TOS,80-89,2664,3868,1,1,6,6438,4,0,82,4552,1980,ITI,ITI1,9,Toscana
-2021-03-26,Pfizer/BioNTech,TOS,90+,1322,2419,1,0,7,3700,3,0,30,908,2833,ITI,ITI1,9,Toscana
+2021-03-26,Pfizer/BioNTech,TOS,80-89,2703,3929,1,1,6,6538,4,0,82,4624,2008,ITI,ITI1,9,Toscana
+2021-03-26,Pfizer/BioNTech,TOS,90+,1347,2460,1,0,7,3766,3,0,30,928,2879,ITI,ITI1,9,Toscana
 2021-03-26,Pfizer/BioNTech,UMB,16-19,1,1,1,0,1,0,0,0,0,2,0,ITI,ITI2,10,Umbria
 2021-03-26,Pfizer/BioNTech,UMB,20-29,18,35,38,1,14,0,0,0,0,31,22,ITI,ITI2,10,Umbria
 2021-03-26,Pfizer/BioNTech,UMB,30-39,17,49,44,4,16,0,0,1,1,35,31,ITI,ITI2,10,Umbria
@@ -25623,41 +25623,41 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-27,AstraZeneca,CAM,70-79,1506,1721,1,0,0,0,1,11,3214,3227,0,ITF,ITF3,15,Campania
 2021-03-27,AstraZeneca,CAM,80-89,3,1,0,0,0,4,0,0,0,4,0,ITF,ITF3,15,Campania
 2021-03-27,AstraZeneca,EMR,16-19,1,2,1,0,0,0,0,0,2,3,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-27,AstraZeneca,EMR,20-29,107,290,64,21,1,0,12,267,32,397,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-27,AstraZeneca,EMR,30-39,186,473,74,28,0,0,12,472,73,659,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-27,AstraZeneca,EMR,40-49,215,535,56,30,0,0,11,563,90,750,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-27,AstraZeneca,EMR,50-59,196,622,97,31,0,0,17,596,77,818,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-27,AstraZeneca,EMR,60-69,166,284,50,10,0,0,5,301,84,450,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-27,AstraZeneca,EMR,70-79,1527,1945,26,0,1,0,1,18,3426,3471,1,ITH,ITH5,8,Emilia-Romagna
+2021-03-27,AstraZeneca,EMR,20-29,108,298,64,21,1,0,12,275,33,406,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-27,AstraZeneca,EMR,30-39,187,477,74,28,0,0,12,477,73,664,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-27,AstraZeneca,EMR,40-49,215,548,56,30,0,0,11,576,90,763,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-27,AstraZeneca,EMR,50-59,197,634,97,31,0,0,17,609,77,831,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-27,AstraZeneca,EMR,60-69,166,287,50,10,0,0,5,304,84,453,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-27,AstraZeneca,EMR,70-79,1527,1946,26,0,1,0,1,18,3427,3472,1,ITH,ITH5,8,Emilia-Romagna
 2021-03-27,AstraZeneca,EMR,80-89,12,17,0,0,0,28,0,0,1,27,2,ITH,ITH5,8,Emilia-Romagna
 2021-03-27,AstraZeneca,EMR,90+,3,1,0,0,0,4,0,0,0,4,0,ITH,ITH5,8,Emilia-Romagna
 2021-03-27,AstraZeneca,FVG,16-19,2,4,0,0,0,0,0,0,6,6,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-27,AstraZeneca,FVG,20-29,111,35,2,1,0,0,0,14,129,146,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-27,AstraZeneca,FVG,30-39,64,27,0,0,0,0,2,13,76,91,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-27,AstraZeneca,FVG,40-49,85,52,0,0,0,0,2,26,109,137,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-27,AstraZeneca,FVG,50-59,131,44,0,0,0,0,5,17,153,175,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-27,AstraZeneca,FVG,60-69,187,37,0,1,0,0,5,18,200,224,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-27,AstraZeneca,FVG,70-79,253,213,0,0,0,0,0,4,462,466,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-27,AstraZeneca,FVG,30-39,64,28,0,0,0,0,2,13,77,92,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-27,AstraZeneca,FVG,40-49,86,53,0,0,0,0,2,26,111,139,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-27,AstraZeneca,FVG,50-59,132,45,0,0,0,0,5,17,155,177,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-27,AstraZeneca,FVG,60-69,188,37,0,1,0,0,5,18,201,225,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-27,AstraZeneca,FVG,70-79,255,215,0,0,0,0,0,4,466,470,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-27,AstraZeneca,LAZ,16-19,1,0,0,0,0,0,0,0,1,1,0,ITI,ITI4,12,Lazio
-2021-03-27,AstraZeneca,LAZ,20-29,80,380,47,1,0,0,11,399,2,460,0,ITI,ITI4,12,Lazio
-2021-03-27,AstraZeneca,LAZ,30-39,218,691,40,4,0,0,46,792,27,909,0,ITI,ITI4,12,Lazio
-2021-03-27,AstraZeneca,LAZ,40-49,194,728,55,0,0,0,29,808,30,922,0,ITI,ITI4,12,Lazio
-2021-03-27,AstraZeneca,LAZ,50-59,202,837,119,3,0,0,39,851,27,1039,0,ITI,ITI4,12,Lazio
-2021-03-27,AstraZeneca,LAZ,60-69,721,987,1131,1,0,0,4,473,99,1708,0,ITI,ITI4,12,Lazio
+2021-03-27,AstraZeneca,LAZ,20-29,82,392,61,1,0,0,11,399,2,474,0,ITI,ITI4,12,Lazio
+2021-03-27,AstraZeneca,LAZ,30-39,219,697,47,4,0,0,46,792,27,916,0,ITI,ITI4,12,Lazio
+2021-03-27,AstraZeneca,LAZ,40-49,200,730,62,0,0,0,29,809,30,930,0,ITI,ITI4,12,Lazio
+2021-03-27,AstraZeneca,LAZ,50-59,209,847,136,3,0,0,39,851,27,1056,0,ITI,ITI4,12,Lazio
+2021-03-27,AstraZeneca,LAZ,60-69,730,988,1137,1,0,0,4,474,102,1718,0,ITI,ITI4,12,Lazio
 2021-03-27,AstraZeneca,LAZ,70-79,820,882,166,0,0,0,0,27,1509,1702,0,ITI,ITI4,12,Lazio
 2021-03-27,AstraZeneca,LIG,16-19,1,0,0,0,0,0,0,0,1,1,0,ITC,ITC3,7,Liguria
 2021-03-27,AstraZeneca,LIG,20-29,28,58,11,0,0,0,9,54,12,86,0,ITC,ITC3,7,Liguria
-2021-03-27,AstraZeneca,LIG,30-39,52,128,28,2,0,0,9,123,18,180,0,ITC,ITC3,7,Liguria
-2021-03-27,AstraZeneca,LIG,40-49,86,154,26,5,0,0,14,151,44,240,0,ITC,ITC3,7,Liguria
-2021-03-27,AstraZeneca,LIG,50-59,103,248,16,2,0,0,24,228,81,351,0,ITC,ITC3,7,Liguria
-2021-03-27,AstraZeneca,LIG,60-69,85,158,10,0,0,0,9,132,92,243,0,ITC,ITC3,7,Liguria
-2021-03-27,AstraZeneca,LIG,70-79,12,11,1,0,0,0,0,8,14,23,0,ITC,ITC3,7,Liguria
+2021-03-27,AstraZeneca,LIG,30-39,53,129,28,2,0,0,9,125,18,182,0,ITC,ITC3,7,Liguria
+2021-03-27,AstraZeneca,LIG,40-49,88,154,26,5,0,0,14,152,45,242,0,ITC,ITC3,7,Liguria
+2021-03-27,AstraZeneca,LIG,50-59,108,250,16,2,0,0,26,232,82,358,0,ITC,ITC3,7,Liguria
+2021-03-27,AstraZeneca,LIG,60-69,94,161,10,0,0,0,11,134,100,255,0,ITC,ITC3,7,Liguria
+2021-03-27,AstraZeneca,LIG,70-79,13,11,1,0,0,0,0,8,15,24,0,ITC,ITC3,7,Liguria
 2021-03-27,AstraZeneca,LOM,16-19,6,9,1,2,1,0,0,6,5,15,0,ITC,ITC4,3,Lombardia
 2021-03-27,AstraZeneca,LOM,20-29,334,818,188,72,1,0,13,715,163,1152,0,ITC,ITC4,3,Lombardia
 2021-03-27,AstraZeneca,LOM,30-39,528,1270,201,131,0,0,9,1239,218,1798,0,ITC,ITC4,3,Lombardia
-2021-03-27,AstraZeneca,LOM,40-49,601,1723,210,141,0,0,13,1649,311,2323,1,ITC,ITC4,3,Lombardia
+2021-03-27,AstraZeneca,LOM,40-49,601,1724,210,141,0,0,13,1650,311,2324,1,ITC,ITC4,3,Lombardia
 2021-03-27,AstraZeneca,LOM,50-59,629,1916,262,146,0,0,11,1812,314,2544,1,ITC,ITC4,3,Lombardia
-2021-03-27,AstraZeneca,LOM,60-69,665,1049,255,77,0,0,3,954,425,1714,0,ITC,ITC4,3,Lombardia
+2021-03-27,AstraZeneca,LOM,60-69,665,1050,255,77,0,0,3,955,425,1715,0,ITC,ITC4,3,Lombardia
 2021-03-27,AstraZeneca,LOM,70-79,261,120,140,49,0,0,0,54,138,381,0,ITC,ITC4,3,Lombardia
 2021-03-27,AstraZeneca,LOM,80-89,5,1,3,1,0,1,0,0,1,6,0,ITC,ITC4,3,Lombardia
 2021-03-27,AstraZeneca,MAR,20-29,77,91,19,0,0,0,2,87,60,168,0,ITI,ITI3,11,Marche
@@ -25687,14 +25687,14 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-27,AstraZeneca,PIE,30-39,172,271,3,8,0,0,9,345,78,442,1,ITC,ITC1,1,Piemonte
 2021-03-27,AstraZeneca,PIE,40-49,191,346,4,6,0,0,10,405,112,535,2,ITC,ITC1,1,Piemonte
 2021-03-27,AstraZeneca,PIE,50-59,260,456,10,7,0,0,15,490,194,713,3,ITC,ITC1,1,Piemonte
-2021-03-27,AstraZeneca,PIE,60-69,297,300,11,2,0,0,14,282,288,597,0,ITC,ITC1,1,Piemonte
+2021-03-27,AstraZeneca,PIE,60-69,298,301,11,2,0,0,14,282,290,599,0,ITC,ITC1,1,Piemonte
 2021-03-27,AstraZeneca,PIE,70-79,477,465,3,0,0,0,0,25,914,942,0,ITC,ITC1,1,Piemonte
 2021-03-27,AstraZeneca,PIE,90+,1,2,0,0,0,3,0,0,0,1,2,ITC,ITC1,1,Piemonte
 2021-03-27,AstraZeneca,PUG,16-19,8,2,0,1,1,0,0,0,8,10,0,ITF,ITF4,16,Puglia
 2021-03-27,AstraZeneca,PUG,20-29,119,117,53,0,9,0,0,120,54,236,0,ITF,ITF4,16,Puglia
 2021-03-27,AstraZeneca,PUG,30-39,148,197,73,5,3,0,5,174,85,345,0,ITF,ITF4,16,Puglia
 2021-03-27,AstraZeneca,PUG,40-49,243,261,84,7,5,0,13,307,88,504,0,ITF,ITF4,16,Puglia
-2021-03-27,AstraZeneca,PUG,50-59,293,253,83,8,2,0,21,324,108,546,0,ITF,ITF4,16,Puglia
+2021-03-27,AstraZeneca,PUG,50-59,294,253,84,8,2,0,21,324,108,547,0,ITF,ITF4,16,Puglia
 2021-03-27,AstraZeneca,PUG,60-69,206,164,39,8,2,0,13,241,67,370,0,ITF,ITF4,16,Puglia
 2021-03-27,AstraZeneca,PUG,70-79,25,15,0,3,1,0,0,20,16,40,0,ITF,ITF4,16,Puglia
 2021-03-27,AstraZeneca,SAR,20-29,19,43,5,2,0,0,3,37,15,62,0,ITG,ITG2,20,Sardegna
@@ -25716,7 +25716,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-27,AstraZeneca,TOS,40-49,25,41,0,0,0,0,10,36,20,65,1,ITI,ITI1,9,Toscana
 2021-03-27,AstraZeneca,TOS,50-59,36,47,3,0,0,0,9,53,18,83,0,ITI,ITI1,9,Toscana
 2021-03-27,AstraZeneca,TOS,60-69,35,57,0,1,0,0,5,58,28,92,0,ITI,ITI1,9,Toscana
-2021-03-27,AstraZeneca,TOS,70-79,1447,1768,0,1,0,0,0,5,3209,3215,0,ITI,ITI1,9,Toscana
+2021-03-27,AstraZeneca,TOS,70-79,1448,1768,0,1,0,0,0,5,3210,3216,0,ITI,ITI1,9,Toscana
 2021-03-27,AstraZeneca,TOS,80-89,282,350,0,0,0,0,0,0,632,632,0,ITI,ITI1,9,Toscana
 2021-03-27,AstraZeneca,UMB,16-19,0,3,3,0,0,0,0,0,0,3,0,ITI,ITI2,10,Umbria
 2021-03-27,AstraZeneca,UMB,20-29,92,257,256,5,0,0,0,42,46,349,0,ITI,ITI2,10,Umbria
@@ -25732,12 +25732,12 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-27,AstraZeneca,VDA,60-69,50,47,1,0,0,0,0,0,96,97,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2021-03-27,AstraZeneca,VDA,70-79,5,15,0,0,0,0,0,0,20,20,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2021-03-27,AstraZeneca,VEN,16-19,6,15,5,0,0,0,0,0,16,21,0,ITH,ITH3,5,Veneto
-2021-03-27,AstraZeneca,VEN,20-29,300,291,47,3,0,0,7,81,453,590,1,ITH,ITH3,5,Veneto
-2021-03-27,AstraZeneca,VEN,30-39,366,333,29,4,0,0,15,193,458,699,0,ITH,ITH3,5,Veneto
-2021-03-27,AstraZeneca,VEN,40-49,490,551,29,6,0,0,17,355,634,1040,1,ITH,ITH3,5,Veneto
-2021-03-27,AstraZeneca,VEN,50-59,594,646,24,10,0,0,26,419,761,1239,1,ITH,ITH3,5,Veneto
+2021-03-27,AstraZeneca,VEN,20-29,300,292,47,3,0,0,7,82,453,591,1,ITH,ITH3,5,Veneto
+2021-03-27,AstraZeneca,VEN,30-39,366,336,29,4,0,0,15,196,458,702,0,ITH,ITH3,5,Veneto
+2021-03-27,AstraZeneca,VEN,40-49,490,554,29,6,0,0,17,357,635,1043,1,ITH,ITH3,5,Veneto
+2021-03-27,AstraZeneca,VEN,50-59,595,647,24,10,0,0,26,420,762,1241,1,ITH,ITH3,5,Veneto
 2021-03-27,AstraZeneca,VEN,60-69,478,501,33,3,0,0,3,238,702,978,1,ITH,ITH3,5,Veneto
-2021-03-27,AstraZeneca,VEN,70-79,2095,2611,16,0,54,0,0,12,4624,4706,0,ITH,ITH3,5,Veneto
+2021-03-27,AstraZeneca,VEN,70-79,2096,2615,16,0,54,0,0,12,4629,4711,0,ITH,ITH3,5,Veneto
 2021-03-27,AstraZeneca,VEN,80-89,89,102,0,0,0,185,0,0,6,188,3,ITH,ITH3,5,Veneto
 2021-03-27,AstraZeneca,VEN,90+,10,8,0,0,0,18,0,0,0,17,1,ITH,ITH3,5,Veneto
 2021-03-27,Moderna,ABR,40-49,0,1,0,0,0,0,0,0,1,1,0,ITF,ITF1,13,Abruzzo
@@ -25800,13 +25800,13 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-27,Moderna,LIG,90+,34,58,0,0,0,91,0,0,1,70,22,ITC,ITC3,7,Liguria
 2021-03-27,Moderna,LOM,16-19,3,1,1,0,0,0,0,0,3,1,3,ITC,ITC4,3,Lombardia
 2021-03-27,Moderna,LOM,20-29,26,27,2,7,0,0,0,3,41,37,16,ITC,ITC4,3,Lombardia
-2021-03-27,Moderna,LOM,30-39,40,54,9,11,0,0,0,9,65,65,29,ITC,ITC4,3,Lombardia
+2021-03-27,Moderna,LOM,30-39,40,56,11,11,0,0,0,9,65,67,29,ITC,ITC4,3,Lombardia
 2021-03-27,Moderna,LOM,40-49,62,81,15,14,0,0,0,12,102,91,52,ITC,ITC4,3,Lombardia
-2021-03-27,Moderna,LOM,50-59,134,119,13,29,0,0,3,13,195,150,103,ITC,ITC4,3,Lombardia
-2021-03-27,Moderna,LOM,60-69,190,161,24,36,0,0,0,15,276,187,164,ITC,ITC4,3,Lombardia
-2021-03-27,Moderna,LOM,70-79,213,240,19,7,0,0,0,2,425,237,216,ITC,ITC4,3,Lombardia
-2021-03-27,Moderna,LOM,80-89,589,815,3,47,0,1288,0,0,66,1264,140,ITC,ITC4,3,Lombardia
-2021-03-27,Moderna,LOM,90+,91,321,0,1,0,395,0,0,16,380,32,ITC,ITC4,3,Lombardia
+2021-03-27,Moderna,LOM,50-59,135,120,13,29,0,0,3,13,197,152,103,ITC,ITC4,3,Lombardia
+2021-03-27,Moderna,LOM,60-69,191,162,24,36,0,0,0,15,278,189,164,ITC,ITC4,3,Lombardia
+2021-03-27,Moderna,LOM,70-79,215,247,19,7,0,0,0,2,434,246,216,ITC,ITC4,3,Lombardia
+2021-03-27,Moderna,LOM,80-89,602,845,3,47,0,1305,0,0,92,1307,140,ITC,ITC4,3,Lombardia
+2021-03-27,Moderna,LOM,90+,97,343,0,1,0,405,0,0,34,408,32,ITC,ITC4,3,Lombardia
 2021-03-27,Moderna,MAR,16-19,0,2,0,0,0,0,0,0,2,2,0,ITI,ITI3,11,Marche
 2021-03-27,Moderna,MAR,20-29,10,26,4,0,0,0,0,0,32,29,7,ITI,ITI3,11,Marche
 2021-03-27,Moderna,MAR,30-39,11,29,8,0,0,0,0,0,32,35,5,ITI,ITI3,11,Marche
@@ -25844,11 +25844,11 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-27,Moderna,PUG,20-29,0,1,1,0,0,0,0,0,0,1,0,ITF,ITF4,16,Puglia
 2021-03-27,Moderna,PUG,30-39,2,3,4,0,0,0,0,0,1,5,0,ITF,ITF4,16,Puglia
 2021-03-27,Moderna,PUG,40-49,2,1,1,0,0,0,0,0,2,3,0,ITF,ITF4,16,Puglia
-2021-03-27,Moderna,PUG,50-59,2,0,0,0,0,0,0,0,2,2,0,ITF,ITF4,16,Puglia
+2021-03-27,Moderna,PUG,50-59,3,2,0,0,0,0,0,0,5,5,0,ITF,ITF4,16,Puglia
 2021-03-27,Moderna,PUG,60-69,1,2,2,0,0,0,0,1,0,3,0,ITF,ITF4,16,Puglia
-2021-03-27,Moderna,PUG,70-79,1,8,0,0,0,0,0,0,9,9,0,ITF,ITF4,16,Puglia
-2021-03-27,Moderna,PUG,80-89,35,52,0,0,0,87,0,0,0,87,0,ITF,ITF4,16,Puglia
-2021-03-27,Moderna,PUG,90+,13,19,0,0,0,32,0,0,0,32,0,ITF,ITF4,16,Puglia
+2021-03-27,Moderna,PUG,70-79,1,11,0,0,0,0,0,0,12,12,0,ITF,ITF4,16,Puglia
+2021-03-27,Moderna,PUG,80-89,40,58,0,0,0,98,0,0,0,98,0,ITF,ITF4,16,Puglia
+2021-03-27,Moderna,PUG,90+,16,26,0,0,0,42,0,0,0,42,0,ITF,ITF4,16,Puglia
 2021-03-27,Moderna,SAR,20-29,1,1,0,0,0,0,0,0,2,2,0,ITG,ITG2,20,Sardegna
 2021-03-27,Moderna,SAR,30-39,1,0,0,1,0,0,0,0,0,1,0,ITG,ITG2,20,Sardegna
 2021-03-27,Moderna,SAR,50-59,1,0,0,0,0,0,0,0,1,1,0,ITG,ITG2,20,Sardegna
@@ -25866,16 +25866,16 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-27,Moderna,SIC,90+,49,99,0,0,31,100,0,0,17,134,14,ITG,ITG1,19,Sicilia
 2021-03-27,Moderna,TOS,16-19,5,6,2,0,0,0,0,0,9,8,3,ITI,ITI1,9,Toscana
 2021-03-27,Moderna,TOS,20-29,38,30,7,3,0,0,0,0,58,61,7,ITI,ITI1,9,Toscana
-2021-03-27,Moderna,TOS,30-39,63,54,2,1,0,0,0,0,114,113,4,ITI,ITI1,9,Toscana
-2021-03-27,Moderna,TOS,40-49,122,114,3,0,0,0,0,0,233,232,4,ITI,ITI1,9,Toscana
-2021-03-27,Moderna,TOS,50-59,205,226,9,0,0,0,0,0,422,422,9,ITI,ITI1,9,Toscana
-2021-03-27,Moderna,TOS,60-69,355,294,14,1,0,0,0,0,634,632,17,ITI,ITI1,9,Toscana
-2021-03-27,Moderna,TOS,70-79,497,405,7,0,0,0,0,0,895,893,9,ITI,ITI1,9,Toscana
-2021-03-27,Moderna,TOS,80-89,49,43,1,0,0,0,0,0,91,89,3,ITI,ITI1,9,Toscana
+2021-03-27,Moderna,TOS,30-39,64,58,2,1,0,0,0,0,119,118,4,ITI,ITI1,9,Toscana
+2021-03-27,Moderna,TOS,40-49,124,116,3,0,0,0,0,0,237,236,4,ITI,ITI1,9,Toscana
+2021-03-27,Moderna,TOS,50-59,212,227,9,0,0,0,0,0,430,430,9,ITI,ITI1,9,Toscana
+2021-03-27,Moderna,TOS,60-69,364,301,14,1,0,0,0,0,650,648,17,ITI,ITI1,9,Toscana
+2021-03-27,Moderna,TOS,70-79,514,417,7,0,0,0,0,0,924,922,9,ITI,ITI1,9,Toscana
+2021-03-27,Moderna,TOS,80-89,50,44,1,0,0,0,0,0,93,91,3,ITI,ITI1,9,Toscana
 2021-03-27,Moderna,TOS,90+,0,1,0,0,0,0,0,0,1,1,0,ITI,ITI1,9,Toscana
 2021-03-27,Moderna,UMB,70-79,0,2,0,0,0,0,0,0,2,2,0,ITI,ITI2,10,Umbria
-2021-03-27,Moderna,UMB,80-89,160,293,0,0,0,453,0,0,0,453,0,ITI,ITI2,10,Umbria
-2021-03-27,Moderna,UMB,90+,100,339,0,0,0,439,0,0,0,439,0,ITI,ITI2,10,Umbria
+2021-03-27,Moderna,UMB,80-89,168,313,0,0,0,481,0,0,0,481,0,ITI,ITI2,10,Umbria
+2021-03-27,Moderna,UMB,90+,104,349,0,0,0,453,0,0,0,453,0,ITI,ITI2,10,Umbria
 2021-03-27,Moderna,VDA,30-39,0,5,5,0,0,0,0,0,0,0,5,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2021-03-27,Moderna,VDA,50-59,0,5,5,0,0,0,0,0,0,1,4,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2021-03-27,Moderna,VDA,60-69,0,2,1,0,1,0,0,0,0,0,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -25923,36 +25923,36 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-27,Pfizer/BioNTech,CAM,40-49,410,444,31,9,0,0,13,49,752,802,52,ITF,ITF3,15,Campania
 2021-03-27,Pfizer/BioNTech,CAM,50-59,851,810,43,11,0,0,27,108,1472,1558,103,ITF,ITF3,15,Campania
 2021-03-27,Pfizer/BioNTech,CAM,60-69,1408,1043,25,2,1,0,11,132,2280,2354,97,ITF,ITF3,15,Campania
-2021-03-27,Pfizer/BioNTech,CAM,70-79,1223,1068,8,1,1,0,1,6,2274,2275,16,ITF,ITF3,15,Campania
+2021-03-27,Pfizer/BioNTech,CAM,70-79,1223,1069,8,1,1,0,1,6,2275,2276,16,ITF,ITF3,15,Campania
 2021-03-27,Pfizer/BioNTech,CAM,80-89,2599,3369,0,0,3,5906,0,1,58,3042,2926,ITF,ITF3,15,Campania
 2021-03-27,Pfizer/BioNTech,CAM,90+,330,522,0,0,3,843,0,0,6,417,435,ITF,ITF3,15,Campania
 2021-03-27,Pfizer/BioNTech,EMR,16-19,9,17,11,0,0,0,0,0,15,15,11,ITH,ITH5,8,Emilia-Romagna
 2021-03-27,Pfizer/BioNTech,EMR,20-29,52,73,32,6,0,0,0,3,84,101,24,ITH,ITH5,8,Emilia-Romagna
-2021-03-27,Pfizer/BioNTech,EMR,30-39,60,116,60,6,0,0,3,6,101,125,51,ITH,ITH5,8,Emilia-Romagna
-2021-03-27,Pfizer/BioNTech,EMR,40-49,154,168,58,8,0,0,4,3,249,265,57,ITH,ITH5,8,Emilia-Romagna
-2021-03-27,Pfizer/BioNTech,EMR,50-59,398,322,70,13,0,0,7,7,623,654,66,ITH,ITH5,8,Emilia-Romagna
-2021-03-27,Pfizer/BioNTech,EMR,60-69,599,404,52,7,0,0,4,5,935,954,49,ITH,ITH5,8,Emilia-Romagna
-2021-03-27,Pfizer/BioNTech,EMR,70-79,1091,1061,15,2,0,0,0,0,2135,2127,25,ITH,ITH5,8,Emilia-Romagna
-2021-03-27,Pfizer/BioNTech,EMR,80-89,2741,3798,16,0,0,6381,0,0,142,2386,4153,ITH,ITH5,8,Emilia-Romagna
-2021-03-27,Pfizer/BioNTech,EMR,90+,538,994,3,0,0,1506,0,0,23,307,1225,ITH,ITH5,8,Emilia-Romagna
+2021-03-27,Pfizer/BioNTech,EMR,30-39,63,116,60,6,0,0,3,6,104,128,51,ITH,ITH5,8,Emilia-Romagna
+2021-03-27,Pfizer/BioNTech,EMR,40-49,159,172,58,8,0,0,4,3,258,274,57,ITH,ITH5,8,Emilia-Romagna
+2021-03-27,Pfizer/BioNTech,EMR,50-59,415,327,70,13,0,0,7,7,645,676,66,ITH,ITH5,8,Emilia-Romagna
+2021-03-27,Pfizer/BioNTech,EMR,60-69,613,405,52,7,0,0,4,5,950,969,49,ITH,ITH5,8,Emilia-Romagna
+2021-03-27,Pfizer/BioNTech,EMR,70-79,1092,1061,15,2,0,0,0,0,2136,2128,25,ITH,ITH5,8,Emilia-Romagna
+2021-03-27,Pfizer/BioNTech,EMR,80-89,2742,3799,16,0,0,6383,0,0,142,2387,4154,ITH,ITH5,8,Emilia-Romagna
+2021-03-27,Pfizer/BioNTech,EMR,90+,538,995,3,0,0,1507,0,0,23,307,1226,ITH,ITH5,8,Emilia-Romagna
 2021-03-27,Pfizer/BioNTech,FVG,16-19,4,1,1,0,0,0,0,0,4,5,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-27,Pfizer/BioNTech,FVG,20-29,16,11,4,1,0,0,0,0,22,27,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-27,Pfizer/BioNTech,FVG,30-39,21,24,5,1,0,0,1,1,37,44,1,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-27,Pfizer/BioNTech,FVG,40-49,32,44,4,2,0,0,0,0,70,74,2,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-27,Pfizer/BioNTech,FVG,50-59,100,78,4,3,0,0,0,0,171,176,2,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-27,Pfizer/BioNTech,FVG,60-69,196,101,11,4,0,0,0,0,282,290,7,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-27,Pfizer/BioNTech,FVG,70-79,265,195,1,2,0,0,0,0,457,460,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-27,Pfizer/BioNTech,FVG,80-89,586,782,0,0,0,1359,0,0,9,349,1019,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-27,Pfizer/BioNTech,FVG,90+,81,179,0,0,0,256,0,0,4,71,189,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-27,Pfizer/BioNTech,FVG,20-29,18,14,6,4,0,0,0,0,22,32,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-27,Pfizer/BioNTech,FVG,30-39,22,28,8,3,0,0,1,1,37,47,3,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-27,Pfizer/BioNTech,FVG,40-49,32,48,6,3,0,0,0,1,70,78,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-27,Pfizer/BioNTech,FVG,50-59,105,82,9,7,0,0,0,0,171,185,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-27,Pfizer/BioNTech,FVG,60-69,197,105,13,6,1,0,0,0,282,293,9,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-27,Pfizer/BioNTech,FVG,70-79,274,207,2,3,0,0,0,0,476,481,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-27,Pfizer/BioNTech,FVG,80-89,610,813,0,0,0,1414,0,0,9,403,1020,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-27,Pfizer/BioNTech,FVG,90+,86,184,0,0,0,266,0,0,4,81,189,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-27,Pfizer/BioNTech,LAZ,16-19,12,14,7,0,2,0,0,0,17,18,8,ITI,ITI4,12,Lazio
-2021-03-27,Pfizer/BioNTech,LAZ,20-29,128,183,207,9,12,0,0,3,80,157,154,ITI,ITI4,12,Lazio
-2021-03-27,Pfizer/BioNTech,LAZ,30-39,159,290,258,10,20,0,1,4,156,281,168,ITI,ITI4,12,Lazio
-2021-03-27,Pfizer/BioNTech,LAZ,40-49,283,395,296,23,23,0,0,6,330,509,169,ITI,ITI4,12,Lazio
-2021-03-27,Pfizer/BioNTech,LAZ,50-59,488,585,540,35,32,0,2,31,433,808,265,ITI,ITI4,12,Lazio
-2021-03-27,Pfizer/BioNTech,LAZ,60-69,942,796,1145,17,21,0,2,51,502,1403,335,ITI,ITI4,12,Lazio
-2021-03-27,Pfizer/BioNTech,LAZ,70-79,1867,2065,794,0,32,0,0,8,3098,3633,299,ITI,ITI4,12,Lazio
-2021-03-27,Pfizer/BioNTech,LAZ,80-89,2649,4189,263,0,83,6434,0,0,58,3442,3396,ITI,ITI4,12,Lazio
-2021-03-27,Pfizer/BioNTech,LAZ,90+,477,930,130,0,64,1198,0,0,15,787,620,ITI,ITI4,12,Lazio
+2021-03-27,Pfizer/BioNTech,LAZ,20-29,129,184,209,9,12,0,0,3,80,159,154,ITI,ITI4,12,Lazio
+2021-03-27,Pfizer/BioNTech,LAZ,30-39,160,290,259,10,20,0,1,4,156,282,168,ITI,ITI4,12,Lazio
+2021-03-27,Pfizer/BioNTech,LAZ,40-49,287,397,301,23,23,0,0,6,331,515,169,ITI,ITI4,12,Lazio
+2021-03-27,Pfizer/BioNTech,LAZ,50-59,492,592,551,35,32,0,2,31,433,819,265,ITI,ITI4,12,Lazio
+2021-03-27,Pfizer/BioNTech,LAZ,60-69,966,814,1186,17,21,0,2,51,503,1445,335,ITI,ITI4,12,Lazio
+2021-03-27,Pfizer/BioNTech,LAZ,70-79,1877,2077,816,0,32,0,0,8,3098,3655,299,ITI,ITI4,12,Lazio
+2021-03-27,Pfizer/BioNTech,LAZ,80-89,2653,4198,270,0,83,6440,0,0,58,3454,3397,ITI,ITI4,12,Lazio
+2021-03-27,Pfizer/BioNTech,LAZ,90+,479,933,134,0,64,1199,0,0,15,792,620,ITI,ITI4,12,Lazio
 2021-03-27,Pfizer/BioNTech,LIG,20-29,5,10,4,0,0,0,0,0,11,14,1,ITC,ITC3,7,Liguria
 2021-03-27,Pfizer/BioNTech,LIG,30-39,9,21,11,1,0,0,0,0,18,27,3,ITC,ITC3,7,Liguria
 2021-03-27,Pfizer/BioNTech,LIG,40-49,10,46,18,0,0,0,0,0,38,49,7,ITC,ITC3,7,Liguria
@@ -25963,13 +25963,13 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-27,Pfizer/BioNTech,LIG,90+,87,128,0,0,0,212,0,0,3,40,175,ITC,ITC3,7,Liguria
 2021-03-27,Pfizer/BioNTech,LOM,16-19,31,19,2,0,30,0,0,0,18,41,9,ITC,ITC4,3,Lombardia
 2021-03-27,Pfizer/BioNTech,LOM,20-29,83,95,97,11,34,0,1,7,28,73,105,ITC,ITC4,3,Lombardia
-2021-03-27,Pfizer/BioNTech,LOM,30-39,77,120,94,15,33,0,3,19,33,91,106,ITC,ITC4,3,Lombardia
-2021-03-27,Pfizer/BioNTech,LOM,40-49,81,140,100,22,34,0,5,23,37,96,125,ITC,ITC4,3,Lombardia
-2021-03-27,Pfizer/BioNTech,LOM,50-59,106,150,91,31,39,0,4,32,59,125,131,ITC,ITC4,3,Lombardia
-2021-03-27,Pfizer/BioNTech,LOM,60-69,104,135,86,18,24,0,1,20,90,127,112,ITC,ITC4,3,Lombardia
-2021-03-27,Pfizer/BioNTech,LOM,70-79,134,116,54,17,13,0,0,1,165,163,87,ITC,ITC4,3,Lombardia
-2021-03-27,Pfizer/BioNTech,LOM,80-89,5134,6996,7,81,10,12013,0,6,13,7804,4326,ITC,ITC4,3,Lombardia
-2021-03-27,Pfizer/BioNTech,LOM,90+,799,1641,1,89,8,2339,0,0,3,493,1947,ITC,ITC4,3,Lombardia
+2021-03-27,Pfizer/BioNTech,LOM,30-39,77,121,94,15,33,0,3,19,34,91,107,ITC,ITC4,3,Lombardia
+2021-03-27,Pfizer/BioNTech,LOM,40-49,82,142,100,22,34,0,5,24,39,97,127,ITC,ITC4,3,Lombardia
+2021-03-27,Pfizer/BioNTech,LOM,50-59,108,150,91,31,39,0,4,32,61,125,133,ITC,ITC4,3,Lombardia
+2021-03-27,Pfizer/BioNTech,LOM,60-69,110,142,87,18,24,0,1,24,98,131,121,ITC,ITC4,3,Lombardia
+2021-03-27,Pfizer/BioNTech,LOM,70-79,139,118,54,17,13,0,0,4,169,166,91,ITC,ITC4,3,Lombardia
+2021-03-27,Pfizer/BioNTech,LOM,80-89,5176,7066,7,81,10,12125,0,6,13,7915,4327,ITC,ITC4,3,Lombardia
+2021-03-27,Pfizer/BioNTech,LOM,90+,805,1657,1,89,8,2361,0,0,3,497,1965,ITC,ITC4,3,Lombardia
 2021-03-27,Pfizer/BioNTech,MAR,16-19,1,1,0,0,0,0,0,0,2,2,0,ITI,ITI3,11,Marche
 2021-03-27,Pfizer/BioNTech,MAR,20-29,17,34,20,0,0,0,0,0,31,29,22,ITI,ITI3,11,Marche
 2021-03-27,Pfizer/BioNTech,MAR,30-39,20,35,12,0,0,0,1,7,35,42,13,ITI,ITI3,11,Marche
@@ -25984,9 +25984,9 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-27,Pfizer/BioNTech,MOL,30-39,6,12,2,0,0,0,1,1,14,17,1,ITF,ITF2,14,Molise
 2021-03-27,Pfizer/BioNTech,MOL,40-49,17,13,2,1,0,0,0,0,27,26,4,ITF,ITF2,14,Molise
 2021-03-27,Pfizer/BioNTech,MOL,50-59,51,39,5,1,0,0,2,0,82,85,5,ITF,ITF2,14,Molise
-2021-03-27,Pfizer/BioNTech,MOL,60-69,111,73,3,0,0,0,0,0,181,174,10,ITF,ITF2,14,Molise
+2021-03-27,Pfizer/BioNTech,MOL,60-69,111,74,3,1,0,0,0,0,181,174,11,ITF,ITF2,14,Molise
 2021-03-27,Pfizer/BioNTech,MOL,70-79,122,90,1,0,0,0,0,0,211,208,4,ITF,ITF2,14,Molise
-2021-03-27,Pfizer/BioNTech,MOL,80-89,726,943,1,0,0,1658,0,0,10,325,1344,ITF,ITF2,14,Molise
+2021-03-27,Pfizer/BioNTech,MOL,80-89,726,944,1,0,0,1659,0,0,10,326,1344,ITF,ITF2,14,Molise
 2021-03-27,Pfizer/BioNTech,MOL,90+,38,89,0,0,0,116,0,0,11,64,63,ITF,ITF2,14,Molise
 2021-03-27,Pfizer/BioNTech,PAB,16-19,10,8,10,2,0,0,0,1,5,8,10,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
 2021-03-27,Pfizer/BioNTech,PAB,20-29,111,61,93,8,0,0,0,8,63,78,94,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
@@ -26018,12 +26018,12 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-27,Pfizer/BioNTech,PUG,16-19,3,3,1,0,2,0,0,0,3,6,0,ITF,ITF4,16,Puglia
 2021-03-27,Pfizer/BioNTech,PUG,20-29,67,79,61,18,5,0,1,9,52,100,46,ITF,ITF4,16,Puglia
 2021-03-27,Pfizer/BioNTech,PUG,30-39,103,143,93,39,3,0,0,20,91,165,81,ITF,ITF4,16,Puglia
-2021-03-27,Pfizer/BioNTech,PUG,40-49,171,190,102,38,8,0,4,45,164,257,104,ITF,ITF4,16,Puglia
+2021-03-27,Pfizer/BioNTech,PUG,40-49,171,191,103,38,8,0,4,45,164,258,104,ITF,ITF4,16,Puglia
 2021-03-27,Pfizer/BioNTech,PUG,50-59,258,204,83,21,7,0,0,48,303,352,110,ITF,ITF4,16,Puglia
-2021-03-27,Pfizer/BioNTech,PUG,60-69,340,193,86,15,5,0,0,54,373,437,96,ITF,ITF4,16,Puglia
+2021-03-27,Pfizer/BioNTech,PUG,60-69,341,194,86,15,5,0,0,54,375,439,96,ITF,ITF4,16,Puglia
 2021-03-27,Pfizer/BioNTech,PUG,70-79,227,108,50,4,3,0,0,1,277,293,42,ITF,ITF4,16,Puglia
-2021-03-27,Pfizer/BioNTech,PUG,80-89,2584,3186,1,1,2,5681,0,0,85,2090,3680,ITF,ITF4,16,Puglia
-2021-03-27,Pfizer/BioNTech,PUG,90+,343,474,1,0,1,809,0,0,6,339,478,ITF,ITF4,16,Puglia
+2021-03-27,Pfizer/BioNTech,PUG,80-89,2593,3201,1,1,2,5705,0,0,85,2114,3680,ITF,ITF4,16,Puglia
+2021-03-27,Pfizer/BioNTech,PUG,90+,343,475,1,0,1,810,0,0,6,340,478,ITF,ITF4,16,Puglia
 2021-03-27,Pfizer/BioNTech,SAR,16-19,1,1,0,0,0,0,0,0,2,2,0,ITG,ITG2,20,Sardegna
 2021-03-27,Pfizer/BioNTech,SAR,20-29,12,27,14,5,4,0,0,0,16,28,11,ITG,ITG2,20,Sardegna
 2021-03-27,Pfizer/BioNTech,SAR,30-39,35,52,40,9,3,0,0,3,32,61,26,ITG,ITG2,20,Sardegna
@@ -26049,8 +26049,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-27,Pfizer/BioNTech,TOS,50-59,17,18,13,5,2,0,0,1,14,23,12,ITI,ITI1,9,Toscana
 2021-03-27,Pfizer/BioNTech,TOS,60-69,18,22,10,5,8,0,0,0,17,27,13,ITI,ITI1,9,Toscana
 2021-03-27,Pfizer/BioNTech,TOS,70-79,33,36,6,2,14,0,0,0,47,57,12,ITI,ITI1,9,Toscana
-2021-03-27,Pfizer/BioNTech,TOS,80-89,455,650,4,1,34,996,0,0,70,1071,34,ITI,ITI1,9,Toscana
-2021-03-27,Pfizer/BioNTech,TOS,90+,83,200,0,1,23,241,0,0,18,256,27,ITI,ITI1,9,Toscana
+2021-03-27,Pfizer/BioNTech,TOS,80-89,463,663,4,1,34,1017,0,0,70,1092,34,ITI,ITI1,9,Toscana
+2021-03-27,Pfizer/BioNTech,TOS,90+,85,200,0,1,23,243,0,0,18,258,27,ITI,ITI1,9,Toscana
 2021-03-27,Pfizer/BioNTech,UMB,20-29,17,27,41,3,0,0,0,0,0,18,26,ITI,ITI2,10,Umbria
 2021-03-27,Pfizer/BioNTech,UMB,30-39,41,74,98,15,0,0,0,1,1,31,84,ITI,ITI2,10,Umbria
 2021-03-27,Pfizer/BioNTech,UMB,40-49,52,82,117,8,1,0,1,4,3,44,90,ITI,ITI2,10,Umbria
@@ -26076,344 +26076,423 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-27,Pfizer/BioNTech,VEN,70-79,938,842,29,2,17,0,0,3,1729,1659,121,ITH,ITH3,5,Veneto
 2021-03-27,Pfizer/BioNTech,VEN,80-89,3583,4704,5,1,20,7552,0,0,709,5149,3138,ITH,ITH3,5,Veneto
 2021-03-27,Pfizer/BioNTech,VEN,90+,488,1069,0,0,31,1269,0,0,257,1543,14,ITH,ITH3,5,Veneto
-2021-03-28,AstraZeneca,ABR,20-29,17,39,49,0,0,0,0,2,5,56,0,ITF,ITF1,13,Abruzzo
-2021-03-28,AstraZeneca,ABR,30-39,10,28,6,0,0,0,4,14,14,38,0,ITF,ITF1,13,Abruzzo
-2021-03-28,AstraZeneca,ABR,40-49,23,32,0,0,0,0,15,18,22,55,0,ITF,ITF1,13,Abruzzo
-2021-03-28,AstraZeneca,ABR,50-59,39,53,0,0,0,0,50,17,25,92,0,ITF,ITF1,13,Abruzzo
-2021-03-28,AstraZeneca,ABR,60-69,31,59,0,0,0,0,47,21,22,90,0,ITF,ITF1,13,Abruzzo
-2021-03-28,AstraZeneca,ABR,70-79,7,8,0,0,0,0,0,1,14,15,0,ITF,ITF1,13,Abruzzo
-2021-03-28,AstraZeneca,BAS,20-29,1,3,0,0,0,0,0,2,2,4,0,ITF,ITF5,17,Basilicata
-2021-03-28,AstraZeneca,BAS,30-39,5,7,1,0,0,0,0,9,2,12,0,ITF,ITF5,17,Basilicata
-2021-03-28,AstraZeneca,BAS,40-49,5,14,0,0,0,0,0,18,1,19,0,ITF,ITF5,17,Basilicata
-2021-03-28,AstraZeneca,BAS,50-59,5,24,0,0,0,0,0,26,3,29,0,ITF,ITF5,17,Basilicata
-2021-03-28,AstraZeneca,BAS,60-69,4,11,0,0,0,0,0,13,2,15,0,ITF,ITF5,17,Basilicata
+2021-03-28,AstraZeneca,ABR,16-19,1,1,1,0,0,0,0,0,1,2,0,ITF,ITF1,13,Abruzzo
+2021-03-28,AstraZeneca,ABR,20-29,70,108,141,0,0,0,11,6,20,178,0,ITF,ITF1,13,Abruzzo
+2021-03-28,AstraZeneca,ABR,30-39,32,51,16,0,0,0,10,20,37,83,0,ITF,ITF1,13,Abruzzo
+2021-03-28,AstraZeneca,ABR,40-49,48,85,2,0,0,0,36,32,63,133,0,ITF,ITF1,13,Abruzzo
+2021-03-28,AstraZeneca,ABR,50-59,84,122,1,0,0,0,98,38,69,206,0,ITF,ITF1,13,Abruzzo
+2021-03-28,AstraZeneca,ABR,60-69,60,107,4,0,0,0,52,50,61,167,0,ITF,ITF1,13,Abruzzo
+2021-03-28,AstraZeneca,ABR,70-79,14,14,0,0,0,0,0,3,25,28,0,ITF,ITF1,13,Abruzzo
+2021-03-28,AstraZeneca,BAS,20-29,5,17,1,0,0,0,0,15,6,22,0,ITF,ITF5,17,Basilicata
+2021-03-28,AstraZeneca,BAS,30-39,14,35,2,0,1,0,0,43,3,49,0,ITF,ITF5,17,Basilicata
+2021-03-28,AstraZeneca,BAS,40-49,16,61,2,0,0,0,0,74,1,77,0,ITF,ITF5,17,Basilicata
+2021-03-28,AstraZeneca,BAS,50-59,20,106,3,0,0,0,0,113,10,126,0,ITF,ITF5,17,Basilicata
+2021-03-28,AstraZeneca,BAS,60-69,25,82,3,0,0,0,0,99,5,107,0,ITF,ITF5,17,Basilicata
 2021-03-28,AstraZeneca,CAL,16-19,0,2,0,0,0,0,0,0,2,2,0,ITF,ITF6,18,Calabria
-2021-03-28,AstraZeneca,CAL,20-29,1,6,1,0,0,0,0,4,2,7,0,ITF,ITF6,18,Calabria
-2021-03-28,AstraZeneca,CAL,30-39,4,5,0,0,0,0,0,6,3,9,0,ITF,ITF6,18,Calabria
-2021-03-28,AstraZeneca,CAL,40-49,12,36,0,0,0,0,0,39,9,48,0,ITF,ITF6,18,Calabria
-2021-03-28,AstraZeneca,CAL,50-59,20,40,0,0,0,0,0,43,17,60,0,ITF,ITF6,18,Calabria
-2021-03-28,AstraZeneca,CAL,60-69,15,20,0,0,0,0,0,22,13,35,0,ITF,ITF6,18,Calabria
-2021-03-28,AstraZeneca,CAL,70-79,3,4,0,0,0,0,0,1,6,7,0,ITF,ITF6,18,Calabria
-2021-03-28,AstraZeneca,CAM,20-29,6,10,1,0,0,0,0,13,2,16,0,ITF,ITF3,15,Campania
-2021-03-28,AstraZeneca,CAM,30-39,26,26,1,0,0,0,2,44,5,52,0,ITF,ITF3,15,Campania
-2021-03-28,AstraZeneca,CAM,40-49,25,26,2,0,0,0,2,40,7,51,0,ITF,ITF3,15,Campania
-2021-03-28,AstraZeneca,CAM,50-59,33,42,0,0,0,0,1,61,13,75,0,ITF,ITF3,15,Campania
-2021-03-28,AstraZeneca,CAM,60-69,28,20,0,0,0,0,1,32,15,48,0,ITF,ITF3,15,Campania
-2021-03-28,AstraZeneca,CAM,70-79,528,612,0,0,0,0,0,0,1140,1140,0,ITF,ITF3,15,Campania
-2021-03-28,AstraZeneca,CAM,80-89,0,1,0,0,0,1,0,0,0,1,0,ITF,ITF3,15,Campania
-2021-03-28,AstraZeneca,EMR,20-29,4,15,0,1,3,0,0,11,4,19,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,AstraZeneca,EMR,30-39,17,16,2,1,3,0,0,20,7,33,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,AstraZeneca,EMR,40-49,14,24,2,1,3,0,0,24,8,37,1,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,AstraZeneca,EMR,50-59,8,29,5,1,5,0,0,20,6,37,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,AstraZeneca,EMR,60-69,10,15,3,2,0,0,0,16,4,25,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,AstraZeneca,EMR,70-79,220,238,0,0,0,0,0,0,458,458,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,AstraZeneca,EMR,80-89,0,1,0,0,0,1,0,0,0,1,0,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,AstraZeneca,FVG,16-19,1,0,0,0,0,0,0,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-28,AstraZeneca,FVG,20-29,32,38,0,1,0,0,0,44,25,70,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-28,AstraZeneca,FVG,30-39,46,40,0,0,0,0,1,47,38,86,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-28,AstraZeneca,FVG,40-49,64,97,1,1,0,0,4,107,48,161,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-28,AstraZeneca,FVG,50-59,75,101,0,0,0,0,8,115,53,176,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-28,AstraZeneca,FVG,60-69,79,60,0,0,0,0,1,84,54,139,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-28,AstraZeneca,FVG,70-79,205,249,0,0,0,0,0,0,454,454,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-28,AstraZeneca,LOM,16-19,0,2,0,0,0,0,0,2,0,2,0,ITC,ITC4,3,Lombardia
-2021-03-28,AstraZeneca,LOM,20-29,59,155,34,9,0,0,1,154,16,214,0,ITC,ITC4,3,Lombardia
-2021-03-28,AstraZeneca,LOM,30-39,120,272,45,19,0,0,3,292,33,392,0,ITC,ITC4,3,Lombardia
-2021-03-28,AstraZeneca,LOM,40-49,137,348,82,24,0,0,6,325,48,485,0,ITC,ITC4,3,Lombardia
-2021-03-28,AstraZeneca,LOM,50-59,162,418,131,43,0,0,9,341,56,580,0,ITC,ITC4,3,Lombardia
-2021-03-28,AstraZeneca,LOM,60-69,204,252,141,39,0,0,4,217,55,452,4,ITC,ITC4,3,Lombardia
-2021-03-28,AstraZeneca,LOM,70-79,70,21,45,2,0,0,0,14,30,91,0,ITC,ITC4,3,Lombardia
-2021-03-28,AstraZeneca,MAR,20-29,1,7,0,0,0,0,0,8,0,8,0,ITI,ITI3,11,Marche
-2021-03-28,AstraZeneca,MAR,30-39,3,11,0,0,0,0,0,14,0,14,0,ITI,ITI3,11,Marche
-2021-03-28,AstraZeneca,MAR,40-49,2,13,0,0,0,0,0,15,0,15,0,ITI,ITI3,11,Marche
-2021-03-28,AstraZeneca,MAR,50-59,4,20,1,0,0,0,0,21,2,24,0,ITI,ITI3,11,Marche
-2021-03-28,AstraZeneca,MAR,60-69,8,14,0,0,0,0,0,21,1,22,0,ITI,ITI3,11,Marche
-2021-03-28,AstraZeneca,MAR,70-79,1,0,0,0,0,0,0,1,0,1,0,ITI,ITI3,11,Marche
-2021-03-28,AstraZeneca,MAR,80-89,130,175,0,0,0,305,0,0,0,305,0,ITI,ITI3,11,Marche
-2021-03-28,AstraZeneca,MAR,90+,20,37,0,0,0,57,0,0,0,57,0,ITI,ITI3,11,Marche
-2021-03-28,AstraZeneca,MOL,16-19,1,2,3,0,0,0,0,0,0,3,0,ITF,ITF2,14,Molise
-2021-03-28,AstraZeneca,MOL,20-29,8,3,11,0,0,0,0,0,0,11,0,ITF,ITF2,14,Molise
-2021-03-28,AstraZeneca,MOL,30-39,9,1,10,0,0,0,0,0,0,10,0,ITF,ITF2,14,Molise
-2021-03-28,AstraZeneca,MOL,40-49,5,4,8,0,0,0,0,0,1,9,0,ITF,ITF2,14,Molise
-2021-03-28,AstraZeneca,MOL,50-59,4,2,6,0,0,0,0,0,0,6,0,ITF,ITF2,14,Molise
-2021-03-28,AstraZeneca,MOL,60-69,6,1,7,0,0,0,0,0,0,7,0,ITF,ITF2,14,Molise
-2021-03-28,AstraZeneca,MOL,70-79,3,1,4,0,0,0,0,0,0,4,0,ITF,ITF2,14,Molise
-2021-03-28,AstraZeneca,PAT,20-29,6,33,0,31,0,0,8,0,0,39,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-03-28,AstraZeneca,PAT,30-39,25,32,0,36,0,0,10,0,11,57,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-03-28,AstraZeneca,PAT,40-49,34,42,0,42,0,0,14,0,20,76,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-03-28,AstraZeneca,PAT,50-59,45,41,0,42,0,0,35,0,9,86,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-03-28,AstraZeneca,PAT,60-69,4,11,0,10,0,0,3,0,2,15,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-03-28,AstraZeneca,PAT,70-79,0,1,0,1,0,0,0,0,0,1,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-03-28,AstraZeneca,PIE,16-19,2,2,0,0,0,0,0,0,4,4,0,ITC,ITC1,1,Piemonte
-2021-03-28,AstraZeneca,PIE,20-29,86,157,8,3,0,0,3,152,77,242,1,ITC,ITC1,1,Piemonte
-2021-03-28,AstraZeneca,PIE,30-39,114,157,8,21,0,0,6,171,65,271,0,ITC,ITC1,1,Piemonte
-2021-03-28,AstraZeneca,PIE,40-49,110,159,8,14,0,0,10,157,80,268,1,ITC,ITC1,1,Piemonte
-2021-03-28,AstraZeneca,PIE,50-59,154,229,8,20,0,0,18,215,122,383,0,ITC,ITC1,1,Piemonte
-2021-03-28,AstraZeneca,PIE,60-69,210,291,8,14,0,0,6,252,221,501,0,ITC,ITC1,1,Piemonte
-2021-03-28,AstraZeneca,PIE,70-79,185,155,3,3,0,0,0,8,326,340,0,ITC,ITC1,1,Piemonte
-2021-03-28,AstraZeneca,PIE,80-89,0,2,0,0,0,2,0,0,0,1,1,ITC,ITC1,1,Piemonte
+2021-03-28,AstraZeneca,CAL,20-29,18,18,3,0,0,0,0,13,20,36,0,ITF,ITF6,18,Calabria
+2021-03-28,AstraZeneca,CAL,30-39,26,32,1,0,0,0,0,28,29,58,0,ITF,ITF6,18,Calabria
+2021-03-28,AstraZeneca,CAL,40-49,70,78,1,0,0,0,2,77,68,148,0,ITF,ITF6,18,Calabria
+2021-03-28,AstraZeneca,CAL,50-59,76,93,1,0,0,0,1,90,77,169,0,ITF,ITF6,18,Calabria
+2021-03-28,AstraZeneca,CAL,60-69,65,61,0,0,0,0,1,59,66,125,1,ITF,ITF6,18,Calabria
+2021-03-28,AstraZeneca,CAL,70-79,13,10,0,0,0,0,0,3,20,23,0,ITF,ITF6,18,Calabria
+2021-03-28,AstraZeneca,CAM,16-19,1,2,0,1,0,0,0,0,2,3,0,ITF,ITF3,15,Campania
+2021-03-28,AstraZeneca,CAM,20-29,97,117,11,111,1,0,8,51,32,214,0,ITF,ITF3,15,Campania
+2021-03-28,AstraZeneca,CAM,30-39,77,88,4,3,4,0,11,102,41,165,0,ITF,ITF3,15,Campania
+2021-03-28,AstraZeneca,CAM,40-49,83,114,2,0,1,0,15,122,57,197,0,ITF,ITF3,15,Campania
+2021-03-28,AstraZeneca,CAM,50-59,106,119,0,1,5,0,24,141,54,225,0,ITF,ITF3,15,Campania
+2021-03-28,AstraZeneca,CAM,60-69,81,66,1,1,0,0,14,64,67,147,0,ITF,ITF3,15,Campania
+2021-03-28,AstraZeneca,CAM,70-79,1360,1605,1,0,0,0,0,1,2963,2965,0,ITF,ITF3,15,Campania
+2021-03-28,AstraZeneca,CAM,80-89,3,4,0,0,0,7,0,0,0,7,0,ITF,ITF3,15,Campania
+2021-03-28,AstraZeneca,EMR,16-19,2,0,0,0,0,0,0,0,2,2,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,AstraZeneca,EMR,20-29,68,63,11,6,3,0,41,38,32,131,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,AstraZeneca,EMR,30-39,80,74,11,8,4,0,33,67,31,154,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,AstraZeneca,EMR,40-49,70,102,7,10,3,0,28,78,46,171,1,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,AstraZeneca,EMR,50-59,78,115,21,6,6,0,35,79,46,193,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,AstraZeneca,EMR,60-69,42,51,12,7,0,0,7,40,27,93,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,AstraZeneca,EMR,70-79,1448,1651,10,0,0,0,0,2,3087,3099,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,AstraZeneca,EMR,80-89,3,6,0,0,0,7,0,0,2,9,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,AstraZeneca,EMR,90+,0,1,0,0,0,1,0,0,0,1,0,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,AstraZeneca,FVG,16-19,5,3,0,0,0,0,0,0,8,8,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-28,AstraZeneca,FVG,20-29,111,105,1,1,0,0,4,107,103,216,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-28,AstraZeneca,FVG,30-39,137,125,0,0,0,0,6,158,98,262,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-28,AstraZeneca,FVG,40-49,177,249,1,4,0,0,18,268,135,426,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-28,AstraZeneca,FVG,50-59,226,327,0,0,0,0,32,356,165,553,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-28,AstraZeneca,FVG,60-69,242,170,0,0,0,0,17,212,183,412,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-28,AstraZeneca,FVG,70-79,530,574,0,0,0,0,3,10,1091,1104,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-28,AstraZeneca,LAZ,20-29,66,240,19,0,0,0,16,269,2,306,0,ITI,ITI4,12,Lazio
+2021-03-28,AstraZeneca,LAZ,30-39,161,558,35,0,0,0,36,640,8,719,0,ITI,ITI4,12,Lazio
+2021-03-28,AstraZeneca,LAZ,40-49,130,545,34,0,0,0,20,602,19,675,0,ITI,ITI4,12,Lazio
+2021-03-28,AstraZeneca,LAZ,50-59,122,598,31,0,0,0,22,652,15,720,0,ITI,ITI4,12,Lazio
+2021-03-28,AstraZeneca,LAZ,60-69,687,843,150,2,0,0,11,374,993,1530,0,ITI,ITI4,12,Lazio
+2021-03-28,AstraZeneca,LAZ,70-79,568,594,7,0,0,0,0,18,1137,1162,0,ITI,ITI4,12,Lazio
+2021-03-28,AstraZeneca,LAZ,80-89,2,1,0,0,0,3,0,0,0,3,0,ITI,ITI4,12,Lazio
+2021-03-28,AstraZeneca,LAZ,90+,1,0,0,0,0,1,0,0,0,1,0,ITI,ITI4,12,Lazio
+2021-03-28,AstraZeneca,LOM,16-19,2,4,2,1,0,0,0,3,0,6,0,ITC,ITC4,3,Lombardia
+2021-03-28,AstraZeneca,LOM,20-29,161,501,152,51,0,0,1,418,40,662,0,ITC,ITC4,3,Lombardia
+2021-03-28,AstraZeneca,LOM,30-39,325,894,218,148,0,0,6,771,76,1219,0,ITC,ITC4,3,Lombardia
+2021-03-28,AstraZeneca,LOM,40-49,352,1070,258,117,0,0,6,928,113,1422,0,ITC,ITC4,3,Lombardia
+2021-03-28,AstraZeneca,LOM,50-59,371,1220,330,135,0,0,10,1006,110,1591,0,ITC,ITC4,3,Lombardia
+2021-03-28,AstraZeneca,LOM,60-69,445,615,320,94,0,0,4,517,125,1056,4,ITC,ITC4,3,Lombardia
+2021-03-28,AstraZeneca,LOM,70-79,205,105,169,28,0,0,0,23,90,310,0,ITC,ITC4,3,Lombardia
+2021-03-28,AstraZeneca,LOM,80-89,2,1,2,1,0,0,0,0,0,3,0,ITC,ITC4,3,Lombardia
+2021-03-28,AstraZeneca,MAR,20-29,3,19,2,0,0,0,0,16,4,22,0,ITI,ITI3,11,Marche
+2021-03-28,AstraZeneca,MAR,30-39,18,53,4,0,0,0,0,58,9,71,0,ITI,ITI3,11,Marche
+2021-03-28,AstraZeneca,MAR,40-49,27,89,6,0,0,0,1,98,11,116,0,ITI,ITI3,11,Marche
+2021-03-28,AstraZeneca,MAR,50-59,32,131,10,0,0,0,0,142,11,163,0,ITI,ITI3,11,Marche
+2021-03-28,AstraZeneca,MAR,60-69,18,50,5,0,0,0,0,53,10,68,0,ITI,ITI3,11,Marche
+2021-03-28,AstraZeneca,MAR,70-79,19,5,4,0,0,0,0,2,18,24,0,ITI,ITI3,11,Marche
+2021-03-28,AstraZeneca,MAR,80-89,273,382,0,0,0,655,0,0,0,655,0,ITI,ITI3,11,Marche
+2021-03-28,AstraZeneca,MAR,90+,43,73,0,0,0,115,0,1,0,116,0,ITI,ITI3,11,Marche
+2021-03-28,AstraZeneca,MOL,16-19,2,2,4,0,0,0,0,0,0,4,0,ITF,ITF2,14,Molise
+2021-03-28,AstraZeneca,MOL,20-29,16,6,22,0,0,0,0,0,0,22,0,ITF,ITF2,14,Molise
+2021-03-28,AstraZeneca,MOL,30-39,18,4,22,0,0,0,0,0,0,22,0,ITF,ITF2,14,Molise
+2021-03-28,AstraZeneca,MOL,40-49,20,11,30,0,0,0,0,0,1,31,0,ITF,ITF2,14,Molise
+2021-03-28,AstraZeneca,MOL,50-59,11,10,21,0,0,0,0,0,0,21,0,ITF,ITF2,14,Molise
+2021-03-28,AstraZeneca,MOL,60-69,13,2,15,0,0,0,0,0,0,14,1,ITF,ITF2,14,Molise
+2021-03-28,AstraZeneca,MOL,70-79,7,1,8,0,0,0,0,0,0,8,0,ITF,ITF2,14,Molise
+2021-03-28,AstraZeneca,PAT,20-29,6,35,2,31,0,0,8,0,0,41,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-03-28,AstraZeneca,PAT,30-39,27,33,1,36,0,0,10,0,13,60,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-03-28,AstraZeneca,PAT,40-49,38,46,5,42,0,0,14,0,23,84,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-03-28,AstraZeneca,PAT,50-59,49,46,1,43,0,0,35,0,16,95,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-03-28,AstraZeneca,PAT,60-69,21,13,2,17,0,0,3,0,12,34,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-03-28,AstraZeneca,PAT,70-79,1,2,1,1,0,0,0,0,1,3,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-03-28,AstraZeneca,PIE,16-19,7,8,3,0,0,0,0,0,12,15,0,ITC,ITC1,1,Piemonte
+2021-03-28,AstraZeneca,PIE,20-29,196,310,27,27,0,0,8,283,161,505,1,ITC,ITC1,1,Piemonte
+2021-03-28,AstraZeneca,PIE,30-39,259,341,33,49,1,0,15,363,139,600,0,ITC,ITC1,1,Piemonte
+2021-03-28,AstraZeneca,PIE,40-49,337,490,31,51,0,0,22,526,197,826,1,ITC,ITC1,1,Piemonte
+2021-03-28,AstraZeneca,PIE,50-59,488,777,37,80,0,0,44,742,362,1265,0,ITC,ITC1,1,Piemonte
+2021-03-28,AstraZeneca,PIE,60-69,472,613,25,49,0,0,12,503,496,1085,0,ITC,ITC1,1,Piemonte
+2021-03-28,AstraZeneca,PIE,70-79,366,305,5,6,0,0,0,11,649,671,0,ITC,ITC1,1,Piemonte
+2021-03-28,AstraZeneca,PIE,80-89,0,3,0,0,0,3,0,0,0,1,2,ITC,ITC1,1,Piemonte
 2021-03-28,AstraZeneca,PIE,90+,2,3,0,0,0,5,0,0,0,5,0,ITC,ITC1,1,Piemonte
-2021-03-28,AstraZeneca,PUG,20-29,5,7,2,0,0,0,0,10,0,12,0,ITF,ITF4,16,Puglia
-2021-03-28,AstraZeneca,PUG,30-39,6,2,0,0,0,0,0,8,0,8,0,ITF,ITF4,16,Puglia
-2021-03-28,AstraZeneca,PUG,40-49,7,8,0,0,0,0,0,15,0,15,0,ITF,ITF4,16,Puglia
-2021-03-28,AstraZeneca,PUG,50-59,6,5,1,0,0,0,0,10,0,11,0,ITF,ITF4,16,Puglia
-2021-03-28,AstraZeneca,PUG,60-69,4,5,0,0,0,0,0,9,0,9,0,ITF,ITF4,16,Puglia
-2021-03-28,AstraZeneca,PUG,70-79,1,0,0,0,0,0,0,1,0,1,0,ITF,ITF4,16,Puglia
-2021-03-28,AstraZeneca,SAR,40-49,1,0,0,0,0,0,0,0,1,1,0,ITG,ITG2,20,Sardegna
-2021-03-28,AstraZeneca,SAR,50-59,0,1,0,1,0,0,0,0,0,1,0,ITG,ITG2,20,Sardegna
-2021-03-28,AstraZeneca,SAR,80-89,5,0,0,0,0,5,0,0,0,5,0,ITG,ITG2,20,Sardegna
+2021-03-28,AstraZeneca,PUG,20-29,8,10,5,0,0,0,0,10,3,18,0,ITF,ITF4,16,Puglia
+2021-03-28,AstraZeneca,PUG,30-39,10,7,2,0,0,0,0,8,7,17,0,ITF,ITF4,16,Puglia
+2021-03-28,AstraZeneca,PUG,40-49,10,11,2,0,0,0,0,15,4,21,0,ITF,ITF4,16,Puglia
+2021-03-28,AstraZeneca,PUG,50-59,10,6,2,0,0,0,0,10,4,16,0,ITF,ITF4,16,Puglia
+2021-03-28,AstraZeneca,PUG,60-69,6,13,1,0,0,0,0,9,9,19,0,ITF,ITF4,16,Puglia
+2021-03-28,AstraZeneca,PUG,70-79,4,3,0,0,0,0,0,1,6,7,0,ITF,ITF4,16,Puglia
+2021-03-28,AstraZeneca,SAR,20-29,8,17,1,0,0,0,0,23,1,25,0,ITG,ITG2,20,Sardegna
+2021-03-28,AstraZeneca,SAR,30-39,31,87,1,1,1,0,0,109,6,118,0,ITG,ITG2,20,Sardegna
+2021-03-28,AstraZeneca,SAR,40-49,49,198,8,0,0,0,0,229,10,247,0,ITG,ITG2,20,Sardegna
+2021-03-28,AstraZeneca,SAR,50-59,42,195,5,6,0,0,2,220,4,237,0,ITG,ITG2,20,Sardegna
+2021-03-28,AstraZeneca,SAR,60-69,7,72,2,1,0,0,0,75,1,79,0,ITG,ITG2,20,Sardegna
+2021-03-28,AstraZeneca,SAR,70-79,0,1,0,0,0,0,0,1,0,1,0,ITG,ITG2,20,Sardegna
+2021-03-28,AstraZeneca,SAR,80-89,6,0,0,0,0,6,0,0,0,6,0,ITG,ITG2,20,Sardegna
 2021-03-28,AstraZeneca,SIC,16-19,0,1,0,0,0,0,0,0,1,1,0,ITG,ITG1,19,Sicilia
-2021-03-28,AstraZeneca,SIC,20-29,7,7,5,0,0,0,0,2,7,14,0,ITG,ITG1,19,Sicilia
-2021-03-28,AstraZeneca,SIC,30-39,12,15,3,1,0,0,2,9,12,27,0,ITG,ITG1,19,Sicilia
-2021-03-28,AstraZeneca,SIC,40-49,15,21,6,0,0,0,0,18,12,36,0,ITG,ITG1,19,Sicilia
-2021-03-28,AstraZeneca,SIC,50-59,23,38,12,0,0,0,2,33,14,60,1,ITG,ITG1,19,Sicilia
-2021-03-28,AstraZeneca,SIC,60-69,16,21,2,0,0,0,0,14,21,36,1,ITG,ITG1,19,Sicilia
-2021-03-28,AstraZeneca,SIC,70-79,193,187,1,0,0,0,0,2,377,380,0,ITG,ITG1,19,Sicilia
-2021-03-28,AstraZeneca,SIC,80-89,1,1,0,0,0,2,0,0,0,1,1,ITG,ITG1,19,Sicilia
-2021-03-28,AstraZeneca,TOS,20-29,7,1,0,0,0,0,2,4,2,8,0,ITI,ITI1,9,Toscana
-2021-03-28,AstraZeneca,TOS,30-39,7,3,0,0,0,0,1,9,0,10,0,ITI,ITI1,9,Toscana
-2021-03-28,AstraZeneca,TOS,40-49,14,10,0,2,0,0,2,15,5,24,0,ITI,ITI1,9,Toscana
-2021-03-28,AstraZeneca,TOS,50-59,6,27,0,0,0,0,4,24,5,33,0,ITI,ITI1,9,Toscana
-2021-03-28,AstraZeneca,TOS,60-69,20,20,0,3,0,0,2,15,20,40,0,ITI,ITI1,9,Toscana
-2021-03-28,AstraZeneca,TOS,70-79,688,976,0,1,0,0,0,2,1661,1664,0,ITI,ITI1,9,Toscana
-2021-03-28,AstraZeneca,TOS,80-89,123,188,0,0,0,0,0,0,311,311,0,ITI,ITI1,9,Toscana
+2021-03-28,AstraZeneca,SIC,20-29,15,19,9,0,0,0,0,6,19,34,0,ITG,ITG1,19,Sicilia
+2021-03-28,AstraZeneca,SIC,30-39,22,34,6,1,0,0,2,20,27,56,0,ITG,ITG1,19,Sicilia
+2021-03-28,AstraZeneca,SIC,40-49,33,52,9,0,0,0,0,39,37,85,0,ITG,ITG1,19,Sicilia
+2021-03-28,AstraZeneca,SIC,50-59,38,63,13,0,0,0,4,58,26,100,1,ITG,ITG1,19,Sicilia
+2021-03-28,AstraZeneca,SIC,60-69,37,49,2,0,0,0,2,24,58,85,1,ITG,ITG1,19,Sicilia
+2021-03-28,AstraZeneca,SIC,70-79,350,364,2,0,0,0,0,2,710,714,0,ITG,ITG1,19,Sicilia
+2021-03-28,AstraZeneca,SIC,80-89,3,1,0,0,0,2,0,0,2,3,1,ITG,ITG1,19,Sicilia
+2021-03-28,AstraZeneca,TOS,20-29,10,4,0,0,0,0,4,6,4,14,0,ITI,ITI1,9,Toscana
+2021-03-28,AstraZeneca,TOS,30-39,10,5,1,1,0,0,1,11,1,15,0,ITI,ITI1,9,Toscana
+2021-03-28,AstraZeneca,TOS,40-49,19,17,0,4,0,0,2,20,10,36,0,ITI,ITI1,9,Toscana
+2021-03-28,AstraZeneca,TOS,50-59,11,33,0,2,0,0,4,29,9,44,0,ITI,ITI1,9,Toscana
+2021-03-28,AstraZeneca,TOS,60-69,24,25,0,3,0,0,2,17,27,49,0,ITI,ITI1,9,Toscana
+2021-03-28,AstraZeneca,TOS,70-79,1007,1395,1,1,0,0,0,2,2398,2402,0,ITI,ITI1,9,Toscana
+2021-03-28,AstraZeneca,TOS,80-89,164,245,0,0,0,0,0,0,409,409,0,ITI,ITI1,9,Toscana
 2021-03-28,AstraZeneca,UMB,20-29,0,1,0,0,1,0,0,0,0,1,0,ITI,ITI2,10,Umbria
 2021-03-28,AstraZeneca,UMB,30-39,1,0,0,0,1,0,0,0,0,1,0,ITI,ITI2,10,Umbria
 2021-03-28,AstraZeneca,UMB,40-49,1,0,0,0,0,0,0,0,1,1,0,ITI,ITI2,10,Umbria
 2021-03-28,AstraZeneca,UMB,50-59,1,0,0,0,1,0,0,0,0,1,0,ITI,ITI2,10,Umbria
-2021-03-28,AstraZeneca,VEN,16-19,5,4,2,0,0,0,0,0,7,9,0,ITH,ITH3,5,Veneto
-2021-03-28,AstraZeneca,VEN,20-29,147,177,5,0,0,0,1,52,266,324,0,ITH,ITH3,5,Veneto
-2021-03-28,AstraZeneca,VEN,30-39,173,200,5,0,1,0,0,94,273,373,0,ITH,ITH3,5,Veneto
-2021-03-28,AstraZeneca,VEN,40-49,182,310,6,1,0,0,5,173,307,491,1,ITH,ITH3,5,Veneto
-2021-03-28,AstraZeneca,VEN,50-59,267,423,8,0,0,0,3,303,376,690,0,ITH,ITH3,5,Veneto
-2021-03-28,AstraZeneca,VEN,60-69,220,264,4,0,0,0,2,167,311,484,0,ITH,ITH3,5,Veneto
-2021-03-28,AstraZeneca,VEN,70-79,937,1086,7,0,39,0,1,4,1972,2022,1,ITH,ITH3,5,Veneto
-2021-03-28,AstraZeneca,VEN,80-89,184,282,0,0,2,462,0,0,2,466,0,ITH,ITH3,5,Veneto
-2021-03-28,AstraZeneca,VEN,90+,8,9,0,0,0,17,0,0,0,17,0,ITH,ITH3,5,Veneto
-2021-03-28,Moderna,ABR,80-89,1,1,0,0,0,0,0,0,2,2,0,ITF,ITF1,13,Abruzzo
+2021-03-28,AstraZeneca,VDA,20-29,28,16,1,0,0,0,1,17,25,44,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-03-28,AstraZeneca,VDA,30-39,15,9,0,0,0,0,5,6,13,24,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-03-28,AstraZeneca,VDA,40-49,15,15,1,2,0,0,3,11,13,30,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-03-28,AstraZeneca,VDA,50-59,16,6,1,1,0,0,4,8,8,22,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-03-28,AstraZeneca,VDA,60-69,88,85,1,1,0,0,0,4,167,172,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-03-28,AstraZeneca,VDA,70-79,5,75,0,0,0,0,0,0,80,80,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-03-28,AstraZeneca,VDA,80-89,0,4,0,0,0,3,0,0,1,4,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-03-28,AstraZeneca,VEN,16-19,13,11,2,0,0,0,0,0,22,24,0,ITH,ITH3,5,Veneto
+2021-03-28,AstraZeneca,VEN,20-29,380,456,18,0,0,0,3,132,683,836,0,ITH,ITH3,5,Veneto
+2021-03-28,AstraZeneca,VEN,30-39,503,549,7,0,1,0,5,274,765,1052,0,ITH,ITH3,5,Veneto
+2021-03-28,AstraZeneca,VEN,40-49,581,807,17,1,0,0,14,449,907,1387,1,ITH,ITH3,5,Veneto
+2021-03-28,AstraZeneca,VEN,50-59,754,1085,16,0,0,0,12,739,1072,1839,0,ITH,ITH3,5,Veneto
+2021-03-28,AstraZeneca,VEN,60-69,686,791,14,0,0,0,4,423,1036,1477,0,ITH,ITH3,5,Veneto
+2021-03-28,AstraZeneca,VEN,70-79,3412,4169,8,0,84,0,1,14,7474,7579,2,ITH,ITH3,5,Veneto
+2021-03-28,AstraZeneca,VEN,80-89,420,593,0,0,2,1002,0,0,9,1011,2,ITH,ITH3,5,Veneto
+2021-03-28,AstraZeneca,VEN,90+,15,18,0,0,0,33,0,0,0,33,0,ITH,ITH3,5,Veneto
+2021-03-28,Moderna,ABR,50-59,0,1,0,0,0,0,1,0,0,1,0,ITF,ITF1,13,Abruzzo
+2021-03-28,Moderna,ABR,60-69,0,1,0,0,0,0,0,0,1,1,0,ITF,ITF1,13,Abruzzo
+2021-03-28,Moderna,ABR,70-79,1,0,0,0,0,0,0,0,1,1,0,ITF,ITF1,13,Abruzzo
+2021-03-28,Moderna,ABR,80-89,2,2,0,0,0,0,0,0,4,4,0,ITF,ITF1,13,Abruzzo
 2021-03-28,Moderna,ABR,90+,0,3,0,0,0,0,0,0,3,3,0,ITF,ITF1,13,Abruzzo
-2021-03-28,Moderna,CAL,20-29,3,3,1,2,0,0,0,0,3,6,0,ITF,ITF6,18,Calabria
-2021-03-28,Moderna,CAL,30-39,5,3,0,3,0,0,0,0,5,8,0,ITF,ITF6,18,Calabria
-2021-03-28,Moderna,CAL,40-49,6,4,0,2,0,0,0,0,8,10,0,ITF,ITF6,18,Calabria
-2021-03-28,Moderna,CAL,50-59,3,4,1,2,0,0,0,0,4,7,0,ITF,ITF6,18,Calabria
-2021-03-28,Moderna,CAL,60-69,7,9,0,3,0,0,0,0,13,16,0,ITF,ITF6,18,Calabria
-2021-03-28,Moderna,CAL,70-79,4,8,0,3,0,0,0,0,9,11,1,ITF,ITF6,18,Calabria
-2021-03-28,Moderna,CAL,80-89,61,107,0,1,1,141,0,0,25,62,106,ITF,ITF6,18,Calabria
-2021-03-28,Moderna,CAL,90+,11,15,0,0,0,25,0,0,1,7,19,ITF,ITF6,18,Calabria
-2021-03-28,Moderna,CAM,30-39,2,2,0,0,0,0,0,0,4,4,0,ITF,ITF3,15,Campania
-2021-03-28,Moderna,CAM,40-49,10,4,0,0,0,0,0,0,14,14,0,ITF,ITF3,15,Campania
-2021-03-28,Moderna,CAM,50-59,16,12,0,0,0,0,0,0,28,28,0,ITF,ITF3,15,Campania
-2021-03-28,Moderna,CAM,60-69,33,22,0,0,0,0,0,1,54,55,0,ITF,ITF3,15,Campania
-2021-03-28,Moderna,CAM,70-79,62,38,0,0,0,0,0,0,100,100,0,ITF,ITF3,15,Campania
-2021-03-28,Moderna,CAM,80-89,24,20,0,0,0,22,0,0,22,44,0,ITF,ITF3,15,Campania
-2021-03-28,Moderna,CAM,90+,4,6,0,0,0,5,0,0,5,10,0,ITF,ITF3,15,Campania
+2021-03-28,Moderna,CAL,20-29,5,5,4,2,0,0,0,0,4,10,0,ITF,ITF6,18,Calabria
+2021-03-28,Moderna,CAL,30-39,10,5,4,3,0,0,0,0,8,15,0,ITF,ITF6,18,Calabria
+2021-03-28,Moderna,CAL,40-49,9,9,1,5,0,0,0,0,12,18,0,ITF,ITF6,18,Calabria
+2021-03-28,Moderna,CAL,50-59,9,8,3,3,0,0,2,0,9,17,0,ITF,ITF6,18,Calabria
+2021-03-28,Moderna,CAL,60-69,8,12,0,3,0,0,0,0,17,20,0,ITF,ITF6,18,Calabria
+2021-03-28,Moderna,CAL,70-79,7,10,1,3,0,0,0,0,13,16,1,ITF,ITF6,18,Calabria
+2021-03-28,Moderna,CAL,80-89,121,172,0,1,1,252,0,0,39,81,212,ITF,ITF6,18,Calabria
+2021-03-28,Moderna,CAL,90+,26,40,0,0,0,62,0,0,4,10,56,ITF,ITF6,18,Calabria
+2021-03-28,Moderna,CAM,20-29,1,0,0,0,0,0,0,0,1,1,0,ITF,ITF3,15,Campania
+2021-03-28,Moderna,CAM,30-39,14,7,0,0,0,0,0,1,20,21,0,ITF,ITF3,15,Campania
+2021-03-28,Moderna,CAM,40-49,38,18,0,2,0,0,0,0,54,56,0,ITF,ITF3,15,Campania
+2021-03-28,Moderna,CAM,50-59,76,32,0,0,0,0,0,0,108,108,0,ITF,ITF3,15,Campania
+2021-03-28,Moderna,CAM,60-69,103,61,0,0,2,0,0,1,161,164,0,ITF,ITF3,15,Campania
+2021-03-28,Moderna,CAM,70-79,192,126,0,0,1,0,0,0,317,318,0,ITF,ITF3,15,Campania
+2021-03-28,Moderna,CAM,80-89,69,87,0,0,0,90,0,0,66,149,7,ITF,ITF3,15,Campania
+2021-03-28,Moderna,CAM,90+,18,36,0,0,0,37,0,0,17,50,4,ITF,ITF3,15,Campania
+2021-03-28,Moderna,EMR,20-29,3,0,2,0,0,0,0,0,1,0,3,ITH,ITH5,8,Emilia-Romagna
 2021-03-28,Moderna,EMR,30-39,1,0,1,0,0,0,0,0,0,0,1,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,Moderna,EMR,50-59,0,1,1,0,0,0,0,0,0,0,1,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,Moderna,EMR,60-69,2,1,3,0,0,0,0,0,0,0,3,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,Moderna,EMR,70-79,7,1,6,0,0,0,0,0,2,0,8,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,Moderna,EMR,80-89,28,44,1,0,0,71,0,0,0,0,72,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,Moderna,EMR,90+,8,8,0,0,0,16,0,0,0,0,16,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,Moderna,LOM,20-29,7,11,0,3,0,0,0,0,15,1,17,ITC,ITC4,3,Lombardia
-2021-03-28,Moderna,LOM,30-39,12,17,1,2,0,0,0,1,25,10,19,ITC,ITC4,3,Lombardia
-2021-03-28,Moderna,LOM,40-49,26,32,3,9,0,0,1,4,41,22,36,ITC,ITC4,3,Lombardia
-2021-03-28,Moderna,LOM,50-59,51,51,5,10,0,0,1,8,78,45,57,ITC,ITC4,3,Lombardia
-2021-03-28,Moderna,LOM,60-69,67,62,5,3,0,0,0,4,117,57,72,ITC,ITC4,3,Lombardia
-2021-03-28,Moderna,LOM,70-79,80,69,3,2,0,0,0,1,143,77,72,ITC,ITC4,3,Lombardia
-2021-03-28,Moderna,LOM,80-89,143,193,1,0,0,314,0,0,21,297,39,ITC,ITC4,3,Lombardia
-2021-03-28,Moderna,LOM,90+,10,43,0,0,0,53,0,0,0,46,7,ITC,ITC4,3,Lombardia
-2021-03-28,Moderna,MAR,60-69,0,1,0,0,0,0,0,0,1,1,0,ITI,ITI3,11,Marche
-2021-03-28,Moderna,MAR,70-79,0,1,0,0,0,0,0,0,1,1,0,ITI,ITI3,11,Marche
-2021-03-28,Moderna,MAR,80-89,7,9,0,0,1,6,0,0,9,14,2,ITI,ITI3,11,Marche
-2021-03-28,Moderna,MAR,90+,6,20,0,0,0,8,0,0,18,26,0,ITI,ITI3,11,Marche
-2021-03-28,Moderna,PIE,40-49,1,0,1,0,0,0,0,0,0,1,0,ITC,ITC1,1,Piemonte
-2021-03-28,Moderna,PIE,50-59,1,3,2,0,0,0,0,1,1,3,1,ITC,ITC1,1,Piemonte
-2021-03-28,Moderna,PIE,60-69,0,1,0,0,0,0,0,0,1,1,0,ITC,ITC1,1,Piemonte
-2021-03-28,Moderna,PIE,70-79,1,0,0,0,0,0,0,0,1,1,0,ITC,ITC1,1,Piemonte
-2021-03-28,Moderna,PIE,80-89,104,105,0,0,0,209,0,0,0,105,104,ITC,ITC1,1,Piemonte
-2021-03-28,Moderna,PIE,90+,7,18,0,0,0,25,0,0,0,16,9,ITC,ITC1,1,Piemonte
-2021-03-28,Moderna,PUG,80-89,17,34,0,0,0,51,0,0,0,51,0,ITF,ITF4,16,Puglia
-2021-03-28,Moderna,PUG,90+,3,3,0,0,0,6,0,0,0,6,0,ITF,ITF4,16,Puglia
+2021-03-28,Moderna,EMR,40-49,3,4,0,0,0,0,0,0,7,1,6,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,Moderna,EMR,50-59,5,5,4,0,0,0,0,0,6,4,6,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,Moderna,EMR,60-69,12,8,11,2,1,0,0,0,6,3,17,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,Moderna,EMR,70-79,19,17,13,0,0,0,0,0,23,13,23,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,Moderna,EMR,80-89,97,151,1,0,0,224,0,0,23,110,138,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,Moderna,EMR,90+,23,68,0,0,0,81,0,0,10,44,47,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,Moderna,LAZ,20-29,1,0,1,0,0,0,0,0,0,1,0,ITI,ITI4,12,Lazio
+2021-03-28,Moderna,LAZ,30-39,2,1,2,0,0,0,0,0,1,3,0,ITI,ITI4,12,Lazio
+2021-03-28,Moderna,LAZ,40-49,1,2,1,0,0,0,0,0,2,3,0,ITI,ITI4,12,Lazio
+2021-03-28,Moderna,LAZ,50-59,3,3,3,0,0,0,0,0,3,5,1,ITI,ITI4,12,Lazio
+2021-03-28,Moderna,LAZ,60-69,7,7,4,0,0,0,0,0,10,14,0,ITI,ITI4,12,Lazio
+2021-03-28,Moderna,LAZ,70-79,148,217,1,0,0,0,0,0,364,365,0,ITI,ITI4,12,Lazio
+2021-03-28,Moderna,LAZ,80-89,536,731,0,0,0,1259,0,0,8,608,659,ITI,ITI4,12,Lazio
+2021-03-28,Moderna,LAZ,90+,70,127,0,0,0,197,0,0,0,96,101,ITI,ITI4,12,Lazio
+2021-03-28,Moderna,LOM,16-19,1,0,0,0,0,0,0,0,1,0,1,ITC,ITC4,3,Lombardia
+2021-03-28,Moderna,LOM,20-29,18,24,6,5,0,0,0,0,31,10,32,ITC,ITC4,3,Lombardia
+2021-03-28,Moderna,LOM,30-39,30,36,6,5,0,0,0,3,52,32,34,ITC,ITC4,3,Lombardia
+2021-03-28,Moderna,LOM,40-49,60,69,13,18,0,0,1,7,90,62,67,ITC,ITC4,3,Lombardia
+2021-03-28,Moderna,LOM,50-59,135,120,16,23,0,0,1,15,200,136,119,ITC,ITC4,3,Lombardia
+2021-03-28,Moderna,LOM,60-69,183,154,29,13,0,0,0,7,288,172,165,ITC,ITC4,3,Lombardia
+2021-03-28,Moderna,LOM,70-79,253,183,27,6,0,0,0,1,402,252,184,ITC,ITC4,3,Lombardia
+2021-03-28,Moderna,LOM,80-89,589,797,2,0,0,1342,0,0,42,1275,111,ITC,ITC4,3,Lombardia
+2021-03-28,Moderna,LOM,90+,55,166,0,0,0,220,0,0,1,205,16,ITC,ITC4,3,Lombardia
+2021-03-28,Moderna,MAR,40-49,0,1,0,0,0,0,0,1,0,1,0,ITI,ITI3,11,Marche
+2021-03-28,Moderna,MAR,50-59,0,1,0,0,0,0,0,1,0,1,0,ITI,ITI3,11,Marche
+2021-03-28,Moderna,MAR,60-69,1,1,0,0,0,0,0,0,2,2,0,ITI,ITI3,11,Marche
+2021-03-28,Moderna,MAR,70-79,1,4,0,0,0,0,0,0,5,5,0,ITI,ITI3,11,Marche
+2021-03-28,Moderna,MAR,80-89,15,50,0,0,2,31,0,0,32,63,2,ITI,ITI3,11,Marche
+2021-03-28,Moderna,MAR,90+,15,59,0,0,3,36,0,0,35,74,0,ITI,ITI3,11,Marche
+2021-03-28,Moderna,PIE,16-19,1,0,1,0,0,0,0,0,0,1,0,ITC,ITC1,1,Piemonte
+2021-03-28,Moderna,PIE,20-29,0,2,1,1,0,0,0,0,0,2,0,ITC,ITC1,1,Piemonte
+2021-03-28,Moderna,PIE,30-39,2,3,4,0,0,0,0,0,1,5,0,ITC,ITC1,1,Piemonte
+2021-03-28,Moderna,PIE,40-49,4,7,9,0,0,0,0,0,2,11,0,ITC,ITC1,1,Piemonte
+2021-03-28,Moderna,PIE,50-59,5,8,10,0,0,0,0,1,2,12,1,ITC,ITC1,1,Piemonte
+2021-03-28,Moderna,PIE,60-69,3,3,3,0,0,0,0,0,3,6,0,ITC,ITC1,1,Piemonte
+2021-03-28,Moderna,PIE,70-79,5,4,4,0,0,0,0,0,5,9,0,ITC,ITC1,1,Piemonte
+2021-03-28,Moderna,PIE,80-89,242,298,1,0,0,539,0,0,0,369,171,ITC,ITC1,1,Piemonte
+2021-03-28,Moderna,PIE,90+,30,77,0,0,0,107,0,0,0,94,13,ITC,ITC1,1,Piemonte
+2021-03-28,Moderna,PUG,20-29,0,1,1,0,0,0,0,0,0,1,0,ITF,ITF4,16,Puglia
+2021-03-28,Moderna,PUG,30-39,0,2,2,0,0,0,0,0,0,2,0,ITF,ITF4,16,Puglia
+2021-03-28,Moderna,PUG,50-59,1,0,0,0,0,0,0,0,1,1,0,ITF,ITF4,16,Puglia
+2021-03-28,Moderna,PUG,80-89,23,45,0,0,0,68,0,0,0,67,1,ITF,ITF4,16,Puglia
+2021-03-28,Moderna,PUG,90+,3,6,0,0,0,9,0,0,0,9,0,ITF,ITF4,16,Puglia
 2021-03-28,Moderna,SAR,40-49,0,2,0,0,0,0,1,1,0,2,0,ITG,ITG2,20,Sardegna
 2021-03-28,Moderna,SAR,60-69,0,1,0,0,0,0,0,0,1,1,0,ITG,ITG2,20,Sardegna
-2021-03-28,Moderna,SAR,70-79,0,2,0,0,0,0,0,0,2,2,0,ITG,ITG2,20,Sardegna
-2021-03-28,Moderna,SAR,80-89,202,207,0,0,0,408,0,0,1,408,1,ITG,ITG2,20,Sardegna
-2021-03-28,Moderna,SAR,90+,6,10,0,0,0,16,0,0,0,16,0,ITG,ITG2,20,Sardegna
-2021-03-28,Moderna,SIC,30-39,2,3,0,0,0,0,0,0,5,5,0,ITG,ITG1,19,Sicilia
-2021-03-28,Moderna,SIC,40-49,4,4,1,1,0,0,0,1,5,8,0,ITG,ITG1,19,Sicilia
-2021-03-28,Moderna,SIC,50-59,9,13,1,2,0,0,0,0,19,22,0,ITG,ITG1,19,Sicilia
-2021-03-28,Moderna,SIC,60-69,18,21,0,2,2,0,0,0,35,39,0,ITG,ITG1,19,Sicilia
-2021-03-28,Moderna,SIC,70-79,51,49,0,0,3,0,0,0,97,100,0,ITG,ITG1,19,Sicilia
-2021-03-28,Moderna,SIC,80-89,88,101,0,0,6,167,0,0,16,189,0,ITG,ITG1,19,Sicilia
-2021-03-28,Moderna,SIC,90+,9,14,0,0,4,16,0,0,3,23,0,ITG,ITG1,19,Sicilia
-2021-03-28,Moderna,TOS,16-19,1,3,0,0,0,0,0,0,4,4,0,ITI,ITI1,9,Toscana
-2021-03-28,Moderna,TOS,20-29,13,17,0,0,0,0,0,0,30,30,0,ITI,ITI1,9,Toscana
-2021-03-28,Moderna,TOS,30-39,26,26,0,0,0,0,0,0,52,52,0,ITI,ITI1,9,Toscana
-2021-03-28,Moderna,TOS,40-49,45,52,0,2,0,0,0,0,95,97,0,ITI,ITI1,9,Toscana
-2021-03-28,Moderna,TOS,50-59,96,99,1,0,0,0,0,0,194,194,1,ITI,ITI1,9,Toscana
-2021-03-28,Moderna,TOS,60-69,138,133,0,1,0,0,0,0,270,271,0,ITI,ITI1,9,Toscana
-2021-03-28,Moderna,TOS,70-79,249,187,0,0,0,0,0,0,436,436,0,ITI,ITI1,9,Toscana
-2021-03-28,Moderna,TOS,80-89,20,17,0,0,0,0,0,0,37,37,0,ITI,ITI1,9,Toscana
-2021-03-28,Moderna,UMB,80-89,6,11,0,0,0,17,0,0,0,17,0,ITI,ITI2,10,Umbria
-2021-03-28,Moderna,UMB,90+,0,3,0,0,0,3,0,0,0,3,0,ITI,ITI2,10,Umbria
+2021-03-28,Moderna,SAR,70-79,1,3,0,0,0,0,0,0,4,4,0,ITG,ITG2,20,Sardegna
+2021-03-28,Moderna,SAR,80-89,224,227,0,0,0,450,0,0,1,450,1,ITG,ITG2,20,Sardegna
+2021-03-28,Moderna,SAR,90+,8,13,0,0,0,21,0,0,0,21,0,ITG,ITG2,20,Sardegna
+2021-03-28,Moderna,SIC,16-19,1,1,0,0,0,0,0,0,2,2,0,ITG,ITG1,19,Sicilia
+2021-03-28,Moderna,SIC,20-29,10,14,1,1,0,0,0,0,22,24,0,ITG,ITG1,19,Sicilia
+2021-03-28,Moderna,SIC,30-39,14,26,4,1,0,0,0,0,35,39,1,ITG,ITG1,19,Sicilia
+2021-03-28,Moderna,SIC,40-49,32,47,3,6,1,0,0,4,65,79,0,ITG,ITG1,19,Sicilia
+2021-03-28,Moderna,SIC,50-59,55,83,3,5,0,0,0,6,124,138,0,ITG,ITG1,19,Sicilia
+2021-03-28,Moderna,SIC,60-69,115,105,2,3,3,0,0,4,208,219,1,ITG,ITG1,19,Sicilia
+2021-03-28,Moderna,SIC,70-79,279,280,0,0,11,0,0,0,548,559,0,ITG,ITG1,19,Sicilia
+2021-03-28,Moderna,SIC,80-89,194,263,0,0,18,401,0,0,38,457,0,ITG,ITG1,19,Sicilia
+2021-03-28,Moderna,SIC,90+,38,66,0,0,18,78,0,0,8,104,0,ITG,ITG1,19,Sicilia
+2021-03-28,Moderna,TOS,16-19,2,3,0,0,0,0,0,0,5,5,0,ITI,ITI1,9,Toscana
+2021-03-28,Moderna,TOS,20-29,25,32,3,1,0,0,0,0,53,57,0,ITI,ITI1,9,Toscana
+2021-03-28,Moderna,TOS,30-39,35,41,0,0,0,0,0,0,76,76,0,ITI,ITI1,9,Toscana
+2021-03-28,Moderna,TOS,40-49,86,103,1,2,0,0,0,0,186,188,1,ITI,ITI1,9,Toscana
+2021-03-28,Moderna,TOS,50-59,189,183,3,0,0,0,0,1,368,371,1,ITI,ITI1,9,Toscana
+2021-03-28,Moderna,TOS,60-69,285,255,1,1,0,0,0,0,538,540,0,ITI,ITI1,9,Toscana
+2021-03-28,Moderna,TOS,70-79,454,347,0,0,0,0,0,0,801,801,0,ITI,ITI1,9,Toscana
+2021-03-28,Moderna,TOS,80-89,40,30,0,0,0,1,0,0,69,70,0,ITI,ITI1,9,Toscana
+2021-03-28,Moderna,UMB,80-89,15,25,0,0,0,40,0,0,0,40,0,ITI,ITI2,10,Umbria
+2021-03-28,Moderna,UMB,90+,7,22,0,0,0,29,0,0,0,29,0,ITI,ITI2,10,Umbria
 2021-03-28,Moderna,VEN,16-19,2,1,0,2,0,0,0,0,1,3,0,ITH,ITH3,5,Veneto
-2021-03-28,Moderna,VEN,20-29,11,9,1,4,9,0,0,0,6,20,0,ITH,ITH3,5,Veneto
-2021-03-28,Moderna,VEN,30-39,15,12,5,2,6,0,0,0,14,27,0,ITH,ITH3,5,Veneto
-2021-03-28,Moderna,VEN,40-49,10,10,3,5,1,0,0,2,9,20,0,ITH,ITH3,5,Veneto
-2021-03-28,Moderna,VEN,50-59,18,20,5,12,4,0,0,4,13,38,0,ITH,ITH3,5,Veneto
-2021-03-28,Moderna,VEN,60-69,34,24,6,10,2,0,0,7,33,57,1,ITH,ITH3,5,Veneto
-2021-03-28,Moderna,VEN,70-79,20,40,2,2,0,0,0,0,56,60,0,ITH,ITH3,5,Veneto
-2021-03-28,Moderna,VEN,80-89,601,800,0,0,4,1288,0,0,109,1401,0,ITH,ITH3,5,Veneto
-2021-03-28,Moderna,VEN,90+,21,34,0,0,0,51,0,0,4,55,0,ITH,ITH3,5,Veneto
-2021-03-28,Pfizer/BioNTech,ABR,20-29,1,2,0,0,0,0,0,0,3,3,0,ITF,ITF1,13,Abruzzo
-2021-03-28,Pfizer/BioNTech,ABR,30-39,6,3,0,0,0,0,1,1,7,7,2,ITF,ITF1,13,Abruzzo
-2021-03-28,Pfizer/BioNTech,ABR,40-49,7,15,1,0,0,0,6,0,15,16,6,ITF,ITF1,13,Abruzzo
-2021-03-28,Pfizer/BioNTech,ABR,50-59,6,13,1,0,0,0,4,0,14,13,6,ITF,ITF1,13,Abruzzo
-2021-03-28,Pfizer/BioNTech,ABR,60-69,15,25,3,0,0,0,5,0,32,21,19,ITF,ITF1,13,Abruzzo
-2021-03-28,Pfizer/BioNTech,ABR,70-79,9,10,0,0,0,0,0,0,19,19,0,ITF,ITF1,13,Abruzzo
-2021-03-28,Pfizer/BioNTech,ABR,80-89,104,132,0,0,0,231,0,0,5,236,0,ITF,ITF1,13,Abruzzo
-2021-03-28,Pfizer/BioNTech,ABR,90+,5,11,0,0,0,16,0,0,0,16,0,ITF,ITF1,13,Abruzzo
-2021-03-28,Pfizer/BioNTech,BAS,80-89,70,98,0,0,0,168,0,0,0,168,0,ITF,ITF5,17,Basilicata
-2021-03-28,Pfizer/BioNTech,BAS,90+,10,16,0,0,0,26,0,0,0,26,0,ITF,ITF5,17,Basilicata
-2021-03-28,Pfizer/BioNTech,CAL,16-19,1,0,0,0,0,0,0,0,1,1,0,ITF,ITF6,18,Calabria
-2021-03-28,Pfizer/BioNTech,CAL,20-29,12,9,9,0,0,0,2,1,9,7,14,ITF,ITF6,18,Calabria
-2021-03-28,Pfizer/BioNTech,CAL,30-39,12,13,6,0,0,0,0,1,18,13,12,ITF,ITF6,18,Calabria
-2021-03-28,Pfizer/BioNTech,CAL,40-49,19,17,7,0,0,0,1,0,28,9,27,ITF,ITF6,18,Calabria
-2021-03-28,Pfizer/BioNTech,CAL,50-59,36,27,8,0,0,0,3,1,51,29,34,ITF,ITF6,18,Calabria
-2021-03-28,Pfizer/BioNTech,CAL,60-69,56,54,29,0,0,0,0,4,77,53,57,ITF,ITF6,18,Calabria
-2021-03-28,Pfizer/BioNTech,CAL,70-79,63,48,16,0,1,0,0,0,94,48,63,ITF,ITF6,18,Calabria
-2021-03-28,Pfizer/BioNTech,CAL,80-89,96,112,1,0,0,192,0,0,15,38,170,ITF,ITF6,18,Calabria
-2021-03-28,Pfizer/BioNTech,CAL,90+,13,27,0,0,0,39,0,0,1,4,36,ITF,ITF6,18,Calabria
-2021-03-28,Pfizer/BioNTech,CAM,16-19,8,7,0,0,0,0,0,0,15,15,0,ITF,ITF3,15,Campania
-2021-03-28,Pfizer/BioNTech,CAM,20-29,45,60,3,2,0,0,0,4,96,85,20,ITF,ITF3,15,Campania
-2021-03-28,Pfizer/BioNTech,CAM,30-39,75,60,6,3,0,0,3,8,115,117,18,ITF,ITF3,15,Campania
-2021-03-28,Pfizer/BioNTech,CAM,40-49,106,127,8,3,0,0,10,20,192,196,37,ITF,ITF3,15,Campania
-2021-03-28,Pfizer/BioNTech,CAM,50-59,252,236,4,6,0,0,12,42,424,443,45,ITF,ITF3,15,Campania
-2021-03-28,Pfizer/BioNTech,CAM,60-69,440,294,3,3,0,0,9,28,691,712,22,ITF,ITF3,15,Campania
-2021-03-28,Pfizer/BioNTech,CAM,70-79,312,264,0,4,0,0,0,0,572,572,4,ITF,ITF3,15,Campania
-2021-03-28,Pfizer/BioNTech,CAM,80-89,835,1091,0,1,0,1900,0,0,25,1253,673,ITF,ITF3,15,Campania
-2021-03-28,Pfizer/BioNTech,CAM,90+,88,154,0,0,0,240,0,0,2,158,84,ITF,ITF3,15,Campania
-2021-03-28,Pfizer/BioNTech,EMR,16-19,2,1,1,0,0,0,0,0,2,2,1,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,Pfizer/BioNTech,EMR,20-29,9,11,10,0,0,0,0,0,10,10,10,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,Pfizer/BioNTech,EMR,30-39,16,21,6,5,0,0,0,0,26,29,8,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,Pfizer/BioNTech,EMR,40-49,19,35,5,1,0,0,1,0,47,53,1,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,Pfizer/BioNTech,EMR,50-59,43,50,7,4,0,0,1,0,81,88,5,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,Pfizer/BioNTech,EMR,60-69,114,75,8,1,0,0,0,0,180,185,4,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,Pfizer/BioNTech,EMR,70-79,130,125,7,0,0,0,0,0,248,253,2,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,Pfizer/BioNTech,EMR,80-89,338,531,0,0,0,855,0,0,14,323,546,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,Pfizer/BioNTech,EMR,90+,59,121,0,0,0,177,0,0,3,30,150,ITH,ITH5,8,Emilia-Romagna
-2021-03-28,Pfizer/BioNTech,FVG,30-39,0,1,0,0,0,0,0,1,0,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-28,Pfizer/BioNTech,FVG,40-49,0,1,0,0,0,0,0,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-28,Pfizer/BioNTech,FVG,50-59,0,2,0,0,0,0,0,1,1,2,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-28,Pfizer/BioNTech,FVG,60-69,1,3,0,0,0,0,0,1,3,4,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-28,Pfizer/BioNTech,FVG,70-79,13,16,0,0,0,0,0,1,28,29,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-28,Pfizer/BioNTech,FVG,80-89,62,105,0,0,0,165,0,0,2,83,84,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-28,Pfizer/BioNTech,FVG,90+,9,11,0,0,0,20,0,0,0,11,9,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-28,Pfizer/BioNTech,LIG,16-19,1,1,0,0,2,0,0,0,0,0,2,ITC,ITC3,7,Liguria
-2021-03-28,Pfizer/BioNTech,LIG,20-29,6,7,6,2,5,0,0,0,0,12,1,ITC,ITC3,7,Liguria
-2021-03-28,Pfizer/BioNTech,LIG,30-39,6,4,1,3,6,0,0,0,0,5,5,ITC,ITC3,7,Liguria
-2021-03-28,Pfizer/BioNTech,LIG,40-49,13,22,8,12,11,0,0,0,4,25,10,ITC,ITC3,7,Liguria
-2021-03-28,Pfizer/BioNTech,LIG,50-59,12,17,4,11,7,0,0,0,7,21,8,ITC,ITC3,7,Liguria
-2021-03-28,Pfizer/BioNTech,LIG,60-69,12,9,4,8,0,0,0,0,9,17,4,ITC,ITC3,7,Liguria
-2021-03-28,Pfizer/BioNTech,LIG,70-79,7,4,2,0,0,0,0,0,9,9,2,ITC,ITC3,7,Liguria
-2021-03-28,Pfizer/BioNTech,LIG,80-89,54,62,0,0,0,116,0,0,0,0,116,ITC,ITC3,7,Liguria
-2021-03-28,Pfizer/BioNTech,LIG,90+,3,17,0,0,0,20,0,0,0,0,20,ITC,ITC3,7,Liguria
-2021-03-28,Pfizer/BioNTech,LOM,16-19,16,10,2,0,9,0,0,0,15,14,12,ITC,ITC4,3,Lombardia
-2021-03-28,Pfizer/BioNTech,LOM,20-29,14,22,14,1,15,0,0,1,5,22,14,ITC,ITC4,3,Lombardia
-2021-03-28,Pfizer/BioNTech,LOM,30-39,19,28,18,5,12,0,0,5,7,25,22,ITC,ITC4,3,Lombardia
-2021-03-28,Pfizer/BioNTech,LOM,40-49,18,43,32,5,8,0,0,2,14,21,40,ITC,ITC4,3,Lombardia
-2021-03-28,Pfizer/BioNTech,LOM,50-59,25,45,43,7,6,0,0,5,9,19,51,ITC,ITC4,3,Lombardia
-2021-03-28,Pfizer/BioNTech,LOM,60-69,37,45,43,5,3,0,0,5,26,33,49,ITC,ITC4,3,Lombardia
-2021-03-28,Pfizer/BioNTech,LOM,70-79,34,33,27,2,1,0,0,0,37,24,43,ITC,ITC4,3,Lombardia
-2021-03-28,Pfizer/BioNTech,LOM,80-89,1164,1563,2,28,1,2692,0,1,3,1168,1559,ITC,ITC4,3,Lombardia
-2021-03-28,Pfizer/BioNTech,LOM,90+,174,334,1,12,0,493,0,1,1,62,446,ITC,ITC4,3,Lombardia
-2021-03-28,Pfizer/BioNTech,MAR,20-29,0,1,0,0,0,0,0,0,1,1,0,ITI,ITI3,11,Marche
-2021-03-28,Pfizer/BioNTech,MAR,30-39,4,5,0,0,0,0,0,1,8,8,1,ITI,ITI3,11,Marche
-2021-03-28,Pfizer/BioNTech,MAR,40-49,15,17,0,0,0,0,1,2,29,29,3,ITI,ITI3,11,Marche
-2021-03-28,Pfizer/BioNTech,MAR,50-59,40,24,1,0,0,0,2,2,59,60,4,ITI,ITI3,11,Marche
-2021-03-28,Pfizer/BioNTech,MAR,60-69,57,43,0,0,0,0,0,3,97,96,4,ITI,ITI3,11,Marche
-2021-03-28,Pfizer/BioNTech,MAR,70-79,90,62,0,0,0,0,0,0,152,152,0,ITI,ITI3,11,Marche
-2021-03-28,Pfizer/BioNTech,MAR,80-89,271,374,0,0,0,630,0,0,15,57,588,ITI,ITI3,11,Marche
-2021-03-28,Pfizer/BioNTech,MAR,90+,40,56,0,0,0,94,0,0,2,2,94,ITI,ITI3,11,Marche
-2021-03-28,Pfizer/BioNTech,MOL,20-29,0,2,0,0,0,0,0,0,2,2,0,ITF,ITF2,14,Molise
-2021-03-28,Pfizer/BioNTech,MOL,30-39,0,2,0,1,0,0,0,0,1,1,1,ITF,ITF2,14,Molise
-2021-03-28,Pfizer/BioNTech,MOL,40-49,2,3,0,0,0,0,0,0,5,5,0,ITF,ITF2,14,Molise
-2021-03-28,Pfizer/BioNTech,MOL,50-59,11,7,0,0,0,0,0,0,18,18,0,ITF,ITF2,14,Molise
-2021-03-28,Pfizer/BioNTech,MOL,60-69,19,17,0,3,0,0,0,0,33,33,3,ITF,ITF2,14,Molise
-2021-03-28,Pfizer/BioNTech,MOL,70-79,14,12,0,0,0,0,0,0,26,26,0,ITF,ITF2,14,Molise
-2021-03-28,Pfizer/BioNTech,MOL,80-89,247,308,1,0,0,548,0,0,6,42,513,ITF,ITF2,14,Molise
-2021-03-28,Pfizer/BioNTech,MOL,90+,13,32,0,0,0,44,0,0,1,25,20,ITF,ITF2,14,Molise
-2021-03-28,Pfizer/BioNTech,PAB,20-29,0,3,1,2,0,0,0,0,0,0,3,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-03-28,Pfizer/BioNTech,PAB,30-39,0,3,2,1,0,0,0,0,0,0,3,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-03-28,Pfizer/BioNTech,PAB,40-49,1,1,0,1,0,0,0,1,0,0,2,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-03-28,Pfizer/BioNTech,PAB,50-59,1,6,3,3,0,0,0,0,1,0,7,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-03-28,Pfizer/BioNTech,PAB,60-69,3,2,0,2,0,0,0,0,3,1,4,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-03-28,Pfizer/BioNTech,PAB,70-79,1,1,0,0,0,0,0,0,2,1,1,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-03-28,Pfizer/BioNTech,PAB,80-89,89,133,0,0,0,222,0,0,0,0,222,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-03-28,Pfizer/BioNTech,PAB,90+,17,40,0,0,0,57,0,0,0,0,57,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-03-28,Pfizer/BioNTech,PAT,20-29,1,1,0,0,0,0,0,0,2,2,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-03-28,Pfizer/BioNTech,PAT,30-39,0,1,0,0,0,0,0,0,1,1,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-03-28,Pfizer/BioNTech,PAT,40-49,2,3,0,0,0,0,0,0,5,5,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-03-28,Pfizer/BioNTech,PAT,50-59,7,5,0,0,0,0,0,0,12,12,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-03-28,Pfizer/BioNTech,PAT,60-69,9,3,0,0,0,0,0,0,12,12,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-03-28,Pfizer/BioNTech,PAT,70-79,9,9,0,0,0,0,0,0,18,17,1,ITH,ITH2,4,Provincia Autonoma Trento
-2021-03-28,Pfizer/BioNTech,PAT,80-89,2,7,0,0,0,0,0,0,9,9,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-03-28,Pfizer/BioNTech,PIE,16-19,3,4,2,2,0,0,0,0,3,6,1,ITC,ITC1,1,Piemonte
-2021-03-28,Pfizer/BioNTech,PIE,20-29,19,34,32,14,0,0,0,2,5,22,31,ITC,ITC1,1,Piemonte
-2021-03-28,Pfizer/BioNTech,PIE,30-39,35,75,75,31,0,0,0,1,3,47,63,ITC,ITC1,1,Piemonte
-2021-03-28,Pfizer/BioNTech,PIE,40-49,37,100,70,51,0,0,2,6,8,48,89,ITC,ITC1,1,Piemonte
-2021-03-28,Pfizer/BioNTech,PIE,50-59,63,119,87,75,1,0,0,11,8,64,118,ITC,ITC1,1,Piemonte
-2021-03-28,Pfizer/BioNTech,PIE,60-69,56,71,54,53,2,0,0,10,8,44,83,ITC,ITC1,1,Piemonte
-2021-03-28,Pfizer/BioNTech,PIE,70-79,46,37,21,29,5,0,0,0,28,43,40,ITC,ITC1,1,Piemonte
-2021-03-28,Pfizer/BioNTech,PIE,80-89,1713,2198,1,3,13,3894,0,0,0,593,3318,ITC,ITC1,1,Piemonte
-2021-03-28,Pfizer/BioNTech,PIE,90+,197,350,0,0,4,543,0,0,0,80,467,ITC,ITC1,1,Piemonte
-2021-03-28,Pfizer/BioNTech,PUG,20-29,8,19,21,5,0,0,0,0,1,3,24,ITF,ITF4,16,Puglia
-2021-03-28,Pfizer/BioNTech,PUG,30-39,17,41,39,10,0,0,0,0,9,13,45,ITF,ITF4,16,Puglia
-2021-03-28,Pfizer/BioNTech,PUG,40-49,46,48,68,6,0,0,0,0,20,19,75,ITF,ITF4,16,Puglia
-2021-03-28,Pfizer/BioNTech,PUG,50-59,52,54,63,4,0,0,0,4,35,36,70,ITF,ITF4,16,Puglia
-2021-03-28,Pfizer/BioNTech,PUG,60-69,61,36,40,4,1,0,0,2,50,49,48,ITF,ITF4,16,Puglia
-2021-03-28,Pfizer/BioNTech,PUG,70-79,36,17,12,0,0,0,0,0,41,40,13,ITF,ITF4,16,Puglia
-2021-03-28,Pfizer/BioNTech,PUG,80-89,505,579,1,0,0,998,0,0,85,52,1032,ITF,ITF4,16,Puglia
-2021-03-28,Pfizer/BioNTech,PUG,90+,64,59,0,0,0,115,0,0,8,9,114,ITF,ITF4,16,Puglia
+2021-03-28,Moderna,VEN,20-29,12,9,1,4,9,0,0,0,7,21,0,ITH,ITH3,5,Veneto
+2021-03-28,Moderna,VEN,30-39,20,14,5,2,6,0,0,0,21,34,0,ITH,ITH3,5,Veneto
+2021-03-28,Moderna,VEN,40-49,15,17,4,5,1,0,0,4,18,32,0,ITH,ITH3,5,Veneto
+2021-03-28,Moderna,VEN,50-59,28,36,9,12,4,0,0,8,31,63,1,ITH,ITH3,5,Veneto
+2021-03-28,Moderna,VEN,60-69,72,51,8,10,2,0,0,13,90,121,2,ITH,ITH3,5,Veneto
+2021-03-28,Moderna,VEN,70-79,76,163,6,3,0,0,0,0,230,236,3,ITH,ITH3,5,Veneto
+2021-03-28,Moderna,VEN,80-89,1681,2289,0,0,11,3701,0,0,258,3970,0,ITH,ITH3,5,Veneto
+2021-03-28,Moderna,VEN,90+,59,95,0,0,0,141,0,0,13,154,0,ITH,ITH3,5,Veneto
+2021-03-28,Pfizer/BioNTech,ABR,16-19,2,0,0,0,0,0,0,0,2,2,0,ITF,ITF1,13,Abruzzo
+2021-03-28,Pfizer/BioNTech,ABR,20-29,11,6,1,0,0,0,0,0,16,17,0,ITF,ITF1,13,Abruzzo
+2021-03-28,Pfizer/BioNTech,ABR,30-39,14,8,1,0,0,0,1,1,19,20,2,ITF,ITF1,13,Abruzzo
+2021-03-28,Pfizer/BioNTech,ABR,40-49,23,30,1,0,0,0,10,1,41,42,11,ITF,ITF1,13,Abruzzo
+2021-03-28,Pfizer/BioNTech,ABR,50-59,27,49,2,0,0,0,10,4,60,61,15,ITF,ITF1,13,Abruzzo
+2021-03-28,Pfizer/BioNTech,ABR,60-69,64,84,6,0,0,0,5,16,121,67,81,ITF,ITF1,13,Abruzzo
+2021-03-28,Pfizer/BioNTech,ABR,70-79,47,37,2,0,0,0,0,2,80,70,14,ITF,ITF1,13,Abruzzo
+2021-03-28,Pfizer/BioNTech,ABR,80-89,367,477,0,0,0,832,0,0,12,595,249,ITF,ITF1,13,Abruzzo
+2021-03-28,Pfizer/BioNTech,ABR,90+,13,31,0,0,0,44,0,0,0,44,0,ITF,ITF1,13,Abruzzo
+2021-03-28,Pfizer/BioNTech,BAS,30-39,0,1,0,0,0,0,0,0,1,1,0,ITF,ITF5,17,Basilicata
+2021-03-28,Pfizer/BioNTech,BAS,40-49,0,2,0,0,0,0,0,0,2,2,0,ITF,ITF5,17,Basilicata
+2021-03-28,Pfizer/BioNTech,BAS,50-59,1,1,0,0,0,0,0,0,2,2,0,ITF,ITF5,17,Basilicata
+2021-03-28,Pfizer/BioNTech,BAS,60-69,1,0,0,0,0,0,0,0,1,1,0,ITF,ITF5,17,Basilicata
+2021-03-28,Pfizer/BioNTech,BAS,70-79,4,3,0,0,0,0,0,0,7,7,0,ITF,ITF5,17,Basilicata
+2021-03-28,Pfizer/BioNTech,BAS,80-89,245,342,0,0,0,587,0,0,0,587,0,ITF,ITF5,17,Basilicata
+2021-03-28,Pfizer/BioNTech,BAS,90+,44,86,0,0,0,130,0,0,0,130,0,ITF,ITF5,17,Basilicata
+2021-03-28,Pfizer/BioNTech,CAL,16-19,2,2,0,0,0,0,0,0,4,2,2,ITF,ITF6,18,Calabria
+2021-03-28,Pfizer/BioNTech,CAL,20-29,21,20,13,0,0,0,2,1,25,14,27,ITF,ITF6,18,Calabria
+2021-03-28,Pfizer/BioNTech,CAL,30-39,25,26,9,0,0,0,0,2,40,28,23,ITF,ITF6,18,Calabria
+2021-03-28,Pfizer/BioNTech,CAL,40-49,33,46,14,0,1,0,1,2,61,31,48,ITF,ITF6,18,Calabria
+2021-03-28,Pfizer/BioNTech,CAL,50-59,73,71,13,0,0,0,3,3,125,59,85,ITF,ITF6,18,Calabria
+2021-03-28,Pfizer/BioNTech,CAL,60-69,131,115,31,0,1,0,0,8,206,119,127,ITF,ITF6,18,Calabria
+2021-03-28,Pfizer/BioNTech,CAL,70-79,156,114,16,0,3,0,0,0,251,124,146,ITF,ITF6,18,Calabria
+2021-03-28,Pfizer/BioNTech,CAL,80-89,159,216,1,0,8,323,0,0,43,62,313,ITF,ITF6,18,Calabria
+2021-03-28,Pfizer/BioNTech,CAL,90+,23,65,0,0,12,68,0,0,8,8,80,ITF,ITF6,18,Calabria
+2021-03-28,Pfizer/BioNTech,CAM,16-19,20,19,0,1,0,0,0,0,38,38,1,ITF,ITF3,15,Campania
+2021-03-28,Pfizer/BioNTech,CAM,20-29,111,130,7,3,0,0,1,5,225,217,24,ITF,ITF3,15,Campania
+2021-03-28,Pfizer/BioNTech,CAM,30-39,179,159,17,5,0,0,6,17,293,306,32,ITF,ITF3,15,Campania
+2021-03-28,Pfizer/BioNTech,CAM,40-49,267,299,13,6,0,0,13,37,497,523,43,ITF,ITF3,15,Campania
+2021-03-28,Pfizer/BioNTech,CAM,50-59,596,544,17,8,2,0,22,79,1012,1083,57,ITF,ITF3,15,Campania
+2021-03-28,Pfizer/BioNTech,CAM,60-69,1098,750,5,8,2,0,10,58,1765,1817,31,ITF,ITF3,15,Campania
+2021-03-28,Pfizer/BioNTech,CAM,70-79,815,713,0,4,0,0,0,0,1524,1524,4,ITF,ITF3,15,Campania
+2021-03-28,Pfizer/BioNTech,CAM,80-89,1907,2608,0,1,0,4450,0,0,64,3248,1267,ITF,ITF3,15,Campania
+2021-03-28,Pfizer/BioNTech,CAM,90+,181,350,0,0,0,522,0,0,9,378,153,ITF,ITF3,15,Campania
+2021-03-28,Pfizer/BioNTech,EMR,16-19,6,6,2,0,0,0,0,0,10,11,1,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,Pfizer/BioNTech,EMR,20-29,23,35,23,2,0,0,0,0,33,35,23,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,Pfizer/BioNTech,EMR,30-39,42,65,21,12,0,0,0,0,74,86,21,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,Pfizer/BioNTech,EMR,40-49,72,104,26,5,0,0,5,1,139,153,23,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,Pfizer/BioNTech,EMR,50-59,184,202,29,9,0,0,6,2,340,350,36,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,Pfizer/BioNTech,EMR,60-69,350,253,23,7,0,0,0,1,572,585,18,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,Pfizer/BioNTech,EMR,70-79,623,612,16,0,0,0,0,0,1219,1215,20,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,Pfizer/BioNTech,EMR,80-89,1122,1642,1,0,0,2720,0,0,43,996,1768,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,Pfizer/BioNTech,EMR,90+,202,418,0,0,0,616,0,0,4,97,523,ITH,ITH5,8,Emilia-Romagna
+2021-03-28,Pfizer/BioNTech,FVG,20-29,0,1,0,0,0,0,0,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-28,Pfizer/BioNTech,FVG,30-39,0,2,0,1,0,0,0,1,0,2,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-28,Pfizer/BioNTech,FVG,40-49,2,3,1,0,0,0,0,1,3,5,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-28,Pfizer/BioNTech,FVG,50-59,6,3,0,1,0,0,0,1,7,9,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-28,Pfizer/BioNTech,FVG,60-69,7,7,1,1,0,0,0,1,11,14,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-28,Pfizer/BioNTech,FVG,70-79,45,44,0,0,0,0,0,1,88,89,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-28,Pfizer/BioNTech,FVG,80-89,132,219,0,0,0,346,0,0,5,228,123,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-28,Pfizer/BioNTech,FVG,90+,20,36,0,0,0,56,0,0,0,39,17,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-28,Pfizer/BioNTech,LAZ,16-19,8,6,4,0,0,0,0,0,10,7,7,ITI,ITI4,12,Lazio
+2021-03-28,Pfizer/BioNTech,LAZ,20-29,43,64,47,3,0,0,0,0,57,51,56,ITI,ITI4,12,Lazio
+2021-03-28,Pfizer/BioNTech,LAZ,30-39,62,98,73,2,0,0,0,0,85,82,78,ITI,ITI4,12,Lazio
+2021-03-28,Pfizer/BioNTech,LAZ,40-49,112,165,79,6,0,0,0,3,189,184,93,ITI,ITI4,12,Lazio
+2021-03-28,Pfizer/BioNTech,LAZ,50-59,197,278,130,4,1,0,0,29,311,304,171,ITI,ITI4,12,Lazio
+2021-03-28,Pfizer/BioNTech,LAZ,60-69,252,283,164,0,3,0,1,19,348,371,164,ITI,ITI4,12,Lazio
+2021-03-28,Pfizer/BioNTech,LAZ,70-79,1348,1577,97,0,16,0,0,0,2812,2720,205,ITI,ITI4,12,Lazio
+2021-03-28,Pfizer/BioNTech,LAZ,80-89,2517,3480,62,0,29,5823,0,0,83,2856,3141,ITI,ITI4,12,Lazio
+2021-03-28,Pfizer/BioNTech,LAZ,90+,368,693,49,0,28,976,0,0,8,512,549,ITI,ITI4,12,Lazio
+2021-03-28,Pfizer/BioNTech,LIG,16-19,2,6,2,0,6,0,0,0,0,1,7,ITC,ITC3,7,Liguria
+2021-03-28,Pfizer/BioNTech,LIG,20-29,30,32,21,9,28,0,0,0,4,32,30,ITC,ITC3,7,Liguria
+2021-03-28,Pfizer/BioNTech,LIG,30-39,22,18,11,9,16,0,0,0,4,14,26,ITC,ITC3,7,Liguria
+2021-03-28,Pfizer/BioNTech,LIG,40-49,39,48,19,24,30,0,0,0,14,48,39,ITC,ITC3,7,Liguria
+2021-03-28,Pfizer/BioNTech,LIG,50-59,45,67,26,30,37,0,0,0,19,58,54,ITC,ITC3,7,Liguria
+2021-03-28,Pfizer/BioNTech,LIG,60-69,45,42,28,18,18,0,0,0,23,48,39,ITC,ITC3,7,Liguria
+2021-03-28,Pfizer/BioNTech,LIG,70-79,38,44,8,0,4,0,0,0,70,73,9,ITC,ITC3,7,Liguria
+2021-03-28,Pfizer/BioNTech,LIG,80-89,177,242,2,0,0,417,0,0,0,3,416,ITC,ITC3,7,Liguria
+2021-03-28,Pfizer/BioNTech,LIG,90+,29,61,0,0,0,90,0,0,0,1,89,ITC,ITC3,7,Liguria
+2021-03-28,Pfizer/BioNTech,LOM,16-19,18,15,2,1,12,0,0,0,18,20,13,ITC,ITC4,3,Lombardia
+2021-03-28,Pfizer/BioNTech,LOM,20-29,35,39,21,4,31,0,0,4,14,47,27,ITC,ITC4,3,Lombardia
+2021-03-28,Pfizer/BioNTech,LOM,30-39,44,70,56,7,19,0,0,13,19,51,63,ITC,ITC4,3,Lombardia
+2021-03-28,Pfizer/BioNTech,LOM,40-49,39,96,71,6,18,0,0,12,28,50,85,ITC,ITC4,3,Lombardia
+2021-03-28,Pfizer/BioNTech,LOM,50-59,65,108,84,15,11,0,0,26,37,80,93,ITC,ITC4,3,Lombardia
+2021-03-28,Pfizer/BioNTech,LOM,60-69,96,79,82,7,3,0,0,14,69,79,96,ITC,ITC4,3,Lombardia
+2021-03-28,Pfizer/BioNTech,LOM,70-79,90,84,66,4,1,0,0,0,103,84,90,ITC,ITC4,3,Lombardia
+2021-03-28,Pfizer/BioNTech,LOM,80-89,2925,3994,9,111,4,6787,0,2,6,3842,3077,ITC,ITC4,3,Lombardia
+2021-03-28,Pfizer/BioNTech,LOM,90+,509,1014,1,22,0,1498,0,1,1,358,1165,ITC,ITC4,3,Lombardia
+2021-03-28,Pfizer/BioNTech,MAR,16-19,1,1,0,0,0,0,0,0,2,2,0,ITI,ITI3,11,Marche
+2021-03-28,Pfizer/BioNTech,MAR,20-29,10,2,2,0,0,0,0,1,9,10,2,ITI,ITI3,11,Marche
+2021-03-28,Pfizer/BioNTech,MAR,30-39,10,15,3,0,0,0,0,2,20,22,3,ITI,ITI3,11,Marche
+2021-03-28,Pfizer/BioNTech,MAR,40-49,27,33,1,0,0,0,1,6,52,53,7,ITI,ITI3,11,Marche
+2021-03-28,Pfizer/BioNTech,MAR,50-59,77,55,2,0,0,0,2,8,120,117,15,ITI,ITI3,11,Marche
+2021-03-28,Pfizer/BioNTech,MAR,60-69,155,103,5,1,0,0,0,7,245,248,10,ITI,ITI3,11,Marche
+2021-03-28,Pfizer/BioNTech,MAR,70-79,207,123,0,0,0,0,0,0,330,329,1,ITI,ITI3,11,Marche
+2021-03-28,Pfizer/BioNTech,MAR,80-89,650,930,1,0,0,1536,0,0,43,186,1394,ITI,ITI3,11,Marche
+2021-03-28,Pfizer/BioNTech,MAR,90+,110,171,0,0,0,275,0,0,6,26,255,ITI,ITI3,11,Marche
+2021-03-28,Pfizer/BioNTech,MOL,16-19,0,1,0,0,0,0,0,0,1,1,0,ITF,ITF2,14,Molise
+2021-03-28,Pfizer/BioNTech,MOL,20-29,2,3,0,1,0,0,0,0,4,4,1,ITF,ITF2,14,Molise
+2021-03-28,Pfizer/BioNTech,MOL,30-39,1,4,0,1,0,0,0,0,4,4,1,ITF,ITF2,14,Molise
+2021-03-28,Pfizer/BioNTech,MOL,40-49,6,7,1,3,0,0,0,0,9,9,4,ITF,ITF2,14,Molise
+2021-03-28,Pfizer/BioNTech,MOL,50-59,28,18,0,2,0,0,0,0,44,44,2,ITF,ITF2,14,Molise
+2021-03-28,Pfizer/BioNTech,MOL,60-69,30,31,0,4,0,0,0,0,57,57,4,ITF,ITF2,14,Molise
+2021-03-28,Pfizer/BioNTech,MOL,70-79,43,28,0,0,0,0,0,0,71,71,0,ITF,ITF2,14,Molise
+2021-03-28,Pfizer/BioNTech,MOL,80-89,432,547,1,0,0,968,0,0,10,51,928,ITF,ITF2,14,Molise
+2021-03-28,Pfizer/BioNTech,MOL,90+,14,39,0,0,0,51,0,0,2,27,26,ITF,ITF2,14,Molise
+2021-03-28,Pfizer/BioNTech,PAB,16-19,1,0,1,0,0,0,0,0,0,0,1,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2021-03-28,Pfizer/BioNTech,PAB,20-29,0,14,6,8,0,0,0,0,0,0,14,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2021-03-28,Pfizer/BioNTech,PAB,30-39,5,14,14,4,0,0,0,1,0,1,18,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2021-03-28,Pfizer/BioNTech,PAB,40-49,4,13,7,9,0,0,0,1,0,0,17,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2021-03-28,Pfizer/BioNTech,PAB,50-59,4,18,9,12,0,0,0,0,1,0,22,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2021-03-28,Pfizer/BioNTech,PAB,60-69,6,11,5,5,0,0,0,0,7,4,13,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2021-03-28,Pfizer/BioNTech,PAB,70-79,2,3,0,0,0,0,0,0,5,3,2,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2021-03-28,Pfizer/BioNTech,PAB,80-89,163,214,0,0,0,376,0,0,1,2,375,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2021-03-28,Pfizer/BioNTech,PAB,90+,25,67,0,0,0,92,0,0,0,0,92,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2021-03-28,Pfizer/BioNTech,PAT,16-19,1,1,0,0,0,0,0,0,2,2,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-03-28,Pfizer/BioNTech,PAT,20-29,10,36,1,38,0,0,0,0,7,46,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-03-28,Pfizer/BioNTech,PAT,30-39,22,62,1,77,0,0,0,0,6,84,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-03-28,Pfizer/BioNTech,PAT,40-49,14,51,1,49,0,0,0,0,15,65,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-03-28,Pfizer/BioNTech,PAT,50-59,21,35,0,27,0,0,0,0,29,56,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-03-28,Pfizer/BioNTech,PAT,60-69,28,23,1,16,0,0,0,0,34,51,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-03-28,Pfizer/BioNTech,PAT,70-79,35,39,2,9,0,0,0,0,63,73,1,ITH,ITH2,4,Provincia Autonoma Trento
+2021-03-28,Pfizer/BioNTech,PAT,80-89,6,17,0,0,0,3,0,0,20,23,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-03-28,Pfizer/BioNTech,PAT,90+,1,3,0,0,0,1,0,0,3,4,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-03-28,Pfizer/BioNTech,PIE,16-19,4,6,5,2,0,0,0,0,3,6,4,ITC,ITC1,1,Piemonte
+2021-03-28,Pfizer/BioNTech,PIE,20-29,51,96,91,45,0,0,0,5,6,68,79,ITC,ITC1,1,Piemonte
+2021-03-28,Pfizer/BioNTech,PIE,30-39,75,159,153,72,0,0,0,4,5,103,131,ITC,ITC1,1,Piemonte
+2021-03-28,Pfizer/BioNTech,PIE,40-49,69,203,141,106,0,0,2,9,14,111,161,ITC,ITC1,1,Piemonte
+2021-03-28,Pfizer/BioNTech,PIE,50-59,118,234,188,122,2,0,2,16,22,126,226,ITC,ITC1,1,Piemonte
+2021-03-28,Pfizer/BioNTech,PIE,60-69,110,133,101,101,2,0,0,13,26,100,143,ITC,ITC1,1,Piemonte
+2021-03-28,Pfizer/BioNTech,PIE,70-79,117,110,46,53,7,0,0,0,121,153,74,ITC,ITC1,1,Piemonte
+2021-03-28,Pfizer/BioNTech,PIE,80-89,3108,4067,4,7,17,7143,0,0,4,1318,5857,ITC,ITC1,1,Piemonte
+2021-03-28,Pfizer/BioNTech,PIE,90+,316,589,0,0,5,898,0,0,2,164,741,ITC,ITC1,1,Piemonte
+2021-03-28,Pfizer/BioNTech,PUG,16-19,1,2,2,0,0,0,0,0,1,1,2,ITF,ITF4,16,Puglia
+2021-03-28,Pfizer/BioNTech,PUG,20-29,22,42,49,7,0,0,0,0,8,15,49,ITF,ITF4,16,Puglia
+2021-03-28,Pfizer/BioNTech,PUG,30-39,38,97,93,17,0,0,0,3,22,38,97,ITF,ITF4,16,Puglia
+2021-03-28,Pfizer/BioNTech,PUG,40-49,96,108,125,11,0,0,0,6,62,67,137,ITF,ITF4,16,Puglia
+2021-03-28,Pfizer/BioNTech,PUG,50-59,95,123,113,5,0,0,0,24,76,104,114,ITF,ITF4,16,Puglia
+2021-03-28,Pfizer/BioNTech,PUG,60-69,160,111,78,8,1,0,0,22,162,180,91,ITF,ITF4,16,Puglia
+2021-03-28,Pfizer/BioNTech,PUG,70-79,88,60,20,1,0,0,0,1,126,124,24,ITF,ITF4,16,Puglia
+2021-03-28,Pfizer/BioNTech,PUG,80-89,758,845,2,0,1,1490,0,0,110,98,1505,ITF,ITF4,16,Puglia
+2021-03-28,Pfizer/BioNTech,PUG,90+,93,105,0,0,0,189,0,0,9,14,184,ITF,ITF4,16,Puglia
 2021-03-28,Pfizer/BioNTech,SAR,16-19,0,1,0,0,0,0,0,0,1,1,0,ITG,ITG2,20,Sardegna
-2021-03-28,Pfizer/BioNTech,SAR,20-29,2,6,3,0,0,0,0,1,4,5,3,ITG,ITG2,20,Sardegna
-2021-03-28,Pfizer/BioNTech,SAR,30-39,8,9,4,4,0,0,0,1,8,11,6,ITG,ITG2,20,Sardegna
-2021-03-28,Pfizer/BioNTech,SAR,40-49,6,14,2,5,0,0,1,2,10,13,7,ITG,ITG2,20,Sardegna
-2021-03-28,Pfizer/BioNTech,SAR,50-59,17,31,15,1,1,0,0,8,23,36,12,ITG,ITG2,20,Sardegna
-2021-03-28,Pfizer/BioNTech,SAR,60-69,14,10,3,1,1,0,0,0,19,20,4,ITG,ITG2,20,Sardegna
-2021-03-28,Pfizer/BioNTech,SAR,70-79,9,6,1,0,5,0,0,0,9,10,5,ITG,ITG2,20,Sardegna
-2021-03-28,Pfizer/BioNTech,SAR,80-89,605,819,0,0,7,1355,0,0,62,1402,22,ITG,ITG2,20,Sardegna
-2021-03-28,Pfizer/BioNTech,SAR,90+,68,94,0,0,6,149,0,0,7,147,15,ITG,ITG2,20,Sardegna
-2021-03-28,Pfizer/BioNTech,SIC,16-19,7,3,6,0,0,0,0,0,4,6,4,ITG,ITG1,19,Sicilia
-2021-03-28,Pfizer/BioNTech,SIC,20-29,40,68,74,0,0,0,0,1,33,58,50,ITG,ITG1,19,Sicilia
-2021-03-28,Pfizer/BioNTech,SIC,30-39,50,72,37,0,0,0,0,4,81,57,65,ITG,ITG1,19,Sicilia
-2021-03-28,Pfizer/BioNTech,SIC,40-49,86,91,45,1,0,0,1,0,130,95,82,ITG,ITG1,19,Sicilia
-2021-03-28,Pfizer/BioNTech,SIC,50-59,149,200,55,0,0,0,3,5,286,257,92,ITG,ITG1,19,Sicilia
-2021-03-28,Pfizer/BioNTech,SIC,60-69,262,254,33,1,0,0,1,5,476,457,59,ITG,ITG1,19,Sicilia
-2021-03-28,Pfizer/BioNTech,SIC,70-79,454,330,11,0,1,0,0,0,772,762,22,ITG,ITG1,19,Sicilia
-2021-03-28,Pfizer/BioNTech,SIC,80-89,895,1068,2,0,63,1799,0,0,99,452,1511,ITG,ITG1,19,Sicilia
-2021-03-28,Pfizer/BioNTech,SIC,90+,114,175,0,0,18,254,0,0,17,61,228,ITG,ITG1,19,Sicilia
-2021-03-28,Pfizer/BioNTech,TOS,16-19,3,0,0,0,0,0,0,0,3,0,3,ITI,ITI1,9,Toscana
-2021-03-28,Pfizer/BioNTech,TOS,20-29,24,11,1,0,6,0,0,0,28,0,35,ITI,ITI1,9,Toscana
-2021-03-28,Pfizer/BioNTech,TOS,30-39,23,19,0,0,13,0,0,0,29,0,42,ITI,ITI1,9,Toscana
-2021-03-28,Pfizer/BioNTech,TOS,40-49,16,18,0,0,12,0,1,0,21,1,33,ITI,ITI1,9,Toscana
-2021-03-28,Pfizer/BioNTech,TOS,50-59,7,5,1,0,4,0,0,0,7,2,10,ITI,ITI1,9,Toscana
-2021-03-28,Pfizer/BioNTech,TOS,60-69,2,7,4,0,1,0,0,0,4,1,8,ITI,ITI1,9,Toscana
-2021-03-28,Pfizer/BioNTech,TOS,70-79,4,0,0,0,4,0,0,0,0,0,4,ITI,ITI1,9,Toscana
-2021-03-28,Pfizer/BioNTech,TOS,80-89,10,20,0,0,6,21,0,0,3,24,6,ITI,ITI1,9,Toscana
-2021-03-28,Pfizer/BioNTech,TOS,90+,0,11,0,0,4,5,0,0,2,7,4,ITI,ITI1,9,Toscana
+2021-03-28,Pfizer/BioNTech,SAR,20-29,10,12,9,0,0,0,1,1,11,19,3,ITG,ITG2,20,Sardegna
+2021-03-28,Pfizer/BioNTech,SAR,30-39,12,20,11,4,0,0,0,1,16,26,6,ITG,ITG2,20,Sardegna
+2021-03-28,Pfizer/BioNTech,SAR,40-49,17,43,13,5,0,0,4,4,34,53,7,ITG,ITG2,20,Sardegna
+2021-03-28,Pfizer/BioNTech,SAR,50-59,32,57,20,1,1,0,2,16,49,77,12,ITG,ITG2,20,Sardegna
+2021-03-28,Pfizer/BioNTech,SAR,60-69,28,34,9,1,1,0,2,1,48,58,4,ITG,ITG2,20,Sardegna
+2021-03-28,Pfizer/BioNTech,SAR,70-79,29,44,4,0,5,0,0,0,64,68,5,ITG,ITG2,20,Sardegna
+2021-03-28,Pfizer/BioNTech,SAR,80-89,1059,1397,0,0,7,2376,0,0,73,2432,24,ITG,ITG2,20,Sardegna
+2021-03-28,Pfizer/BioNTech,SAR,90+,105,154,0,0,6,241,0,0,12,243,16,ITG,ITG2,20,Sardegna
+2021-03-28,Pfizer/BioNTech,SIC,16-19,12,11,12,0,0,0,0,0,11,14,9,ITG,ITG1,19,Sicilia
+2021-03-28,Pfizer/BioNTech,SIC,20-29,86,120,108,0,0,0,0,2,96,106,100,ITG,ITG1,19,Sicilia
+2021-03-28,Pfizer/BioNTech,SIC,30-39,114,160,100,1,0,0,1,5,167,111,163,ITG,ITG1,19,Sicilia
+2021-03-28,Pfizer/BioNTech,SIC,40-49,156,185,86,1,0,0,1,3,250,182,159,ITG,ITG1,19,Sicilia
+2021-03-28,Pfizer/BioNTech,SIC,50-59,290,357,87,1,0,0,3,6,550,486,161,ITG,ITG1,19,Sicilia
+2021-03-28,Pfizer/BioNTech,SIC,60-69,514,455,61,1,0,0,1,7,899,872,97,ITG,ITG1,19,Sicilia
+2021-03-28,Pfizer/BioNTech,SIC,70-79,819,678,25,1,1,0,0,0,1470,1454,43,ITG,ITG1,19,Sicilia
+2021-03-28,Pfizer/BioNTech,SIC,80-89,1685,2068,2,0,88,3467,0,0,196,911,2842,ITG,ITG1,19,Sicilia
+2021-03-28,Pfizer/BioNTech,SIC,90+,234,308,0,0,28,489,0,0,25,114,428,ITG,ITG1,19,Sicilia
+2021-03-28,Pfizer/BioNTech,TOS,16-19,8,1,0,0,0,0,0,0,9,5,4,ITI,ITI1,9,Toscana
+2021-03-28,Pfizer/BioNTech,TOS,20-29,37,18,1,0,7,0,0,0,47,4,51,ITI,ITI1,9,Toscana
+2021-03-28,Pfizer/BioNTech,TOS,30-39,35,25,1,0,13,0,0,0,46,2,58,ITI,ITI1,9,Toscana
+2021-03-28,Pfizer/BioNTech,TOS,40-49,24,28,0,0,12,0,1,0,39,2,50,ITI,ITI1,9,Toscana
+2021-03-28,Pfizer/BioNTech,TOS,50-59,18,19,4,0,6,0,0,0,27,2,35,ITI,ITI1,9,Toscana
+2021-03-28,Pfizer/BioNTech,TOS,60-69,6,12,6,0,1,0,0,0,11,6,12,ITI,ITI1,9,Toscana
+2021-03-28,Pfizer/BioNTech,TOS,70-79,8,3,0,0,5,0,0,0,6,4,7,ITI,ITI1,9,Toscana
+2021-03-28,Pfizer/BioNTech,TOS,80-89,63,127,0,0,8,144,0,0,38,182,8,ITI,ITI1,9,Toscana
+2021-03-28,Pfizer/BioNTech,TOS,90+,32,108,0,0,5,94,0,0,41,135,5,ITI,ITI1,9,Toscana
 2021-03-28,Pfizer/BioNTech,UMB,20-29,2,10,10,0,1,0,0,1,0,10,2,ITI,ITI2,10,Umbria
-2021-03-28,Pfizer/BioNTech,UMB,30-39,3,14,10,1,1,0,0,4,1,15,2,ITI,ITI2,10,Umbria
-2021-03-28,Pfizer/BioNTech,UMB,40-49,9,18,11,2,0,0,3,10,1,23,4,ITI,ITI2,10,Umbria
-2021-03-28,Pfizer/BioNTech,UMB,50-59,20,36,19,2,0,0,18,15,2,49,7,ITI,ITI2,10,Umbria
-2021-03-28,Pfizer/BioNTech,UMB,60-69,8,14,6,2,0,0,3,4,7,20,2,ITI,ITI2,10,Umbria
+2021-03-28,Pfizer/BioNTech,UMB,30-39,5,15,12,1,1,0,0,5,1,18,2,ITI,ITI2,10,Umbria
+2021-03-28,Pfizer/BioNTech,UMB,40-49,11,19,12,2,0,0,3,12,1,26,4,ITI,ITI2,10,Umbria
+2021-03-28,Pfizer/BioNTech,UMB,50-59,20,37,20,2,0,0,18,15,2,50,7,ITI,ITI2,10,Umbria
+2021-03-28,Pfizer/BioNTech,UMB,60-69,9,15,6,2,0,0,3,4,9,22,2,ITI,ITI2,10,Umbria
 2021-03-28,Pfizer/BioNTech,UMB,70-79,5,5,2,1,0,0,0,0,7,9,1,ITI,ITI2,10,Umbria
-2021-03-28,Pfizer/BioNTech,UMB,80-89,311,393,1,0,0,701,0,0,2,699,5,ITI,ITI2,10,Umbria
-2021-03-28,Pfizer/BioNTech,UMB,90+,27,61,0,0,0,87,0,0,1,87,1,ITI,ITI2,10,Umbria
-2021-03-28,Pfizer/BioNTech,VEN,16-19,1,2,2,0,0,0,0,0,1,0,3,ITH,ITH3,5,Veneto
-2021-03-28,Pfizer/BioNTech,VEN,20-29,124,225,311,0,0,0,0,1,37,34,315,ITH,ITH3,5,Veneto
-2021-03-28,Pfizer/BioNTech,VEN,30-39,44,119,120,0,0,0,1,8,34,37,126,ITH,ITH3,5,Veneto
-2021-03-28,Pfizer/BioNTech,VEN,40-49,80,176,131,0,0,0,1,14,110,42,214,ITH,ITH3,5,Veneto
-2021-03-28,Pfizer/BioNTech,VEN,50-59,142,228,129,1,0,0,0,50,190,66,304,ITH,ITH3,5,Veneto
-2021-03-28,Pfizer/BioNTech,VEN,60-69,198,201,99,1,0,0,0,57,242,94,305,ITH,ITH3,5,Veneto
-2021-03-28,Pfizer/BioNTech,VEN,70-79,246,253,33,0,6,0,0,4,456,331,168,ITH,ITH3,5,Veneto
-2021-03-28,Pfizer/BioNTech,VEN,80-89,1079,1430,1,0,0,2241,0,0,267,1931,578,ITH,ITH3,5,Veneto
-2021-03-28,Pfizer/BioNTech,VEN,90+,135,213,1,0,0,298,0,0,49,346,2,ITH,ITH3,5,Veneto
+2021-03-28,Pfizer/BioNTech,UMB,80-89,333,425,1,0,0,755,0,0,2,753,5,ITI,ITI2,10,Umbria
+2021-03-28,Pfizer/BioNTech,UMB,90+,29,70,0,0,0,98,0,0,1,98,1,ITI,ITI2,10,Umbria
+2021-03-28,Pfizer/BioNTech,VDA,20-29,1,4,4,0,0,0,0,0,1,5,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-03-28,Pfizer/BioNTech,VDA,30-39,4,12,13,1,0,0,0,0,2,16,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-03-28,Pfizer/BioNTech,VDA,40-49,4,16,14,1,0,0,0,0,5,20,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-03-28,Pfizer/BioNTech,VDA,50-59,2,13,10,0,0,0,0,0,5,15,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-03-28,Pfizer/BioNTech,VDA,60-69,5,7,5,0,0,0,0,0,7,12,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-03-28,Pfizer/BioNTech,VDA,70-79,10,15,1,0,0,0,0,0,24,25,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-03-28,Pfizer/BioNTech,VDA,80-89,19,28,0,0,0,46,0,0,1,47,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-03-28,Pfizer/BioNTech,VDA,90+,0,3,0,0,0,3,0,0,0,3,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-03-28,Pfizer/BioNTech,VEN,16-19,4,6,2,0,0,0,0,0,8,7,3,ITH,ITH3,5,Veneto
+2021-03-28,Pfizer/BioNTech,VEN,20-29,195,380,469,0,0,0,0,3,103,85,490,ITH,ITH3,5,Veneto
+2021-03-28,Pfizer/BioNTech,VEN,30-39,121,255,209,0,0,0,3,23,141,125,251,ITH,ITH3,5,Veneto
+2021-03-28,Pfizer/BioNTech,VEN,40-49,197,341,208,2,0,0,1,48,279,174,364,ITH,ITH3,5,Veneto
+2021-03-28,Pfizer/BioNTech,VEN,50-59,324,522,203,1,0,0,1,137,504,313,533,ITH,ITH3,5,Veneto
+2021-03-28,Pfizer/BioNTech,VEN,60-69,430,431,145,1,0,0,0,126,589,336,525,ITH,ITH3,5,Veneto
+2021-03-28,Pfizer/BioNTech,VEN,70-79,710,745,47,1,20,0,1,7,1379,1133,322,ITH,ITH3,5,Veneto
+2021-03-28,Pfizer/BioNTech,VEN,80-89,2279,3070,1,0,0,4922,0,1,425,4228,1121,ITH,ITH3,5,Veneto
+2021-03-28,Pfizer/BioNTech,VEN,90+,209,355,1,0,0,492,0,0,71,559,5,ITH,ITH3,5,Veneto
