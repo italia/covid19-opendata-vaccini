@@ -4,11 +4,16 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
-**25/02/2021**
-
-Sarà aggiunto il file contenente i principali punti di somministrazione suddivisi per tipologia (`punti-somministrazione-tipologia`).
-
+**TBD**
 Il file `punti-somministrazione-latest` sarà dismesso nei prossimi giorni.
+
+## 24/03/2021
+Aggiunta la categoria relativa alle altre somministrazioni (**categoria_altro**), scorporata dalla categoria del personale non sanitario. Il campo è stato aggiunto ai seguenti file: `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+
+
+## 25/02/2021
+Aggiunto il file contenente i principali punti di somministrazione suddivisi per tipologia (`punti-somministrazione-tipologia`).
+
 
 ## 20/02/2021
 
