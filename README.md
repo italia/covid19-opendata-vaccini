@@ -79,6 +79,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | categoria_personale_non_sanitario | integer | Totale dei soggetti appartenenti alla categoria del personale non sanitario a cui è stato somministrato il vaccino per giorno, regione e fascia d'età. |
 | categoria_ospiti_rsa | integer | Totale dei soggetti ospiti della struttura residenziale a cui è stato somministrato il vaccino per giorno, regione e fascia d'età. |
 | categoria_over80 | integer | Numero somministrazioni categoria di rischio prevalente over 80 per giorno, regione e fascia d'età. |
+| categoria_altro | integer | Numero somministrazioni altra categoria di rischio prevalente per giorno, regione e fascia d'età. |
 | prima_dose | integer | Numero prime somministrazioni. |
 | seconda_dose | integer | Numero seconde somministrazioni. |
 | codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
@@ -100,6 +101,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | categoria_personale_non_sanitario | integer | Totale dei soggetti appartenenti alla categoria del personale non sanitario a cui è stato somministrato il vaccino per giorno, regione e fascia d'età. |
 | categoria_ospiti_rsa | integer | Totale dei soggetti ospiti della struttura residenziale a cui è stato somministrato il vaccino per giorno e regione. |
 | categoria_over80 | integer | Numero somministrazioni categoria di rischio prevalente over 80 per giorno, regione e fascia d'età. |
+| categoria_altro | integer | Numero somministrazioni altra categoria di rischio prevalente per giorno, regione e fascia d'età. |
 | prima_dose | integer | Numero prime somministrazioni. |
 | seconda_dose | integer | Numero seconde somministrazioni. |
 | codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
@@ -131,6 +133,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | categoria_personale_non_sanitario | integer | Totale dei soggetti appartenenti alla categoria del personale non sanitario a cui è stato somministrato il vaccino per giorno, regione e fascia d'età. |
 | categoria_ospiti_rsa | integer | Totale dei soggetti ospiti della struttura residenziale a cui è stato somministrato il vaccino per giorno, regione e fascia d'età. |
 | categoria_over80 | integer | Numero somministrazioni categoria di rischio prevalente over 80 per giorno, regione e fascia d'età. |
+| categoria_altro | integer | Numero somministrazioni altra categoria di rischio prevalente per giorno, regione e fascia d'età. |
 | prima_dose | integer | Numero prime somministrazioni. |
 | seconda_dose | integer | Numero seconde somministrazioni. |
 
@@ -143,11 +146,8 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 
 # Maintainer
 
-* datateam-opendata - utenza appertenente alla Struttura Commissariale per l'Emergenza Covid-19
+* team Struttura Commissariale per l'Emergenza Covid-19
 
-# NOTE
-
-A partire dal 18/01/2021 i dati sono in fase di consolidamento da parte delle regioni e potranno subire alcune variazioni.
 
 # Licenza 
 
