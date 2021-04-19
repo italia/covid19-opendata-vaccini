@@ -4,33 +4,41 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
+## 20/04/2021
+Aggiunti i campi **categoria_60_69**, **categoria_70_79** e **categoria_soggetti_fragili** all'interno dei file `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+
+| Campo | Tipo Dati | Descrizione |
+|--|--|--|
+| categoria_70_79 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 70 e 79 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
+| categoria_60_69 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 60 e 69 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
+| categoria_soggetti_fragili | integer | Numero di somministrazioni effettuate ai soggetti fragili e loro caregiver indicate per giorno, regione e fascia d'età. |
+
+La **categoria_forze_armate** indicherà il totale delle somministrazioni effettuate al personale del Comparto Difesa e Sicurezza.
+
 **TBD**
 Il file `punti-somministrazione-latest` sarà dismesso nei prossimi giorni.
 
 ## 24/03/2021
 Aggiunta la categoria relativa alle altre somministrazioni (**categoria_altro**), scorporata dalla categoria del personale non sanitario. Il campo è stato aggiunto ai seguenti file: `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
 
-
 ## 25/02/2021
 Aggiunto il file contenente i principali punti di somministrazione suddivisi per tipologia (`punti-somministrazione-tipologia`).
 
-
 ## 20/02/2021
-
-I file contenenti le categorie prevalenti per le somminitrsazioni saranno estese con:
-* la categoria relativa ai soggetti appartenti alle Forze Armate (**categoria_forze_armate**)
+I file contenenti le categorie prevalenti per le somministrazioni saranno estese con:
+* la categoria relativa ai soggetti appartenenti alle Forze Armate (**categoria_forze_armate**)
 * la categoria relativa al personale scolastico (**categoria_personale_scolastico**)
 
 
 ## 29/01/2021
-* Verranno aggiunti i campi **codice_NUTS1**, **codice_NUTS2**, **codice_regione_ISTAT**, **nome_regione** contenenti informazioni standard relative alla dimensione geografica. Le modifiche riguarderanno i seguenti file: `consegne-vaccini-latest`, `punti-somministrazione-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `vaccini-summary-latest`. 
+* Verranno aggiunti i campi **codice_NUTS1**, **codice_NUTS2**, **codice_regione_ISTAT**, **nome_regione** contenenti informazioni standard relative alla dimensione geografica. Le modifiche riguarderanno i seguenti file: `consegne-vaccini-latest`, `punti-somministrazione-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `vaccini-summary-latest`.
 * rimozione di area = ITA sul file `somministrazioni-vaccini-summary-latest`
 * modifiche al file README.md
 * rimozione file ROADMAP.md
 
 ## 18/01/2021
 
-Aggiunti i campi **fornitore**, **categoria_over80**, **prima_dose**, **seconda_dose** all'interno del file `somministrazioni-vaccini-latest`. 
+Aggiunti i campi **fornitore**, **categoria_over80**, **prima_dose**, **seconda_dose** all'interno del file `somministrazioni-vaccini-latest`.
 
 | Campo | Tipo Dati | Descrizione |
 |--|--|--|
