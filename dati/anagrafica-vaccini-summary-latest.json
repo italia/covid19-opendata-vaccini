@@ -3,7 +3,7 @@
         "fields":[
             {
                 "name":"index",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"fascia_anagrafica",
@@ -11,63 +11,63 @@
             },
             {
                 "name":"totale",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"sesso_maschile",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"sesso_femminile",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"categoria_operatori_sanitari_sociosanitari",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"categoria_personale_non_sanitario",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"categoria_ospiti_rsa",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"categoria_personale_scolastico",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"categoria_60_69",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"categoria_70_79",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"categoria_over80",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"categoria_soggetti_fragili",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"categoria_forze_armate",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"categoria_altro",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"prima_dose",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"seconda_dose",
-                "type":"string"
+                "type":"integer"
             },
             {
                 "name":"ultimo_aggiornamento",
@@ -80,6 +80,185 @@
         "pandas_version":"0.20.0"
     },
     "data":[
-
+        {
+            "index":0,
+            "fascia_anagrafica":"16-19",
+            "totale":33142,
+            "sesso_maschile":17332,
+            "sesso_femminile":15810,
+            "categoria_operatori_sanitari_sociosanitari":5598,
+            "categoria_personale_non_sanitario":1747,
+            "categoria_ospiti_rsa":2424,
+            "categoria_personale_scolastico":244,
+            "categoria_60_69":0,
+            "categoria_70_79":0,
+            "categoria_over80":0,
+            "categoria_soggetti_fragili":20603,
+            "categoria_forze_armate":254,
+            "categoria_altro":2272,
+            "prima_dose":24854,
+            "seconda_dose":8288,
+            "ultimo_aggiornamento":"2021-04-28T00:00:00.000Z"
+        },
+        {
+            "index":1,
+            "fascia_anagrafica":"20-29",
+            "totale":827219,
+            "sesso_maschile":314813,
+            "sesso_femminile":512406,
+            "categoria_operatori_sanitari_sociosanitari":471316,
+            "categoria_personale_non_sanitario":81109,
+            "categoria_ospiti_rsa":17041,
+            "categoria_personale_scolastico":85464,
+            "categoria_60_69":0,
+            "categoria_70_79":0,
+            "categoria_over80":0,
+            "categoria_soggetti_fragili":100976,
+            "categoria_forze_armate":27402,
+            "categoria_altro":43911,
+            "prima_dose":549741,
+            "seconda_dose":277478,
+            "ultimo_aggiornamento":"2021-04-28T00:00:00.000Z"
+        },
+        {
+            "index":2,
+            "fascia_anagrafica":"30-39",
+            "totale":1168630,
+            "sesso_maschile":470871,
+            "sesso_femminile":697759,
+            "categoria_operatori_sanitari_sociosanitari":587053,
+            "categoria_personale_non_sanitario":132671,
+            "categoria_ospiti_rsa":20677,
+            "categoria_personale_scolastico":177634,
+            "categoria_60_69":0,
+            "categoria_70_79":0,
+            "categoria_over80":0,
+            "categoria_soggetti_fragili":132217,
+            "categoria_forze_armate":51092,
+            "categoria_altro":67286,
+            "prima_dose":798558,
+            "seconda_dose":370072,
+            "ultimo_aggiornamento":"2021-04-28T00:00:00.000Z"
+        },
+        {
+            "index":3,
+            "fascia_anagrafica":"40-49",
+            "totale":1639545,
+            "sesso_maschile":611754,
+            "sesso_femminile":1027791,
+            "categoria_operatori_sanitari_sociosanitari":674243,
+            "categoria_personale_non_sanitario":202535,
+            "categoria_ospiti_rsa":29996,
+            "categoria_personale_scolastico":294368,
+            "categoria_60_69":0,
+            "categoria_70_79":0,
+            "categoria_over80":0,
+            "categoria_soggetti_fragili":255228,
+            "categoria_forze_armate":90365,
+            "categoria_altro":92810,
+            "prima_dose":1164821,
+            "seconda_dose":474724,
+            "ultimo_aggiornamento":"2021-04-28T00:00:00.000Z"
+        },
+        {
+            "index":4,
+            "fascia_anagrafica":"50-59",
+            "totale":2245414,
+            "sesso_maschile":873466,
+            "sesso_femminile":1371948,
+            "categoria_operatori_sanitari_sociosanitari":824623,
+            "categoria_personale_non_sanitario":275701,
+            "categoria_ospiti_rsa":45233,
+            "categoria_personale_scolastico":382529,
+            "categoria_60_69":0,
+            "categoria_70_79":0,
+            "categoria_over80":0,
+            "categoria_soggetti_fragili":471831,
+            "categoria_forze_armate":122870,
+            "categoria_altro":122627,
+            "prima_dose":1598669,
+            "seconda_dose":646745,
+            "ultimo_aggiornamento":"2021-04-28T00:00:00.000Z"
+        },
+        {
+            "index":5,
+            "fascia_anagrafica":"60-69",
+            "totale":2520457,
+            "sesso_maschile":1242760,
+            "sesso_femminile":1277697,
+            "categoria_operatori_sanitari_sociosanitari":531774,
+            "categoria_personale_non_sanitario":141592,
+            "categoria_ospiti_rsa":47782,
+            "categoria_personale_scolastico":208524,
+            "categoria_60_69":840141,
+            "categoria_70_79":0,
+            "categoria_over80":0,
+            "categoria_soggetti_fragili":723773,
+            "categoria_forze_armate":21548,
+            "categoria_altro":5323,
+            "prima_dose":1994214,
+            "seconda_dose":526243,
+            "ultimo_aggiornamento":"2021-04-28T00:00:00.000Z"
+        },
+        {
+            "index":6,
+            "fascia_anagrafica":"70-79",
+            "totale":3768075,
+            "sesso_maschile":1845204,
+            "sesso_femminile":1922871,
+            "categoria_operatori_sanitari_sociosanitari":113847,
+            "categoria_personale_non_sanitario":29853,
+            "categoria_ospiti_rsa":81483,
+            "categoria_personale_scolastico":5401,
+            "categoria_60_69":0,
+            "categoria_70_79":2703363,
+            "categoria_over80":0,
+            "categoria_soggetti_fragili":827510,
+            "categoria_forze_armate":3581,
+            "categoria_altro":3037,
+            "prima_dose":3316602,
+            "seconda_dose":451473,
+            "ultimo_aggiornamento":"2021-04-28T00:00:00.000Z"
+        },
+        {
+            "index":7,
+            "fascia_anagrafica":"80-89",
+            "totale":5363850,
+            "sesso_maschile":2266739,
+            "sesso_femminile":3097111,
+            "categoria_operatori_sanitari_sociosanitari":14396,
+            "categoria_personale_non_sanitario":11862,
+            "categoria_ospiti_rsa":222840,
+            "categoria_personale_scolastico":466,
+            "categoria_60_69":0,
+            "categoria_70_79":0,
+            "categoria_over80":4980676,
+            "categoria_soggetti_fragili":129697,
+            "categoria_forze_armate":1580,
+            "categoria_altro":2333,
+            "prima_dose":3123480,
+            "seconda_dose":2240370,
+            "ultimo_aggiornamento":"2021-04-28T00:00:00.000Z"
+        },
+        {
+            "index":8,
+            "fascia_anagrafica":"90+",
+            "totale":1193483,
+            "sesso_maschile":368226,
+            "sesso_femminile":825257,
+            "categoria_operatori_sanitari_sociosanitari":2460,
+            "categoria_personale_non_sanitario":3134,
+            "categoria_ospiti_rsa":180518,
+            "categoria_personale_scolastico":67,
+            "categoria_60_69":0,
+            "categoria_70_79":0,
+            "categoria_over80":965403,
+            "categoria_soggetti_fragili":41144,
+            "categoria_forze_armate":290,
+            "categoria_altro":467,
+            "prima_dose":694888,
+            "seconda_dose":498595,
+            "ultimo_aggiornamento":"2021-04-28T00:00:00.000Z"
+        }
     ]
 }
