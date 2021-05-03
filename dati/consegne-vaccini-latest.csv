@@ -406,6 +406,7 @@ LIG,Vaxzevria (AstraZeneca),7500,2021-04-21,ITC,ITC3,7,Liguria
 LIG,Janssen,4550,2021-04-22,ITC,ITC3,7,Liguria
 LIG,Moderna,5900,2021-04-26,ITC,ITC3,7,Liguria
 LIG,Vaxzevria (AstraZeneca),3300,2021-04-26,ITC,ITC3,7,Liguria
+LIG,Vaxzevria (AstraZeneca),3000,2021-04-27,ITC,ITC3,7,Liguria
 LIG,Pfizer/BioNTech,54990,2021-04-28,ITC,ITC3,7,Liguria
 LIG,Janssen,4000,2021-05-01,ITC,ITC3,7,Liguria
 LIG,Moderna,6400,2021-05-01,ITC,ITC3,7,Liguria
@@ -460,6 +461,7 @@ LOM,Janssen,30550,2021-04-22,ITC,ITC4,3,Lombardia
 LOM,Moderna,39800,2021-04-26,ITC,ITC4,3,Lombardia
 LOM,Vaxzevria (AstraZeneca),22400,2021-04-26,ITC,ITC4,3,Lombardia
 LOM,Pfizer/BioNTech,372060,2021-04-28,ITC,ITC4,3,Lombardia
+LOM,Vaxzevria (AstraZeneca),10000,2021-04-28,ITC,ITC4,3,Lombardia
 LOM,Vaxzevria (AstraZeneca),144000,2021-04-29,ITC,ITC4,3,Lombardia
 LOM,Janssen,26700,2021-05-01,ITC,ITC4,3,Lombardia
 LOM,Moderna,42900,2021-05-01,ITC,ITC4,3,Lombardia
@@ -599,6 +601,7 @@ PAB,Janssen,1550,2021-04-22,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
 PAB,Moderna,2000,2021-04-26,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
 PAB,Vaxzevria (AstraZeneca),1100,2021-04-26,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
 PAB,Pfizer/BioNTech,18720,2021-04-28,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+PAB,Vaxzevria (AstraZeneca),5000,2021-04-28,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
 PAB,Janssen,1300,2021-05-01,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
 PAB,Moderna,2100,2021-05-01,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
 PAB,Vaxzevria (AstraZeneca),15800,2021-05-01,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
@@ -694,6 +697,7 @@ PIE,Janssen,12800,2021-04-22,ITC,ITC1,1,Piemonte
 PIE,Moderna,16600,2021-04-26,ITC,ITC1,1,Piemonte
 PIE,Vaxzevria (AstraZeneca),9400,2021-04-26,ITC,ITC1,1,Piemonte
 PIE,Pfizer/BioNTech,155610,2021-04-28,ITC,ITC1,1,Piemonte
+PIE,Vaxzevria (AstraZeneca),10000,2021-04-28,ITC,ITC1,1,Piemonte
 PIE,Janssen,11200,2021-05-01,ITC,ITC1,1,Piemonte
 PIE,Moderna,18400,2021-05-01,ITC,ITC1,1,Piemonte
 PIE,Vaxzevria (AstraZeneca),132000,2021-05-01,ITC,ITC1,1,Piemonte
@@ -748,7 +752,7 @@ PUG,Vaxzevria (AstraZeneca),21400,2021-04-21,ITF,ITF4,16,Puglia
 PUG,Janssen,12050,2021-04-22,ITF,ITF4,16,Puglia
 PUG,Moderna,15700,2021-04-26,ITF,ITF4,16,Puglia
 PUG,Vaxzevria (AstraZeneca),8800,2021-04-26,ITF,ITF4,16,Puglia
-PUG,Pfizer/BioNTech,146250,2021-04-28,ITF,ITF4,16,Puglia
+PUG,Pfizer/BioNTech,152100,2021-04-28,ITF,ITF4,16,Puglia
 PUG,Janssen,10500,2021-05-01,ITF,ITF4,16,Puglia
 PUG,Moderna,16900,2021-05-01,ITF,ITF4,16,Puglia
 PUG,Vaxzevria (AstraZeneca),124400,2021-05-01,ITF,ITF4,16,Puglia
@@ -791,7 +795,7 @@ SAR,Vaxzevria (AstraZeneca),11500,2021-04-21,ITG,ITG2,20,Sardegna
 SAR,Janssen,4950,2021-04-22,ITG,ITG2,20,Sardegna
 SAR,Moderna,6500,2021-04-26,ITG,ITG2,20,Sardegna
 SAR,Vaxzevria (AstraZeneca),3600,2021-04-26,ITG,ITG2,20,Sardegna
-SAR,Pfizer/BioNTech,60840,2021-04-28,ITG,ITG2,20,Sardegna
+SAR,Pfizer/BioNTech,66690,2021-04-28,ITG,ITG2,20,Sardegna
 SAR,Janssen,4300,2021-05-01,ITG,ITG2,20,Sardegna
 SAR,Moderna,7000,2021-05-01,ITG,ITG2,20,Sardegna
 SAR,Vaxzevria (AstraZeneca),51200,2021-05-01,ITG,ITG2,20,Sardegna
@@ -1036,6 +1040,7 @@ VEN,Vaxzevria (AstraZeneca),5580,2021-04-23,ITH,ITH3,5,Veneto
 VEN,Moderna,19000,2021-04-26,ITH,ITH3,5,Veneto
 VEN,Vaxzevria (AstraZeneca),10700,2021-04-26,ITH,ITH3,5,Veneto
 VEN,Pfizer/BioNTech,181350,2021-04-28,ITH,ITH3,5,Veneto
+VEN,Vaxzevria (AstraZeneca),5000,2021-04-28,ITH,ITH3,5,Veneto
 VEN,Janssen,12800,2021-05-01,ITH,ITH3,5,Veneto
 VEN,Moderna,20500,2021-05-01,ITH,ITH3,5,Veneto
 VEN,Vaxzevria (AstraZeneca),151100,2021-05-01,ITH,ITH3,5,Veneto
