@@ -25303,7 +25303,7 @@
         {
             "index":2526,
             "area":"VEN",
-            "denominazione_struttura":"L'ECO PAPA GIOVANNI XXIII",
+            "denominazione_struttura":"IPAB SUOR DIODATA BERTOLO - CENTRO DIURNO",
             "tipologia":"Territoriale",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -25313,7 +25313,7 @@
         {
             "index":2527,
             "area":"VEN",
-            "denominazione_struttura":"MUNICIPIO DI ALBIGNASEGO (PUNTO VACCINAZIONI)",
+            "denominazione_struttura":"L'ECO PAPA GIOVANNI XXIII",
             "tipologia":"Territoriale",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -25323,7 +25323,7 @@
         {
             "index":2528,
             "area":"VEN",
-            "denominazione_struttura":"OPSA -CENTRO DIURNO SAN CAMILLO",
+            "denominazione_struttura":"MUNICIPIO DI ALBIGNASEGO (PUNTO VACCINAZIONI)",
             "tipologia":"Territoriale",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -25333,7 +25333,7 @@
         {
             "index":2529,
             "area":"VEN",
-            "denominazione_struttura":"OPSA CENTRO DIURNO SAN RAFFAELE",
+            "denominazione_struttura":"OPSA -CENTRO DIURNO SAN CAMILLO",
             "tipologia":"Territoriale",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -25343,8 +25343,8 @@
         {
             "index":2530,
             "area":"VEN",
-            "denominazione_struttura":"OSPEDALE CLASSIFICATO SAN CAMILLO",
-            "tipologia":"Ospedaliero",
+            "denominazione_struttura":"OPSA CENTRO DIURNO SAN RAFFAELE",
+            "tipologia":"Territoriale",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
             "codice_regione_ISTAT":5,
@@ -25353,7 +25353,7 @@
         {
             "index":2531,
             "area":"VEN",
-            "denominazione_struttura":"OSPEDALE DI  CONEGLIANO",
+            "denominazione_struttura":"OSPEDALE CLASSIFICATO SAN CAMILLO",
             "tipologia":"Ospedaliero",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -25363,7 +25363,7 @@
         {
             "index":2532,
             "area":"VEN",
-            "denominazione_struttura":"OSPEDALE DI  ODERZO",
+            "denominazione_struttura":"OSPEDALE DI  CONEGLIANO",
             "tipologia":"Ospedaliero",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -25373,7 +25373,7 @@
         {
             "index":2533,
             "area":"VEN",
-            "denominazione_struttura":"OSPEDALE DI  TREVISO",
+            "denominazione_struttura":"OSPEDALE DI  ODERZO",
             "tipologia":"Ospedaliero",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -25383,7 +25383,7 @@
         {
             "index":2534,
             "area":"VEN",
-            "denominazione_struttura":"OSPEDALE DI ADRIA",
+            "denominazione_struttura":"OSPEDALE DI  TREVISO",
             "tipologia":"Ospedaliero",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -25393,7 +25393,7 @@
         {
             "index":2535,
             "area":"VEN",
-            "denominazione_struttura":"OSPEDALE DI ARZIGNANO",
+            "denominazione_struttura":"OSPEDALE DI ADRIA",
             "tipologia":"Ospedaliero",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -25403,7 +25403,7 @@
         {
             "index":2536,
             "area":"VEN",
-            "denominazione_struttura":"OSPEDALE DI CAMPOSAMPIERO",
+            "denominazione_struttura":"OSPEDALE DI ARZIGNANO",
             "tipologia":"Ospedaliero",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -25413,7 +25413,7 @@
         {
             "index":2537,
             "area":"VEN",
-            "denominazione_struttura":"OSPEDALE DI CASTELFRANCO",
+            "denominazione_struttura":"OSPEDALE DI CAMPOSAMPIERO",
             "tipologia":"Ospedaliero",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -25423,6 +25423,16 @@
         {
             "index":2538,
             "area":"VEN",
+            "denominazione_struttura":"OSPEDALE DI CASTELFRANCO",
+            "tipologia":"Ospedaliero",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
+        },
+        {
+            "index":2539,
+            "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI COMUNITA' S. ANTONIO DI RELAXXI S.R.L.",
             "tipologia":"Territoriale",
             "codice_NUTS1":"ITH",
@@ -25431,7 +25441,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2539,
+            "index":2540,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI DOLO",
             "tipologia":"Ospedaliero",
@@ -25441,7 +25451,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2540,
+            "index":2541,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI JESOLO",
             "tipologia":"Ospedaliero",
@@ -25451,7 +25461,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2541,
+            "index":2542,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI LEGNAGO",
             "tipologia":"Ospedaliero",
@@ -25461,7 +25471,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2542,
+            "index":2543,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI LONIGO",
             "tipologia":"Ospedaliero",
@@ -25471,7 +25481,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2543,
+            "index":2544,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI MONTEBELLUNA",
             "tipologia":"Ospedaliero",
@@ -25481,7 +25491,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2544,
+            "index":2545,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI MOTTA DI LIVENZA",
             "tipologia":"Ospedaliero",
@@ -25491,7 +25501,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2545,
+            "index":2546,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI NOVENTA",
             "tipologia":"Ospedaliero",
@@ -25501,7 +25511,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2546,
+            "index":2547,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI PORTOGRUARO",
             "tipologia":"Ospedaliero",
@@ -25511,7 +25521,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2547,
+            "index":2548,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI ROVIGO",
             "tipologia":"Ospedaliero",
@@ -25521,7 +25531,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2548,
+            "index":2549,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI SAN BONIFACIO",
             "tipologia":"Ospedaliero",
@@ -25531,7 +25541,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2549,
+            "index":2550,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI SAN DONA' DI PIAVE",
             "tipologia":"Ospedaliero",
@@ -25541,7 +25551,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2550,
+            "index":2551,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI TRECENTA",
             "tipologia":"Ospedaliero",
@@ -25551,7 +25561,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2551,
+            "index":2552,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI VALDAGNO",
             "tipologia":"Ospedaliero",
@@ -25561,7 +25571,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2552,
+            "index":2553,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI VICENZA",
             "tipologia":"Ospedaliero",
@@ -25571,7 +25581,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2553,
+            "index":2554,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI VILLAFRANCA",
             "tipologia":"Ospedaliero",
@@ -25581,7 +25591,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2554,
+            "index":2555,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE DI VITTORIO VENETO",
             "tipologia":"Ospedaliero",
@@ -25591,7 +25601,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2555,
+            "index":2556,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE MILITARE (PUNTO VACCINAZIONI)",
             "tipologia":"Territoriale",
@@ -25601,7 +25611,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2556,
+            "index":2557,
             "area":"VEN",
             "denominazione_struttura":"OSPEDALE SACRO CUORE DON CALABRIA",
             "tipologia":"Ospedaliero",
@@ -25611,7 +25621,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2557,
+            "index":2558,
             "area":"VEN",
             "denominazione_struttura":"PALAZZETTO DELLO SPORT 'BORGO ROSSI' (PUNTO VACCINAZIONE)",
             "tipologia":"Territoriale",
@@ -25621,7 +25631,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2558,
+            "index":2559,
             "area":"VEN",
             "denominazione_struttura":"PALAZZETTO DELLO SPORT DI CITTADELLA",
             "tipologia":"Territoriale",
@@ -25631,7 +25641,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2559,
+            "index":2560,
             "area":"VEN",
             "denominazione_struttura":"PALAZZETTO DELLO SPORT DI LOREGGIA",
             "tipologia":"Territoriale",
@@ -25641,7 +25651,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2560,
+            "index":2561,
             "area":"VEN",
             "denominazione_struttura":"POLIAMB. OSPEDALE  FATEBENEFR.",
             "tipologia":"Territoriale",
@@ -25651,7 +25661,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2561,
+            "index":2562,
             "area":"VEN",
             "denominazione_struttura":"POLIAMB. OSPEDALE  SAN MARCO",
             "tipologia":"Territoriale",
@@ -25661,7 +25671,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2562,
+            "index":2563,
             "area":"VEN",
             "denominazione_struttura":"POLIAMB. OSPEDALE  VILLA SALUS",
             "tipologia":"Territoriale",
@@ -25671,7 +25681,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2563,
+            "index":2564,
             "area":"VEN",
             "denominazione_struttura":"POLIAMB. SAN CAMILLO IRCCS S.R.L.",
             "tipologia":"Territoriale",
@@ -25681,7 +25691,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2564,
+            "index":2565,
             "area":"VEN",
             "denominazione_struttura":"POLIAMBULATORIO TERRITORIALE - VILLORBA",
             "tipologia":"Territoriale",
@@ -25691,7 +25701,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2565,
+            "index":2566,
             "area":"VEN",
             "denominazione_struttura":"PRESIDIO RIABILIT. VILLA MARIA",
             "tipologia":"Territoriale",
@@ -25701,7 +25711,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2566,
+            "index":2567,
             "area":"VEN",
             "denominazione_struttura":"PRIMAVERA 85 - CAD A. BABA",
             "tipologia":"Territoriale",
@@ -25711,7 +25721,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2567,
+            "index":2568,
             "area":"VEN",
             "denominazione_struttura":"PRIMAVERA 85 - CASA RONCOLATO",
             "tipologia":"Territoriale",
@@ -25721,7 +25731,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2568,
+            "index":2569,
             "area":"VEN",
             "denominazione_struttura":"PRIMAVERA 85 - CONTATTO",
             "tipologia":"Territoriale",
@@ -25731,7 +25741,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2569,
+            "index":2570,
             "area":"VEN",
             "denominazione_struttura":"PRIMAVERA 85 - LITTORINA",
             "tipologia":"Territoriale",
@@ -25741,7 +25751,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2570,
+            "index":2571,
             "area":"VEN",
             "denominazione_struttura":"PRIMAVERA 85 CLP",
             "tipologia":"Territoriale",
@@ -25751,7 +25761,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2571,
+            "index":2572,
             "area":"VEN",
             "denominazione_struttura":"PSR ALBATROS PIANO INFINITO",
             "tipologia":"Territoriale",
@@ -25761,7 +25771,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2572,
+            "index":2573,
             "area":"VEN",
             "denominazione_struttura":"PSR MOBY DICK",
             "tipologia":"Territoriale",
@@ -25771,7 +25781,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2573,
+            "index":2574,
             "area":"VEN",
             "denominazione_struttura":"PSR NO PROBLEM COOP. STUDIO PROGETTO",
             "tipologia":"Territoriale",
@@ -25781,7 +25791,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":2574,
+            "index":2575,
             "area":"VEN",
             "denominazione_struttura":"RSA \"NOI CON VOI\"  - MOGLIANO VENETO",
             "tipologia":"Territoriale",
