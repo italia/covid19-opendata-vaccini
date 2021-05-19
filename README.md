@@ -39,124 +39,124 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
-| index | integer | Codice identificativo del record. |
-| area | string | Sigla della regione di consegna. |
-| fornitore | string | Nome completo del fornitore del vaccino. |
-| data_consegna | datetime | Il giorno in cui è avvenuta la consegna. |
-| numero_dosi | integer | Il numero di dosi del vaccino consegnate in quel giorno per regione. |
-| codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
-| codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
-| codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
-| nome_regione | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| index | Integer | Codice identificativo del record. |
+| area | String | Sigla della regione di consegna. |
+| fornitore | String | Nome completo del fornitore del vaccino. |
+| data_consegna | Datetime | Il giorno in cui è avvenuta la consegna. |
+| numero_dosi | Integer | Il numero di dosi del vaccino consegnate in quel giorno per regione. |
+| codice_NUTS1 | String | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
+| codice_NUTS2 | String | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
+| codice_regione_ISTAT | Integer | Codice ISTAT della Regione. |
+| nome_regione | String | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 
 **vaccini-summary-latest**
 
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
-| index | integer | Codice identificativo del record. |
-| area | string | Sigla della regione di consegna. |
-| ultimo_aggiornamento | datetime | Giorno dell’ultimo aggiornamento del totale. |
-| dosi_consegnate | integer | Numero totale di dosi di vaccino consegnate per regione. |
-| dosi_somministrate | integer | Numero totale di dosi di vaccino somministrate per regione. |
+| index | Integer | Codice identificativo del record. |
+| area | String | Sigla della regione di consegna. |
+| ultimo_aggiornamento | Datetime | Giorno dell’ultimo aggiornamento del totale. |
+| dosi_consegnate | Integer | Numero totale di dosi di vaccino consegnate per regione. |
+| dosi_somministrate | Integer | Numero totale di dosi di vaccino somministrate per regione. |
 | percentuale_somministrazione | number | Percentuale di dosi somministrate sulle dosi consegnate. |
-| codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
-| codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
-| codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
-| nome_regione | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| codice_NUTS1 | String | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
+| codice_NUTS2 | String | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
+| codice_regione_ISTAT | Integer | Codice ISTAT della Regione. |
+| nome_regione | String | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 
 **somministrazioni-vaccini-latest**
 
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
-| index | integer | Codice identificativo del record. |
-| area | string | Sigla della regione di consegna. |
-| fornitore | string | nome completo del fornitore del vaccino. |
-| data_somministrazione | datetime | Data di somministrazione. |
-| fascia_anagrafica | string | Identifica la fascia anagrafiche in cui appartengono i soggetti a cui è stato somministrato il vaccino. |
-| sesso_maschile | integer | Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
-| sesso_femminile | integer | Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
-| categoria_over80 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica maggiore o uguale a 80 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_soggetti_fragili | integer | Numero di somministrazioni effettuate ai soggetti fragili e loro caregiver indicate per giorno, regione e fascia d'età. |
-| categoria_operatori_sanitari_sociosanitari | integer | Numero di somministrazioni effettuate agli operatori sanitari e sociosanitari indicate per giorno, regione e fascia d'età. |
-| categoria_personale_non_sanitario | integer | Numero di somministrazioni effettuate al personale non sanitario impiegato in strutture sanitarie e in attività lavorativa a rischio indicate per giorno, regione e fascia d'età. |
-| categoria_ospiti_rsa | integer | Numero di somministrazioni effettuate ai soggetti ospiti di comunità residenziali indicate per giorno, regione e fascia d'età. |
-| categoria_70_79 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 70 e 79 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_60_69 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 60 e 69 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_personale_scolastico | integer | Numero di somministrazioni effettuate al personale scolastico indicate per giorno, regione e fascia d'età. |
-| categoria_forze_armate | integer | Numero di somministrazioni effettuate al personale del comparto difesa e sicurezza indicate per giorno, regione e fascia d'età. |
-| categoria_altro | integer | Numero di somministrazioni effettuate ai soggetti non riconducibili alle precedenti categorie indicate per giorno, regione e fascia d'età. |
-| prima_dose | integer | Numero prime somministrazioni. |
-| seconda_dose | integer | Numero seconde somministrazioni. |
-| codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
-| codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
-| codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
-| nome_regione | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| index | Integer | Codice identificativo del record. |
+| area | String | Sigla della regione di consegna. |
+| fornitore | String | nome completo del fornitore del vaccino. |
+| data_somministrazione | Datetime | Data di somministrazione. |
+| fascia_anagrafica | String | Identifica la fascia anagrafiche in cui appartengono i soggetti a cui è stato somministrato il vaccino. |
+| sesso_maschile | Integer | Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
+| sesso_femminile | Integer | Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
+| categoria_over80 | Integer | Numero somministrazioni effettuate ai soggetti con età anagrafica maggiore o uguale a 80 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
+| categoria_soggetti_fragili | Integer | Numero di somministrazioni effettuate ai soggetti fragili e loro caregiver indicate per giorno, regione e fascia d'età. |
+| categoria_operatori_sanitari_sociosanitari | Integer | Numero di somministrazioni effettuate agli operatori sanitari e sociosanitari indicate per giorno, regione e fascia d'età. |
+| categoria_personale_non_sanitario | Integer | Numero di somministrazioni effettuate al personale non sanitario impiegato in strutture sanitarie e in attività lavorativa a rischio indicate per giorno, regione e fascia d'età. |
+| categoria_ospiti_rsa | Integer | Numero di somministrazioni effettuate ai soggetti ospiti di comunità residenziali indicate per giorno, regione e fascia d'età. |
+| categoria_70_79 | Integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 70 e 79 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
+| categoria_60_69 | Integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 60 e 69 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
+| categoria_personale_scolastico | Integer | Numero di somministrazioni effettuate al personale scolastico indicate per giorno, regione e fascia d'età. |
+| categoria_forze_armate | Integer | Numero di somministrazioni effettuate al personale del comparto difesa e sicurezza indicate per giorno, regione e fascia d'età. |
+| categoria_altro | Integer | Numero di somministrazioni effettuate ai soggetti non riconducibili alle precedenti categorie indicate per giorno, regione e fascia d'età. |
+| prima_dose | Integer | Numero prime somministrazioni. |
+| seconda_dose | Integer | Numero seconde somministrazioni. |
+| codice_NUTS1 | String | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
+| codice_NUTS2 | String | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
+| codice_regione_ISTAT | Integer | Codice ISTAT della Regione. |
+| nome_regione | String | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 
 **somministrazioni-vaccini-summary-latest**
 
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
-| index | integer | Codice identificativo del record. |
-| area | string | Sigla della regione in cui è avvenuta la somministrazione. |
-| data_somministrazione | datetime | Giorno in cui è avvenuta la somministrazione. |
-| totale | integer | Numero totale di dosi di vaccino somministrate per giorno e regione. |
-| sesso_maschile | integer | Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno e regione. |
-| sesso_femminile | integer | Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno e regione. |
-| categoria_over80 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica maggiore o uguale a 80 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_soggetti_fragili | integer | Numero di somministrazioni effettuate ai soggetti fragili e loro caregiver indicate per giorno, regione e fascia d'età. |
-| categoria_operatori_sanitari_sociosanitari | integer | Numero di somministrazioni effettuate agli operatori sanitari e sociosanitari indicate per giorno, regione e fascia d'età. |
-| categoria_personale_non_sanitario | integer | Numero di somministrazioni effettuate al personale non sanitario impiegato in strutture sanitarie e in attività lavorativa a rischio indicate per giorno, regione e fascia d'età. |
-| categoria_ospiti_rsa | integer | Numero di somministrazioni effettuate ai soggetti ospiti di comunità residenziali indicate per giorno, regione e fascia d'età. |
-| categoria_70_79 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 70 e 79 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_60_69 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 60 e 69 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_personale_scolastico | integer | Numero di somministrazioni effettuate al personale scolastico indicate per giorno, regione e fascia d'età. |
-| categoria_forze_armate | integer | Numero di somministrazioni effettuate al personale del comparto difesa e sicurezza indicate per giorno, regione e fascia d'età. |
-| categoria_altro | integer | Numero di somministrazioni effettuate ai soggetti non riconducibili alle precedenti categorie indicate per giorno, regione e fascia d'età. |
-| prima_dose | integer | Numero prime somministrazioni. |
-| seconda_dose | integer | Numero seconde somministrazioni. |
-| codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
-| codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
-| codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
-| nome_regione | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| index | Integer | Codice identificativo del record. |
+| area | String | Sigla della regione in cui è avvenuta la somministrazione. |
+| data_somministrazione | Datetime | Giorno in cui è avvenuta la somministrazione. |
+| totale | Integer | Numero totale di dosi di vaccino somministrate per giorno e regione. |
+| sesso_maschile | Integer | Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno e regione. |
+| sesso_femminile | Integer | Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno e regione. |
+| categoria_over80 | Integer | Numero somministrazioni effettuate ai soggetti con età anagrafica maggiore o uguale a 80 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
+| categoria_soggetti_fragili | Integer | Numero di somministrazioni effettuate ai soggetti fragili e loro caregiver indicate per giorno, regione e fascia d'età. |
+| categoria_operatori_sanitari_sociosanitari | Integer | Numero di somministrazioni effettuate agli operatori sanitari e sociosanitari indicate per giorno, regione e fascia d'età. |
+| categoria_personale_non_sanitario | Integer | Numero di somministrazioni effettuate al personale non sanitario impiegato in strutture sanitarie e in attività lavorativa a rischio indicate per giorno, regione e fascia d'età. |
+| categoria_ospiti_rsa | Integer | Numero di somministrazioni effettuate ai soggetti ospiti di comunità residenziali indicate per giorno, regione e fascia d'età. |
+| categoria_70_79 | Integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 70 e 79 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
+| categoria_60_69 | Integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 60 e 69 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
+| categoria_personale_scolastico | Integer | Numero di somministrazioni effettuate al personale scolastico indicate per giorno, regione e fascia d'età. |
+| categoria_forze_armate | Integer | Numero di somministrazioni effettuate al personale del comparto difesa e sicurezza indicate per giorno, regione e fascia d'età. |
+| categoria_altro | Integer | Numero di somministrazioni effettuate ai soggetti non riconducibili alle precedenti categorie indicate per giorno, regione e fascia d'età. |
+| prima_dose | Integer | Numero prime somministrazioni. |
+| seconda_dose | Integer | Numero seconde somministrazioni. |
+| codice_NUTS1 | String | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
+| codice_NUTS2 | String | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
+| codice_regione_ISTAT | Integer | Codice ISTAT della Regione. |
+| nome_regione | String | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 
 **punti-somministrazione-tipologia**
 
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
-| area | string | Regione. |
-| denominazione_struttura | string | Presidio di somministrazione. |
-| tipologia | string | Tipologia del presidio di somministrazione: ospedaliero o territoriale. |
-| codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
-| codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
-| codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
-| nome_regione | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| area | String | Regione. |
+| denominazione_struttura | String | Presidio di somministrazione. |
+| tipologia | String | Tipologia del presidio di somministrazione: ospedaliero o territoriale. |
+| codice_NUTS1 | String | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
+| codice_NUTS2 | String | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
+| codice_regione_ISTAT | Integer | Codice ISTAT della Regione. |
+| nome_regione | String | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 
 **anagrafica-vaccini-summary-latest**
 
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
-| fascia_anagrafica | string | Fascia anagrafica. |
-| totale | integer | Totale vaccini somministrati. |
-| sesso_maschile | integer | Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
-| sesso_femminile | integer | Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
-| categoria_over80 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica maggiore o uguale a 80 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_soggetti_fragili | integer | Numero di somministrazioni effettuate ai soggetti fragili e loro caregiver indicate per giorno, regione e fascia d'età. |
-| categoria_operatori_sanitari_sociosanitari | integer | Numero di somministrazioni effettuate agli operatori sanitari e sociosanitari indicate per giorno, regione e fascia d'età. |
-| categoria_personale_non_sanitario | integer | Numero di somministrazioni effettuate al personale non sanitario impiegato in strutture sanitarie e in attività lavorativa a rischio indicate per giorno, regione e fascia d'età. |
-| categoria_ospiti_rsa | integer | Numero di somministrazioni effettuate ai soggetti ospiti di comunità residenziali indicate per giorno, regione e fascia d'età. |
-| categoria_70_79 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 70 e 79 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_60_69 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 60 e 69 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_personale_scolastico | integer | Numero di somministrazioni effettuate al personale scolastico indicate per giorno, regione e fascia d'età. |
-| categoria_forze_armate | integer | Numero di somministrazioni effettuate al personale del comparto difesa e sicurezza indicate per giorno, regione e fascia d'età. |
-| categoria_altro | integer | Numero di somministrazioni effettuate ai soggetti non riconducibili alle precedenti categorie indicate per giorno, regione e fascia d'età. |
-| prima_dose | integer | Numero prime somministrazioni. |
-| seconda_dose | integer | Numero seconde somministrazioni. |
+| fascia_anagrafica | String | Fascia anagrafica. |
+| totale | Integer | Totale vaccini somministrati. |
+| sesso_maschile | Integer | Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
+| sesso_femminile | Integer | Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
+| categoria_over80 | Integer | Numero somministrazioni effettuate ai soggetti con età anagrafica maggiore o uguale a 80 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
+| categoria_soggetti_fragili | Integer | Numero di somministrazioni effettuate ai soggetti fragili e loro caregiver indicate per giorno, regione e fascia d'età. |
+| categoria_operatori_sanitari_sociosanitari | Integer | Numero di somministrazioni effettuate agli operatori sanitari e sociosanitari indicate per giorno, regione e fascia d'età. |
+| categoria_personale_non_sanitario | Integer | Numero di somministrazioni effettuate al personale non sanitario impiegato in strutture sanitarie e in attività lavorativa a rischio indicate per giorno, regione e fascia d'età. |
+| categoria_ospiti_rsa | Integer | Numero di somministrazioni effettuate ai soggetti ospiti di comunità residenziali indicate per giorno, regione e fascia d'età. |
+| categoria_70_79 | Integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 70 e 79 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
+| categoria_60_69 | Integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 60 e 69 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
+| categoria_personale_scolastico | Integer | Numero di somministrazioni effettuate al personale scolastico indicate per giorno, regione e fascia d'età. |
+| categoria_forze_armate | Integer | Numero di somministrazioni effettuate al personale del comparto difesa e sicurezza indicate per giorno, regione e fascia d'età. |
+| categoria_altro | Integer | Numero di somministrazioni effettuate ai soggetti non riconducibili alle precedenti categorie indicate per giorno, regione e fascia d'età. |
+| prima_dose | Integer | Numero prime somministrazioni. |
+| seconda_dose | Integer | Numero seconde somministrazioni. |
 
 **last-update-dataset**
 
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
-| ultimo_aggiornamento | datetime | Data e ora di ultimo aggiornamento del dataset. |
+| ultimo_aggiornamento | Datetime | Data e ora di ultimo aggiornamento del dataset. |
 
 
 # Maintainer
