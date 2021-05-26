@@ -4,6 +4,9 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
+## 28/05/2021
+La pubblicazione dei dati sarà ricondotta alla sola fascia d'età. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+
 ## 20/04/2021
 Aggiunti i campi **categoria_60_69**, **categoria_70_79** e **categoria_soggetti_fragili** all'interno dei file `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
 
