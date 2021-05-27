@@ -75,16 +75,6 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | fascia_anagrafica | string | Identifica la fascia anagrafiche in cui appartengono i soggetti a cui è stato somministrato il vaccino. |
 | sesso_maschile | integer | Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
 | sesso_femminile | integer | Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
-| categoria_over80 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica maggiore o uguale a 80 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_soggetti_fragili | integer | Numero di somministrazioni effettuate ai soggetti fragili e loro caregiver indicate per giorno, regione e fascia d'età. |
-| categoria_operatori_sanitari_sociosanitari | integer | Numero di somministrazioni effettuate agli operatori sanitari e sociosanitari indicate per giorno, regione e fascia d'età. |
-| categoria_personale_non_sanitario | integer | Numero di somministrazioni effettuate al personale non sanitario impiegato in strutture sanitarie e in attività lavorativa a rischio indicate per giorno, regione e fascia d'età. |
-| categoria_ospiti_rsa | integer | Numero di somministrazioni effettuate ai soggetti ospiti di comunità residenziali indicate per giorno, regione e fascia d'età. |
-| categoria_70_79 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 70 e 79 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_60_69 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 60 e 69 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_personale_scolastico | integer | Numero di somministrazioni effettuate al personale scolastico indicate per giorno, regione e fascia d'età. |
-| categoria_forze_armate | integer | Numero di somministrazioni effettuate al personale del comparto difesa e sicurezza indicate per giorno, regione e fascia d'età. |
-| categoria_altro | integer | Numero di somministrazioni effettuate ai soggetti non riconducibili alle precedenti categorie indicate per giorno, regione e fascia d'età. |
 | prima_dose | integer | Numero prime somministrazioni. |
 | seconda_dose | integer | Numero seconde somministrazioni. |
 | codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
@@ -102,16 +92,6 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | totale | integer | Numero totale di dosi di vaccino somministrate per giorno e regione. |
 | sesso_maschile | integer | Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno e regione. |
 | sesso_femminile | integer | Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno e regione. |
-| categoria_over80 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica maggiore o uguale a 80 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_soggetti_fragili | integer | Numero di somministrazioni effettuate ai soggetti fragili e loro caregiver indicate per giorno, regione e fascia d'età. |
-| categoria_operatori_sanitari_sociosanitari | integer | Numero di somministrazioni effettuate agli operatori sanitari e sociosanitari indicate per giorno, regione e fascia d'età. |
-| categoria_personale_non_sanitario | integer | Numero di somministrazioni effettuate al personale non sanitario impiegato in strutture sanitarie e in attività lavorativa a rischio indicate per giorno, regione e fascia d'età. |
-| categoria_ospiti_rsa | integer | Numero di somministrazioni effettuate ai soggetti ospiti di comunità residenziali indicate per giorno, regione e fascia d'età. |
-| categoria_70_79 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 70 e 79 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_60_69 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 60 e 69 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_personale_scolastico | integer | Numero di somministrazioni effettuate al personale scolastico indicate per giorno, regione e fascia d'età. |
-| categoria_forze_armate | integer | Numero di somministrazioni effettuate al personale del comparto difesa e sicurezza indicate per giorno, regione e fascia d'età. |
-| categoria_altro | integer | Numero di somministrazioni effettuate ai soggetti non riconducibili alle precedenti categorie indicate per giorno, regione e fascia d'età. |
 | prima_dose | integer | Numero prime somministrazioni. |
 | seconda_dose | integer | Numero seconde somministrazioni. |
 | codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
@@ -139,16 +119,6 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | totale | integer | Totale vaccini somministrati. |
 | sesso_maschile | integer | Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
 | sesso_femminile | integer | Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
-| categoria_over80 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica maggiore o uguale a 80 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_soggetti_fragili | integer | Numero di somministrazioni effettuate ai soggetti fragili e loro caregiver indicate per giorno, regione e fascia d'età. |
-| categoria_operatori_sanitari_sociosanitari | integer | Numero di somministrazioni effettuate agli operatori sanitari e sociosanitari indicate per giorno, regione e fascia d'età. |
-| categoria_personale_non_sanitario | integer | Numero di somministrazioni effettuate al personale non sanitario impiegato in strutture sanitarie e in attività lavorativa a rischio indicate per giorno, regione e fascia d'età. |
-| categoria_ospiti_rsa | integer | Numero di somministrazioni effettuate ai soggetti ospiti di comunità residenziali indicate per giorno, regione e fascia d'età. |
-| categoria_70_79 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 70 e 79 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_60_69 | integer | Numero somministrazioni effettuate ai soggetti con età anagrafica compresa tra 60 e 69 anni, non appartenenti ad altre categorie prioritarie ma ricevono la somministrazione esclusivamente sul criterio dell'età anagrafica, indicate per giorno, regione. |
-| categoria_personale_scolastico | integer | Numero di somministrazioni effettuate al personale scolastico indicate per giorno, regione e fascia d'età. |
-| categoria_forze_armate | integer | Numero di somministrazioni effettuate al personale del comparto difesa e sicurezza indicate per giorno, regione e fascia d'età. |
-| categoria_altro | integer | Numero di somministrazioni effettuate ai soggetti non riconducibili alle precedenti categorie indicate per giorno, regione e fascia d'età. |
 | prima_dose | integer | Numero prime somministrazioni. |
 | seconda_dose | integer | Numero seconde somministrazioni. |
 
@@ -161,8 +131,11 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 
 # Maintainer
 
-* team Struttura Commissariale per l'Emergenza Covid-19
+* datateam-opendata - utenza appertenente alla Struttura Commissariale per l'Emergenza Covid-19
 
+# NOTE
+
+A partire dal 18/01/2021 i dati sono in fase di consolidamento da parte delle regioni e potranno subire alcune variazioni.
 
 # Licenza
 
