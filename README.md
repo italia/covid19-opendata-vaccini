@@ -74,7 +74,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | area | string | Sigla della regione di consegna. |
 | fornitore | string | nome completo del fornitore del vaccino. |
 | data_somministrazione | datetime | Data di somministrazione. |
-| fascia_anagrafica | string | Identifica la fascia anagrafiche alla quale appartengono i soggetti a cui è stato somministrato il vaccino. |
+| fascia_anagrafica | string | Identifica la fascia anagrafica alla quale appartengono i soggetti a cui è stato somministrato il vaccino. |
 | sesso_maschile | integer | Totale dei soggetti di sesso maschile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
 | sesso_femminile | integer | Totale dei soggetti di sesso femminile a cui è stato somministrato il vaccino per giorno, regione e fascia d’età. |
 | prima_dose | integer | Numero prime somministrazioni. |
@@ -137,7 +137,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | index | integer | Codice identificativo del record. |
 | area | string | Sigla della Regione/Provincia Autonoma. |
 | nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
-| fascia_anagrafica | string | Fascia anagrafiche a cui appartengono i soggetti vaccinabili. |
+| fascia_anagrafica | string | Fascia anagrafica a cui appartengono i soggetti vaccinabili. |
 | totale_popolazione | integer | Numero totale della popolazione presente in platea per una data fascia d'età |
 
 
