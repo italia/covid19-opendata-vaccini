@@ -2,7 +2,7 @@
 <h1 align="center">Covid-19 Opendata Vaccini</h1>
 
 <div align="center">
-<img src="logo.png" width="150">
+<img src="coccarda.png" width="150">
 </div>
 <div align="center">
   Questo repository contiene i dati in formato aperto relativi ai vaccini anti COVID-19
@@ -32,6 +32,8 @@ Nella cartella dati si possono trovare 6 tabelle in formato json e csv:
 *   **punti-somministrazione-latest**: punti di somministrazione per ciascuna Regione e Provincia Autonoma.
 *   **anagrafica-vaccini-summary-latest**: totali delle somministrazioni per fasce d'età.
 *   **last-update-dataset**: data e ora di ultimo aggiornamento del dataset.
+*   **platea**: dati riferiti alla popolazione vaccinabile suddivisi per Regione/Provincia Autonoma e fascia d'età.
+
 
 I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 
@@ -127,6 +129,16 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
 | ultimo_aggiornamento | datetime | Data e ora di ultimo aggiornamento del dataset. |
+
+**platea**
+
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| index | integer | Codice identificativo del record. |
+| area | string | Sigla della Regione/Provincia Autonoma. |
+| nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| fascia_anagrafica | string | Identifica la fascia anagrafiche in cui appartengono i soggetti vaccinabili. |
+| totale_popolazione | integer | Numero totale della popolazione presente in platea per una data fascia d'età |
 
 
 # Maintainer
