@@ -50,7 +50,7 @@ ABR,Moderna,12700,2021-04-02,ITF,ITF1,13,Abruzzo
 ABR,Vaxzevria (AstraZeneca),29800,2021-04-03,ITF,ITF1,13,Abruzzo
 ABR,Pfizer/BioNTech,38610,2021-04-06,ITF,ITF1,13,Abruzzo
 ABR,Vaxzevria (AstraZeneca),36,2021-04-07,ITF,ITF1,13,Abruzzo
-ABR,Vaxzevria (AstraZeneca),36,2021-04-09,ITF,ITF1,13,Abruzzo
+ABR,Vaxzevria (AstraZeneca),37,2021-04-09,ITF,ITF1,13,Abruzzo
 ABR,Pfizer/BioNTech,1170,2021-04-13,ITF,ITF1,13,Abruzzo
 ABR,Vaxzevria (AstraZeneca),1600,2021-04-13,ITF,ITF1,13,Abruzzo
 ABR,Pfizer/BioNTech,33930,2021-04-14,ITF,ITF1,13,Abruzzo
@@ -721,6 +721,7 @@ CAM,Pfizer/BioNTech,195390,2021-08-11,ITF,ITF3,15,Campania
 CAM,Moderna,58200,2021-08-13,ITF,ITF3,15,Campania
 CAM,Janssen,-2000,2021-08-16,ITF,ITF3,15,Campania
 CAM,Moderna,65701,2021-08-17,ITF,ITF3,15,Campania
+CAM,Vaxzevria (AstraZeneca),1,2021-08-17,ITF,ITF3,15,Campania
 EMR,Pfizer/BioNTech,975,2020-12-27,ITH,ITH5,8,Emilia-Romagna
 EMR,Pfizer/BioNTech,30225,2020-12-30,ITH,ITH5,8,Emilia-Romagna
 EMR,Pfizer/BioNTech,12675,2020-12-31,ITH,ITH5,8,Emilia-Romagna
@@ -1108,7 +1109,7 @@ LAZ,Pfizer/BioNTech,12871,2021-01-20,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,19892,2021-01-21,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,1,2021-01-23,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,3,2021-01-24,ITI,ITI4,12,Lazio
-LAZ,Moderna,2,2021-01-26,ITI,ITI4,12,Lazio
+LAZ,Moderna,3,2021-01-26,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,26910,2021-01-26,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,14040,2021-01-27,ITI,ITI4,12,Lazio
 LAZ,Moderna,2,2021-01-30,ITI,ITI4,12,Lazio
@@ -1135,6 +1136,7 @@ LAZ,Vaxzevria (AstraZeneca),48900,2021-02-19,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,1,2021-02-20,ITI,ITI4,12,Lazio
 LAZ,Vaxzevria (AstraZeneca),2,2021-02-20,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,1,2021-02-21,ITI,ITI4,12,Lazio
+LAZ,Moderna,1,2021-02-22,ITI,ITI4,12,Lazio
 LAZ,Vaxzevria (AstraZeneca),4,2021-02-22,ITI,ITI4,12,Lazio
 LAZ,Moderna,2,2021-02-23,ITI,ITI4,12,Lazio
 LAZ,Vaxzevria (AstraZeneca),3,2021-02-23,ITI,ITI4,12,Lazio
@@ -1289,7 +1291,7 @@ LAZ,Vaxzevria (AstraZeneca),19,2021-05-10,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,63,2021-05-11,ITI,ITI4,12,Lazio
 LAZ,Vaxzevria (AstraZeneca),48,2021-05-11,ITI,ITI4,12,Lazio
 LAZ,Janssen,1,2021-05-12,ITI,ITI4,12,Lazio
-LAZ,Moderna,1,2021-05-12,ITI,ITI4,12,Lazio
+LAZ,Moderna,2,2021-05-12,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,212971,2021-05-12,ITI,ITI4,12,Lazio
 LAZ,Vaxzevria (AstraZeneca),85,2021-05-12,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,314,2021-05-13,ITI,ITI4,12,Lazio
@@ -1355,7 +1357,7 @@ LAZ,Pfizer/BioNTech,204,2021-06-02,ITI,ITI4,12,Lazio
 LAZ,Vaxzevria (AstraZeneca),75,2021-06-02,ITI,ITI4,12,Lazio
 LAZ,Janssen,33750,2021-06-03,ITI,ITI4,12,Lazio
 LAZ,Moderna,30,2021-06-03,ITI,ITI4,12,Lazio
-LAZ,Pfizer/BioNTech,30858,2021-06-03,ITI,ITI4,12,Lazio
+LAZ,Pfizer/BioNTech,30859,2021-06-03,ITI,ITI4,12,Lazio
 LAZ,Vaxzevria (AstraZeneca),160625,2021-06-03,ITI,ITI4,12,Lazio
 LAZ,Moderna,60,2021-06-04,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,670,2021-06-04,ITI,ITI4,12,Lazio
@@ -1376,7 +1378,7 @@ LAZ,Vaxzevria (AstraZeneca),1399,2021-06-08,ITI,ITI4,12,Lazio
 LAZ,Moderna,156,2021-06-09,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,289343,2021-06-09,ITI,ITI4,12,Lazio
 LAZ,Vaxzevria (AstraZeneca),1691,2021-06-09,ITI,ITI4,12,Lazio
-LAZ,Moderna,71,2021-06-10,ITI,ITI4,12,Lazio
+LAZ,Moderna,72,2021-06-10,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,448,2021-06-10,ITI,ITI4,12,Lazio
 LAZ,Vaxzevria (AstraZeneca),1619,2021-06-10,ITI,ITI4,12,Lazio
 LAZ,Janssen,25800,2021-06-11,ITI,ITI4,12,Lazio
@@ -1535,7 +1537,7 @@ LAZ,Pfizer/BioNTech,9,2021-08-01,ITI,ITI4,12,Lazio
 LAZ,Vaxzevria (AstraZeneca),5,2021-08-01,ITI,ITI4,12,Lazio
 LAZ,Janssen,9940,2021-08-02,ITI,ITI4,12,Lazio
 LAZ,Moderna,17,2021-08-02,ITI,ITI4,12,Lazio
-LAZ,Pfizer/BioNTech,80,2021-08-02,ITI,ITI4,12,Lazio
+LAZ,Pfizer/BioNTech,81,2021-08-02,ITI,ITI4,12,Lazio
 LAZ,Janssen,1,2021-08-03,ITI,ITI4,12,Lazio
 LAZ,Moderna,77708,2021-08-03,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,42,2021-08-03,ITI,ITI4,12,Lazio
@@ -2975,7 +2977,7 @@ SAR,Pfizer/BioNTech,18720,2021-03-22,ITG,ITG2,20,Sardegna
 SAR,Vaxzevria (AstraZeneca),145,2021-03-22,ITG,ITG2,20,Sardegna
 SAR,Vaxzevria (AstraZeneca),257,2021-03-23,ITG,ITG2,20,Sardegna
 SAR,Vaxzevria (AstraZeneca),122,2021-03-24,ITG,ITG2,20,Sardegna
-SAR,Vaxzevria (AstraZeneca),7813,2021-03-25,ITG,ITG2,20,Sardegna
+SAR,Vaxzevria (AstraZeneca),7814,2021-03-25,ITG,ITG2,20,Sardegna
 SAR,Vaxzevria (AstraZeneca),370,2021-03-26,ITG,ITG2,20,Sardegna
 SAR,Vaxzevria (AstraZeneca),13,2021-03-27,ITG,ITG2,20,Sardegna
 SAR,Vaxzevria (AstraZeneca),23,2021-03-28,ITG,ITG2,20,Sardegna
@@ -3053,7 +3055,7 @@ SAR,Moderna,9900,2021-05-30,ITG,ITG2,20,Sardegna
 SAR,Vaxzevria (AstraZeneca),192,2021-05-31,ITG,ITG2,20,Sardegna
 SAR,Moderna,55,2021-06-01,ITG,ITG2,20,Sardegna
 SAR,Pfizer/BioNTech,90090,2021-06-01,ITG,ITG2,20,Sardegna
-SAR,Vaxzevria (AstraZeneca),106,2021-06-01,ITG,ITG2,20,Sardegna
+SAR,Vaxzevria (AstraZeneca),107,2021-06-01,ITG,ITG2,20,Sardegna
 SAR,Moderna,68,2021-06-03,ITG,ITG2,20,Sardegna
 SAR,Pfizer/BioNTech,10530,2021-06-03,ITG,ITG2,20,Sardegna
 SAR,Vaxzevria (AstraZeneca),214,2021-06-03,ITG,ITG2,20,Sardegna
