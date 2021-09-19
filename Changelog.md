@@ -5,13 +5,13 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 ## Prossimi aggiornamenti
 
 ## 20/09/2021
-Sarà aggiunto il valore **dose_aggiuntiva** che identifica il numero di dosi aggiuntive somministrate. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+Aggiunto il valore **dose_aggiuntiva** che identifica il numero di dosi aggiuntive somministrate. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
 
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
 | dose_aggiuntiva | integer | Numero somministrazioni dose aggiuntiva |
 
-Sarà aggiunto il file `platea-dose-aggiuntiva` che definisce la popolazione oggetto di somministrazione di dose aggiuntiva suddivisa per Regione/Provincia Autonoma e categoria prevalente.
+Aggiunto il file `platea-dose-aggiuntiva` che definisce la popolazione oggetto di somministrazione di dose aggiuntiva suddivisa per Regione/Provincia Autonoma e categoria prevalente.
 
 **platea-dose-aggiuntiva**
 | Campo | Tipo di dati | Descrizione |
