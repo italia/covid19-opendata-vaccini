@@ -11,7 +11,7 @@
 
 # Descrizione repository
 
-Questo repository contiene i dati in formato aperto relativi alla consegna e somministrazione nelle varie regioni Italiane dei vaccini anti COVID-19. Il dataset è suddiviso in 8 tabelle che riguardano principalmente i dati sui vaccini rispetto a:
+Questo repository contiene i dati in formato aperto relativi alla consegna e somministrazione nelle varie regioni Italiane dei vaccini anti COVID-19. Il dataset è suddiviso in 10 tabelle che riguardano principalmente i dati sui vaccini rispetto a:
 
 
 *   consegne suddivise per data di consegna e regione;
