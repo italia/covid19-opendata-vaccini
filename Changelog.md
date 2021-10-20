@@ -1,17 +1,17 @@
-# CHANGELOG
+CHANGELOG
 
 Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai file pubblicati. Il file di **Changelog** sostituisce la **Roadmap** precedentemente pubblicata.
 
 ## Prossimi aggiornamenti
 
 ## 21/10/2021
-Sarà aggiunto il valore **dose_booster** che identifica il numero di dosi booster somministrate. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+Aggiunto il valore **dose_booster** che identifica il numero di dosi richiamo (booster) somministrate. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
 
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
-| dose_booster | integer | Numero somministrazioni dose booster |
+| dose_booster | integer | Numero somministrazioni dose richiamo (booster) |
 
-Sarà aggiunto il file `platea-dose-booster` che definisce la popolazione oggetto di somministrazione di dose richiamo (booster) che ha ultimato il ciclo vaccinale da almeno 6 mesi suddivisa per Regione/Provincia Autonoma e categoria prevalente.
+Aggiunto il file `platea-dose-booster` che definisce la popolazione oggetto di somministrazione di dose richiamo (booster) che ha ultimato il ciclo vaccinale da almeno 6 mesi suddivisa per Regione/Provincia Autonoma e categoria prevalente.
 
 **platea-dose-booster**
 | Campo | Tipo di dati | Descrizione |
@@ -19,9 +19,8 @@ Sarà aggiunto il file `platea-dose-booster` che definisce la popolazione oggett
 | index | integer | Codice identificativo del record. |
 | area | string | Sigla della Regione/Provincia Autonoma. |
 | nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
-| categoria_prevalente | string | Categoria prevalente a cui appartengono i soggetti oggetto di dose booster. |
-| totale_popolazione | integer | Numero totale della popolazione presente in platea oggetto di dose booster che ha completato il ciclo vaccinale da almeno 6 mesi diviso per Regione/Provincia Autonoma, categoria prevalente. |
-
+| categoria_prevalente | string | Categoria prevalente a cui appartengono i soggetti oggetto di dose richiamo (booster). |
+| totale_popolazione | integer | Numero totale della popolazione presente in platea oggetto di dose richiamo (booster) che ha completato il ciclo vaccinale da almeno 6 mesi diviso per Regione/Provincia Autonoma, categoria prevalente. |
 
 ## 20/09/2021
 Aggiunto il valore **dose_aggiuntiva** che identifica il numero di dosi aggiuntive somministrate. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
