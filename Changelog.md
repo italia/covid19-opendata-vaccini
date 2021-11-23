@@ -4,6 +4,18 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
+## 26/11/2021
+Sarà aggiunto il file `soggetti-guariti` che definisce la popolazione guarita dall'infezione Covid-19 da al massimo 6 mesi.
+
+**soggetti-guariti**
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| index | integer | Codice identificativo del record. |
+| area | string | Sigla della Regione/Provincia Autonoma. |
+| nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| fascia_anagrafica | string | Fascia anagrafica a cui appartengono i soggetti guariti. |
+| totale_guariti | integer | Numero totale della popolazione guarita da al massimo 6 mesi, per una data fascia d'età |
+
 ## 21/10/2021
 Aggiunto il valore **dose_booster** che identifica il numero di dosi richiamo (booster) somministrate. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
 
