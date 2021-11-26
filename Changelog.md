@@ -5,17 +5,17 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 ## Prossimi aggiornamenti
 
 ## 26/11/2021
-Verranno dismessi i file `platea-dose-aggiuntiva` e `platea-dose-booster`. 
+Sono stati dismessi i file `platea-dose-aggiuntiva` e `platea-dose-booster`. 
 
-Varranno dismessi i valori **dose_aggiuntiva** e **dose_booster**. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+Sono stati dismessi i valori **dose_aggiuntiva** e **dose_booster**. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
 
-Verrà aggiunto il valore **dose_addizionale_booster** che identifica il numero di dosi addizionali/richiamo (booster) somministrate. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+Aggiunto il valore **dose_addizionale_booster** che identifica il numero di dosi addizionali/richiamo (booster) somministrate. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
 
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
 | dose_addizionale_booster | integer | Numero somministrazioni dose addizionale/richiamo (booster) |
 
-Varrà aggiunto il file `platea-dose-addizionale-booster` che definisce la popolazione oggetto di somministrazione di dose addizionale e richiamo (booster) che ha ultimato il ciclo vaccinale da almeno 5 mesi suddivisa per Regione/Provincia Autonoma e categoria prevalente.
+Aggiunto il file `platea-dose-addizionale-booster` che definisce la popolazione oggetto di somministrazione di dose addizionale e richiamo (booster) che ha ultimato il ciclo vaccinale da almeno 5 mesi suddivisa per Regione/Provincia Autonoma e categoria prevalente.
 
 **platea-dose-addizionale-booster**
 | Campo | Tipo di dati | Descrizione |
