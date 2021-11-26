@@ -5,7 +5,7 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 ## Prossimi aggiornamenti
 
 ## 26/11/2021
-Sarà aggiunto il file `soggetti-guariti` che definisce la popolazione guarita dall'infezione Covid-19 da al massimo 6 mesi.
+Aggiunto il file `soggetti-guariti` che definisce la popolazione guarita dall'infezione Covid-19 da al massimo 6 mesi.
 
 **soggetti-guariti**
 | Campo | Tipo di dati | Descrizione |
