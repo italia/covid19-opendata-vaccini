@@ -5,6 +5,28 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 ## Prossimi aggiornamenti
 
 ## 26/11/2021
+Verranno dismessi i file `platea-dose-aggiuntiva` e `platea-dose-booster`. 
+
+Varranno dismessi i valori **dose_aggiuntiva** e **dose_booster**. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+
+Verrà aggiunto il valore **dose_addizionale_booster** che identifica il numero di dosi addizionali/richiamo (booster) somministrate. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| dose_addizionale_booster | integer | Numero somministrazioni dose addizionale/richiamo (booster) |
+
+Varrà aggiunto il file `platea-dose-addizionale-booster` che definisce la popolazione oggetto di somministrazione di dose addizionale e richiamo (booster) che ha ultimato il ciclo vaccinale da almeno 5 mesi suddivisa per Regione/Provincia Autonoma e categoria prevalente.
+
+**platea-dose-addizionale-booster**
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| index | integer | Codice identificativo del record. |
+| area | string | Sigla della Regione/Provincia Autonoma. |
+| nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| categoria_prevalente | string | Categoria prevalente a cui appartengono i soggetti oggetto di dose addizionale/richiamo (booster). |
+| totale_popolazione | integer | Numero totale della popolazione presente in platea oggetto di dose addizionale/richiamo (booster) che ha completato il ciclo vaccinale da almeno 5 mesi diviso per Regione/Provincia Autonoma, categoria prevalente. |
+
+## 26/11/2021
 Aggiunto il file `soggetti-guariti` che definisce la popolazione guarita dall'infezione Covid-19 da al massimo 6 mesi.
 
 **soggetti-guariti**
