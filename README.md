@@ -11,7 +11,7 @@
 
 # Descrizione repository
 
-Questo repository contiene i dati in formato aperto relativi alla consegna e somministrazione nelle varie regioni Italiane dei vaccini anti COVID-19. Il dataset è suddiviso in 10 tabelle che riguardano principalmente i dati sui vaccini rispetto a:
+Questo repository contiene i dati in formato aperto relativi alla consegna e somministrazione nelle varie regioni Italiane dei vaccini anti COVID-19. Il dataset è suddiviso in 11 tabelle che riguardano principalmente i dati sui vaccini rispetto a:
 
 
 *   consegne suddivise per data di consegna e regione;
@@ -21,7 +21,7 @@ Questo repository contiene i dati in formato aperto relativi alla consegna e som
 
 # Descrizione dataset
 
-Nella cartella dati si possono trovare 10 tabelle in formato json e csv:
+Nella cartella dati si possono trovare 11 tabelle in formato json e csv:
 
 
 *   **consegne-vaccini-latest**: dati sul totale delle consegne giornaliere dei vaccini suddivise per regioni.
@@ -34,6 +34,7 @@ Nella cartella dati si possono trovare 10 tabelle in formato json e csv:
 *   **platea**: dati riferiti alla popolazione vaccinabile suddivisi per Regione/Provincia Autonoma e fascia d'età.
 *   **platea-dose-aggiuntiva**: dati riferiti alla popolazione oggetto di dose aggiuntiva suddivisi per Regione/Provincia Autonoma e categoria prevalente.
 *   **platea-dose-booster**: dati riferiti alla popolazione oggetto di somministrazione di dose richiamo (booster) che ha ultimato il ciclo vaccinale dal almeno 6 mesi suddivisi per Regione/Provincia Autonoma e categoria prevalente.
+*   **soggetti-guariti**: dati riferiti alla popolazione guarita dall'infezione Covid-19 da al massimo 6 mesi e che, pertanto, non può ricevere somministrazioni.
 
 
 I campi di ogni tabella sono schematizzati nelle seguenti tavole:
@@ -169,6 +170,14 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | categoria_prevalente | string | Categoria prevalente a cui appartengono i soggetti oggetto di dose richiamo (booster). |
 | totale_popolazione | integer | Numero totale della popolazione presente in platea oggetto di dose richiamo (booster) che ha completato il ciclo vaccinale da almeno 6 mesi diviso per Regione/Provincia Autonoma, categoria prevalente. |
 
+**soggetti-guariti**
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| index | integer | Codice identificativo del record. |
+| area | string | Sigla della Regione/Provincia Autonoma. |
+| nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| fascia_anagrafica | string | Fascia anagrafica a cui appartengono i soggetti guariti. |
+| totale_guariti | integer | Numero totale della popolazione guarita da al massimo 6 mesi, per una data fascia d'età |
 
 # Maintainer
 
