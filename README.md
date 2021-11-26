@@ -11,17 +11,18 @@
 
 # Descrizione repository
 
-Questo repository contiene i dati in formato aperto relativi alla consegna e somministrazione nelle varie regioni Italiane dei vaccini anti COVID-19. Il dataset è suddiviso in 11 tabelle che riguardano principalmente i dati sui vaccini rispetto a:
+Questo repository contiene i dati in formato aperto relativi alla consegna e somministrazione nelle varie regioni Italiane dei vaccini anti COVID-19. Il dataset è suddiviso in 10 tabelle che riguardano principalmente i dati sui vaccini rispetto a:
 
 
 *   consegne suddivise per data di consegna e regione;
 *   somministrazioni suddivise per data, regione, fascia d'età, genere e categoria di appartenenza del soggetto vaccinato;
+*   platee di somministrazione;
 *   punti di somministrazione.
 
 
 # Descrizione dataset
 
-Nella cartella dati si possono trovare 11 tabelle in formato json e csv:
+Nella cartella dati si possono trovare 10 tabelle in formato json e csv:
 
 
 *   **consegne-vaccini-latest**: dati sul totale delle consegne giornaliere dei vaccini suddivise per regioni.
@@ -32,9 +33,8 @@ Nella cartella dati si possono trovare 11 tabelle in formato json e csv:
 *   **anagrafica-vaccini-summary-latest**: totali delle somministrazioni per fasce d'età.
 *   **last-update-dataset**: data e ora di ultimo aggiornamento del dataset.
 *   **platea**: dati riferiti alla popolazione vaccinabile suddivisi per Regione/Provincia Autonoma e fascia d'età.
-*   **platea-dose-aggiuntiva**: dati riferiti alla popolazione oggetto di dose aggiuntiva suddivisi per Regione/Provincia Autonoma e categoria prevalente.
-*   **platea-dose-booster**: dati riferiti alla popolazione oggetto di somministrazione di dose richiamo (booster) che ha ultimato il ciclo vaccinale dal almeno 6 mesi suddivisi per Regione/Provincia Autonoma e categoria prevalente.
-*   **soggetti-guariti**: dati riferiti alla popolazione guarita dall'infezione Covid-19 da al massimo 6 mesi e che, pertanto, non può ricevere somministrazioni.
+*   **platea-dose-addizionale-booster**: dati riferiti alla popolazione oggetto di dose addizionale/richiamo (booster) che ha ultimato il ciclo vaccinale dal almeno 5 mesi suddivisi per Regione/Provincia Autonoma e categoria prevalente.
+*   **soggetti-guariti**: dati riferiti alla popolazione guarita dall'infezione Covid-19 da al massimo 6 mesi.
 
 
 I campi di ogni tabella sono schematizzati nelle seguenti tavole:
@@ -82,8 +82,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | prima_dose | integer | Numero prime somministrazioni. |
 | seconda_dose | integer | Numero seconde somministrazioni. |
 | pregressa_infezione | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale con un'unica dose |
-| dose_aggiuntiva | integer | Numero somministrazioni dose aggiuntiva. |
-| dose_booster | integer | Numero somministrazioni dose richiamo (booster). |
+| dose_addizionale_booster | integer | Numero somministrazioni dose addizionale/richiamo (booster). |
 | codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
 | codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
 | codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
@@ -102,8 +101,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | prima_dose | integer | Numero prime somministrazioni. |
 | seconda_dose | integer | Numero seconde somministrazioni. |
 | pregressa_infezione | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale con un'unica dose |
-| dose_aggiuntiva | integer | Numero somministrazioni dose aggiuntiva. |
-| dose_booster | integer | Numero somministrazioni dose richiamo (booster). |
+| dose_addizionale_booster | integer | Numero somministrazioni dose addizionale/richiamo (booster). |
 | codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
 | codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
 | codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
@@ -132,8 +130,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | prima_dose | integer | Numero prime somministrazioni. |
 | seconda_dose | integer | Numero seconde somministrazioni. |
 | pregressa_infezione | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale con un'unica dose |
-| dose_aggiuntiva | integer | Numero somministrazioni dose aggiuntiva. |
-| dose_booster | integer | Numero somministrazioni dose richiamo (booster). |
+| dose_addizionale_booster | integer | Numero somministrazioni dose addizionale/richiamo (booster). |
 
 **last-update-dataset**
 
@@ -151,24 +148,14 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | fascia_anagrafica | string | Fascia anagrafica a cui appartengono i soggetti vaccinabili. |
 | totale_popolazione | integer | Numero totale della popolazione presente in platea per una data fascia d'età |
 
-**platea-dose-aggiuntiva**
-
+**platea-dose-addizionale-booster**
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
 | index | integer | Codice identificativo del record. |
 | area | string | Sigla della Regione/Provincia Autonoma. |
 | nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
-| categoria_prevalente | string | Categoria prevalente a cui appartengono i soggetti oggetto di dose aggiuntiva. |
-| totale_popolazione | integer | Numero totale della popolazione presente in platea per Regione/Provincia Autonoma, categoria prevalente |
-
-**platea-dose-booster**
-| Campo | Tipo di dati | Descrizione |
-| --- | --- | --- |
-| index | integer | Codice identificativo del record. |
-| area | string | Sigla della Regione/Provincia Autonoma. |
-| nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
-| categoria_prevalente | string | Categoria prevalente a cui appartengono i soggetti oggetto di dose richiamo (booster). |
-| totale_popolazione | integer | Numero totale della popolazione presente in platea oggetto di dose richiamo (booster) che ha completato il ciclo vaccinale da almeno 6 mesi diviso per Regione/Provincia Autonoma, categoria prevalente. |
+| categoria_prevalente | string | Categoria prevalente a cui appartengono i soggetti oggetto di dose addizionale/richiamo (booster). |
+| totale_popolazione | integer | Numero totale della popolazione presente in platea oggetto di dose addizionale/richiamo (booster) che ha completato il ciclo vaccinale da almeno 5 mesi diviso per Regione/Provincia Autonoma, categoria prevalente. |
 
 **soggetti-guariti**
 | Campo | Tipo di dati | Descrizione |
