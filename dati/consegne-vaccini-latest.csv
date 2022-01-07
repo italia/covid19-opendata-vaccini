@@ -171,6 +171,7 @@ ABR,Pfizer/BioNTech,25740,2021-12-29,ITF,ITF1,13,Abruzzo
 ABR,Moderna,16100,2022-01-05,ITF,ITF1,13,Abruzzo
 ABR,Pfizer Pediatrico,6000,2022-01-05,ITF,ITF1,13,Abruzzo
 ABR,Pfizer/BioNTech,29250,2022-01-05,ITF,ITF1,13,Abruzzo
+ABR,Pfizer/BioNTech,0,2022-01-07,ITF,ITF1,13,Abruzzo
 BAS,Pfizer/BioNTech,105,2020-12-27,ITF,ITF5,17,Basilicata
 BAS,Pfizer/BioNTech,4875,2020-12-30,ITF,ITF5,17,Basilicata
 BAS,Pfizer/BioNTech,2925,2021-01-05,ITF,ITF5,17,Basilicata
@@ -775,7 +776,7 @@ CAM,Vaxzevria (AstraZeneca),322,2021-06-01,ITF,ITF3,15,Campania
 CAM,Vaxzevria (AstraZeneca),1,2021-06-02,ITF,ITF3,15,Campania
 CAM,Moderna,123,2021-06-03,ITF,ITF3,15,Campania
 CAM,Pfizer/BioNTech,46940,2021-06-03,ITF,ITF3,15,Campania
-CAM,Vaxzevria (AstraZeneca),490,2021-06-03,ITF,ITF3,15,Campania
+CAM,Vaxzevria (AstraZeneca),491,2021-06-03,ITF,ITF3,15,Campania
 CAM,Janssen,32320,2021-06-04,ITF,ITF3,15,Campania
 CAM,Moderna,15021,2021-06-04,ITF,ITF3,15,Campania
 CAM,Pfizer/BioNTech,60,2021-06-04,ITF,ITF3,15,Campania
@@ -964,6 +965,7 @@ CAM,Moderna,20,2022-01-04,ITF,ITF3,15,Campania
 CAM,Moderna,72600,2022-01-05,ITF,ITF3,15,Campania
 CAM,Pfizer Pediatrico,72000,2022-01-05,ITF,ITF3,15,Campania
 CAM,Pfizer/BioNTech,134550,2022-01-05,ITF,ITF3,15,Campania
+CAM,Moderna,1,2022-01-07,ITF,ITF3,15,Campania
 EMR,Pfizer/BioNTech,975,2020-12-27,ITH,ITH5,8,Emilia-Romagna
 EMR,Pfizer/BioNTech,30225,2020-12-30,ITH,ITH5,8,Emilia-Romagna
 EMR,Pfizer/BioNTech,12675,2020-12-31,ITH,ITH5,8,Emilia-Romagna
@@ -1856,6 +1858,7 @@ FVG,Moderna,18,2022-01-03,ITH,ITH4,6,Friuli-Venezia Giulia
 FVG,Moderna,14800,2022-01-05,ITH,ITH4,6,Friuli-Venezia Giulia
 FVG,Pfizer Pediatrico,6000,2022-01-05,ITH,ITH4,6,Friuli-Venezia Giulia
 FVG,Pfizer/BioNTech,26910,2022-01-05,ITH,ITH4,6,Friuli-Venezia Giulia
+FVG,Moderna,20,2022-01-07,ITH,ITH4,6,Friuli-Venezia Giulia
 LAZ,Pfizer/BioNTech,955,2020-12-27,ITI,ITI4,12,Lazio
 LAZ,Moderna,2,2020-12-28,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,4,2020-12-28,ITI,ITI4,12,Lazio
@@ -2115,7 +2118,7 @@ LAZ,Pfizer/BioNTech,24,2021-03-31,ITI,ITI4,12,Lazio
 LAZ,Vaxzevria (AstraZeneca),1657,2021-03-31,ITI,ITI4,12,Lazio
 LAZ,Janssen,4,2021-04-01,ITI,ITI4,12,Lazio
 LAZ,Moderna,123,2021-04-01,ITI,ITI4,12,Lazio
-LAZ,Pfizer/BioNTech,45,2021-04-01,ITI,ITI4,12,Lazio
+LAZ,Pfizer/BioNTech,46,2021-04-01,ITI,ITI4,12,Lazio
 LAZ,Vaxzevria (AstraZeneca),1277,2021-04-01,ITI,ITI4,12,Lazio
 LAZ,Moderna,46607,2021-04-02,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,25,2021-04-02,ITI,ITI4,12,Lazio
@@ -2848,7 +2851,7 @@ LAZ,Pfizer/BioNTech,16,2021-12-04,ITI,ITI4,12,Lazio
 LAZ,Moderna,3,2021-12-05,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,1,2021-12-05,ITI,ITI4,12,Lazio
 LAZ,Janssen,13,2021-12-06,ITI,ITI4,12,Lazio
-LAZ,Moderna,623,2021-12-06,ITI,ITI4,12,Lazio
+LAZ,Moderna,624,2021-12-06,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,197,2021-12-06,ITI,ITI4,12,Lazio
 LAZ,Janssen,2,2021-12-07,ITI,ITI4,12,Lazio
 LAZ,Moderna,721,2021-12-07,ITI,ITI4,12,Lazio
@@ -2905,7 +2908,7 @@ LAZ,Moderna,387,2021-12-30,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,20,2021-12-30,ITI,ITI4,12,Lazio
 LAZ,Moderna,148,2021-12-31,ITI,ITI4,12,Lazio
 LAZ,Moderna,125,2022-01-01,ITI,ITI4,12,Lazio
-LAZ,Moderna,145,2022-01-02,ITI,ITI4,12,Lazio
+LAZ,Moderna,144,2022-01-02,ITI,ITI4,12,Lazio
 LAZ,Moderna,161,2022-01-03,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,40,2022-01-03,ITI,ITI4,12,Lazio
 LAZ,Moderna,201,2022-01-04,ITI,ITI4,12,Lazio
@@ -2916,6 +2919,8 @@ LAZ,Pfizer Pediatrico,72000,2022-01-05,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,140442,2022-01-05,ITI,ITI4,12,Lazio
 LAZ,Moderna,20,2022-01-06,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,1,2022-01-06,ITI,ITI4,12,Lazio
+LAZ,Moderna,90,2022-01-07,ITI,ITI4,12,Lazio
+LAZ,Pfizer/BioNTech,56,2022-01-07,ITI,ITI4,12,Lazio
 LIG,Pfizer/BioNTech,320,2020-12-27,ITC,ITC3,7,Liguria
 LIG,Pfizer/BioNTech,15600,2020-12-30,ITC,ITC3,7,Liguria
 LIG,Pfizer/BioNTech,11700,2021-01-05,ITC,ITC3,7,Liguria
@@ -4144,7 +4149,7 @@ PIE,Pfizer/BioNTech,146250,2021-05-26,ITC,ITC1,1,Piemonte
 PIE,Vaxzevria (AstraZeneca),296,2021-05-26,ITC,ITC1,1,Piemonte
 PIE,Moderna,23,2021-05-27,ITC,ITC1,1,Piemonte
 PIE,Pfizer/BioNTech,89,2021-05-27,ITC,ITC1,1,Piemonte
-PIE,Vaxzevria (AstraZeneca),50,2021-05-27,ITC,ITC1,1,Piemonte
+PIE,Vaxzevria (AstraZeneca),51,2021-05-27,ITC,ITC1,1,Piemonte
 PIE,Moderna,33,2021-05-28,ITC,ITC1,1,Piemonte
 PIE,Vaxzevria (AstraZeneca),133,2021-05-28,ITC,ITC1,1,Piemonte
 PIE,Vaxzevria (AstraZeneca),1,2021-05-29,ITC,ITC1,1,Piemonte
@@ -4272,7 +4277,7 @@ PIE,Moderna,55160,2021-12-02,ITC,ITC1,1,Piemonte
 PIE,Moderna,20,2021-12-03,ITC,ITC1,1,Piemonte
 PIE,Moderna,84,2021-12-04,ITC,ITC1,1,Piemonte
 PIE,Moderna,171,2021-12-06,ITC,ITC1,1,Piemonte
-PIE,Moderna,186,2021-12-07,ITC,ITC1,1,Piemonte
+PIE,Moderna,187,2021-12-07,ITC,ITC1,1,Piemonte
 PIE,Moderna,199,2021-12-09,ITC,ITC1,1,Piemonte
 PIE,Moderna,55260,2021-12-10,ITC,ITC1,1,Piemonte
 PIE,Moderna,43,2021-12-11,ITC,ITC1,1,Piemonte
@@ -4367,7 +4372,7 @@ PUG,Vaxzevria (AstraZeneca),594,2021-03-22,ITF,ITF4,16,Puglia
 PUG,Vaxzevria (AstraZeneca),672,2021-03-23,ITF,ITF4,16,Puglia
 PUG,Pfizer/BioNTech,1,2021-03-24,ITF,ITF4,16,Puglia
 PUG,Vaxzevria (AstraZeneca),509,2021-03-24,ITF,ITF4,16,Puglia
-PUG,Vaxzevria (AstraZeneca),18830,2021-03-25,ITF,ITF4,16,Puglia
+PUG,Vaxzevria (AstraZeneca),18831,2021-03-25,ITF,ITF4,16,Puglia
 PUG,Vaxzevria (AstraZeneca),404,2021-03-26,ITF,ITF4,16,Puglia
 PUG,Pfizer/BioNTech,1,2021-03-27,ITF,ITF4,16,Puglia
 PUG,Moderna,1,2021-03-29,ITF,ITF4,16,Puglia
@@ -4461,7 +4466,7 @@ PUG,Moderna,24100,2021-05-24,ITF,ITF4,16,Puglia
 PUG,Pfizer/BioNTech,387,2021-05-24,ITF,ITF4,16,Puglia
 PUG,Vaxzevria (AstraZeneca),21424,2021-05-24,ITF,ITF4,16,Puglia
 PUG,Moderna,46,2021-05-25,ITF,ITF4,16,Puglia
-PUG,Pfizer/BioNTech,408,2021-05-25,ITF,ITF4,16,Puglia
+PUG,Pfizer/BioNTech,409,2021-05-25,ITF,ITF4,16,Puglia
 PUG,Vaxzevria (AstraZeneca),344,2021-05-25,ITF,ITF4,16,Puglia
 PUG,Moderna,35,2021-05-26,ITF,ITF4,16,Puglia
 PUG,Pfizer/BioNTech,138455,2021-05-26,ITF,ITF4,16,Puglia
@@ -5019,7 +5024,7 @@ SAR,Pfizer Pediatrico,36000,2021-12-14,ITG,ITG2,20,Sardegna
 SAR,Pfizer/BioNTech,44460,2021-12-14,ITG,ITG2,20,Sardegna
 SAR,Moderna,271,2021-12-15,ITG,ITG2,20,Sardegna
 SAR,Moderna,41008,2021-12-16,ITG,ITG2,20,Sardegna
-SAR,Moderna,109,2021-12-17,ITG,ITG2,20,Sardegna
+SAR,Moderna,110,2021-12-17,ITG,ITG2,20,Sardegna
 SAR,Moderna,169,2021-12-18,ITG,ITG2,20,Sardegna
 SAR,Moderna,228,2021-12-20,ITG,ITG2,20,Sardegna
 SAR,Pfizer/BioNTech,40950,2021-12-21,ITG,ITG2,20,Sardegna
@@ -5295,6 +5300,7 @@ SIC,Moderna,1,2022-01-03,ITG,ITG1,19,Sicilia
 SIC,Pfizer Pediatrico,60000,2022-01-04,ITG,ITG1,19,Sicilia
 SIC,Pfizer/BioNTech,113490,2022-01-04,ITG,ITG1,19,Sicilia
 SIC,Moderna,61600,2022-01-05,ITG,ITG1,19,Sicilia
+SIC,Moderna,20,2022-01-07,ITG,ITG1,19,Sicilia
 TOS,Pfizer/BioNTech,620,2020-12-27,ITI,ITI1,9,Toscana
 TOS,Pfizer/BioNTech,14625,2020-12-30,ITI,ITI1,9,Toscana
 TOS,Pfizer/BioNTech,12675,2020-12-31,ITI,ITI1,9,Toscana
@@ -5341,7 +5347,7 @@ TOS,Vaxzevria (AstraZeneca),98,2021-03-20,ITI,ITI1,9,Toscana
 TOS,Vaxzevria (AstraZeneca),66,2021-03-21,ITI,ITI1,9,Toscana
 TOS,Moderna,23800,2021-03-22,ITI,ITI1,9,Toscana
 TOS,Pfizer/BioNTech,50310,2021-03-22,ITI,ITI1,9,Toscana
-TOS,Vaxzevria (AstraZeneca),368,2021-03-22,ITI,ITI1,9,Toscana
+TOS,Vaxzevria (AstraZeneca),369,2021-03-22,ITI,ITI1,9,Toscana
 TOS,Vaxzevria (AstraZeneca),317,2021-03-23,ITI,ITI1,9,Toscana
 TOS,Vaxzevria (AstraZeneca),333,2021-03-24,ITI,ITI1,9,Toscana
 TOS,Vaxzevria (AstraZeneca),16773,2021-03-25,ITI,ITI1,9,Toscana
@@ -5582,6 +5588,7 @@ TOS,Moderna,26,2021-12-29,ITI,ITI1,9,Toscana
 TOS,Moderna,45964,2022-01-05,ITI,ITI1,9,Toscana
 TOS,Pfizer Pediatrico,42000,2022-01-05,ITI,ITI1,9,Toscana
 TOS,Pfizer/BioNTech,85410,2022-01-05,ITI,ITI1,9,Toscana
+TOS,Moderna,2,2022-01-07,ITI,ITI1,9,Toscana
 UMB,Pfizer/BioNTech,85,2020-12-27,ITI,ITI2,10,Umbria
 UMB,Pfizer/BioNTech,4875,2020-12-30,ITI,ITI2,10,Umbria
 UMB,Pfizer/BioNTech,4875,2021-01-05,ITI,ITI2,10,Umbria
@@ -6086,3 +6093,4 @@ VEN,Pfizer/BioNTech,1,2022-01-04,ITH,ITH3,5,Veneto
 VEN,Moderna,61002,2022-01-05,ITH,ITH3,5,Veneto
 VEN,Pfizer Pediatrico,60000,2022-01-05,ITH,ITH3,5,Veneto
 VEN,Pfizer/BioNTech,114660,2022-01-05,ITH,ITH3,5,Veneto
+VEN,Pfizer/BioNTech,2,2022-01-07,ITH,ITH3,5,Veneto
