@@ -4,6 +4,18 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
+## 24/02/2022
+
+Sarà dismesso il valore **totale_guariti**. La modifica interesserà il file `soggetti-guariti`.
+
+Saranno aggiunti i valori **guariti_senza_somm** e **guariti_post_somm** che identificano il numero di soggetti guariti dall'infezione Covid-19 rispettivamente senza somministrazioni e post 2ª/unica dose. La modifica interesserà il file `soggetti-guariti`.
+
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| guariti_senza_somm | integer | Numero totale della popolazione guarita da al massimo 6 mesi senza alcuna somministrazione, per una data Regione/Provincia Autonoma e fascia d'età |
+| guariti_post_somm | integer |  Numero totale della popolazione guarita da al massimo 4 mesi post 2ª/unica dose, per una data Regione/Provincia Autonoma e fascia d'età |
+
+
 ## 26/11/2021
 Sono stati dismessi i file `platea-dose-aggiuntiva` e `platea-dose-booster`. 
 
