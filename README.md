@@ -33,8 +33,8 @@ Nella cartella dati si possono trovare 10 tabelle in formato json e csv:
 *   **anagrafica-vaccini-summary-latest**: totali delle somministrazioni per fasce d'età.
 *   **last-update-dataset**: data e ora di ultimo aggiornamento del dataset.
 *   **platea**: dati riferiti alla popolazione vaccinabile suddivisi per Regione/Provincia Autonoma e fascia d'età.
-*   **platea-dose-addizionale-booster**: dati riferiti alla popolazione oggetto di dose addizionale/richiamo (booster) che ha ultimato il ciclo vaccinale dal almeno 5 mesi suddivisi per Regione/Provincia Autonoma e categoria prevalente.
-*   **soggetti-guariti**: dati riferiti alla popolazione guarita dall'infezione Covid-19 da al massimo 6 mesi.
+*   **platea-dose-addizionale-booster**: dati riferiti alla popolazione oggetto di dose addizionale/richiamo (booster) che ha ultimato il ciclo vaccinale dal almeno 4 mesi suddivisi per Regione/Provincia Autonoma e categoria prevalente.
+*   **soggetti-guariti**: dati riferiti alla popolazione guarita dall'infezione Covid-19.
 
 
 I campi di ogni tabella sono schematizzati nelle seguenti tavole:
@@ -164,7 +164,8 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | area | string | Sigla della Regione/Provincia Autonoma. |
 | nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
 | fascia_anagrafica | string | Fascia anagrafica a cui appartengono i soggetti guariti. |
-| totale_guariti | integer | Numero totale della popolazione guarita da al massimo 6 mesi, per una data fascia d'età |
+| guariti_senza_somm | integer |  Numero totale della popolazione guarita da al massimo 6 mesi senza alcuna somministrazione, per una data Regione/Provincia Autonoma e fascia d'età |
+| guariti_post_somm | integer |  Numero totale della popolazione guarita da al massimo 4 mesi post 2ª/unica dose, per una data Regione/Provincia Autonoma e fascia d'età |
 
 # Maintainer
 
