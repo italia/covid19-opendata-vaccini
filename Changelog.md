@@ -6,9 +6,9 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## 24/02/2022
 
-Sarà dismesso il valore **totale_guariti**. La modifica interesserà il file `soggetti-guariti`.
+È stato dismesso il valore **totale_guariti**. La modifica ha interessato il file `soggetti-guariti`.
 
-Saranno aggiunti i valori **guariti_senza_somm** e **guariti_post_somm** che identificano il numero di soggetti guariti dall'infezione Covid-19 rispettivamente senza somministrazioni e post 2ª/unica dose. La modifica interesserà il file `soggetti-guariti`.
+Sono stati aggiunti i valori **guariti_senza_somm** e **guariti_post_somm** che identificano il numero di soggetti guariti dall'infezione Covid-19 rispettivamente senza somministrazioni e post 2ª/unica dose. La modifica ha interessato il file `soggetti-guariti`.
 
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
