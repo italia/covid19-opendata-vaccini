@@ -4,6 +4,24 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
+## 01/03/2022
+
+Sarà aggiunto il valore **booster_immuni** che identifica il numero di dosi booster somministrate a soggetti di età pari o superiore a 12 anni, che abbiano già completato il ciclo vaccinale primario con tre dosi (di cui la terza addizionale), dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose addizionale stessa. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| booster_immuno | integer | Numero somministrazioni dose booster a soggetti che hanno già completato il ciclo vaccinale primario con tre dosi (di cui la terza addizionale), dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose addizionale stessa.|
+
+Sarà aggiunto il file `platea-booster-immunocompromessi` che definisce la popolazione immunocompromessa oggetto di somministrazione di dose booster a seguito del completamento del ciclo vaccinale primario con tre dosi (di cui la terza addizionale) dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose addizionale stessa, suddivisa per Regione/Provincia Autonoma.
+
+**platea-booster-immunocompromessi**
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| index | integer | Codice identificativo del record. |
+| area | string | Sigla della Regione/Provincia Autonoma. |
+| nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| totale_popolazione | integer | Numero totale della popolazione immunocompromessa presente in platea oggetto di somministrazione di dose booster a seguito del completamento del ciclo vaccinale primario con tre dosi (di cui la terza addizionale) dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose addizionale stessa, diviso per Regione/Provincia Autonoma. |
+
 ## 24/02/2022
 
 È stato dismesso il valore **totale_guariti**. La modifica ha interessato il file `soggetti-guariti`.
