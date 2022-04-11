@@ -6,13 +6,13 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## 12/04/2022
 
-Sarà aggiunto il valore **d2_booster** che identifica il numero di dosi di second booster somministrate a soggetti che abbiano già completato il ciclo vaccinale comprensivo di dose booster, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose booster stessa. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+Aggiunto il campo **d2_booster** che identifica il numero di dosi di second booster somministrate a soggetti che abbiano già completato il ciclo vaccinale comprensivo di dose booster, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose booster stessa. La modifica ha interessato i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
 
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
 | d2_booster | integer | Numero somministrazioni second booster a soggetti che hanno già completato il ciclo vaccinale comprensivo di dose booster, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose booster stessa.|
 
-Sarà aggiunto il file `platea-second-booster` che definisce la popolazione oggetto di somministrazione di second booster dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla somministrazione della prima dose booster, suddivisa per Regione/Provincia Autonoma e categoria prevalente.
+Aggiunto il file `platea-second-booster` che definisce la popolazione oggetto di somministrazione di second booster dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla somministrazione della prima dose booster, suddivisa per Regione/Provincia Autonoma e categoria prevalente.
 
 **platea-second-booster**
 | Campo | Tipo di dati | Descrizione |
