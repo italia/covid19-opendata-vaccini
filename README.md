@@ -8,10 +8,9 @@
 </div>
 <br />
 
-
 # Descrizione repository
 
-Questo repository contiene i dati in formato aperto relativi alla consegna e somministrazione nelle varie regioni Italiane dei vaccini anti COVID-19. Il dataset è suddiviso in 11 tabelle che riguardano principalmente i dati sui vaccini rispetto a:
+Questo repository contiene i dati in formato aperto relativi alla consegna e somministrazione nelle varie regioni Italiane dei vaccini anti COVID-19. Il dataset è suddiviso in 12 tabelle che riguardano principalmente i dati sui vaccini rispetto a:
 
 
 *   consegne suddivise per data di consegna e regione;
@@ -22,7 +21,7 @@ Questo repository contiene i dati in formato aperto relativi alla consegna e som
 
 # Descrizione dataset
 
-Nella cartella dati si possono trovare 11 tabelle in formato json e csv:
+Nella cartella dati si possono trovare 12 tabelle in formato json e csv:
 
 
 *   **consegne-vaccini-latest**: dati sul totale delle consegne giornaliere dei vaccini suddivise per regioni.
@@ -36,6 +35,7 @@ Nella cartella dati si possono trovare 11 tabelle in formato json e csv:
 *   **platea-dose-addizionale-booster**: dati riferiti alla popolazione oggetto di dose addizionale/richiamo (booster) che ha ultimato il ciclo vaccinale dal almeno 4 mesi suddivisi per Regione/Provincia Autonoma e categoria prevalente.
 *   **platea-booster-immunocompromessi**: dati riferiti alla popolazione immunocompromessa oggetto di somministrazione di dose booster a seguito del completamento del ciclo vaccinale primario con tre dosi (di cui la terza addizionale) dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose addizionale stessa, suddivisa per Regione/Provincia Autonoma.
 *   **soggetti-guariti**: dati riferiti alla popolazione guarita dall'infezione Covid-19.
+*   **platea-second-booster**: dati riferiti alla popolazione oggetto di second booster dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla somministrazione della prima dose booster, suddivisa per Regione/Provincia Autonoma e categoria prevalente.|
 
 
 I campi di ogni tabella sono schematizzati nelle seguenti tavole:
@@ -85,6 +85,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | pregressa_infezione | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale con un'unica dose |
 | dose_addizionale_booster | integer | Numero somministrazioni dose addizionale/richiamo (booster). |
 | booster_immuno | integer | Numero somministrazioni dose booster a soggetti che hanno già completato il ciclo vaccinale primario con tre dosi (di cui la terza addizionale), dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose addizionale stessa.|
+| 2nd_booster | integer | Numero di dosi di second booster somministrate a soggetti che abbiano già completato il ciclo vaccinale comprensivo di dose booster, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose booster stessa.
 | codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
 | codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
 | codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
@@ -105,6 +106,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | pregressa_infezione | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale con un'unica dose |
 | dose_addizionale_booster | integer | Numero somministrazioni dose addizionale/richiamo (booster). |
 | booster_immuno | integer | Numero somministrazioni dose booster a soggetti che hanno già completato il ciclo vaccinale primario con tre dosi (di cui la terza addizionale), dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose addizionale stessa.|
+| 2nd_booster | integer | Numero di dosi di second booster somministrate a soggetti che abbiano già completato il ciclo vaccinale comprensivo di dose booster, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose booster stessa.
 | codice_NUTS1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
 | codice_NUTS2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
 | codice_regione_ISTAT | integer | Codice ISTAT della Regione. |
@@ -135,6 +137,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | pregressa_infezione | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale con un'unica dose |
 | dose_addizionale_booster | integer | Numero somministrazioni dose addizionale/richiamo (booster). |
 | booster_immuno | integer | Numero somministrazioni dose booster a soggetti che hanno già completato il ciclo vaccinale primario con tre dosi (di cui la terza addizionale), dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose addizionale stessa.|
+| 2nd_booster | integer | Numero di dosi di second booster somministrate a soggetti che abbiano già completato il ciclo vaccinale comprensivo di dose booster, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose booster stessa.
 
 **last-update-dataset**
 
@@ -178,6 +181,15 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | fascia_anagrafica | string | Fascia anagrafica a cui appartengono i soggetti guariti. |
 | guariti_senza_somm | integer |  Numero totale della popolazione guarita da al massimo 6 mesi senza alcuna somministrazione, per una data Regione/Provincia Autonoma e fascia d'età |
 | guariti_post_somm | integer |  Numero totale della popolazione guarita da al massimo 4 mesi post 2ª/unica dose, per una data Regione/Provincia Autonoma e fascia d'età |
+
+**platea-second-booster**
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| index | integer | Codice identificativo del record. |
+| area | string | Sigla della Regione/Provincia Autonoma. |
+| nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| categoria_prevalente | string | Categoria prevalente a cui appartengono i soggetti oggetto di second booster. |
+| totale_popolazione | integer | Numero totale della popolazione presente in platea oggetto di second booster dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla somministrazione della prima dose booster, suddivisa per Regione/Provincia Autonoma e categoria prevalente.|
 
 # Maintainer
 
