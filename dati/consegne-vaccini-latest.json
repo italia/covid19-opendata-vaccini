@@ -35809,7 +35809,7 @@
             "index":3251,
             "area":"LAZ",
             "fornitore":"Moderna",
-            "numero_dosi":553,
+            "numero_dosi":554,
             "data_consegna":"2022-01-07T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI4",
@@ -36150,7 +36150,7 @@
             "index":3282,
             "area":"LAZ",
             "fornitore":"Moderna",
-            "numero_dosi":86116,
+            "numero_dosi":86117,
             "data_consegna":"2022-01-20T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI4",
@@ -41408,7 +41408,7 @@
             "index":3760,
             "area":"LIG",
             "fornitore":"Moderna",
-            "numero_dosi":95,
+            "numero_dosi":96,
             "data_consegna":"2022-02-18T00:00:00.000Z",
             "codice_NUTS1":"ITC",
             "codice_NUTS2":"ITC3",
@@ -71767,8 +71767,8 @@
         {
             "index":6520,
             "area":"TOS",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":131040,
+            "fornitore":"Moderna",
+            "numero_dosi":1,
             "data_consegna":"2022-03-02T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI1",
@@ -71780,7 +71780,7 @@
             "area":"TOS",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":131040,
-            "data_consegna":"2022-03-09T00:00:00.000Z",
+            "data_consegna":"2022-03-02T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI1",
             "codice_regione_ISTAT":9,
@@ -71788,6 +71788,17 @@
         },
         {
             "index":6522,
+            "area":"TOS",
+            "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":131040,
+            "data_consegna":"2022-03-09T00:00:00.000Z",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI1",
+            "codice_regione_ISTAT":9,
+            "nome_area":"Toscana"
+        },
+        {
+            "index":6523,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":85,
@@ -71798,7 +71809,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6523,
+            "index":6524,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
@@ -71809,7 +71820,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6524,
+            "index":6525,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
@@ -71820,7 +71831,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6525,
+            "index":6526,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -71831,7 +71842,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6526,
+            "index":6527,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":1000,
@@ -71842,7 +71853,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6527,
+            "index":6528,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -71853,7 +71864,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6528,
+            "index":6529,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -71864,7 +71875,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6529,
+            "index":6530,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -71875,7 +71886,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6530,
+            "index":6531,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":1000,
@@ -71886,7 +71897,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6531,
+            "index":6532,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -71897,7 +71908,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6532,
+            "index":6533,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":3700,
@@ -71908,7 +71919,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6533,
+            "index":6534,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7020,
@@ -71919,7 +71930,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6534,
+            "index":6535,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":2300,
@@ -71930,7 +71941,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6535,
+            "index":6536,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":4300,
@@ -71941,7 +71952,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6536,
+            "index":6537,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":10530,
@@ -71952,7 +71963,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6537,
+            "index":6538,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":7500,
@@ -71963,7 +71974,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6538,
+            "index":6539,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":30,
@@ -71974,7 +71985,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6539,
+            "index":6540,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":10530,
@@ -71985,7 +71996,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6540,
+            "index":6541,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":6300,
@@ -71996,7 +72007,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6541,
+            "index":6542,
             "area":"UMB",
             "fornitore":"Janssen",
             "numero_dosi":0,
@@ -72007,7 +72018,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6542,
+            "index":6543,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":4300,
@@ -72018,7 +72029,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6543,
+            "index":6544,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":11700,
@@ -72029,7 +72040,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6544,
+            "index":6545,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":32,
@@ -72040,7 +72051,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6545,
+            "index":6546,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":50,
@@ -72051,7 +72062,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6546,
+            "index":6547,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":30,
@@ -72062,21 +72073,10 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6547,
+            "index":6548,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":11700,
-            "data_consegna":"2021-03-09T00:00:00.000Z",
-            "codice_NUTS1":"ITI",
-            "codice_NUTS2":"ITI2",
-            "codice_regione_ISTAT":10,
-            "nome_area":"Umbria"
-        },
-        {
-            "index":6548,
-            "area":"UMB",
-            "fornitore":"Vaxzevria (AstraZeneca)",
-            "numero_dosi":41,
             "data_consegna":"2021-03-09T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI2",
@@ -72087,6 +72087,17 @@
             "index":6549,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
+            "numero_dosi":41,
+            "data_consegna":"2021-03-09T00:00:00.000Z",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI2",
+            "codice_regione_ISTAT":10,
+            "nome_area":"Umbria"
+        },
+        {
+            "index":6550,
+            "area":"UMB",
+            "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":9620,
             "data_consegna":"2021-03-10T00:00:00.000Z",
             "codice_NUTS1":"ITI",
@@ -72095,7 +72106,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6550,
+            "index":6551,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":31,
@@ -72106,7 +72117,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6551,
+            "index":6552,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":45,
@@ -72117,7 +72128,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6552,
+            "index":6553,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":3700,
@@ -72128,21 +72139,10 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6553,
+            "index":6554,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":11700,
-            "data_consegna":"2021-03-15T00:00:00.000Z",
-            "codice_NUTS1":"ITI",
-            "codice_NUTS2":"ITI2",
-            "codice_regione_ISTAT":10,
-            "nome_area":"Umbria"
-        },
-        {
-            "index":6554,
-            "area":"UMB",
-            "fornitore":"Vaxzevria (AstraZeneca)",
-            "numero_dosi":21,
             "data_consegna":"2021-03-15T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI2",
@@ -72153,8 +72153,8 @@
             "index":6555,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
-            "numero_dosi":10,
-            "data_consegna":"2021-03-20T00:00:00.000Z",
+            "numero_dosi":21,
+            "data_consegna":"2021-03-15T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI2",
             "codice_regione_ISTAT":10,
@@ -72165,7 +72165,7 @@
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":10,
-            "data_consegna":"2021-03-21T00:00:00.000Z",
+            "data_consegna":"2021-03-20T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI2",
             "codice_regione_ISTAT":10,
@@ -72173,6 +72173,17 @@
         },
         {
             "index":6557,
+            "area":"UMB",
+            "fornitore":"Vaxzevria (AstraZeneca)",
+            "numero_dosi":10,
+            "data_consegna":"2021-03-21T00:00:00.000Z",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI2",
+            "codice_regione_ISTAT":10,
+            "nome_area":"Umbria"
+        },
+        {
+            "index":6558,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":5800,
@@ -72183,7 +72194,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6558,
+            "index":6559,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":11700,
@@ -72194,7 +72205,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6559,
+            "index":6560,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":33,
@@ -72205,7 +72216,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6560,
+            "index":6561,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":34,
@@ -72216,7 +72227,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6561,
+            "index":6562,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":3930,
@@ -72227,7 +72238,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6562,
+            "index":6563,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":39,
@@ -72238,21 +72249,10 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6563,
+            "index":6564,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":18720,
-            "data_consegna":"2021-03-29T00:00:00.000Z",
-            "codice_NUTS1":"ITI",
-            "codice_NUTS2":"ITI2",
-            "codice_regione_ISTAT":10,
-            "nome_area":"Umbria"
-        },
-        {
-            "index":6564,
-            "area":"UMB",
-            "fornitore":"Vaxzevria (AstraZeneca)",
-            "numero_dosi":47,
             "data_consegna":"2021-03-29T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI2",
@@ -72263,6 +72263,17 @@
             "index":6565,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
+            "numero_dosi":47,
+            "data_consegna":"2021-03-29T00:00:00.000Z",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI2",
+            "codice_regione_ISTAT":10,
+            "nome_area":"Umbria"
+        },
+        {
+            "index":6566,
+            "area":"UMB",
+            "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":24,
             "data_consegna":"2021-03-30T00:00:00.000Z",
             "codice_NUTS1":"ITI",
@@ -72271,7 +72282,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6566,
+            "index":6567,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":8500,
@@ -72282,7 +72293,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6567,
+            "index":6568,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":19700,
@@ -72293,7 +72304,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6568,
+            "index":6569,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":28080,
@@ -72304,7 +72315,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6569,
+            "index":6570,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":2400,
@@ -72315,7 +72326,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6570,
+            "index":6571,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":22230,
@@ -72326,7 +72337,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6571,
+            "index":6572,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -72337,7 +72348,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6572,
+            "index":6573,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":5700,
@@ -72348,7 +72359,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6573,
+            "index":6574,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":22230,
@@ -72359,7 +72370,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6574,
+            "index":6575,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":5900,
@@ -72370,7 +72381,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6575,
+            "index":6576,
             "area":"UMB",
             "fornitore":"Janssen",
             "numero_dosi":2550,
@@ -72381,7 +72392,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6576,
+            "index":6577,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":3300,
@@ -72392,7 +72403,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6577,
+            "index":6578,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":1900,
@@ -72403,7 +72414,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6578,
+            "index":6579,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":30420,
@@ -72414,7 +72425,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6579,
+            "index":6580,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -72425,7 +72436,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6580,
+            "index":6581,
             "area":"UMB",
             "fornitore":"Janssen",
             "numero_dosi":2200,
@@ -72436,7 +72447,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6581,
+            "index":6582,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":3600,
@@ -72447,7 +72458,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6582,
+            "index":6583,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":26200,
@@ -72458,7 +72469,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6583,
+            "index":6584,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":30420,
@@ -72469,7 +72480,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6584,
+            "index":6585,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":5100,
@@ -72480,7 +72491,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6585,
+            "index":6586,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":30420,
@@ -72491,7 +72502,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6586,
+            "index":6587,
             "area":"UMB",
             "fornitore":"Janssen",
             "numero_dosi":2200,
@@ -72502,7 +72513,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6587,
+            "index":6588,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":11,
@@ -72513,7 +72524,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6588,
+            "index":6589,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":14100,
@@ -72524,7 +72535,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6589,
+            "index":6590,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":29250,
@@ -72535,7 +72546,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6590,
+            "index":6591,
             "area":"UMB",
             "fornitore":"Janssen",
             "numero_dosi":2950,
@@ -72546,21 +72557,10 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6591,
+            "index":6592,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":5100,
-            "data_consegna":"2021-05-21T00:00:00.000Z",
-            "codice_NUTS1":"ITI",
-            "codice_NUTS2":"ITI2",
-            "codice_regione_ISTAT":10,
-            "nome_area":"Umbria"
-        },
-        {
-            "index":6592,
-            "area":"UMB",
-            "fornitore":"Vaxzevria (AstraZeneca)",
-            "numero_dosi":30,
             "data_consegna":"2021-05-21T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI2",
@@ -72571,8 +72571,8 @@
             "index":6593,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
-            "numero_dosi":39,
-            "data_consegna":"2021-05-22T00:00:00.000Z",
+            "numero_dosi":30,
+            "data_consegna":"2021-05-21T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI2",
             "codice_regione_ISTAT":10,
@@ -72581,9 +72581,9 @@
         {
             "index":6594,
             "area":"UMB",
-            "fornitore":"Moderna",
-            "numero_dosi":5100,
-            "data_consegna":"2021-05-24T00:00:00.000Z",
+            "fornitore":"Vaxzevria (AstraZeneca)",
+            "numero_dosi":39,
+            "data_consegna":"2021-05-22T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI2",
             "codice_regione_ISTAT":10,
@@ -72592,8 +72592,8 @@
         {
             "index":6595,
             "area":"UMB",
-            "fornitore":"Vaxzevria (AstraZeneca)",
-            "numero_dosi":4330,
+            "fornitore":"Moderna",
+            "numero_dosi":5100,
             "data_consegna":"2021-05-24T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI2",
@@ -72604,8 +72604,8 @@
             "index":6596,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
-            "numero_dosi":38,
-            "data_consegna":"2021-05-25T00:00:00.000Z",
+            "numero_dosi":4330,
+            "data_consegna":"2021-05-24T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI2",
             "codice_regione_ISTAT":10,
@@ -72614,9 +72614,9 @@
         {
             "index":6597,
             "area":"UMB",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":29250,
-            "data_consegna":"2021-05-26T00:00:00.000Z",
+            "fornitore":"Vaxzevria (AstraZeneca)",
+            "numero_dosi":38,
+            "data_consegna":"2021-05-25T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI2",
             "codice_regione_ISTAT":10,
@@ -72625,8 +72625,8 @@
         {
             "index":6598,
             "area":"UMB",
-            "fornitore":"Vaxzevria (AstraZeneca)",
-            "numero_dosi":21,
+            "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":29250,
             "data_consegna":"2021-05-26T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI2",
@@ -72637,6 +72637,17 @@
             "index":6599,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
+            "numero_dosi":21,
+            "data_consegna":"2021-05-26T00:00:00.000Z",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI2",
+            "codice_regione_ISTAT":10,
+            "nome_area":"Umbria"
+        },
+        {
+            "index":6600,
+            "area":"UMB",
+            "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":32,
             "data_consegna":"2021-05-27T00:00:00.000Z",
             "codice_NUTS1":"ITI",
@@ -72645,7 +72656,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6600,
+            "index":6601,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":47,
@@ -72656,7 +72667,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6601,
+            "index":6602,
             "area":"UMB",
             "fornitore":"Janssen",
             "numero_dosi":6300,
@@ -72667,7 +72678,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6602,
+            "index":6603,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":5100,
@@ -72678,7 +72689,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6603,
+            "index":6604,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":20,
@@ -72689,7 +72700,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6604,
+            "index":6605,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":45630,
@@ -72700,7 +72711,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6605,
+            "index":6606,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":4300,
@@ -72711,7 +72722,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6606,
+            "index":6607,
             "area":"UMB",
             "fornitore":"Janssen",
             "numero_dosi":4750,
@@ -72722,7 +72733,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6607,
+            "index":6608,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":17400,
@@ -72733,7 +72744,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6608,
+            "index":6609,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":1,
@@ -72744,7 +72755,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6609,
+            "index":6610,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":5000,
@@ -72755,7 +72766,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6610,
+            "index":6611,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":39,
@@ -72766,7 +72777,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6611,
+            "index":6612,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":11,
@@ -72777,7 +72788,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6612,
+            "index":6613,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":40950,
@@ -72788,7 +72799,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6613,
+            "index":6614,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":30,
@@ -72799,7 +72810,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6614,
+            "index":6615,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":29,
@@ -72810,7 +72821,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6615,
+            "index":6616,
             "area":"UMB",
             "fornitore":"Janssen",
             "numero_dosi":7200,
@@ -72821,7 +72832,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6616,
+            "index":6617,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":32,
@@ -72832,7 +72843,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6617,
+            "index":6618,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":5000,
@@ -72843,7 +72854,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6618,
+            "index":6619,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":21,
@@ -72854,7 +72865,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6619,
+            "index":6620,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":60,
@@ -72865,7 +72876,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6620,
+            "index":6621,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -72876,7 +72887,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6621,
+            "index":6622,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":78,
@@ -72887,7 +72898,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6622,
+            "index":6623,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":38610,
@@ -72898,7 +72909,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6623,
+            "index":6624,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":7400,
@@ -72909,7 +72920,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6624,
+            "index":6625,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":65,
@@ -72920,7 +72931,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6625,
+            "index":6626,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":44,
@@ -72931,7 +72942,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6626,
+            "index":6627,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -72942,7 +72953,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6627,
+            "index":6628,
             "area":"UMB",
             "fornitore":"Janssen",
             "numero_dosi":2000,
@@ -72953,7 +72964,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6628,
+            "index":6629,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":5300,
@@ -72964,7 +72975,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6629,
+            "index":6630,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":51480,
@@ -72975,7 +72986,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6630,
+            "index":6631,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":9100,
@@ -72986,7 +72997,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6631,
+            "index":6632,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":5600,
@@ -72997,7 +73008,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6632,
+            "index":6633,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":49400,
@@ -73008,7 +73019,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6633,
+            "index":6634,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":50310,
@@ -73019,7 +73030,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6634,
+            "index":6635,
             "area":"UMB",
             "fornitore":"Janssen",
             "numero_dosi":2900,
@@ -73030,7 +73041,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6635,
+            "index":6636,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":5400,
@@ -73041,7 +73052,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6636,
+            "index":6637,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":28080,
@@ -73052,7 +73063,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6637,
+            "index":6638,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":6200,
@@ -73063,7 +73074,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6638,
+            "index":6639,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":28080,
@@ -73074,7 +73085,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6639,
+            "index":6640,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":7900,
@@ -73085,7 +73096,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6640,
+            "index":6641,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":15210,
@@ -73096,7 +73107,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6641,
+            "index":6642,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":11,
@@ -73107,7 +73118,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6642,
+            "index":6643,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":22,
@@ -73118,7 +73129,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6643,
+            "index":6644,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":28080,
@@ -73129,7 +73140,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6644,
+            "index":6645,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":51,
@@ -73140,7 +73151,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6645,
+            "index":6646,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":33,
@@ -73151,7 +73162,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6646,
+            "index":6647,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":7000,
@@ -73162,7 +73173,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6647,
+            "index":6648,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":28080,
@@ -73173,7 +73184,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6648,
+            "index":6649,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":22200,
@@ -73184,7 +73195,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6649,
+            "index":6650,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":28080,
@@ -73195,7 +73206,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6650,
+            "index":6651,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":7400,
@@ -73206,7 +73217,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6651,
+            "index":6652,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":10,
@@ -73217,7 +73228,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6652,
+            "index":6653,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1,
@@ -73228,7 +73239,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6653,
+            "index":6654,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":120,
@@ -73239,7 +73250,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6654,
+            "index":6655,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":28080,
@@ -73250,7 +73261,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6655,
+            "index":6656,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":16900,
@@ -73261,7 +73272,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6656,
+            "index":6657,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":46800,
@@ -73272,7 +73283,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6657,
+            "index":6658,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":22200,
@@ -73283,7 +73294,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6658,
+            "index":6659,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":49140,
@@ -73294,7 +73305,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6659,
+            "index":6660,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1,
@@ -73305,7 +73316,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6660,
+            "index":6661,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":28080,
@@ -73316,7 +73327,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6661,
+            "index":6662,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":23600,
@@ -73327,7 +73338,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6662,
+            "index":6663,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":29250,
@@ -73338,7 +73349,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6663,
+            "index":6664,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":9500,
@@ -73349,7 +73360,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6664,
+            "index":6665,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":18720,
@@ -73360,7 +73371,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6665,
+            "index":6666,
             "area":"UMB",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":-22000,
@@ -73371,7 +73382,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6666,
+            "index":6667,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":6200,
@@ -73382,7 +73393,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6667,
+            "index":6668,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":18720,
@@ -73393,7 +73404,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6668,
+            "index":6669,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":19100,
@@ -73404,7 +73415,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6669,
+            "index":6670,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":46800,
@@ -73415,7 +73426,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6670,
+            "index":6671,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":16380,
@@ -73426,7 +73437,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6671,
+            "index":6672,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":27900,
@@ -73437,7 +73448,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6672,
+            "index":6673,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":22,
@@ -73448,7 +73459,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6673,
+            "index":6674,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":44,
@@ -73459,7 +73470,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6674,
+            "index":6675,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":35,
@@ -73470,7 +73481,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6675,
+            "index":6676,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":44,
@@ -73481,7 +73492,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6676,
+            "index":6677,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":39780,
@@ -73492,7 +73503,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6677,
+            "index":6678,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":10900,
@@ -73503,7 +73514,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6678,
+            "index":6679,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":15210,
@@ -73514,7 +73525,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6679,
+            "index":6680,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":10900,
@@ -73525,7 +73536,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6680,
+            "index":6681,
             "area":"UMB",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":24000,
@@ -73536,7 +73547,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6681,
+            "index":6682,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":23400,
@@ -73547,7 +73558,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6682,
+            "index":6683,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":21141,
@@ -73558,7 +73569,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6683,
+            "index":6684,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":43,
@@ -73569,7 +73580,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6684,
+            "index":6685,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":42,
@@ -73580,7 +73591,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6685,
+            "index":6686,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":10945,
@@ -73591,7 +73602,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6686,
+            "index":6687,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":21060,
@@ -73602,7 +73613,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6687,
+            "index":6688,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":16380,
@@ -73613,7 +73624,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6688,
+            "index":6689,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":10500,
@@ -73624,7 +73635,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6689,
+            "index":6690,
             "area":"UMB",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":12000,
@@ -73635,7 +73646,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6690,
+            "index":6691,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":19890,
@@ -73646,7 +73657,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6691,
+            "index":6692,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":40,
@@ -73657,7 +73668,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6692,
+            "index":6693,
             "area":"UMB",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":12000,
@@ -73668,7 +73679,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6693,
+            "index":6694,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":22,
@@ -73679,7 +73690,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6694,
+            "index":6695,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":30420,
@@ -73690,7 +73701,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6695,
+            "index":6696,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":13122,
@@ -73701,7 +73712,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6696,
+            "index":6697,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":17,
@@ -73712,7 +73723,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6697,
+            "index":6698,
             "area":"UMB",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":12000,
@@ -73723,7 +73734,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6698,
+            "index":6699,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":19890,
@@ -73734,7 +73745,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6699,
+            "index":6700,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":12160,
@@ -73745,7 +73756,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6700,
+            "index":6701,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":11520,
@@ -73756,7 +73767,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6701,
+            "index":6702,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":14100,
@@ -73767,7 +73778,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6702,
+            "index":6703,
             "area":"UMB",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":6000,
@@ -73778,7 +73789,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6703,
+            "index":6704,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":11700,
@@ -73789,7 +73800,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6704,
+            "index":6705,
             "area":"UMB",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":12000,
@@ -73800,7 +73811,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6705,
+            "index":6706,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":23400,
@@ -73811,7 +73822,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6706,
+            "index":6707,
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":14101,
@@ -73822,7 +73833,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6707,
+            "index":6708,
             "area":"UMB",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":12000,
@@ -73833,22 +73844,11 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6708,
+            "index":6709,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":30420,
             "data_consegna":"2022-02-09T00:00:00.000Z",
-            "codice_NUTS1":"ITI",
-            "codice_NUTS2":"ITI2",
-            "codice_regione_ISTAT":10,
-            "nome_area":"Umbria"
-        },
-        {
-            "index":6709,
-            "area":"UMB",
-            "fornitore":"Moderna",
-            "numero_dosi":1,
-            "data_consegna":"2022-02-12T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI2",
             "codice_regione_ISTAT":10,
@@ -73859,7 +73859,7 @@
             "area":"UMB",
             "fornitore":"Moderna",
             "numero_dosi":1,
-            "data_consegna":"2022-02-13T00:00:00.000Z",
+            "data_consegna":"2022-02-12T00:00:00.000Z",
             "codice_NUTS1":"ITI",
             "codice_NUTS2":"ITI2",
             "codice_regione_ISTAT":10,
@@ -73867,6 +73867,17 @@
         },
         {
             "index":6711,
+            "area":"UMB",
+            "fornitore":"Moderna",
+            "numero_dosi":1,
+            "data_consegna":"2022-02-13T00:00:00.000Z",
+            "codice_NUTS1":"ITI",
+            "codice_NUTS2":"ITI2",
+            "codice_regione_ISTAT":10,
+            "nome_area":"Umbria"
+        },
+        {
+            "index":6712,
             "area":"UMB",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":6000,
@@ -73877,7 +73888,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6712,
+            "index":6713,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14400,
@@ -73888,7 +73899,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6713,
+            "index":6714,
             "area":"UMB",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":12000,
@@ -73899,7 +73910,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6714,
+            "index":6715,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14400,
@@ -73910,7 +73921,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6715,
+            "index":6716,
             "area":"UMB",
             "fornitore":"Novavax",
             "numero_dosi":14400,
@@ -73921,7 +73932,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6716,
+            "index":6717,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":30420,
@@ -73932,7 +73943,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6717,
+            "index":6718,
             "area":"UMB",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":30420,
@@ -73943,7 +73954,7 @@
             "nome_area":"Umbria"
         },
         {
-            "index":6718,
+            "index":6719,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":20,
@@ -73954,7 +73965,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6719,
+            "index":6720,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
@@ -73965,7 +73976,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6720,
+            "index":6721,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":975,
@@ -73976,7 +73987,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6721,
+            "index":6722,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1950,
@@ -73987,7 +73998,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6722,
+            "index":6723,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":200,
@@ -73998,7 +74009,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6723,
+            "index":6724,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -74009,7 +74020,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6724,
+            "index":6725,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -74020,7 +74031,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6725,
+            "index":6726,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":100,
@@ -74031,7 +74042,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6726,
+            "index":6727,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -74042,7 +74053,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6727,
+            "index":6728,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -74053,7 +74064,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6728,
+            "index":6729,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":500,
@@ -74064,7 +74075,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6729,
+            "index":6730,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":300,
@@ -74075,7 +74086,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6730,
+            "index":6731,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":600,
@@ -74086,7 +74097,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6731,
+            "index":6732,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -74097,7 +74108,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6732,
+            "index":6733,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":1100,
@@ -74108,7 +74119,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6733,
+            "index":6734,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -74119,7 +74130,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6734,
+            "index":6735,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":900,
@@ -74130,7 +74141,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6735,
+            "index":6736,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":500,
@@ -74141,7 +74152,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6736,
+            "index":6737,
             "area":"VDA",
             "fornitore":"Janssen",
             "numero_dosi":0,
@@ -74152,7 +74163,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6737,
+            "index":6738,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -74163,7 +74174,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6738,
+            "index":6739,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -74174,7 +74185,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6739,
+            "index":6740,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":1300,
@@ -74185,7 +74196,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6740,
+            "index":6741,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":500,
@@ -74196,7 +74207,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6741,
+            "index":6742,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -74207,7 +74218,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6742,
+            "index":6743,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":700,
@@ -74218,7 +74229,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6743,
+            "index":6744,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -74229,7 +74240,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6744,
+            "index":6745,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":600,
@@ -74240,7 +74251,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6745,
+            "index":6746,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -74251,7 +74262,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6746,
+            "index":6747,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":1000,
@@ -74262,7 +74273,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6747,
+            "index":6748,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":2700,
@@ -74273,7 +74284,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6748,
+            "index":6749,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -74284,7 +74295,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6749,
+            "index":6750,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -74295,7 +74306,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6750,
+            "index":6751,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -74306,7 +74317,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6751,
+            "index":6752,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":300,
@@ -74317,7 +74328,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6752,
+            "index":6753,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":800,
@@ -74328,7 +74339,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6753,
+            "index":6754,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -74339,7 +74350,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6754,
+            "index":6755,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":800,
@@ -74350,7 +74361,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6755,
+            "index":6756,
             "area":"VDA",
             "fornitore":"Janssen",
             "numero_dosi":350,
@@ -74361,7 +74372,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6756,
+            "index":6757,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":500,
@@ -74372,7 +74383,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6757,
+            "index":6758,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":300,
@@ -74383,7 +74394,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6758,
+            "index":6759,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -74394,7 +74405,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6759,
+            "index":6760,
             "area":"VDA",
             "fornitore":"Janssen",
             "numero_dosi":300,
@@ -74405,7 +74416,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6760,
+            "index":6761,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":3700,
@@ -74416,7 +74427,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6761,
+            "index":6762,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -74427,7 +74438,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6762,
+            "index":6763,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":700,
@@ -74438,7 +74449,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6763,
+            "index":6764,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -74449,7 +74460,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6764,
+            "index":6765,
             "area":"VDA",
             "fornitore":"Janssen",
             "numero_dosi":300,
@@ -74460,7 +74471,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6765,
+            "index":6766,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":600,
@@ -74471,7 +74482,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6766,
+            "index":6767,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -74482,21 +74493,10 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6767,
+            "index":6768,
             "area":"VDA",
             "fornitore":"Janssen",
             "numero_dosi":400,
-            "data_consegna":"2021-05-21T00:00:00.000Z",
-            "codice_NUTS1":"ITC",
-            "codice_NUTS2":"ITC2",
-            "codice_regione_ISTAT":2,
-            "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
-        },
-        {
-            "index":6768,
-            "area":"VDA",
-            "fornitore":"Moderna",
-            "numero_dosi":700,
             "data_consegna":"2021-05-21T00:00:00.000Z",
             "codice_NUTS1":"ITC",
             "codice_NUTS2":"ITC2",
@@ -74508,7 +74508,7 @@
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":700,
-            "data_consegna":"2021-05-24T00:00:00.000Z",
+            "data_consegna":"2021-05-21T00:00:00.000Z",
             "codice_NUTS1":"ITC",
             "codice_NUTS2":"ITC2",
             "codice_regione_ISTAT":2,
@@ -74516,6 +74516,17 @@
         },
         {
             "index":6770,
+            "area":"VDA",
+            "fornitore":"Moderna",
+            "numero_dosi":700,
+            "data_consegna":"2021-05-24T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC2",
+            "codice_regione_ISTAT":2,
+            "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
+        },
+        {
+            "index":6771,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":600,
@@ -74526,7 +74537,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6771,
+            "index":6772,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -74537,7 +74548,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6772,
+            "index":6773,
             "area":"VDA",
             "fornitore":"Janssen",
             "numero_dosi":900,
@@ -74548,7 +74559,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6773,
+            "index":6774,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":700,
@@ -74559,7 +74570,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6774,
+            "index":6775,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7020,
@@ -74570,7 +74581,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6775,
+            "index":6776,
             "area":"VDA",
             "fornitore":"Janssen",
             "numero_dosi":700,
@@ -74581,7 +74592,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6776,
+            "index":6777,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":3100,
@@ -74592,7 +74603,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6777,
+            "index":6778,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":700,
@@ -74603,7 +74614,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6778,
+            "index":6779,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -74614,7 +74625,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6779,
+            "index":6780,
             "area":"VDA",
             "fornitore":"Janssen",
             "numero_dosi":300,
@@ -74625,7 +74636,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6780,
+            "index":6781,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":700,
@@ -74636,7 +74647,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6781,
+            "index":6782,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -74647,7 +74658,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6782,
+            "index":6783,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":1000,
@@ -74658,7 +74669,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6783,
+            "index":6784,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -74669,7 +74680,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6784,
+            "index":6785,
             "area":"VDA",
             "fornitore":"Janssen",
             "numero_dosi":300,
@@ -74680,7 +74691,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6785,
+            "index":6786,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":800,
@@ -74691,7 +74702,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6786,
+            "index":6787,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7020,
@@ -74702,7 +74713,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6787,
+            "index":6788,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":1200,
@@ -74713,7 +74724,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6788,
+            "index":6789,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":800,
@@ -74724,7 +74735,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6789,
+            "index":6790,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7020,
@@ -74735,7 +74746,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6790,
+            "index":6791,
             "area":"VDA",
             "fornitore":"Janssen",
             "numero_dosi":200,
@@ -74746,7 +74757,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6791,
+            "index":6792,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":800,
@@ -74757,7 +74768,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6792,
+            "index":6793,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":1600,
@@ -74768,7 +74779,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6793,
+            "index":6794,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -74779,7 +74790,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6794,
+            "index":6795,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":900,
@@ -74790,7 +74801,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6795,
+            "index":6796,
             "area":"VDA",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":600,
@@ -74801,7 +74812,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6796,
+            "index":6797,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -74812,7 +74823,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6797,
+            "index":6798,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":1100,
@@ -74823,7 +74834,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6798,
+            "index":6799,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -74834,7 +74845,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6799,
+            "index":6800,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":1000,
@@ -74845,7 +74856,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6800,
+            "index":6801,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -74856,7 +74867,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6801,
+            "index":6802,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":2000,
@@ -74867,7 +74878,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6802,
+            "index":6803,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -74878,7 +74889,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6803,
+            "index":6804,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":1100,
@@ -74889,7 +74900,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6804,
+            "index":6805,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -74900,7 +74911,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6805,
+            "index":6806,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":2400,
@@ -74911,7 +74922,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6806,
+            "index":6807,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7020,
@@ -74922,7 +74933,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6807,
+            "index":6808,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":3200,
@@ -74933,7 +74944,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6808,
+            "index":6809,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7020,
@@ -74944,7 +74955,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6809,
+            "index":6810,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -74955,7 +74966,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6810,
+            "index":6811,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":3400,
@@ -74966,7 +74977,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6811,
+            "index":6812,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -74977,7 +74988,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6812,
+            "index":6813,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":1400,
@@ -74988,7 +74999,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6813,
+            "index":6814,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -74999,7 +75010,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6814,
+            "index":6815,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":900,
@@ -75010,7 +75021,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6815,
+            "index":6816,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -75021,7 +75032,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6816,
+            "index":6817,
             "area":"VDA",
             "fornitore":"Janssen",
             "numero_dosi":-2600,
@@ -75032,7 +75043,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6817,
+            "index":6818,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":4000,
@@ -75043,7 +75054,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6818,
+            "index":6819,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5850,
@@ -75054,7 +75065,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6819,
+            "index":6820,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":1600,
@@ -75065,7 +75076,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6820,
+            "index":6821,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":1600,
@@ -75076,7 +75087,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6821,
+            "index":6822,
             "area":"VDA",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":6000,
@@ -75087,7 +75098,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6822,
+            "index":6823,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -75098,7 +75109,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6823,
+            "index":6824,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":3000,
@@ -75109,21 +75120,10 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6824,
+            "index":6825,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":1600,
-            "data_consegna":"2021-12-22T00:00:00.000Z",
-            "codice_NUTS1":"ITC",
-            "codice_NUTS2":"ITC2",
-            "codice_regione_ISTAT":2,
-            "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
-        },
-        {
-            "index":6825,
-            "area":"VDA",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":3510,
             "data_consegna":"2021-12-22T00:00:00.000Z",
             "codice_NUTS1":"ITC",
             "codice_NUTS2":"ITC2",
@@ -75134,6 +75134,17 @@
             "index":6826,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":3510,
+            "data_consegna":"2021-12-22T00:00:00.000Z",
+            "codice_NUTS1":"ITC",
+            "codice_NUTS2":"ITC2",
+            "codice_regione_ISTAT":2,
+            "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
+        },
+        {
+            "index":6827,
+            "area":"VDA",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
             "data_consegna":"2021-12-27T00:00:00.000Z",
             "codice_NUTS1":"ITC",
@@ -75142,7 +75153,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6827,
+            "index":6828,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":1500,
@@ -75153,7 +75164,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6828,
+            "index":6829,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -75164,7 +75175,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6829,
+            "index":6830,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -75175,7 +75186,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6830,
+            "index":6831,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":1900,
@@ -75186,7 +75197,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6831,
+            "index":6832,
             "area":"VDA",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":6000,
@@ -75197,7 +75208,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6832,
+            "index":6833,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2340,
@@ -75208,7 +75219,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6833,
+            "index":6834,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":1700,
@@ -75219,7 +75230,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6834,
+            "index":6835,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1170,
@@ -75230,7 +75241,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6835,
+            "index":6836,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2880,
@@ -75241,7 +75252,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6836,
+            "index":6837,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":2000,
@@ -75252,7 +75263,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6837,
+            "index":6838,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -75263,7 +75274,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6838,
+            "index":6839,
             "area":"VDA",
             "fornitore":"Moderna",
             "numero_dosi":2000,
@@ -75274,7 +75285,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6839,
+            "index":6840,
             "area":"VDA",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":6000,
@@ -75285,7 +75296,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6840,
+            "index":6841,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -75296,7 +75307,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6841,
+            "index":6842,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2880,
@@ -75307,7 +75318,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6842,
+            "index":6843,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2880,
@@ -75318,7 +75329,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6843,
+            "index":6844,
             "area":"VDA",
             "fornitore":"Novavax",
             "numero_dosi":2100,
@@ -75329,7 +75340,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6844,
+            "index":6845,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -75340,7 +75351,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6845,
+            "index":6846,
             "area":"VDA",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4680,
@@ -75351,7 +75362,7 @@
             "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
-            "index":6846,
+            "index":6847,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":875,
@@ -75362,7 +75373,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6847,
+            "index":6848,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":25350,
@@ -75373,7 +75384,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6848,
+            "index":6849,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":12675,
@@ -75384,7 +75395,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6849,
+            "index":6850,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4875,
@@ -75395,7 +75406,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6850,
+            "index":6851,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":34125,
@@ -75406,7 +75417,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6851,
+            "index":6852,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":39000,
@@ -75417,7 +75428,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6852,
+            "index":6853,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":7800,
@@ -75428,7 +75439,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6853,
+            "index":6854,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7020,
@@ -75439,7 +75450,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6854,
+            "index":6855,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":15210,
@@ -75450,7 +75461,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6855,
+            "index":6856,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14040,
@@ -75461,7 +75472,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6856,
+            "index":6857,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":36270,
@@ -75472,7 +75483,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6857,
+            "index":6858,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":5400,
@@ -75483,7 +75494,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6858,
+            "index":6859,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":45630,
@@ -75494,7 +75505,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6859,
+            "index":6860,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":20400,
@@ -75505,7 +75516,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6860,
+            "index":6861,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":42120,
@@ -75516,7 +75527,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6861,
+            "index":6862,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":10700,
@@ -75527,7 +75538,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6862,
+            "index":6863,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":23900,
@@ -75538,7 +75549,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6863,
+            "index":6864,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":49140,
@@ -75549,7 +75560,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6864,
+            "index":6865,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":41300,
@@ -75560,7 +75571,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6865,
+            "index":6866,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":50310,
@@ -75571,7 +75582,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6866,
+            "index":6867,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":34800,
@@ -75582,7 +75593,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6867,
+            "index":6868,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":19700,
@@ -75593,7 +75604,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6868,
+            "index":6869,
             "area":"VEN",
             "fornitore":"Janssen",
             "numero_dosi":0,
@@ -75604,7 +75615,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6869,
+            "index":6870,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":52650,
@@ -75615,7 +75626,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6870,
+            "index":6871,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":50,
@@ -75626,7 +75637,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6871,
+            "index":6872,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":59,
@@ -75637,7 +75648,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6872,
+            "index":6873,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":41,
@@ -75648,7 +75659,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6873,
+            "index":6874,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":40,
@@ -75659,7 +75670,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6874,
+            "index":6875,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":10,
@@ -75670,7 +75681,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6875,
+            "index":6876,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":81,
@@ -75681,21 +75692,10 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6876,
+            "index":6877,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":56160,
-            "data_consegna":"2021-03-09T00:00:00.000Z",
-            "codice_NUTS1":"ITH",
-            "codice_NUTS2":"ITH3",
-            "codice_regione_ISTAT":5,
-            "nome_area":"Veneto"
-        },
-        {
-            "index":6877,
-            "area":"VEN",
-            "fornitore":"Vaxzevria (AstraZeneca)",
-            "numero_dosi":71,
             "data_consegna":"2021-03-09T00:00:00.000Z",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -75706,6 +75706,17 @@
             "index":6878,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
+            "numero_dosi":71,
+            "data_consegna":"2021-03-09T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
+        },
+        {
+            "index":6879,
+            "area":"VEN",
+            "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":53392,
             "data_consegna":"2021-03-10T00:00:00.000Z",
             "codice_NUTS1":"ITH",
@@ -75714,7 +75725,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6879,
+            "index":6880,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":114,
@@ -75725,7 +75736,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6880,
+            "index":6881,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":52,
@@ -75736,7 +75747,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6881,
+            "index":6882,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":20348,
@@ -75747,7 +75758,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6882,
+            "index":6883,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":56160,
@@ -75758,7 +75769,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6883,
+            "index":6884,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":68,
@@ -75769,7 +75780,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6884,
+            "index":6885,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":43,
@@ -75780,7 +75791,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6885,
+            "index":6886,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":26500,
@@ -75791,21 +75802,10 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6886,
+            "index":6887,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":83070,
-            "data_consegna":"2021-03-22T00:00:00.000Z",
-            "codice_NUTS1":"ITH",
-            "codice_NUTS2":"ITH3",
-            "codice_regione_ISTAT":5,
-            "nome_area":"Veneto"
-        },
-        {
-            "index":6887,
-            "area":"VEN",
-            "fornitore":"Vaxzevria (AstraZeneca)",
-            "numero_dosi":42,
             "data_consegna":"2021-03-22T00:00:00.000Z",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -75816,6 +75816,17 @@
             "index":6888,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
+            "numero_dosi":42,
+            "data_consegna":"2021-03-22T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
+        },
+        {
+            "index":6889,
+            "area":"VEN",
+            "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":50,
             "data_consegna":"2021-03-23T00:00:00.000Z",
             "codice_NUTS1":"ITH",
@@ -75824,7 +75835,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6889,
+            "index":6890,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":58,
@@ -75835,7 +75846,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6890,
+            "index":6891,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":21866,
@@ -75846,7 +75857,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6891,
+            "index":6892,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":23,
@@ -75857,7 +75868,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6892,
+            "index":6893,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":22,
@@ -75868,7 +75879,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6893,
+            "index":6894,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":83070,
@@ -75879,7 +75890,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6894,
+            "index":6895,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":47,
@@ -75890,7 +75901,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6895,
+            "index":6896,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":36,
@@ -75901,7 +75912,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6896,
+            "index":6897,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":105,
@@ -75912,7 +75923,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6897,
+            "index":6898,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":81,
@@ -75923,7 +75934,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6898,
+            "index":6899,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":39100,
@@ -75934,7 +75945,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6899,
+            "index":6900,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":32,
@@ -75945,7 +75956,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6900,
+            "index":6901,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":103300,
@@ -75956,7 +75967,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6901,
+            "index":6902,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":124020,
@@ -75967,7 +75978,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6902,
+            "index":6903,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":24,
@@ -75978,7 +75989,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6903,
+            "index":6904,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":19,
@@ -75989,7 +76000,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6904,
+            "index":6905,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":41,
@@ -76000,7 +76011,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6905,
+            "index":6906,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3510,
@@ -76011,7 +76022,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6906,
+            "index":6907,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":3000,
@@ -76022,7 +76033,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6907,
+            "index":6908,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":126360,
@@ -76033,7 +76044,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6908,
+            "index":6909,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":13100,
@@ -76044,7 +76055,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6909,
+            "index":6910,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":33100,
@@ -76055,7 +76066,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6910,
+            "index":6911,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":126360,
@@ -76066,7 +76077,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6911,
+            "index":6912,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":33900,
@@ -76077,7 +76088,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6912,
+            "index":6913,
             "area":"VEN",
             "fornitore":"Janssen",
             "numero_dosi":14650,
@@ -76088,7 +76099,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6913,
+            "index":6914,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":5580,
@@ -76099,7 +76110,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6914,
+            "index":6915,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":19000,
@@ -76110,7 +76121,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6915,
+            "index":6916,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":10700,
@@ -76121,7 +76132,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6916,
+            "index":6917,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":181350,
@@ -76132,7 +76143,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6917,
+            "index":6918,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":5000,
@@ -76143,7 +76154,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6918,
+            "index":6919,
             "area":"VEN",
             "fornitore":"Janssen",
             "numero_dosi":12800,
@@ -76154,7 +76165,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6919,
+            "index":6920,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":20500,
@@ -76165,7 +76176,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6920,
+            "index":6921,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":151100,
@@ -76176,7 +76187,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6921,
+            "index":6922,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":171990,
@@ -76187,7 +76198,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6922,
+            "index":6923,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":29300,
@@ -76198,7 +76209,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6923,
+            "index":6924,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":1,
@@ -76209,7 +76220,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6924,
+            "index":6925,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":171990,
@@ -76220,7 +76231,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6925,
+            "index":6926,
             "area":"VEN",
             "fornitore":"Janssen",
             "numero_dosi":12900,
@@ -76231,7 +76242,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6926,
+            "index":6927,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":33609,
@@ -76242,7 +76253,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6927,
+            "index":6928,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":1,
@@ -76253,7 +76264,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6928,
+            "index":6929,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":169650,
@@ -76264,7 +76275,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6929,
+            "index":6930,
             "area":"VEN",
             "fornitore":"Janssen",
             "numero_dosi":17050,
@@ -76275,21 +76286,10 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6930,
+            "index":6931,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":29300,
-            "data_consegna":"2021-05-21T00:00:00.000Z",
-            "codice_NUTS1":"ITH",
-            "codice_NUTS2":"ITH3",
-            "codice_regione_ISTAT":5,
-            "nome_area":"Veneto"
-        },
-        {
-            "index":6931,
-            "area":"VEN",
-            "fornitore":"Vaxzevria (AstraZeneca)",
-            "numero_dosi":10,
             "data_consegna":"2021-05-21T00:00:00.000Z",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -76300,6 +76300,17 @@
             "index":6932,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
+            "numero_dosi":10,
+            "data_consegna":"2021-05-21T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
+        },
+        {
+            "index":6933,
+            "area":"VEN",
+            "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":11,
             "data_consegna":"2021-05-23T00:00:00.000Z",
             "codice_NUTS1":"ITH",
@@ -76308,7 +76319,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6933,
+            "index":6934,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":11200,
@@ -76319,7 +76330,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6934,
+            "index":6935,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":247,
@@ -76330,7 +76341,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6935,
+            "index":6936,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":29400,
@@ -76341,7 +76352,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6936,
+            "index":6937,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":152,
@@ -76352,7 +76363,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6937,
+            "index":6938,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":33,
@@ -76363,7 +76374,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6938,
+            "index":6939,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":167376,
@@ -76374,7 +76385,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6939,
+            "index":6940,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":67,
@@ -76385,7 +76396,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6940,
+            "index":6941,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":18100,
@@ -76396,7 +76407,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6941,
+            "index":6942,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":96,
@@ -76407,7 +76418,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6942,
+            "index":6943,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":51,
@@ -76418,7 +76429,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6943,
+            "index":6944,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":86,
@@ -76429,7 +76440,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6944,
+            "index":6945,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":46,
@@ -76440,7 +76451,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6945,
+            "index":6946,
             "area":"VEN",
             "fornitore":"Janssen",
             "numero_dosi":41200,
@@ -76451,7 +76462,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6946,
+            "index":6947,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":29300,
@@ -76462,7 +76473,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6947,
+            "index":6948,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":135,
@@ -76473,7 +76484,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6948,
+            "index":6949,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":265590,
@@ -76484,7 +76495,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6949,
+            "index":6950,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":101,
@@ -76495,7 +76506,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6950,
+            "index":6951,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":55,
@@ -76506,7 +76517,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6951,
+            "index":6952,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":76,
@@ -76517,7 +76528,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6952,
+            "index":6953,
             "area":"VEN",
             "fornitore":"Janssen",
             "numero_dosi":27300,
@@ -76528,7 +76539,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6953,
+            "index":6954,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":47,
@@ -76539,7 +76550,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6954,
+            "index":6955,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":134108,
@@ -76550,7 +76561,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6955,
+            "index":6956,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":40,
@@ -76561,7 +76572,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6956,
+            "index":6957,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":28700,
@@ -76572,7 +76583,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6957,
+            "index":6958,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":101,
@@ -76583,7 +76594,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6958,
+            "index":6959,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":116,
@@ -76594,7 +76605,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6959,
+            "index":6960,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":234051,
@@ -76605,7 +76616,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6960,
+            "index":6961,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":59,
@@ -76616,7 +76627,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6961,
+            "index":6962,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":40,
@@ -76627,7 +76638,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6962,
+            "index":6963,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":46,
@@ -76638,7 +76649,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6963,
+            "index":6964,
             "area":"VEN",
             "fornitore":"Janssen",
             "numero_dosi":12800,
@@ -76649,7 +76660,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6964,
+            "index":6965,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":10000,
@@ -76660,7 +76671,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6965,
+            "index":6966,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":31,
@@ -76671,7 +76682,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6966,
+            "index":6967,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":72,
@@ -76682,7 +76693,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6967,
+            "index":6968,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":28700,
@@ -76693,7 +76704,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6968,
+            "index":6969,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2,
@@ -76704,7 +76715,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6969,
+            "index":6970,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":238684,
@@ -76715,7 +76726,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6970,
+            "index":6971,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":42600,
@@ -76726,7 +76737,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6971,
+            "index":6972,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":151,
@@ -76737,7 +76748,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6972,
+            "index":6973,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":67,
@@ -76748,7 +76759,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6973,
+            "index":6974,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":10530,
@@ -76759,7 +76770,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6974,
+            "index":6975,
             "area":"VEN",
             "fornitore":"Janssen",
             "numero_dosi":11700,
@@ -76770,7 +76781,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6975,
+            "index":6976,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":50700,
@@ -76781,7 +76792,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6976,
+            "index":6977,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":19,
@@ -76792,7 +76803,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6977,
+            "index":6978,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":7,
@@ -76803,7 +76814,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6978,
+            "index":6979,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":15239,
@@ -76814,7 +76825,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6979,
+            "index":6980,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":292541,
@@ -76825,7 +76836,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6980,
+            "index":6981,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":64109,
@@ -76836,7 +76847,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6981,
+            "index":6982,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3577,
@@ -76847,7 +76858,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6982,
+            "index":6983,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":10,
@@ -76858,7 +76869,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6983,
+            "index":6984,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":41,
@@ -76869,7 +76880,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6984,
+            "index":6985,
             "area":"VEN",
             "fornitore":"Janssen",
             "numero_dosi":11600,
@@ -76880,7 +76891,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6985,
+            "index":6986,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":32600,
@@ -76891,7 +76902,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6986,
+            "index":6987,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":57,
@@ -76902,7 +76913,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6987,
+            "index":6988,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":291433,
@@ -76913,7 +76924,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6988,
+            "index":6989,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":4300,
@@ -76924,7 +76935,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6989,
+            "index":6990,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":55,
@@ -76935,7 +76946,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6990,
+            "index":6991,
             "area":"VEN",
             "fornitore":"Janssen",
             "numero_dosi":16700,
@@ -76946,7 +76957,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6991,
+            "index":6992,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":30300,
@@ -76957,7 +76968,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6992,
+            "index":6993,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":9,
@@ -76968,7 +76979,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6993,
+            "index":6994,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":63,
@@ -76979,7 +76990,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6994,
+            "index":6995,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":145300,
@@ -76990,7 +77001,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6995,
+            "index":6996,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":154,
@@ -77001,7 +77012,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6996,
+            "index":6997,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":174330,
@@ -77012,7 +77023,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6997,
+            "index":6998,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":65900,
@@ -77023,7 +77034,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6998,
+            "index":6999,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":15,
@@ -77034,7 +77045,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":6999,
+            "index":7000,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":175573,
@@ -77045,7 +77056,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7000,
+            "index":7001,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":101,
@@ -77056,7 +77067,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7001,
+            "index":7002,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":159120,
@@ -77067,7 +77078,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7002,
+            "index":7003,
             "area":"VEN",
             "fornitore":"Janssen",
             "numero_dosi":-60000,
@@ -77078,7 +77089,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7003,
+            "index":7004,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":40000,
@@ -77089,7 +77100,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7004,
+            "index":7005,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":162630,
@@ -77100,7 +77111,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7005,
+            "index":7006,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":15210,
@@ -77111,7 +77122,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7006,
+            "index":7007,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":87800,
@@ -77122,7 +77133,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7007,
+            "index":7008,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":162630,
@@ -77133,7 +77144,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7008,
+            "index":7009,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":42500,
@@ -77144,7 +77155,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7009,
+            "index":7010,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2712,
@@ -77155,7 +77166,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7010,
+            "index":7011,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":330,
@@ -77166,7 +77177,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7011,
+            "index":7012,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":159120,
@@ -77177,7 +77188,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7012,
+            "index":7013,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":48900,
@@ -77188,7 +77199,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7013,
+            "index":7014,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":48800,
@@ -77199,7 +77210,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7014,
+            "index":7015,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":267930,
@@ -77210,7 +77221,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7015,
+            "index":7016,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":128300,
@@ -77221,7 +77232,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7016,
+            "index":7017,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2172,
@@ -77232,7 +77243,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7017,
+            "index":7018,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":285480,
@@ -77243,7 +77254,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7018,
+            "index":7019,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":8190,
@@ -77254,7 +77265,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7019,
+            "index":7020,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":155610,
@@ -77265,7 +77276,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7020,
+            "index":7021,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":136400,
@@ -77276,7 +77287,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7021,
+            "index":7022,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":166140,
@@ -77287,7 +77298,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7022,
+            "index":7023,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":54700,
@@ -77298,7 +77309,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7023,
+            "index":7024,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":107640,
@@ -77309,7 +77320,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7024,
+            "index":7025,
             "area":"VEN",
             "fornitore":"Vaxzevria (AstraZeneca)",
             "numero_dosi":-68600,
@@ -77320,7 +77331,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7025,
+            "index":7026,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":35800,
@@ -77331,7 +77342,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7026,
+            "index":7027,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":108810,
@@ -77342,7 +77353,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7027,
+            "index":7028,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4,
@@ -77353,7 +77364,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7028,
+            "index":7029,
             "area":"VEN",
             "fornitore":"Janssen",
             "numero_dosi":-15700,
@@ -77364,7 +77375,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7029,
+            "index":7030,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":110400,
@@ -77375,7 +77386,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7030,
+            "index":7031,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":270270,
@@ -77386,7 +77397,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7031,
+            "index":7032,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":91260,
@@ -77397,7 +77408,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7032,
+            "index":7033,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":-1200,
@@ -77408,7 +77419,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7033,
+            "index":7034,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":1,
@@ -77419,7 +77430,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7034,
+            "index":7035,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":8,
@@ -77430,7 +77441,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7035,
+            "index":7036,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4,
@@ -77441,7 +77452,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7036,
+            "index":7037,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":60,
@@ -77452,7 +77463,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7037,
+            "index":7038,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":5,
@@ -77463,7 +77474,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7038,
+            "index":7039,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":161300,
@@ -77474,7 +77485,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7039,
+            "index":7040,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":2,
@@ -77485,7 +77496,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7040,
+            "index":7041,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1,
@@ -77496,7 +77507,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7041,
+            "index":7042,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":1,
@@ -77507,7 +77518,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7042,
+            "index":7043,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":230490,
@@ -77518,7 +77529,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7043,
+            "index":7044,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5,
@@ -77529,21 +77540,10 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7044,
+            "index":7045,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":63100,
-            "data_consegna":"2021-12-02T00:00:00.000Z",
-            "codice_NUTS1":"ITH",
-            "codice_NUTS2":"ITH3",
-            "codice_regione_ISTAT":5,
-            "nome_area":"Veneto"
-        },
-        {
-            "index":7045,
-            "area":"VEN",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":2,
             "data_consegna":"2021-12-02T00:00:00.000Z",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -77554,6 +77554,17 @@
             "index":7046,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":2,
+            "data_consegna":"2021-12-02T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
+        },
+        {
+            "index":7047,
+            "area":"VEN",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7,
             "data_consegna":"2021-12-03T00:00:00.000Z",
             "codice_NUTS1":"ITH",
@@ -77562,7 +77573,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7047,
+            "index":7048,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":11,
@@ -77573,21 +77584,10 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7048,
+            "index":7049,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":1,
-            "data_consegna":"2021-12-07T00:00:00.000Z",
-            "codice_NUTS1":"ITH",
-            "codice_NUTS2":"ITH3",
-            "codice_regione_ISTAT":5,
-            "nome_area":"Veneto"
-        },
-        {
-            "index":7049,
-            "area":"VEN",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":7,
             "data_consegna":"2021-12-07T00:00:00.000Z",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -77598,6 +77598,17 @@
             "index":7050,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":7,
+            "data_consegna":"2021-12-07T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
+        },
+        {
+            "index":7051,
+            "area":"VEN",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":13,
             "data_consegna":"2021-12-09T00:00:00.000Z",
             "codice_NUTS1":"ITH",
@@ -77606,7 +77617,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7051,
+            "index":7052,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":63100,
@@ -77617,7 +77628,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7052,
+            "index":7053,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":14,
@@ -77628,7 +77639,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7053,
+            "index":7054,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":1,
@@ -77639,7 +77650,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7054,
+            "index":7055,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5,
@@ -77650,7 +77661,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7055,
+            "index":7056,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":11,
@@ -77661,7 +77672,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7056,
+            "index":7057,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":2,
@@ -77672,7 +77683,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7057,
+            "index":7058,
             "area":"VEN",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":126000,
@@ -77683,7 +77694,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7058,
+            "index":7059,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":132217,
@@ -77694,21 +77705,10 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7059,
+            "index":7060,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":122000,
-            "data_consegna":"2021-12-16T00:00:00.000Z",
-            "codice_NUTS1":"ITH",
-            "codice_NUTS2":"ITH3",
-            "codice_regione_ISTAT":5,
-            "nome_area":"Veneto"
-        },
-        {
-            "index":7060,
-            "area":"VEN",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":6,
             "data_consegna":"2021-12-16T00:00:00.000Z",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -77720,7 +77720,7 @@
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":6,
-            "data_consegna":"2021-12-17T00:00:00.000Z",
+            "data_consegna":"2021-12-16T00:00:00.000Z",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
             "codice_regione_ISTAT":5,
@@ -77728,6 +77728,17 @@
         },
         {
             "index":7062,
+            "area":"VEN",
+            "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":6,
+            "data_consegna":"2021-12-17T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
+        },
+        {
+            "index":7063,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":3,
@@ -77738,7 +77749,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7063,
+            "index":7064,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":63140,
@@ -77749,7 +77760,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7064,
+            "index":7065,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":121680,
@@ -77760,7 +77771,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7065,
+            "index":7066,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":1,
@@ -77771,7 +77782,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7066,
+            "index":7067,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":2,
@@ -77782,7 +77793,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7067,
+            "index":7068,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":98280,
@@ -77793,7 +77804,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7068,
+            "index":7069,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1,
@@ -77804,7 +77815,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7069,
+            "index":7070,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1,
@@ -77815,7 +77826,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7070,
+            "index":7071,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":61002,
@@ -77826,21 +77837,10 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7071,
+            "index":7072,
             "area":"VEN",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":60000,
-            "data_consegna":"2022-01-05T00:00:00.000Z",
-            "codice_NUTS1":"ITH",
-            "codice_NUTS2":"ITH3",
-            "codice_regione_ISTAT":5,
-            "nome_area":"Veneto"
-        },
-        {
-            "index":7072,
-            "area":"VEN",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":114661,
             "data_consegna":"2022-01-05T00:00:00.000Z",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -77851,6 +77851,17 @@
             "index":7073,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":114661,
+            "data_consegna":"2022-01-05T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
+        },
+        {
+            "index":7074,
+            "area":"VEN",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4,
             "data_consegna":"2022-01-07T00:00:00.000Z",
             "codice_NUTS1":"ITH",
@@ -77859,7 +77870,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7074,
+            "index":7075,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":3,
@@ -77870,7 +77881,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7075,
+            "index":7076,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":13,
@@ -77881,7 +77892,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7076,
+            "index":7077,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1,
@@ -77892,7 +77903,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7077,
+            "index":7078,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":8,
@@ -77903,7 +77914,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7078,
+            "index":7079,
             "area":"VEN",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":60000,
@@ -77914,7 +77925,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7079,
+            "index":7080,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":21,
@@ -77925,7 +77936,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7080,
+            "index":7081,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":21,
@@ -77936,7 +77947,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7081,
+            "index":7082,
             "area":"VEN",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":12000,
@@ -77947,7 +77958,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7082,
+            "index":7083,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":176687,
@@ -77958,7 +77969,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7083,
+            "index":7084,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":75306,
@@ -77969,7 +77980,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7084,
+            "index":7085,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":15,
@@ -77980,7 +77991,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7085,
+            "index":7086,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5,
@@ -77991,7 +78002,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7086,
+            "index":7087,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1,
@@ -78002,7 +78013,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7087,
+            "index":7088,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":19,
@@ -78013,7 +78024,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7088,
+            "index":7089,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":9,
@@ -78024,7 +78035,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7089,
+            "index":7090,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":7,
@@ -78035,7 +78046,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7090,
+            "index":7091,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":6,
@@ -78046,7 +78057,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7091,
+            "index":7092,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":1,
@@ -78057,7 +78068,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7092,
+            "index":7093,
             "area":"VEN",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":72000,
@@ -78068,7 +78079,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7093,
+            "index":7094,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":114661,
@@ -78079,7 +78090,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7094,
+            "index":7095,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":69200,
@@ -78090,7 +78101,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7095,
+            "index":7096,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4,
@@ -78101,7 +78112,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7096,
+            "index":7097,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":7,
@@ -78112,7 +78123,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7097,
+            "index":7098,
             "area":"VEN",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":18000,
@@ -78123,7 +78134,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7098,
+            "index":7099,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":65522,
@@ -78134,7 +78145,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7099,
+            "index":7100,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1,
@@ -78145,7 +78156,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7100,
+            "index":7101,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":66242,
@@ -78156,21 +78167,10 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7101,
+            "index":7102,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":81300,
-            "data_consegna":"2022-01-27T00:00:00.000Z",
-            "codice_NUTS1":"ITH",
-            "codice_NUTS2":"ITH3",
-            "codice_regione_ISTAT":5,
-            "nome_area":"Veneto"
-        },
-        {
-            "index":7102,
-            "area":"VEN",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":3,
             "data_consegna":"2022-01-27T00:00:00.000Z",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -78181,8 +78181,8 @@
             "index":7103,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":1,
-            "data_consegna":"2022-01-28T00:00:00.000Z",
+            "numero_dosi":3,
+            "data_consegna":"2022-01-27T00:00:00.000Z",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
             "codice_regione_ISTAT":5,
@@ -78192,8 +78192,8 @@
             "index":7104,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":2,
-            "data_consegna":"2022-01-29T00:00:00.000Z",
+            "numero_dosi":1,
+            "data_consegna":"2022-01-28T00:00:00.000Z",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
             "codice_regione_ISTAT":5,
@@ -78204,7 +78204,7 @@
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2,
-            "data_consegna":"2022-01-31T00:00:00.000Z",
+            "data_consegna":"2022-01-29T00:00:00.000Z",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
             "codice_regione_ISTAT":5,
@@ -78215,7 +78215,7 @@
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2,
-            "data_consegna":"2022-02-01T00:00:00.000Z",
+            "data_consegna":"2022-01-31T00:00:00.000Z",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
             "codice_regione_ISTAT":5,
@@ -78223,6 +78223,17 @@
         },
         {
             "index":7107,
+            "area":"VEN",
+            "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":2,
+            "data_consegna":"2022-02-01T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
+        },
+        {
+            "index":7108,
             "area":"VEN",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":54000,
@@ -78233,7 +78244,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7108,
+            "index":7109,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":132211,
@@ -78244,7 +78255,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7109,
+            "index":7110,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":81300,
@@ -78255,7 +78266,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7110,
+            "index":7111,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2,
@@ -78266,21 +78277,10 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7111,
+            "index":7112,
             "area":"VEN",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":54000,
-            "data_consegna":"2022-02-09T00:00:00.000Z",
-            "codice_NUTS1":"ITH",
-            "codice_NUTS2":"ITH3",
-            "codice_regione_ISTAT":5,
-            "nome_area":"Veneto"
-        },
-        {
-            "index":7112,
-            "area":"VEN",
-            "fornitore":"Pfizer\/BioNTech",
-            "numero_dosi":174331,
             "data_consegna":"2022-02-09T00:00:00.000Z",
             "codice_NUTS1":"ITH",
             "codice_NUTS2":"ITH3",
@@ -78291,6 +78291,17 @@
             "index":7113,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
+            "numero_dosi":174331,
+            "data_consegna":"2022-02-09T00:00:00.000Z",
+            "codice_NUTS1":"ITH",
+            "codice_NUTS2":"ITH3",
+            "codice_regione_ISTAT":5,
+            "nome_area":"Veneto"
+        },
+        {
+            "index":7114,
+            "area":"VEN",
+            "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":5,
             "data_consegna":"2022-02-11T00:00:00.000Z",
             "codice_NUTS1":"ITH",
@@ -78299,7 +78310,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7114,
+            "index":7115,
             "area":"VEN",
             "fornitore":"Moderna",
             "numero_dosi":5,
@@ -78310,7 +78321,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7115,
+            "index":7116,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1,
@@ -78321,7 +78332,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7116,
+            "index":7117,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1,
@@ -78332,7 +78343,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7117,
+            "index":7118,
             "area":"VEN",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":36000,
@@ -78343,7 +78354,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7118,
+            "index":7119,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":92160,
@@ -78354,7 +78365,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7119,
+            "index":7120,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":1,
@@ -78365,7 +78376,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7120,
+            "index":7121,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":2,
@@ -78376,7 +78387,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7121,
+            "index":7122,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":4,
@@ -78387,7 +78398,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7122,
+            "index":7123,
             "area":"VEN",
             "fornitore":"Pfizer Pediatrico",
             "numero_dosi":54000,
@@ -78398,7 +78409,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7123,
+            "index":7124,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":92160,
@@ -78409,7 +78420,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7124,
+            "index":7125,
             "area":"VEN",
             "fornitore":"Novavax",
             "numero_dosi":83200,
@@ -78420,7 +78431,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7125,
+            "index":7126,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":174330,
@@ -78431,7 +78442,7 @@
             "nome_area":"Veneto"
         },
         {
-            "index":7126,
+            "index":7127,
             "area":"VEN",
             "fornitore":"Pfizer\/BioNTech",
             "numero_dosi":174330,
