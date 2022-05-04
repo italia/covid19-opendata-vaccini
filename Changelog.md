@@ -4,6 +4,38 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
+## 20/05/2022
+
+* Il campo **fornitore** sarà rinominato in **forn**. La modifica interesserà i files `consegne-vaccini-latest`, `somministrazioni-vaccini-latest`.
+
+* Il campo **data_somministrazione** sarà rinominato in **data** con contestuale variazione del tipo dati in **date**. La modifica interesserà i files `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+
+* Il campo **fascia_anagrafica** sarà rinominato in **eta**. La modifica interesserà i files `somministrazioni-vaccini-latest`, `anagrafica-vaccini-summary-latest`, `platea`, `soggetti-guariti`.
+
+* Il campo **sesso_maschile** sarà rinominato in **m**. La modifica interesserà i files `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `anagrafica-vaccini-summary-latest`.
+
+* Il campo **sesso_femminile** sarà rinominato in **f**. La modifica interesserà i files `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `anagrafica-vaccini-summary-latest`.
+
+* Il campo **prima_dose** sarà rinominato in **d1**. La modifica interesserà i files `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `anagrafica-vaccini-summary-latest`.
+
+* Il campo **seconda_dose** sarà rinominato in **d2**. La modifica interesserà i files `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `anagrafica-vaccini-summary-latest`.
+
+* Il campo **pregressa_infezione** sarà rinominato in **dpi**. La modifica interesserà i files `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `anagrafica-vaccini-summary-latest`.
+
+* Il campo **dose_addizionale_booster** sarà rinominato in **db1**. La modifica interesserà i files  `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `anagrafica-vaccini-summary-latest`.
+
+* Il campo **booster_immuno** sarà rinominato in **dbi**. La modifica interesserà i files `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `anagrafica-vaccini-summary-latest`.
+
+* Il campo **d2_booster** sarà rinominato in **db2**. La modifica interesserà i files `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `anagrafica-vaccini-summary-latest`.
+
+* Il campo **codice_NUTS1** sarà rinominato in **N1**. La modifica interesserà i files `consegne-vaccini-latest`, `vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `punti-somministrazione-tipologia`.
+
+* Il campo **codice_NUTS2** sarà rinominato in **N2**. La modifica interesserà i files `consegne-vaccini-latest`, `vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `punti-somministrazione-tipologia`.
+
+* Il campo **codice_regione_ISTAT** sarà rinominato in **ISTAT**. La modifica interesserà i files `consegne-vaccini-latest`, `vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `punti-somministrazione-tipologia`.
+
+* Il campo **nome_regione** sarà rinominato in **reg**. La modifica interesserà i files `consegne-vaccini-latest`, `vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `punti-somministrazione-tipologia`.
+
 ## 12/04/2022
 
 Aggiunto il campo **d2_booster** che identifica il numero di dosi di second booster somministrate a soggetti che abbiano già completato il ciclo vaccinale comprensivo di dose booster, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose booster stessa. La modifica ha interessato i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
