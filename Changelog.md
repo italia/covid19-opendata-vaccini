@@ -36,6 +36,26 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 * Il campo **nome_regione** sarà rinominato in **reg**. La modifica interesserà i files `consegne-vaccini-latest`, `vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `punti-somministrazione-tipologia`.
 
+Di seguito un riepilogo dei campi oggetto di modifica con i files interessati dalla stessa.
+
+| old_name | new_name | files |
+| --- | --- | --- |
+| fornitore | forn | `consegne-vaccini-latest` <br/> `somministrazioni-vaccini-latest`|
+| data_somministrazione | data | `somministrazioni-vaccini-latest` <br/> `somministrazioni-vaccini-summary-latest`|
+| fascia_anagrafica | eta | `somministrazioni-vaccini-latest`<br/> `anagrafica-vaccini-summary-latest`<br/> `platea`<br/> `soggetti-guariti`|
+| sesso_maschile | m | `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `anagrafica-vaccini-summary-latest`|
+| sesso_femminile | f | `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `anagrafica-vaccini-summary-latest`|
+| prima_dose | d1 | `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `anagrafica-vaccini-summary-latest`|
+| seconda_dose | d2 | `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `anagrafica-vaccini-summary-latest`|
+| pregressa_infezione | dpi | `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `anagrafica-vaccini-summary-latest`|
+| dose_addizionale_booster | db1 | `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `anagrafica-vaccini-summary-latest`|
+| booster_immuno | dbi | `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `anagrafica-vaccini-summary-latest`|
+| d2_booster | db2 | `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `anagrafica-vaccini-summary-latest`|
+| codice_NUTS1 | N1 | `consegne-vaccini-latest`<br/> `vaccini-summary-latest`<br/> `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `punti-somministrazione-tipologia`|
+| codice_NUTS2 | N2 | `consegne-vaccini-latest`<br/> `vaccini-summary-latest`<br/> `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `punti-somministrazione-tipologia`|
+| codice_regione_ISTAT | ISTAT | `consegne-vaccini-latest`<br/> `vaccini-summary-latest`<br/> `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `punti-somministrazione-tipologia`|
+| nome_regione | reg | `consegne-vaccini-latest`<br/> `vaccini-summary-latest`<br/> `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `punti-somministrazione-tipologia`|
+
 ## 12/04/2022
 
 Aggiunto il campo **d2_booster** che identifica il numero di dosi di second booster somministrate a soggetti che abbiano già completato il ciclo vaccinale comprensivo di dose booster, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose booster stessa. La modifica ha interessato i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
