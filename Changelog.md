@@ -34,7 +34,7 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 * Il campo **codice_regione_ISTAT** sarà rinominato in **ISTAT**. La modifica interesserà i files `consegne-vaccini-latest`, `vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `punti-somministrazione-tipologia`.
 
-* Il campo **nome_regione** sarà rinominato in **reg**. La modifica interesserà i files `consegne-vaccini-latest`, `vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `punti-somministrazione-tipologia`.
+* Il campo **nome_area** sarà rinominato in **reg**. La modifica interesserà i files `consegne-vaccini-latest`, `vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `punti-somministrazione-tipologia`, `platea`, `platea-dose-addizionale-booster`, `platea-booster-immunocompromessi`, `soggetti-guariti`, `platea-second-booster`.
 
 Di seguito un riepilogo dei campi oggetto di modifica con i files interessati dalla stessa.
 
@@ -54,7 +54,7 @@ Di seguito un riepilogo dei campi oggetto di modifica con i files interessati da
 | codice_NUTS1 | N1 | `consegne-vaccini-latest`<br/> `vaccini-summary-latest`<br/> `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `punti-somministrazione-tipologia`|
 | codice_NUTS2 | N2 | `consegne-vaccini-latest`<br/> `vaccini-summary-latest`<br/> `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `punti-somministrazione-tipologia`|
 | codice_regione_ISTAT | ISTAT | `consegne-vaccini-latest`<br/> `vaccini-summary-latest`<br/> `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `punti-somministrazione-tipologia`|
-| nome_regione | reg | `consegne-vaccini-latest`<br/> `vaccini-summary-latest`<br/> `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `punti-somministrazione-tipologia`|
+| nome_area | reg | `consegne-vaccini-latest`<br/> `vaccini-summary-latest`<br/> `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `punti-somministrazione-tipologia`<br/> `platea`<br/> `platea-dose-addizionale-booster`<br/> `platea-booster-immunocompromessi`<br/> `soggetti-guariti`<br/> `platea-second-booster`|
 
 ## 12/04/2022
 
