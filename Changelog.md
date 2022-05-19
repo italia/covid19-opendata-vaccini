@@ -107,11 +107,11 @@ codice_regione_ISTAT,ISTAT,vaccini-summary-latest
 codice_regione_ISTAT,ISTAT,somministrazioni-vaccini-latest
 codice_regione_ISTAT,ISTAT,somministrazioni-vaccini-summary-latest
 codice_regione_ISTAT,ISTAT,punti-somministrazione-tipologia
-nome_regione,reg,consegne-vaccini-latest
-nome_regione,reg,vaccini-summary-latest
-nome_regione,reg,somministrazioni-vaccini-latest
-nome_regione,reg,somministrazioni-vaccini-summary-latest
-nome_regione,reg,punti-somministrazione-tipologia
+nome_area,reg,platea
+nome_area,reg,platea-dose-addizionale-booster
+nome_area,reg,platea-booster-immunocompromessi
+nome_area,reg,soggetti-guariti
+nome_area,reg,platea-second-booster
 ```
 
 ## 12/04/2022
