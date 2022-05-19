@@ -26,19 +26,19 @@
                 "type":"datetime"
             },
             {
-                "name":"codice_NUTS1",
+                "name":"N1",
                 "type":"string"
             },
             {
-                "name":"codice_NUTS2",
+                "name":"N2",
                 "type":"string"
             },
             {
-                "name":"codice_regione_ISTAT",
+                "name":"ISTAT",
                 "type":"integer"
             },
             {
-                "name":"nome_area",
+                "name":"reg",
                 "type":"string"
             }
         ],
@@ -55,10 +55,10 @@
             "dosi_consegnate":3148883,
             "percentuale_somministrazione":94.5,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITF",
-            "codice_NUTS2":"ITF1",
-            "codice_regione_ISTAT":13,
-            "nome_area":"Abruzzo"
+            "N1":"ITF",
+            "N2":"ITF1",
+            "ISTAT":13,
+            "reg":"Abruzzo"
         },
         {
             "index":1,
@@ -67,10 +67,10 @@
             "dosi_consegnate":1316537,
             "percentuale_somministrazione":96.6,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITF",
-            "codice_NUTS2":"ITF5",
-            "codice_regione_ISTAT":17,
-            "nome_area":"Basilicata"
+            "N1":"ITF",
+            "N2":"ITF5",
+            "ISTAT":17,
+            "reg":"Basilicata"
         },
         {
             "index":2,
@@ -79,10 +79,10 @@
             "dosi_consegnate":4272560,
             "percentuale_somministrazione":96.2,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITF",
-            "codice_NUTS2":"ITF6",
-            "codice_regione_ISTAT":18,
-            "nome_area":"Calabria"
+            "N1":"ITF",
+            "N2":"ITF6",
+            "ISTAT":18,
+            "reg":"Calabria"
         },
         {
             "index":3,
@@ -91,10 +91,10 @@
             "dosi_consegnate":13208047,
             "percentuale_somministrazione":95.1,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITF",
-            "codice_NUTS2":"ITF3",
-            "codice_regione_ISTAT":15,
-            "nome_area":"Campania"
+            "N1":"ITF",
+            "N2":"ITF3",
+            "ISTAT":15,
+            "reg":"Campania"
         },
         {
             "index":4,
@@ -103,10 +103,10 @@
             "dosi_consegnate":10452847,
             "percentuale_somministrazione":100.1,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITH",
-            "codice_NUTS2":"ITH5",
-            "codice_regione_ISTAT":8,
-            "nome_area":"Emilia-Romagna"
+            "N1":"ITH",
+            "N2":"ITH5",
+            "ISTAT":8,
+            "reg":"Emilia-Romagna"
         },
         {
             "index":5,
@@ -115,10 +115,10 @@
             "dosi_consegnate":2848780,
             "percentuale_somministrazione":95.3,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITH",
-            "codice_NUTS2":"ITH4",
-            "codice_regione_ISTAT":6,
-            "nome_area":"Friuli-Venezia Giulia"
+            "N1":"ITH",
+            "N2":"ITH4",
+            "ISTAT":6,
+            "reg":"Friuli-Venezia Giulia"
         },
         {
             "index":6,
@@ -127,10 +127,10 @@
             "dosi_consegnate":14577980,
             "percentuale_somministrazione":92.7,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITI",
-            "codice_NUTS2":"ITI4",
-            "codice_regione_ISTAT":12,
-            "nome_area":"Lazio"
+            "N1":"ITI",
+            "N2":"ITI4",
+            "ISTAT":12,
+            "reg":"Lazio"
         },
         {
             "index":7,
@@ -139,10 +139,10 @@
             "dosi_consegnate":3531944,
             "percentuale_somministrazione":99.6,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITC",
-            "codice_NUTS2":"ITC3",
-            "codice_regione_ISTAT":7,
-            "nome_area":"Liguria"
+            "N1":"ITC",
+            "N2":"ITC3",
+            "ISTAT":7,
+            "reg":"Liguria"
         },
         {
             "index":8,
@@ -151,10 +151,10 @@
             "dosi_consegnate":24449509,
             "percentuale_somministrazione":98.1,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITC",
-            "codice_NUTS2":"ITC4",
-            "codice_regione_ISTAT":3,
-            "nome_area":"Lombardia"
+            "N1":"ITC",
+            "N2":"ITC4",
+            "ISTAT":3,
+            "reg":"Lombardia"
         },
         {
             "index":9,
@@ -163,10 +163,10 @@
             "dosi_consegnate":3558062,
             "percentuale_somministrazione":94.8,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITI",
-            "codice_NUTS2":"ITI3",
-            "codice_regione_ISTAT":11,
-            "nome_area":"Marche"
+            "N1":"ITI",
+            "N2":"ITI3",
+            "ISTAT":11,
+            "reg":"Marche"
         },
         {
             "index":10,
@@ -175,10 +175,10 @@
             "dosi_consegnate":717170,
             "percentuale_somministrazione":98.6,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITF",
-            "codice_NUTS2":"ITF2",
-            "codice_regione_ISTAT":14,
-            "nome_area":"Molise"
+            "N1":"ITF",
+            "N2":"ITF2",
+            "ISTAT":14,
+            "reg":"Molise"
         },
         {
             "index":11,
@@ -187,10 +187,10 @@
             "dosi_consegnate":1177791,
             "percentuale_somministrazione":94.6,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITH",
-            "codice_NUTS2":"ITH1",
-            "codice_regione_ISTAT":4,
-            "nome_area":"Provincia Autonoma Bolzano \/ Bozen"
+            "N1":"ITH",
+            "N2":"ITH1",
+            "ISTAT":4,
+            "reg":"Provincia Autonoma Bolzano \/ Bozen"
         },
         {
             "index":12,
@@ -199,10 +199,10 @@
             "dosi_consegnate":1209586,
             "percentuale_somministrazione":102.9,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITH",
-            "codice_NUTS2":"ITH2",
-            "codice_regione_ISTAT":4,
-            "nome_area":"Provincia Autonoma Trento"
+            "N1":"ITH",
+            "N2":"ITH2",
+            "ISTAT":4,
+            "reg":"Provincia Autonoma Trento"
         },
         {
             "index":13,
@@ -211,10 +211,10 @@
             "dosi_consegnate":10127893,
             "percentuale_somministrazione":99.7,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITC",
-            "codice_NUTS2":"ITC1",
-            "codice_regione_ISTAT":1,
-            "nome_area":"Piemonte"
+            "N1":"ITC",
+            "N2":"ITC1",
+            "ISTAT":1,
+            "reg":"Piemonte"
         },
         {
             "index":14,
@@ -223,10 +223,10 @@
             "dosi_consegnate":9679308,
             "percentuale_somministrazione":97.0,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITF",
-            "codice_NUTS2":"ITF4",
-            "codice_regione_ISTAT":16,
-            "nome_area":"Puglia"
+            "N1":"ITF",
+            "N2":"ITF4",
+            "ISTAT":16,
+            "reg":"Puglia"
         },
         {
             "index":15,
@@ -235,10 +235,10 @@
             "dosi_consegnate":3882506,
             "percentuale_somministrazione":97.3,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITG",
-            "codice_NUTS2":"ITG2",
-            "codice_regione_ISTAT":20,
-            "nome_area":"Sardegna"
+            "N1":"ITG",
+            "N2":"ITG2",
+            "ISTAT":20,
+            "reg":"Sardegna"
         },
         {
             "index":16,
@@ -247,10 +247,10 @@
             "dosi_consegnate":10892430,
             "percentuale_somministrazione":95.7,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITG",
-            "codice_NUTS2":"ITG1",
-            "codice_regione_ISTAT":19,
-            "nome_area":"Sicilia"
+            "N1":"ITG",
+            "N2":"ITG1",
+            "ISTAT":19,
+            "reg":"Sicilia"
         },
         {
             "index":17,
@@ -259,10 +259,10 @@
             "dosi_consegnate":8954684,
             "percentuale_somministrazione":98.5,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITI",
-            "codice_NUTS2":"ITI1",
-            "codice_regione_ISTAT":9,
-            "nome_area":"Toscana"
+            "N1":"ITI",
+            "N2":"ITI1",
+            "ISTAT":9,
+            "reg":"Toscana"
         },
         {
             "index":18,
@@ -271,10 +271,10 @@
             "dosi_consegnate":2090589,
             "percentuale_somministrazione":97.5,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITI",
-            "codice_NUTS2":"ITI2",
-            "codice_regione_ISTAT":10,
-            "nome_area":"Umbria"
+            "N1":"ITI",
+            "N2":"ITI2",
+            "ISTAT":10,
+            "reg":"Umbria"
         },
         {
             "index":19,
@@ -283,10 +283,10 @@
             "dosi_consegnate":281480,
             "percentuale_somministrazione":98.9,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITC",
-            "codice_NUTS2":"ITC2",
-            "codice_regione_ISTAT":2,
-            "nome_area":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
+            "N1":"ITC",
+            "N2":"ITC2",
+            "ISTAT":2,
+            "reg":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         },
         {
             "index":20,
@@ -295,10 +295,10 @@
             "dosi_consegnate":11518922,
             "percentuale_somministrazione":96.0,
             "ultimo_aggiornamento":"2022-05-19T00:00:00.000Z",
-            "codice_NUTS1":"ITH",
-            "codice_NUTS2":"ITH3",
-            "codice_regione_ISTAT":5,
-            "nome_area":"Veneto"
+            "N1":"ITH",
+            "N2":"ITH3",
+            "ISTAT":5,
+            "reg":"Veneto"
         }
     ]
 }
