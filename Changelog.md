@@ -4,6 +4,14 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
+## 26/05/2022
+
+Sarà aggiunto il valore **guariti_post_1booster** che identifica il numero di soggetti guariti dall'infezione Covid-19 da al massimo 6 mesi post 1ª dose booster. La modifica interessarà il file `soggetti-guariti`.
+
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| guariti_post_1booster | integer |  Numero totale della popolazione guarita da al massimo 6 mesi post 1ª dose booster, per una data Regione/Provincia Autonoma e fascia d'età |
+
 ## 20/05/2022
 
 *Rinominato il campo **fornitore** in **forn**. La modifica ha interessato i files `consegne-vaccini-latest`, `somministrazioni-vaccini-latest`.
