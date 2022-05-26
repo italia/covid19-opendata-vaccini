@@ -181,6 +181,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | eta | string | Fascia anagrafica a cui appartengono i soggetti guariti. |
 | guariti_senza_somm | integer |  Numero totale della popolazione guarita da al massimo 6 mesi senza alcuna somministrazione, per una data Regione/Provincia Autonoma e fascia d'età |
 | guariti_post_somm | integer |  Numero totale della popolazione guarita da al massimo 4 mesi post 2ª/unica dose, per una data Regione/Provincia Autonoma e fascia d'età |
+| guariti_post_1booster | integer |  Numero totale della popolazione guarita da al massimo 6 mesi post 1ª dose booster, per una data Regione/Provincia Autonoma e fascia d'età |
 
 **platea-second-booster**
 | Campo | Tipo di dati | Descrizione |
