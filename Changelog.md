@@ -6,7 +6,7 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## 26/05/2022
 
-Sarà aggiunto il valore **guariti_post_1booster** che identifica il numero di soggetti guariti dall'infezione Covid-19 da al massimo 6 mesi post 1ª dose booster. La modifica interessarà il file `soggetti-guariti`.
+Aggiunto il valore **guariti_post_1booster** che identifica il numero di soggetti guariti dall'infezione Covid-19 da al massimo 6 mesi post 1ª dose booster. La modifica ha interessato il file `soggetti-guariti`.
 
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
