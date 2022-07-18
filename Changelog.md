@@ -4,6 +4,16 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
+## 20/07/2022
+Sarà dismesso il file `platea-booster-immunocompromessi`. 
+
+Sarà aggiornato il valore **dbi** con il numero di dosi booster/second booster somministrate a soggetti immonocompromessi/fragili. La modifica interesserà i files `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `anagrafica-vaccini-summary-latest`.
+
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| dbi | integer | Numero somministrazioni dose booster/second booster somministrate a soggetti immunocompromessi/fragili che hanno già completato il ciclo vaccinale primario con tre dosi, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose aggiuntiva/1ª booster/ultima infezione.|
+
+
 ## 26/05/2022
 
 Aggiunto il valore **guariti_post_1booster** che identifica il numero di soggetti guariti dall'infezione Covid-19 da al massimo 6 mesi post 1ª dose booster. La modifica ha interessato il file `soggetti-guariti`.
