@@ -5,9 +5,9 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 ## Prossimi aggiornamenti
 
 ## 20/07/2022
-Sarà dismesso il file `platea-booster-immunocompromessi`. 
+Dismesso il file `platea-booster-immunocompromessi`. 
 
-Sarà aggiornato il valore **dbi** con il numero di dosi booster/second booster somministrate a soggetti immonocompromessi/fragili. La modifica interesserà i files `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `anagrafica-vaccini-summary-latest`.
+Aggiornato il valore **dbi** con il numero di dosi booster/second booster somministrate a soggetti immonocompromessi/fragili. La modifica ha interessato i files `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `anagrafica-vaccini-summary-latest`.
 
 | Campo | Tipo di dati | Descrizione |
 | --- | --- | --- |
