@@ -4,6 +4,17 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
+## 15/09/2022
+Sarà dismesso il campo **dbi**. 
+
+La modifica interesserà i files `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `anagrafica-vaccini-summary-latest`.
+
+Sarà aggiornato il valore **db2** con il numero di dosi booster immunocompromessi/second booster somministrate. La modifica interesserà i files `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `anagrafica-vaccini-summary-latest`.
+
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| db2 | integer | Numero somministrazioni dose booster immuno/second booster. |
+
 ## 20/07/2022
 Dismesso il file `platea-booster-immunocompromessi`. 
 
