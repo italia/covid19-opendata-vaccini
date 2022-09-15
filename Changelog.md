@@ -4,7 +4,7 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
-## 15/09/2022
+## 17/09/2022
 Sarà dismesso il campo **dbi**. 
 
 La modifica interesserà i files `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`, `anagrafica-vaccini-summary-latest`.
