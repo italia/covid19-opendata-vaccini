@@ -83,8 +83,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | d2 | integer | Numero seconde somministrazioni. |
 | dpi | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale con un'unica dose |
 | db1 | integer | Numero somministrazioni dose addizionale/richiamo (booster). |
-| dbi | integer | Numero somministrazioni dose booster/second booster somministrate a soggetti immunocompromessi/fragili che hanno già completato il ciclo vaccinale primario con tre dosi, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose aggiuntiva/1ª booster/ultima infezione.|
-| db2 | integer | Numero di dosi di second booster somministrate a soggetti che abbiano già completato il ciclo vaccinale comprensivo di dose booster, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose booster stessa.
+| db2 | integer | Numero somministrazioni dose booster immuno/second booster. |
 | N1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
 | N2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
 | ISTAT | integer | Codice ISTAT della Regione. |
@@ -104,8 +103,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | d2 | integer | Numero seconde somministrazioni. |
 | dpi | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale con un'unica dose |
 | db1 | integer | Numero somministrazioni dose addizionale/richiamo (booster). |
-| dbi | integer | Numero somministrazioni dose booster/second booster somministrate a soggetti immunocompromessi/fragili che hanno già completato il ciclo vaccinale primario con tre dosi, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose aggiuntiva/1ª booster/ultima infezione.|
-| db2 | integer | Numero di dosi di second booster somministrate a soggetti che abbiano già completato il ciclo vaccinale comprensivo di dose booster, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose booster stessa.
+| db2 | integer | Numero somministrazioni dose booster immuno/second booster. |
 | N1 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 1. |
 | N2 | string | Classificazione europea delle unità territoriali NUTS: livello NUTS 2. |
 | ISTAT | integer | Codice ISTAT della Regione. |
@@ -135,8 +133,7 @@ I campi di ogni tabella sono schematizzati nelle seguenti tavole:
 | d2 | integer | Numero seconde somministrazioni. |
 | dpi | integer | Numero di somministrazioni effettuate a soggetti con pregressa infezione da covid-19 nel periodo 3-6 mesi e che, pertanto, concludono il ciclo vaccinale con un'unica dose |
 | db1 | integer | Numero somministrazioni dose addizionale/richiamo (booster). |
-| dbi | integer | Numero somministrazioni dose booster/second booster somministrate a soggetti immunocompromessi/fragili che hanno già completato il ciclo vaccinale primario con tre dosi, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose aggiuntiva/1ª booster/ultima infezione.|
-| db2 | integer | Numero di dosi di second booster somministrate a soggetti che abbiano già completato il ciclo vaccinale comprensivo di dose booster, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose booster stessa.
+| db2 | integer | Numero somministrazioni dose booster immuno/second booster. |
 
 **last-update-dataset**
 
