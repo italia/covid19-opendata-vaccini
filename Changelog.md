@@ -4,6 +4,42 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 
 ## Prossimi aggiornamenti
 
+## 20/01/2023
+Sarà aggiunto il campo **db3** che identifica il numero di dosi di 3ª booster somministrate a soggetti che abbiano già completato il ciclo vaccinale comprensivo di 2ª dose booster, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dall'ultima somministrazione. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
+
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| db3 | integer | Numero somministrazioni 3ª booster a soggetti che hanno completato il ciclo vaccinale comprensivo di 2ª dose booster, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dall'ultima somministrazione.|
+
+Sarà aggiunto il file `platea-3a-booster` che definisce la popolazione oggetto di somministrazione di 3ª dose booster dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla somministrazione della 2ª dose booster, suddivisa per Regione/Provincia Autonoma e categoria prevalente.
+
+**platea-3a-booster**
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| index | integer | Codice identificativo del record. |
+| area | string | Sigla della Regione/Provincia Autonoma. |
+| nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| categoria_prevalente | string | Categoria prevalente a cui appartengono i soggetti oggetto di 3ª booster. |
+| totale_popolazione | integer | Numero totale della popolazione presente in platea oggetto di 3ª dose booster dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla somministrazione della 2ª dose booster, suddivisa per Regione/Provincia Autonoma e categoria prevalente.|
+
+Sarà aggiunto il campo **guariti_post_2booster** che identifica il numero di soggetti guariti dall'infezione Covid-19 da al massimo 6 mesi post 2ª dose booster. La modifica interesserà il file `soggetti-guariti`.
+
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| guariti_post_2booster | integer |  Numero totale della popolazione guarita da al massimo 6 mesi post 2ª dose booster, per una data Regione/Provincia Autonoma e fascia d'età |
+
+Sarà aggiunto il file `copertura-vaccinale` che definisce la popolazione con età superiore a 60 anni che abbia ricevuto una somministrazione o sia guarita dall'infezione Covid-19 negli ultimi quattro mesi (120 giorni), suddivisa per Regione/Provincia Autonoma e fascia anagrafica.
+
+**copertura-vaccinale**
+| Campo | Tipo di dati | Descrizione |
+| --- | --- | --- |
+| index | integer | Codice identificativo del record. |
+| area | string | Sigla della Regione/Provincia Autonoma. |
+| nome_area | string | Denominazione standard dell'area (dove necessario denominazione bilingue). |
+| fascia_anagrafica | string | Fascia anagrafica della popolazione over 60 con copertura vaccinale. |
+| guariti | string | Numero totale della popolazione over 60 guarita dall'infezione Covid-19 negli ultimi quattro mesi (120 giorni). |
+| vaccinati | integer | Numero totale della popolazione over 60 oggetto di somministrazione di dose di vaccino anti-Covid19 negli ultimi quattro mesi (120 giorni). |
+
 ## 17/09/2022
 Dismesso il campo **dbi**. 
 
