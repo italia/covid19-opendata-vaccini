@@ -615,6 +615,7 @@ CAL,Pfizer Pediatrico,14400,2022-10-31,ITF,ITF6,18,Calabria
 CAL,Moderna,6000,2022-11-22,ITF,ITF6,18,Calabria
 CAL,Pfizer Pediatrico,4800,2022-11-22,ITF,ITF6,18,Calabria
 CAL,Novavax,100,2022-12-21,ITF,ITF6,18,Calabria
+CAL,Pfizer/BioNTech,14400,2023-01-30,ITF,ITF6,18,Calabria
 CAM,Pfizer/BioNTech,720,2020-12-27,ITF,ITF3,15,Campania
 CAM,Pfizer/BioNTech,30225,2020-12-30,ITF,ITF3,15,Campania
 CAM,Pfizer/BioNTech,2925,2020-12-31,ITF,ITF3,15,Campania
@@ -1439,6 +1440,9 @@ EMR,Pfizer/BioNTech,77760,2022-11-24,ITH,ITH5,8,Emilia-Romagna
 EMR,Moderna,10200,2022-12-21,ITH,ITH5,8,Emilia-Romagna
 EMR,Novavax,700,2022-12-21,ITH,ITH5,8,Emilia-Romagna
 EMR,Pfizer/BioNTech,24210,2022-12-21,ITH,ITH5,8,Emilia-Romagna
+EMR,Pfizer/BioNTech,27840,2023-01-30,ITH,ITH5,8,Emilia-Romagna
+EMR,Novavax,1000,2023-02-03,ITH,ITH5,8,Emilia-Romagna
+EMR,Moderna,7200,2023-02-06,ITH,ITH5,8,Emilia-Romagna
 FVG,Pfizer/BioNTech,265,2020-12-27,ITH,ITH4,6,Friuli-Venezia Giulia
 FVG,Moderna,2,2020-12-28,ITH,ITH4,6,Friuli-Venezia Giulia
 FVG,Moderna,1,2020-12-29,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2239,6 +2243,7 @@ FVG,Novavax,100,2022-12-07,ITH,ITH4,6,Friuli-Venezia Giulia
 FVG,Moderna,1,2022-12-21,ITH,ITH4,6,Friuli-Venezia Giulia
 FVG,Moderna,2,2022-12-28,ITH,ITH4,6,Friuli-Venezia Giulia
 FVG,Moderna,600,2023-01-23,ITH,ITH4,6,Friuli-Venezia Giulia
+FVG,Moderna,3000,2023-02-06,ITH,ITH4,6,Friuli-Venezia Giulia
 LAZ,Moderna,1,2020-12-27,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,955,2020-12-27,ITI,ITI4,12,Lazio
 LAZ,Moderna,2,2020-12-28,ITI,ITI4,12,Lazio
@@ -3651,6 +3656,7 @@ LAZ,Moderna,12,2023-01-19,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,1,2023-01-20,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,5,2023-01-23,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,8,2023-01-25,ITI,ITI4,12,Lazio
+LAZ,Pfizer/BioNTech,48000,2023-01-30,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,9,2023-02-01,ITI,ITI4,12,Lazio
 LAZ,Moderna,3,2023-02-07,ITI,ITI4,12,Lazio
 LAZ,Pfizer/BioNTech,6,2023-02-08,ITI,ITI4,12,Lazio
@@ -4128,6 +4134,7 @@ LIG,Pfizer/BioNTech,10,2023-01-17,ITC,ITC3,7,Liguria
 LIG,Pfizer/BioNTech,4,2023-01-18,ITC,ITC3,7,Liguria
 LIG,Pfizer/BioNTech,6,2023-01-19,ITC,ITC3,7,Liguria
 LIG,Pfizer/BioNTech,5,2023-01-27,ITC,ITC3,7,Liguria
+LIG,Pfizer/BioNTech,14400,2023-01-30,ITC,ITC3,7,Liguria
 LOM,Pfizer/BioNTech,1620,2020-12-27,ITC,ITC4,3,Lombardia
 LOM,Pfizer/BioNTech,59475,2020-12-30,ITC,ITC4,3,Lombardia
 LOM,Pfizer/BioNTech,19500,2020-12-31,ITC,ITC4,3,Lombardia
@@ -4491,6 +4498,7 @@ LOM,Moderna,133200,2022-11-22,ITC,ITC4,3,Lombardia
 LOM,Pfizer Pediatrico,4800,2022-11-23,ITC,ITC4,3,Lombardia
 LOM,Novavax,600,2022-12-07,ITC,ITC4,3,Lombardia
 LOM,Pfizer/BioNTech,227520,2022-12-16,ITC,ITC4,3,Lombardia
+LOM,Pfizer/BioNTech,206400,2023-01-30,ITC,ITC4,3,Lombardia
 MAR,Pfizer/BioNTech,200,2020-12-27,ITI,ITI3,11,Marche
 MAR,Pfizer/BioNTech,8775,2020-12-30,ITI,ITI3,11,Marche
 MAR,Pfizer/BioNTech,6825,2021-01-05,ITI,ITI3,11,Marche
@@ -5468,6 +5476,7 @@ PIE,Moderna,36000,2022-11-22,ITC,ITC1,1,Piemonte
 PIE,Pfizer Pediatrico,4800,2022-11-23,ITC,ITC1,1,Piemonte
 PIE,Novavax,500,2022-12-07,ITC,ITC1,1,Piemonte
 PIE,Pfizer Pediatrico,24000,2022-12-16,ITC,ITC1,1,Piemonte
+PIE,Pfizer/BioNTech,27840,2023-01-30,ITC,ITC1,1,Piemonte
 PUG,Pfizer/BioNTech,505,2020-12-27,ITF,ITF4,16,Puglia
 PUG,Pfizer/BioNTech,20475,2020-12-30,ITF,ITF4,16,Puglia
 PUG,Pfizer/BioNTech,4875,2020-12-31,ITF,ITF4,16,Puglia
@@ -6004,6 +6013,7 @@ PUG,Pfizer/BioNTech,1,2022-11-17,ITF,ITF4,16,Puglia
 PUG,Pfizer/BioNTech,69120,2022-11-21,ITF,ITF4,16,Puglia
 PUG,Moderna,66600,2022-11-23,ITF,ITF4,16,Puglia
 PUG,Pfizer Pediatrico,4800,2022-11-28,ITF,ITF4,16,Puglia
+PUG,Pfizer/BioNTech,28800,2023-01-30,ITF,ITF4,16,Puglia
 SAR,Pfizer/BioNTech,180,2020-12-27,ITG,ITG2,20,Sardegna
 SAR,Pfizer/BioNTech,12675,2020-12-31,ITG,ITG2,20,Sardegna
 SAR,Pfizer/BioNTech,6825,2021-01-05,ITG,ITG2,20,Sardegna
@@ -7001,7 +7011,7 @@ TOS,Novavax,100,2022-12-21,ITI,ITI1,9,Toscana
 TOS,Pfizer Pediatrico,4800,2022-12-21,ITI,ITI1,9,Toscana
 TOS,Pfizer/BioNTech,23670,2022-12-21,ITI,ITI1,9,Toscana
 TOS,Pfizer/BioNTech,86400,2023-01-18,ITI,ITI1,9,Toscana
-TOS,Pfizer/BioNTech,115200,2023-01-30,ITI,ITI1,9,Toscana
+TOS,Pfizer/BioNTech,230400,2023-01-30,ITI,ITI1,9,Toscana
 UMB,Pfizer/BioNTech,85,2020-12-27,ITI,ITI2,10,Umbria
 UMB,Pfizer/BioNTech,4875,2020-12-30,ITI,ITI2,10,Umbria
 UMB,Pfizer/BioNTech,4875,2021-01-05,ITI,ITI2,10,Umbria
@@ -7641,3 +7651,5 @@ VEN,Pfizer/BioNTech,77760,2022-11-15,ITH,ITH3,5,Veneto
 VEN,Pfizer Pediatrico,4800,2022-11-23,ITH,ITH3,5,Veneto
 VEN,Moderna,1,2022-12-19,ITH,ITH3,5,Veneto
 VEN,Pfizer/BioNTech,77760,2022-12-21,ITH,ITH3,5,Veneto
+VEN,Pfizer/BioNTech,14400,2023-01-30,ITH,ITH3,5,Veneto
+VEN,Novavax,1000,2023-02-03,ITH,ITH3,5,Veneto
