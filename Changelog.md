@@ -5,11 +5,11 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 ## Prossimi aggiornamenti
 
 ## 17/02/2023
-Sarà aggiunto il valore **00-04** alla chiave **eta** che identifica la fascia anagrafica 6 mesi-4 anni, autorizzata alla somministrazione del ciclo vaccinale primario. La modifica interesserà i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `platea`, `soggetti-guariti`.
+Aggiunto il valore **00-04** alla chiave **eta** che identifica la fascia anagrafica 6 mesi-4 anni, autorizzata alla somministrazione del ciclo vaccinale primario. La modifica ha interessato i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `platea`, `soggetti-guariti`.
 
-Sarà aggiunto il valore **05-11** alla chiave **categoria_prevalente** che identifica la platea di fascia anagrafica 5-11 autorizzata alla somministrazione della 1ª dose booster dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla conclusione del ciclo vaccinale primario. La modifica interesserà il file `platea-dose-addizionale-booster`.
+Aggiunto il valore **05-11** alla chiave **categoria_prevalente** che identifica la platea di fascia anagrafica 5-11 autorizzata alla somministrazione della 1ª dose booster dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla conclusione del ciclo vaccinale primario. La modifica ha interessato il file `platea-dose-addizionale-booster`.
 
-Sarà aggiunto il valore **Sanofi** alla chiave **forn** che identifica il nuovo fornitore "Sanofi". La modifica interesserà i files `consegne-vaccini-latest`, `somministrazioni-vaccini-latest`.
+Aggiunto il valore **Sanofi** alla chiave **forn** che identifica il nuovo fornitore "Sanofi". La modifica ha interessato i files `consegne-vaccini-latest`, `somministrazioni-vaccini-latest`.
 
 ## 20/01/2023
 Aggiunto il campo **db3** che identifica il numero di dosi di 3ª booster somministrate a soggetti che abbiano già completato il ciclo vaccinale comprensivo di 2ª dose booster, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dall'ultima somministrazione. La modifica ha interessato i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
