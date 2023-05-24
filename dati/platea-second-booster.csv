@@ -1,85 +1,190 @@
 area,reg,categoria_prevalente,totale_popolazione
-ABR,Abruzzo,fragili_immunocompromessi,157676
-ABR,Abruzzo,Ospiti RSA,6654
-ABR,Abruzzo,Over 60,245002
-ABR,Abruzzo,Personale Sanitario,42352
-BAS,Basilicata,fragili_immunocompromessi,81859
-BAS,Basilicata,Ospiti RSA,1751
-BAS,Basilicata,Over 60,105602
-BAS,Basilicata,Personale Sanitario,15872
-CAL,Calabria,fragili_immunocompromessi,220789
-CAL,Calabria,Ospiti RSA,12327
-CAL,Calabria,Over 60,309578
-CAL,Calabria,Personale Sanitario,55415
-CAM,Campania,fragili_immunocompromessi,610762
-CAM,Campania,Ospiti RSA,7643
-CAM,Campania,Over 60,939930
-CAM,Campania,Personale Sanitario,119338
-EMR,Emilia-Romagna,fragili_immunocompromessi,218778
-EMR,Emilia-Romagna,Ospiti RSA,25642
-EMR,Emilia-Romagna,Over 60,1058004
-EMR,Emilia-Romagna,Personale Sanitario,150326
-FVG,Friuli-Venezia Giulia,fragili_immunocompromessi,73490
-FVG,Friuli-Venezia Giulia,Ospiti RSA,7726
-FVG,Friuli-Venezia Giulia,Over 60,300326
-FVG,Friuli-Venezia Giulia,Personale Sanitario,43425
-LAZ,Lazio,fragili_immunocompromessi,63970
-LAZ,Lazio,Ospiti RSA,17427
-LAZ,Lazio,Over 60,1443961
-LAZ,Lazio,Personale Sanitario,95867
-LIG,Liguria,fragili_immunocompromessi,23749
-LIG,Liguria,Ospiti RSA,8835
-LIG,Liguria,Over 60,428323
-LIG,Liguria,Personale Sanitario,33031
-LOM,Lombardia,fragili_immunocompromessi,558573
-LOM,Lombardia,Ospiti RSA,72601
-LOM,Lombardia,Over 60,2374816
-LOM,Lombardia,Personale Sanitario,319089
-MAR,Marche,fragili_immunocompromessi,116459
-MAR,Marche,Ospiti RSA,8031
-MAR,Marche,Over 60,351741
-MAR,Marche,Personale Sanitario,51241
-MOL,Molise,fragili_immunocompromessi,12959
-MOL,Molise,Ospiti RSA,2133
-MOL,Molise,Over 60,75702
-MOL,Molise,Personale Sanitario,5689
-PAB,P.A. Bolzano,fragili_immunocompromessi,12532
-PAB,P.A. Bolzano,Ospiti RSA,2812
-PAB,P.A. Bolzano,Over 60,103180
-PAB,P.A. Bolzano,Personale Sanitario,14397
-PAT,P.A. Trento,fragili_immunocompromessi,4685
-PAT,P.A. Trento,Ospiti RSA,4878
-PAT,P.A. Trento,Over 60,131162
-PAT,P.A. Trento,Personale Sanitario,13857
-PIE,Piemonte,fragili_immunocompromessi,358280
-PIE,Piemonte,Ospiti RSA,33267
-PIE,Piemonte,Over 60,999124
-PIE,Piemonte,Personale Sanitario,178066
-PUG,Puglia,fragili_immunocompromessi,293736
-PUG,Puglia,Ospiti RSA,14048
-PUG,Puglia,Over 60,874233
-PUG,Puglia,Personale Sanitario,99206
-SAR,Sardegna,fragili_immunocompromessi,156072
-SAR,Sardegna,Ospiti RSA,9250
-SAR,Sardegna,Over 60,328977
-SAR,Sardegna,Personale Sanitario,63721
-SIC,Sicilia,fragili_immunocompromessi,599164
-SIC,Sicilia,Ospiti RSA,24285
-SIC,Sicilia,Over 60,690197
-SIC,Sicilia,Personale Sanitario,143546
-TOS,Toscana,fragili_immunocompromessi,126154
-TOS,Toscana,Ospiti RSA,16046
-TOS,Toscana,Over 60,952271
-TOS,Toscana,Personale Sanitario,114065
-UMB,Umbria,fragili_immunocompromessi,125510
-UMB,Umbria,Ospiti RSA,3496
-UMB,Umbria,Over 60,187403
-UMB,Umbria,Personale Sanitario,35733
-VDA,Valle d'Aosta,fragili_immunocompromessi,6235
-VDA,Valle d'Aosta,Ospiti RSA,1301
-VDA,Valle d'Aosta,Over 60,30076
-VDA,Valle d'Aosta,Personale Sanitario,5159
-VEN,Veneto,fragili_immunocompromessi,168648
-VEN,Veneto,Ospiti RSA,40821
-VEN,Veneto,Over 60,1130854
-VEN,Veneto,Personale Sanitario,148861
+ABR,Abruzzo,05-11,15
+ABR,Abruzzo,12-19,43733
+ABR,Abruzzo,20-29,84811
+ABR,Abruzzo,30-39,94624
+ABR,Abruzzo,40-49,129209
+ABR,Abruzzo,50-59,163507
+ABR,Abruzzo,60-69,137722
+ABR,Abruzzo,70-79,113084
+ABR,Abruzzo,80+,87971
+BAS,Basilicata,05-11,17
+BAS,Basilicata,12-19,20501
+BAS,Basilicata,20-29,35812
+BAS,Basilicata,30-39,39244
+BAS,Basilicata,40-49,54087
+BAS,Basilicata,50-59,70337
+BAS,Basilicata,60-69,63687
+BAS,Basilicata,70-79,47331
+BAS,Basilicata,80+,37548
+CAL,Calabria,05-11,39
+CAL,Calabria,12-19,57889
+CAL,Calabria,20-29,118823
+CAL,Calabria,30-39,129243
+CAL,Calabria,40-49,167704
+CAL,Calabria,50-59,208929
+CAL,Calabria,60-69,196857
+CAL,Calabria,70-79,149315
+CAL,Calabria,80+,102579
+CAM,Campania,05-11,201
+CAM,Campania,12-19,213723
+CAM,Campania,20-29,411967
+CAM,Campania,30-39,422904
+CAM,Campania,40-49,551891
+CAM,Campania,50-59,674413
+CAM,Campania,60-69,543720
+CAM,Campania,70-79,409344
+CAM,Campania,80+,247140
+EMR,Emilia-Romagna,05-11,190
+EMR,Emilia-Romagna,12-19,161328
+EMR,Emilia-Romagna,20-29,304124
+EMR,Emilia-Romagna,30-39,334551
+EMR,Emilia-Romagna,40-49,462839
+EMR,Emilia-Romagna,50-59,583411
+EMR,Emilia-Romagna,60-69,479254
+EMR,Emilia-Romagna,70-79,402654
+EMR,Emilia-Romagna,80+,338648
+FVG,Friuli-Venezia Giulia,05-11,83
+FVG,Friuli-Venezia Giulia,12-19,36308
+FVG,Friuli-Venezia Giulia,20-29,75626
+FVG,Friuli-Venezia Giulia,30-39,78534
+FVG,Friuli-Venezia Giulia,40-49,112340
+FVG,Friuli-Venezia Giulia,50-59,149223
+FVG,Friuli-Venezia Giulia,60-69,134751
+FVG,Friuli-Venezia Giulia,70-79,120287
+FVG,Friuli-Venezia Giulia,80+,94234
+LAZ,Lazio,05-11,251
+LAZ,Lazio,12-19,201987
+LAZ,Lazio,20-29,394799
+LAZ,Lazio,30-39,461514
+LAZ,Lazio,40-49,642797
+LAZ,Lazio,50-59,786246
+LAZ,Lazio,60-69,621223
+LAZ,Lazio,70-79,498500
+LAZ,Lazio,80+,373613
+LIG,Liguria,05-11,22
+LIG,Liguria,12-19,41371
+LIG,Liguria,20-29,91756
+LIG,Liguria,30-39,96018
+LIG,Liguria,40-49,129040
+LIG,Liguria,50-59,193430
+LIG,Liguria,60-69,167241
+LIG,Liguria,70-79,158689
+LIG,Liguria,80+,139197
+LOM,Lombardia,05-11,1558
+LOM,Lombardia,12-19,441888
+LOM,Lombardia,20-29,791794
+LOM,Lombardia,30-39,866066
+LOM,Lombardia,40-49,1132272
+LOM,Lombardia,50-59,1396935
+LOM,Lombardia,60-69,1049237
+LOM,Lombardia,70-79,872074
+LOM,Lombardia,80+,686755
+MAR,Marche,05-11,40
+MAR,Marche,12-19,44152
+MAR,Marche,20-29,93605
+MAR,Marche,30-39,99836
+MAR,Marche,40-49,143320
+MAR,Marche,50-59,182527
+MAR,Marche,60-69,156016
+MAR,Marche,70-79,132405
+MAR,Marche,80+,113031
+MOL,Molise,05-11,124
+MOL,Molise,12-19,10720
+MOL,Molise,20-29,18728
+MOL,Molise,30-39,21190
+MOL,Molise,40-49,29662
+MOL,Molise,50-59,39011
+MOL,Molise,60-69,35051
+MOL,Molise,70-79,27028
+MOL,Molise,80+,22842
+PAB,P.A. Bolzano,05-11,36
+PAB,P.A. Bolzano,12-19,14602
+PAB,P.A. Bolzano,20-29,35251
+PAB,P.A. Bolzano,30-39,37345
+PAB,P.A. Bolzano,40-49,47998
+PAB,P.A. Bolzano,50-59,61792
+PAB,P.A. Bolzano,60-69,47654
+PAB,P.A. Bolzano,70-79,38409
+PAB,P.A. Bolzano,80+,29640
+PAT,P.A. Trento,05-11,67
+PAT,P.A. Trento,12-19,19997
+PAT,P.A. Trento,20-29,41359
+PAT,P.A. Trento,30-39,40473
+PAT,P.A. Trento,40-49,51468
+PAT,P.A. Trento,50-59,69201
+PAT,P.A. Trento,60-69,57316
+PAT,P.A. Trento,70-79,46389
+PAT,P.A. Trento,80+,35690
+PIE,Piemonte,05-11,247
+PIE,Piemonte,12-19,159089
+PIE,Piemonte,20-29,301466
+PIE,Piemonte,30-39,312361
+PIE,Piemonte,40-49,424863
+PIE,Piemonte,50-59,562114
+PIE,Piemonte,60-69,473095
+PIE,Piemonte,70-79,415463
+PIE,Piemonte,80+,341747
+PUG,Puglia,05-11,309
+PUG,Puglia,12-19,162105
+PUG,Puglia,20-29,279613
+PUG,Puglia,30-39,303504
+PUG,Puglia,40-49,427672
+PUG,Puglia,50-59,516176
+PUG,Puglia,60-69,441062
+PUG,Puglia,70-79,364418
+PUG,Puglia,80+,244407
+SAR,Sardegna,05-11,40
+SAR,Sardegna,12-19,51498
+SAR,Sardegna,20-29,89956
+SAR,Sardegna,30-39,107807
+SAR,Sardegna,40-49,165753
+SAR,Sardegna,50-59,205182
+SAR,Sardegna,60-69,183492
+SAR,Sardegna,70-79,148783
+SAR,Sardegna,80+,102814
+SIC,Sicilia,05-11,45
+SIC,Sicilia,12-19,149282
+SIC,Sicilia,20-29,302337
+SIC,Sicilia,30-39,315703
+SIC,Sicilia,40-49,422727
+SIC,Sicilia,50-59,530075
+SIC,Sicilia,60-69,478689
+SIC,Sicilia,70-79,376494
+SIC,Sicilia,80+,256376
+TOS,Toscana,05-11,804
+TOS,Toscana,12-19,129544
+TOS,Toscana,20-29,236595
+TOS,Toscana,30-39,265865
+TOS,Toscana,40-49,372142
+TOS,Toscana,50-59,484180
+TOS,Toscana,60-69,413795
+TOS,Toscana,70-79,368780
+TOS,Toscana,80+,306052
+UMB,Umbria,05-11,15
+UMB,Umbria,12-19,28106
+UMB,Umbria,20-29,52233
+UMB,Umbria,30-39,61032
+UMB,Umbria,40-49,87900
+UMB,Umbria,50-59,109841
+UMB,Umbria,60-69,95889
+UMB,Umbria,70-79,84418
+UMB,Umbria,80+,73232
+VDA,Valle d'Aosta,05-11,2
+VDA,Valle d'Aosta,12-19,4277
+VDA,Valle d'Aosta,20-29,8239
+VDA,Valle d'Aosta,30-39,8411
+VDA,Valle d'Aosta,40-49,11778
+VDA,Valle d'Aosta,50-59,16775
+VDA,Valle d'Aosta,60-69,13509
+VDA,Valle d'Aosta,70-79,12094
+VDA,Valle d'Aosta,80+,9973
+VEN,Veneto,05-11,1197
+VEN,Veneto,12-19,168457
+VEN,Veneto,20-29,327326
+VEN,Veneto,30-39,333151
+VEN,Veneto,40-49,481684
+VEN,Veneto,50-59,634107
+VEN,Veneto,60-69,506138
+VEN,Veneto,70-79,424872
+VEN,Veneto,80+,323534
