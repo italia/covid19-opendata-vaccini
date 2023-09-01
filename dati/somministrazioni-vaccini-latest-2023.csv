@@ -269,11 +269,11 @@ data,forn,area,eta,m,f,d1,d2,dpi,db1,db2,db3,N1,N2,ISTAT,reg
 2023-01-02,Pfizer/BioNTech,UMB,70-79,5.0,6.0,0.0,0.0,0.0,0.0,9.0,2.0,ITI,ITI2,10.0,Umbria
 2023-01-02,Pfizer/BioNTech,UMB,80-89,3.0,3.0,0.0,0.0,0.0,0.0,6.0,0.0,ITI,ITI2,10.0,Umbria
 2023-01-02,Pfizer/BioNTech,VEN,12-19,7.0,9.0,0.0,1.0,0.0,3.0,12.0,0.0,ITH,ITH3,5.0,Veneto
-2023-01-02,Pfizer/BioNTech,VEN,20-29,7.0,14.0,0.0,0.0,0.0,3.0,18.0,0.0,ITH,ITH3,5.0,Veneto
+2023-01-02,Pfizer/BioNTech,VEN,20-29,7.0,13.0,0.0,0.0,0.0,3.0,17.0,0.0,ITH,ITH3,5.0,Veneto
 2023-01-02,Pfizer/BioNTech,VEN,30-39,25.0,28.0,0.0,0.0,0.0,10.0,43.0,0.0,ITH,ITH3,5.0,Veneto
 2023-01-02,Pfizer/BioNTech,VEN,40-49,32.0,36.0,0.0,2.0,0.0,9.0,57.0,0.0,ITH,ITH3,5.0,Veneto
-2023-01-02,Pfizer/BioNTech,VEN,50-59,60.0,61.0,2.0,1.0,0.0,13.0,105.0,0.0,ITH,ITH3,5.0,Veneto
-2023-01-02,Pfizer/BioNTech,VEN,60-69,92.0,98.0,1.0,0.0,0.0,16.0,156.0,17.0,ITH,ITH3,5.0,Veneto
+2023-01-02,Pfizer/BioNTech,VEN,50-59,60.0,60.0,2.0,1.0,0.0,13.0,104.0,0.0,ITH,ITH3,5.0,Veneto
+2023-01-02,Pfizer/BioNTech,VEN,60-69,91.0,98.0,1.0,0.0,0.0,16.0,155.0,17.0,ITH,ITH3,5.0,Veneto
 2023-01-02,Pfizer/BioNTech,VEN,70-79,122.0,128.0,1.0,1.0,0.0,18.0,190.0,40.0,ITH,ITH3,5.0,Veneto
 2023-01-02,Pfizer/BioNTech,VEN,80-89,56.0,74.0,0.0,0.0,0.0,6.0,79.0,45.0,ITH,ITH3,5.0,Veneto
 2023-01-02,Pfizer/BioNTech,VEN,90+,9.0,13.0,1.0,0.0,0.0,1.0,16.0,4.0,ITH,ITH3,5.0,Veneto
@@ -5589,7 +5589,7 @@ data,forn,area,eta,m,f,d1,d2,dpi,db1,db2,db3,N1,N2,ISTAT,reg
 2023-01-24,Pfizer/BioNTech,VDA,80-89,8.0,13.0,0.0,0.0,0.0,0.0,15.0,6.0,ITC,ITC2,2.0,Valle d'Aosta / Vallée d'Aoste
 2023-01-24,Pfizer/BioNTech,VDA,90+,2.0,8.0,0.0,0.0,0.0,1.0,5.0,4.0,ITC,ITC2,2.0,Valle d'Aosta / Vallée d'Aoste
 2023-01-24,Pfizer/BioNTech,VEN,12-19,14.0,12.0,3.0,2.0,0.0,10.0,11.0,0.0,ITH,ITH3,5.0,Veneto
-2023-01-24,Pfizer/BioNTech,VEN,20-29,28.0,26.0,9.0,0.0,0.0,12.0,33.0,0.0,ITH,ITH3,5.0,Veneto
+2023-01-24,Pfizer/BioNTech,VEN,20-29,27.0,26.0,8.0,0.0,0.0,12.0,33.0,0.0,ITH,ITH3,5.0,Veneto
 2023-01-24,Pfizer/BioNTech,VEN,30-39,32.0,28.0,3.0,2.0,0.0,14.0,41.0,0.0,ITH,ITH3,5.0,Veneto
 2023-01-24,Pfizer/BioNTech,VEN,40-49,48.0,47.0,1.0,0.0,0.0,17.0,76.0,1.0,ITH,ITH3,5.0,Veneto
 2023-01-24,Pfizer/BioNTech,VEN,50-59,63.0,82.0,0.0,1.0,0.0,12.0,129.0,3.0,ITH,ITH3,5.0,Veneto
@@ -9972,7 +9972,7 @@ data,forn,area,eta,m,f,d1,d2,dpi,db1,db2,db3,N1,N2,ISTAT,reg
 2023-02-13,Pfizer/BioNTech,VEN,30-39,18.0,14.0,0.0,2.0,0.0,12.0,18.0,0.0,ITH,ITH3,5.0,Veneto
 2023-02-13,Pfizer/BioNTech,VEN,40-49,7.0,7.0,0.0,0.0,0.0,2.0,12.0,0.0,ITH,ITH3,5.0,Veneto
 2023-02-13,Pfizer/BioNTech,VEN,50-59,12.0,17.0,1.0,0.0,0.0,4.0,23.0,1.0,ITH,ITH3,5.0,Veneto
-2023-02-13,Pfizer/BioNTech,VEN,60-69,39.0,43.0,0.0,0.0,0.0,9.0,57.0,16.0,ITH,ITH3,5.0,Veneto
+2023-02-13,Pfizer/BioNTech,VEN,60-69,39.0,42.0,0.0,0.0,0.0,9.0,56.0,16.0,ITH,ITH3,5.0,Veneto
 2023-02-13,Pfizer/BioNTech,VEN,70-79,52.0,60.0,1.0,1.0,0.0,18.0,62.0,30.0,ITH,ITH3,5.0,Veneto
 2023-02-13,Pfizer/BioNTech,VEN,80-89,43.0,67.0,1.0,1.0,0.0,2.0,72.0,34.0,ITH,ITH3,5.0,Veneto
 2023-02-13,Pfizer/BioNTech,VEN,90+,7.0,47.0,1.0,0.0,0.0,2.0,29.0,22.0,ITH,ITH3,5.0,Veneto
@@ -10477,7 +10477,7 @@ data,forn,area,eta,m,f,d1,d2,dpi,db1,db2,db3,N1,N2,ISTAT,reg
 2023-02-15,Pfizer/BioNTech,UMB,80-89,5.0,6.0,0.0,0.0,0.0,0.0,6.0,5.0,ITI,ITI2,10.0,Umbria
 2023-02-15,Pfizer/BioNTech,UMB,90+,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ITI,ITI2,10.0,Umbria
 2023-02-15,Pfizer/BioNTech,VEN,12-19,3.0,1.0,0.0,3.0,0.0,0.0,1.0,0.0,ITH,ITH3,5.0,Veneto
-2023-02-15,Pfizer/BioNTech,VEN,20-29,7.0,9.0,2.0,5.0,0.0,5.0,4.0,0.0,ITH,ITH3,5.0,Veneto
+2023-02-15,Pfizer/BioNTech,VEN,20-29,6.0,9.0,2.0,4.0,0.0,5.0,4.0,0.0,ITH,ITH3,5.0,Veneto
 2023-02-15,Pfizer/BioNTech,VEN,30-39,6.0,9.0,2.0,0.0,0.0,4.0,8.0,1.0,ITH,ITH3,5.0,Veneto
 2023-02-15,Pfizer/BioNTech,VEN,40-49,8.0,7.0,1.0,1.0,0.0,2.0,11.0,0.0,ITH,ITH3,5.0,Veneto
 2023-02-15,Pfizer/BioNTech,VEN,50-59,16.0,13.0,0.0,0.0,0.0,4.0,25.0,0.0,ITH,ITH3,5.0,Veneto
@@ -15359,8 +15359,8 @@ data,forn,area,eta,m,f,d1,d2,dpi,db1,db2,db3,N1,N2,ISTAT,reg
 2023-03-15,Pfizer/BioNTech,UMB,80-89,7.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,ITI,ITI2,10.0,Umbria
 2023-03-15,Pfizer/BioNTech,UMB,90+,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,ITI,ITI2,10.0,Umbria
 2023-03-15,Pfizer/BioNTech,VEN,12-19,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,ITH,ITH3,5.0,Veneto
-2023-03-15,Pfizer/BioNTech,VEN,20-29,13.0,3.0,9.0,1.0,0.0,1.0,5.0,0.0,ITH,ITH3,5.0,Veneto
-2023-03-15,Pfizer/BioNTech,VEN,30-39,6.0,2.0,3.0,0.0,0.0,1.0,4.0,0.0,ITH,ITH3,5.0,Veneto
+2023-03-15,Pfizer/BioNTech,VEN,20-29,11.0,3.0,7.0,1.0,0.0,1.0,5.0,0.0,ITH,ITH3,5.0,Veneto
+2023-03-15,Pfizer/BioNTech,VEN,30-39,5.0,2.0,2.0,0.0,0.0,1.0,4.0,0.0,ITH,ITH3,5.0,Veneto
 2023-03-15,Pfizer/BioNTech,VEN,40-49,5.0,1.0,1.0,0.0,0.0,2.0,3.0,0.0,ITH,ITH3,5.0,Veneto
 2023-03-15,Pfizer/BioNTech,VEN,50-59,12.0,12.0,0.0,1.0,0.0,1.0,22.0,0.0,ITH,ITH3,5.0,Veneto
 2023-03-15,Pfizer/BioNTech,VEN,60-69,13.0,10.0,0.0,0.0,0.0,1.0,15.0,7.0,ITH,ITH3,5.0,Veneto
@@ -20225,7 +20225,7 @@ data,forn,area,eta,m,f,d1,d2,dpi,db1,db2,db3,N1,N2,ISTAT,reg
 2023-04-26,Pfizer/BioNTech,UMB,80-89,0.0,4.0,0.0,0.0,0.0,1.0,1.0,2.0,ITI,ITI2,10.0,Umbria
 2023-04-26,Pfizer/BioNTech,UMB,90+,2.0,2.0,1.0,0.0,0.0,0.0,1.0,2.0,ITI,ITI2,10.0,Umbria
 2023-04-26,Pfizer/BioNTech,VEN,12-19,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,ITH,ITH3,5.0,Veneto
-2023-04-26,Pfizer/BioNTech,VEN,20-29,5.0,2.0,0.0,4.0,0.0,1.0,2.0,0.0,ITH,ITH3,5.0,Veneto
+2023-04-26,Pfizer/BioNTech,VEN,20-29,4.0,2.0,0.0,3.0,0.0,1.0,2.0,0.0,ITH,ITH3,5.0,Veneto
 2023-04-26,Pfizer/BioNTech,VEN,30-39,4.0,2.0,0.0,3.0,0.0,0.0,3.0,0.0,ITH,ITH3,5.0,Veneto
 2023-04-26,Pfizer/BioNTech,VEN,40-49,2.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,ITH,ITH3,5.0,Veneto
 2023-04-26,Pfizer/BioNTech,VEN,50-59,3.0,5.0,0.0,0.0,0.0,1.0,7.0,0.0,ITH,ITH3,5.0,Veneto
@@ -24948,7 +24948,7 @@ data,forn,area,eta,m,f,d1,d2,dpi,db1,db2,db3,N1,N2,ISTAT,reg
 2023-06-28,Pfizer/BioNTech,VEN,50-59,2.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,ITH,ITH3,5.0,Veneto
 2023-06-28,Pfizer/BioNTech,VEN,60-69,6.0,3.0,0.0,0.0,0.0,0.0,5.0,4.0,ITH,ITH3,5.0,Veneto
 2023-06-28,Pfizer/BioNTech,VEN,70-79,14.0,6.0,1.0,0.0,0.0,2.0,6.0,11.0,ITH,ITH3,5.0,Veneto
-2023-06-28,Pfizer/BioNTech,VEN,80-89,13.0,27.0,4.0,0.0,1.0,5.0,12.0,18.0,ITH,ITH3,5.0,Veneto
+2023-06-28,Pfizer/BioNTech,VEN,80-89,14.0,27.0,4.0,0.0,1.0,6.0,12.0,18.0,ITH,ITH3,5.0,Veneto
 2023-06-28,Pfizer/BioNTech,VEN,90+,5.0,18.0,0.0,0.0,0.0,1.0,16.0,6.0,ITH,ITH3,5.0,Veneto
 2023-06-28,Sanofi,TOS,60-69,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,ITI,ITI1,9.0,Toscana
 2023-06-29,Moderna,LOM,12-19,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,ITC,ITC4,3.0,Lombardia
@@ -26359,7 +26359,8 @@ data,forn,area,eta,m,f,d1,d2,dpi,db1,db2,db3,N1,N2,ISTAT,reg
 2023-08-28,Novavax,EMR,12-19,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,ITH,ITH5,8.0,Emilia-Romagna
 2023-08-28,Novavax,EMR,30-39,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,ITH,ITH5,8.0,Emilia-Romagna
 2023-08-28,Novavax,EMR,40-49,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,ITH,ITH5,8.0,Emilia-Romagna
-2023-08-28,Novavax,EMR,90+,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,ITH,ITH5,8.0,Emilia-Romagna
+2023-08-28,Novavax,EMR,80-89,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,ITH,ITH5,8.0,Emilia-Romagna
+2023-08-28,Novavax,EMR,90+,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,ITH,ITH5,8.0,Emilia-Romagna
 2023-08-28,Novavax,LOM,70-79,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC4,3.0,Lombardia
 2023-08-28,Novavax,LOM,80-89,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,ITC,ITC4,3.0,Lombardia
 2023-08-28,Pfizer/BioNTech,EMR,20-29,1.0,2.0,0.0,0.0,0.0,1.0,2.0,0.0,ITH,ITH5,8.0,Emilia-Romagna
@@ -26382,7 +26383,7 @@ data,forn,area,eta,m,f,d1,d2,dpi,db1,db2,db3,N1,N2,ISTAT,reg
 2023-08-28,Pfizer/BioNTech,PUG,80-89,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,ITF,ITF4,16.0,Puglia
 2023-08-28,Pfizer/BioNTech,VEN,30-39,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,ITH,ITH3,5.0,Veneto
 2023-08-28,Pfizer/BioNTech,VEN,80-89,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,ITH,ITH3,5.0,Veneto
-2023-08-28,Pfizer/BioNTech,VEN,90+,0.0,2.0,0.0,0.0,0.0,0.0,1.0,1.0,ITH,ITH3,5.0,Veneto
+2023-08-28,Pfizer/BioNTech,VEN,90+,0.0,3.0,0.0,0.0,0.0,0.0,2.0,1.0,ITH,ITH3,5.0,Veneto
 2023-08-29,Novavax,LIG,40-49,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,ITC,ITC3,7.0,Liguria
 2023-08-29,Novavax,VEN,70-79,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,ITH,ITH3,5.0,Veneto
 2023-08-29,Pfizer/BioNTech,EMR,20-29,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,ITH,ITH5,8.0,Emilia-Romagna
@@ -26433,3 +26434,23 @@ data,forn,area,eta,m,f,d1,d2,dpi,db1,db2,db3,N1,N2,ISTAT,reg
 2023-08-30,Pfizer/BioNTech,TOS,70-79,0.0,5.0,0.0,0.0,0.0,0.0,1.0,4.0,ITI,ITI1,9.0,Toscana
 2023-08-30,Pfizer/BioNTech,TOS,80-89,0.0,6.0,0.0,0.0,0.0,0.0,3.0,3.0,ITI,ITI1,9.0,Toscana
 2023-08-30,Pfizer/BioNTech,TOS,90+,0.0,5.0,0.0,0.0,0.0,0.0,2.0,3.0,ITI,ITI1,9.0,Toscana
+2023-08-30,Pfizer/BioNTech,VEN,60-69,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,ITH,ITH3,5.0,Veneto
+2023-08-30,Pfizer/BioNTech,VEN,70-79,2.0,5.0,0.0,0.0,0.0,0.0,2.0,5.0,ITH,ITH3,5.0,Veneto
+2023-08-30,Pfizer/BioNTech,VEN,80-89,3.0,5.0,0.0,0.0,0.0,0.0,2.0,6.0,ITH,ITH3,5.0,Veneto
+2023-08-30,Pfizer/BioNTech,VEN,90+,1.0,6.0,0.0,0.0,0.0,0.0,1.0,6.0,ITH,ITH3,5.0,Veneto
+2023-08-31,Moderna,PIE,60-69,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,ITC,ITC1,1.0,Piemonte
+2023-08-31,Moderna,PIE,70-79,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,ITC,ITC1,1.0,Piemonte
+2023-08-31,Novavax,LOM,70-79,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,ITC,ITC4,3.0,Lombardia
+2023-08-31,Pfizer Pediatrico,LOM,00-04,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,ITC,ITC4,3.0,Lombardia
+2023-08-31,Pfizer Pediatrico,PIE,05-11,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,ITC,ITC1,1.0,Piemonte
+2023-08-31,Pfizer/BioNTech,FVG,40-49,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ITH,ITH4,6.0,Friuli-Venezia Giulia
+2023-08-31,Pfizer/BioNTech,FVG,50-59,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,ITH,ITH4,6.0,Friuli-Venezia Giulia
+2023-08-31,Pfizer/BioNTech,FVG,80-89,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,ITH,ITH4,6.0,Friuli-Venezia Giulia
+2023-08-31,Pfizer/BioNTech,LOM,12-19,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,ITC,ITC4,3.0,Lombardia
+2023-08-31,Pfizer/BioNTech,LOM,20-29,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,ITC,ITC4,3.0,Lombardia
+2023-08-31,Pfizer/BioNTech,LOM,30-39,2.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,ITC,ITC4,3.0,Lombardia
+2023-08-31,Pfizer/BioNTech,LOM,40-49,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,ITC,ITC4,3.0,Lombardia
+2023-08-31,Pfizer/BioNTech,LOM,50-59,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,ITC,ITC4,3.0,Lombardia
+2023-08-31,Pfizer/BioNTech,LOM,60-69,4.0,5.0,0.0,0.0,0.0,1.0,0.0,8.0,ITC,ITC4,3.0,Lombardia
+2023-08-31,Pfizer/BioNTech,LOM,70-79,2.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,ITC,ITC4,3.0,Lombardia
+2023-08-31,Pfizer/BioNTech,VEN,70-79,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,ITH,ITH3,5.0,Veneto
