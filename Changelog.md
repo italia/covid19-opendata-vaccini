@@ -5,7 +5,7 @@ Il file di **Changelog** raccoglie tutte le modifiche (presenti e future) ai fil
 ## Prossimi aggiornamenti
 
 ## 20/11/2023
-Il file `somministrazioni-vaccini-latest` verrà definitivamente rimosso dal repository. Il suo contenuto è disponibile nei 4 files indicati al precedente Changelog del 24/05/2023. 
+Il file `somministrazioni-vaccini-latest` è stato definitivamente rimosso dal repository. Il suo contenuto è disponibile nei 4 files indicati al precedente Changelog del 24/05/2023. 
 
 L'aggiornamento dei files 
 - `somministrazioni-vaccini-latest-2020`
@@ -13,9 +13,9 @@ L'aggiornamento dei files
 - `somministrazioni-vaccini-latest-2022`
 - `somministrazioni-vaccini-latest-2023`
 
-sarà sospeso e i dati contenuti nei suddetti files saranno riferiti esclusivamente all'andamento della Campagna Vaccinale fino al 24/09/2023.
+è stato sospeso e i dati contenuti nei suddetti files sono riferiti esclusivamente all'andamento della Campagna Vaccinale fino al 24/09/2023.
 
-Saranno aggiunti i files 
+Sono stati aggiunti i files 
 - `somministrazioni-vaccini-latest-campagna-2023-2024`
 - `somministrazioni-vaccini-summary-latest-campagna-2023-2024`
 
