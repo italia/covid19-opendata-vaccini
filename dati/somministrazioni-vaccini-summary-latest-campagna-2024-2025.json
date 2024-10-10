@@ -54,6 +54,32 @@
     "data":[
         {
             "index":0,
+            "data":"2024-10-02T00:00:00.000Z",
+            "area":"CAL",
+            "totale":4,
+            "m":1,
+            "f":3,
+            "d":4,
+            "N1":"ITF",
+            "N2":"ITF6",
+            "ISTAT":18,
+            "reg":"Calabria"
+        },
+        {
+            "index":1,
+            "data":"2024-09-18T00:00:00.000Z",
+            "area":"CAM",
+            "totale":2,
+            "m":0,
+            "f":2,
+            "d":2,
+            "N1":"ITF",
+            "N2":"ITF3",
+            "ISTAT":15,
+            "reg":"Campania"
+        },
+        {
+            "index":2,
             "data":"2024-09-26T00:00:00.000Z",
             "area":"CAM",
             "totale":1,
@@ -66,7 +92,7 @@
             "reg":"Campania"
         },
         {
-            "index":1,
+            "index":3,
             "data":"2024-09-27T00:00:00.000Z",
             "area":"CAM",
             "totale":5,
@@ -79,7 +105,7 @@
             "reg":"Campania"
         },
         {
-            "index":2,
+            "index":4,
             "data":"2024-09-30T00:00:00.000Z",
             "area":"CAM",
             "totale":6,
@@ -92,7 +118,7 @@
             "reg":"Campania"
         },
         {
-            "index":3,
+            "index":5,
             "data":"2024-10-01T00:00:00.000Z",
             "area":"CAM",
             "totale":4,
@@ -105,7 +131,7 @@
             "reg":"Campania"
         },
         {
-            "index":4,
+            "index":6,
             "data":"2024-10-02T00:00:00.000Z",
             "area":"CAM",
             "totale":19,
@@ -118,7 +144,7 @@
             "reg":"Campania"
         },
         {
-            "index":5,
+            "index":7,
             "data":"2024-10-03T00:00:00.000Z",
             "area":"CAM",
             "totale":6,
@@ -131,7 +157,85 @@
             "reg":"Campania"
         },
         {
-            "index":6,
+            "index":8,
+            "data":"2024-10-04T00:00:00.000Z",
+            "area":"CAM",
+            "totale":8,
+            "m":4,
+            "f":4,
+            "d":8,
+            "N1":"ITF",
+            "N2":"ITF3",
+            "ISTAT":15,
+            "reg":"Campania"
+        },
+        {
+            "index":9,
+            "data":"2024-10-05T00:00:00.000Z",
+            "area":"CAM",
+            "totale":2,
+            "m":1,
+            "f":1,
+            "d":2,
+            "N1":"ITF",
+            "N2":"ITF3",
+            "ISTAT":15,
+            "reg":"Campania"
+        },
+        {
+            "index":10,
+            "data":"2024-10-07T00:00:00.000Z",
+            "area":"CAM",
+            "totale":17,
+            "m":11,
+            "f":6,
+            "d":17,
+            "N1":"ITF",
+            "N2":"ITF3",
+            "ISTAT":15,
+            "reg":"Campania"
+        },
+        {
+            "index":11,
+            "data":"2024-10-08T00:00:00.000Z",
+            "area":"CAM",
+            "totale":16,
+            "m":11,
+            "f":5,
+            "d":16,
+            "N1":"ITF",
+            "N2":"ITF3",
+            "ISTAT":15,
+            "reg":"Campania"
+        },
+        {
+            "index":12,
+            "data":"2024-10-09T00:00:00.000Z",
+            "area":"CAM",
+            "totale":23,
+            "m":12,
+            "f":11,
+            "d":23,
+            "N1":"ITF",
+            "N2":"ITF3",
+            "ISTAT":15,
+            "reg":"Campania"
+        },
+        {
+            "index":13,
+            "data":"2024-10-10T00:00:00.000Z",
+            "area":"CAM",
+            "totale":16,
+            "m":10,
+            "f":6,
+            "d":16,
+            "N1":"ITF",
+            "N2":"ITF3",
+            "ISTAT":15,
+            "reg":"Campania"
+        },
+        {
+            "index":14,
             "data":"2024-09-24T00:00:00.000Z",
             "area":"EMR",
             "totale":2,
@@ -144,7 +248,7 @@
             "reg":"Emilia-Romagna"
         },
         {
-            "index":7,
+            "index":15,
             "data":"2024-09-26T00:00:00.000Z",
             "area":"EMR",
             "totale":11,
@@ -157,7 +261,7 @@
             "reg":"Emilia-Romagna"
         },
         {
-            "index":8,
+            "index":16,
             "data":"2024-09-27T00:00:00.000Z",
             "area":"EMR",
             "totale":49,
@@ -170,7 +274,7 @@
             "reg":"Emilia-Romagna"
         },
         {
-            "index":9,
+            "index":17,
             "data":"2024-09-30T00:00:00.000Z",
             "area":"EMR",
             "totale":6,
@@ -183,7 +287,7 @@
             "reg":"Emilia-Romagna"
         },
         {
-            "index":10,
+            "index":18,
             "data":"2024-10-01T00:00:00.000Z",
             "area":"EMR",
             "totale":12,
@@ -196,7 +300,7 @@
             "reg":"Emilia-Romagna"
         },
         {
-            "index":11,
+            "index":19,
             "data":"2024-10-02T00:00:00.000Z",
             "area":"EMR",
             "totale":7,
@@ -209,7 +313,59 @@
             "reg":"Emilia-Romagna"
         },
         {
-            "index":12,
+            "index":20,
+            "data":"2024-10-03T00:00:00.000Z",
+            "area":"EMR",
+            "totale":63,
+            "m":33,
+            "f":30,
+            "d":63,
+            "N1":"ITH",
+            "N2":"ITH5",
+            "ISTAT":8,
+            "reg":"Emilia-Romagna"
+        },
+        {
+            "index":21,
+            "data":"2024-10-04T00:00:00.000Z",
+            "area":"EMR",
+            "totale":69,
+            "m":22,
+            "f":47,
+            "d":69,
+            "N1":"ITH",
+            "N2":"ITH5",
+            "ISTAT":8,
+            "reg":"Emilia-Romagna"
+        },
+        {
+            "index":22,
+            "data":"2024-10-07T00:00:00.000Z",
+            "area":"EMR",
+            "totale":315,
+            "m":130,
+            "f":185,
+            "d":315,
+            "N1":"ITH",
+            "N2":"ITH5",
+            "ISTAT":8,
+            "reg":"Emilia-Romagna"
+        },
+        {
+            "index":23,
+            "data":"2024-10-08T00:00:00.000Z",
+            "area":"EMR",
+            "totale":675,
+            "m":333,
+            "f":342,
+            "d":675,
+            "N1":"ITH",
+            "N2":"ITH5",
+            "ISTAT":8,
+            "reg":"Emilia-Romagna"
+        },
+        {
+            "index":24,
             "data":"2024-09-25T00:00:00.000Z",
             "area":"LAZ",
             "totale":10,
@@ -222,7 +378,7 @@
             "reg":"Lazio"
         },
         {
-            "index":13,
+            "index":25,
             "data":"2024-09-26T00:00:00.000Z",
             "area":"LAZ",
             "totale":7,
@@ -235,7 +391,7 @@
             "reg":"Lazio"
         },
         {
-            "index":14,
+            "index":26,
             "data":"2024-09-27T00:00:00.000Z",
             "area":"LAZ",
             "totale":6,
@@ -248,7 +404,7 @@
             "reg":"Lazio"
         },
         {
-            "index":15,
+            "index":27,
             "data":"2024-09-30T00:00:00.000Z",
             "area":"LAZ",
             "totale":22,
@@ -261,33 +417,98 @@
             "reg":"Lazio"
         },
         {
-            "index":16,
+            "index":28,
+            "data":"2024-10-01T00:00:00.000Z",
+            "area":"LAZ",
+            "totale":8,
+            "m":3,
+            "f":5,
+            "d":8,
+            "N1":"ITI",
+            "N2":"ITI4",
+            "ISTAT":12,
+            "reg":"Lazio"
+        },
+        {
+            "index":29,
             "data":"2024-10-02T00:00:00.000Z",
             "area":"LAZ",
-            "totale":49,
-            "m":19,
-            "f":30,
-            "d":49,
+            "totale":59,
+            "m":24,
+            "f":35,
+            "d":59,
             "N1":"ITI",
             "N2":"ITI4",
             "ISTAT":12,
             "reg":"Lazio"
         },
         {
-            "index":17,
+            "index":30,
             "data":"2024-10-03T00:00:00.000Z",
             "area":"LAZ",
-            "totale":19,
-            "m":12,
-            "f":7,
-            "d":19,
+            "totale":28,
+            "m":18,
+            "f":10,
+            "d":28,
             "N1":"ITI",
             "N2":"ITI4",
             "ISTAT":12,
             "reg":"Lazio"
         },
         {
-            "index":18,
+            "index":31,
+            "data":"2024-10-04T00:00:00.000Z",
+            "area":"LAZ",
+            "totale":41,
+            "m":21,
+            "f":20,
+            "d":41,
+            "N1":"ITI",
+            "N2":"ITI4",
+            "ISTAT":12,
+            "reg":"Lazio"
+        },
+        {
+            "index":32,
+            "data":"2024-10-07T00:00:00.000Z",
+            "area":"LAZ",
+            "totale":81,
+            "m":41,
+            "f":40,
+            "d":81,
+            "N1":"ITI",
+            "N2":"ITI4",
+            "ISTAT":12,
+            "reg":"Lazio"
+        },
+        {
+            "index":33,
+            "data":"2024-10-08T00:00:00.000Z",
+            "area":"LAZ",
+            "totale":197,
+            "m":107,
+            "f":90,
+            "d":197,
+            "N1":"ITI",
+            "N2":"ITI4",
+            "ISTAT":12,
+            "reg":"Lazio"
+        },
+        {
+            "index":34,
+            "data":"2024-10-09T00:00:00.000Z",
+            "area":"LAZ",
+            "totale":140,
+            "m":68,
+            "f":72,
+            "d":140,
+            "N1":"ITI",
+            "N2":"ITI4",
+            "ISTAT":12,
+            "reg":"Lazio"
+        },
+        {
+            "index":35,
             "data":"2024-09-23T00:00:00.000Z",
             "area":"LIG",
             "totale":5,
@@ -300,7 +521,7 @@
             "reg":"Liguria"
         },
         {
-            "index":19,
+            "index":36,
             "data":"2024-09-24T00:00:00.000Z",
             "area":"LIG",
             "totale":8,
@@ -313,7 +534,7 @@
             "reg":"Liguria"
         },
         {
-            "index":20,
+            "index":37,
             "data":"2024-09-25T00:00:00.000Z",
             "area":"LIG",
             "totale":22,
@@ -326,7 +547,7 @@
             "reg":"Liguria"
         },
         {
-            "index":21,
+            "index":38,
             "data":"2024-09-26T00:00:00.000Z",
             "area":"LIG",
             "totale":4,
@@ -339,7 +560,7 @@
             "reg":"Liguria"
         },
         {
-            "index":22,
+            "index":39,
             "data":"2024-09-27T00:00:00.000Z",
             "area":"LIG",
             "totale":16,
@@ -352,7 +573,7 @@
             "reg":"Liguria"
         },
         {
-            "index":23,
+            "index":40,
             "data":"2024-09-28T00:00:00.000Z",
             "area":"LIG",
             "totale":1,
@@ -365,7 +586,7 @@
             "reg":"Liguria"
         },
         {
-            "index":24,
+            "index":41,
             "data":"2024-09-30T00:00:00.000Z",
             "area":"LIG",
             "totale":42,
@@ -378,7 +599,7 @@
             "reg":"Liguria"
         },
         {
-            "index":25,
+            "index":42,
             "data":"2024-10-01T00:00:00.000Z",
             "area":"LIG",
             "totale":19,
@@ -391,7 +612,7 @@
             "reg":"Liguria"
         },
         {
-            "index":26,
+            "index":43,
             "data":"2024-10-02T00:00:00.000Z",
             "area":"LIG",
             "totale":68,
@@ -404,20 +625,98 @@
             "reg":"Liguria"
         },
         {
-            "index":27,
+            "index":44,
             "data":"2024-10-03T00:00:00.000Z",
             "area":"LIG",
-            "totale":18,
-            "m":11,
-            "f":7,
-            "d":18,
+            "totale":35,
+            "m":21,
+            "f":14,
+            "d":35,
             "N1":"ITC",
             "N2":"ITC3",
             "ISTAT":7,
             "reg":"Liguria"
         },
         {
-            "index":28,
+            "index":45,
+            "data":"2024-10-04T00:00:00.000Z",
+            "area":"LIG",
+            "totale":45,
+            "m":22,
+            "f":23,
+            "d":45,
+            "N1":"ITC",
+            "N2":"ITC3",
+            "ISTAT":7,
+            "reg":"Liguria"
+        },
+        {
+            "index":46,
+            "data":"2024-10-05T00:00:00.000Z",
+            "area":"LIG",
+            "totale":5,
+            "m":2,
+            "f":3,
+            "d":5,
+            "N1":"ITC",
+            "N2":"ITC3",
+            "ISTAT":7,
+            "reg":"Liguria"
+        },
+        {
+            "index":47,
+            "data":"2024-10-07T00:00:00.000Z",
+            "area":"LIG",
+            "totale":56,
+            "m":28,
+            "f":28,
+            "d":56,
+            "N1":"ITC",
+            "N2":"ITC3",
+            "ISTAT":7,
+            "reg":"Liguria"
+        },
+        {
+            "index":48,
+            "data":"2024-10-08T00:00:00.000Z",
+            "area":"LIG",
+            "totale":108,
+            "m":56,
+            "f":52,
+            "d":108,
+            "N1":"ITC",
+            "N2":"ITC3",
+            "ISTAT":7,
+            "reg":"Liguria"
+        },
+        {
+            "index":49,
+            "data":"2024-10-09T00:00:00.000Z",
+            "area":"LIG",
+            "totale":78,
+            "m":41,
+            "f":37,
+            "d":78,
+            "N1":"ITC",
+            "N2":"ITC3",
+            "ISTAT":7,
+            "reg":"Liguria"
+        },
+        {
+            "index":50,
+            "data":"2024-10-10T00:00:00.000Z",
+            "area":"LIG",
+            "totale":22,
+            "m":8,
+            "f":14,
+            "d":22,
+            "N1":"ITC",
+            "N2":"ITC3",
+            "ISTAT":7,
+            "reg":"Liguria"
+        },
+        {
+            "index":51,
             "data":"2024-10-03T00:00:00.000Z",
             "area":"MOL",
             "totale":10,
@@ -430,7 +729,20 @@
             "reg":"Molise"
         },
         {
-            "index":29,
+            "index":52,
+            "data":"2024-10-04T00:00:00.000Z",
+            "area":"MOL",
+            "totale":4,
+            "m":3,
+            "f":1,
+            "d":4,
+            "N1":"ITF",
+            "N2":"ITF2",
+            "ISTAT":14,
+            "reg":"Molise"
+        },
+        {
+            "index":53,
             "data":"2024-09-27T00:00:00.000Z",
             "area":"PAT",
             "totale":17,
@@ -443,7 +755,7 @@
             "reg":"Provincia Autonoma Trento"
         },
         {
-            "index":30,
+            "index":54,
             "data":"2024-10-01T00:00:00.000Z",
             "area":"PAT",
             "totale":11,
@@ -456,7 +768,85 @@
             "reg":"Provincia Autonoma Trento"
         },
         {
-            "index":31,
+            "index":55,
+            "data":"2024-10-03T00:00:00.000Z",
+            "area":"PAT",
+            "totale":21,
+            "m":13,
+            "f":8,
+            "d":21,
+            "N1":"ITH",
+            "N2":"ITH2",
+            "ISTAT":4,
+            "reg":"Provincia Autonoma Trento"
+        },
+        {
+            "index":56,
+            "data":"2024-10-04T00:00:00.000Z",
+            "area":"PAT",
+            "totale":4,
+            "m":3,
+            "f":1,
+            "d":4,
+            "N1":"ITH",
+            "N2":"ITH2",
+            "ISTAT":4,
+            "reg":"Provincia Autonoma Trento"
+        },
+        {
+            "index":57,
+            "data":"2024-10-07T00:00:00.000Z",
+            "area":"PAT",
+            "totale":33,
+            "m":15,
+            "f":18,
+            "d":33,
+            "N1":"ITH",
+            "N2":"ITH2",
+            "ISTAT":4,
+            "reg":"Provincia Autonoma Trento"
+        },
+        {
+            "index":58,
+            "data":"2024-10-08T00:00:00.000Z",
+            "area":"PAT",
+            "totale":15,
+            "m":9,
+            "f":6,
+            "d":15,
+            "N1":"ITH",
+            "N2":"ITH2",
+            "ISTAT":4,
+            "reg":"Provincia Autonoma Trento"
+        },
+        {
+            "index":59,
+            "data":"2024-10-09T00:00:00.000Z",
+            "area":"PAT",
+            "totale":40,
+            "m":20,
+            "f":20,
+            "d":40,
+            "N1":"ITH",
+            "N2":"ITH2",
+            "ISTAT":4,
+            "reg":"Provincia Autonoma Trento"
+        },
+        {
+            "index":60,
+            "data":"2024-10-10T00:00:00.000Z",
+            "area":"PAT",
+            "totale":2,
+            "m":1,
+            "f":1,
+            "d":2,
+            "N1":"ITH",
+            "N2":"ITH2",
+            "ISTAT":4,
+            "reg":"Provincia Autonoma Trento"
+        },
+        {
+            "index":61,
             "data":"2024-09-27T00:00:00.000Z",
             "area":"PIE",
             "totale":7,
@@ -469,7 +859,7 @@
             "reg":"Piemonte"
         },
         {
-            "index":32,
+            "index":62,
             "data":"2024-09-30T00:00:00.000Z",
             "area":"PIE",
             "totale":7,
@@ -482,7 +872,7 @@
             "reg":"Piemonte"
         },
         {
-            "index":33,
+            "index":63,
             "data":"2024-10-01T00:00:00.000Z",
             "area":"PIE",
             "totale":5,
@@ -495,7 +885,72 @@
             "reg":"Piemonte"
         },
         {
-            "index":34,
+            "index":64,
+            "data":"2024-10-03T00:00:00.000Z",
+            "area":"PIE",
+            "totale":18,
+            "m":9,
+            "f":9,
+            "d":18,
+            "N1":"ITC",
+            "N2":"ITC1",
+            "ISTAT":1,
+            "reg":"Piemonte"
+        },
+        {
+            "index":65,
+            "data":"2024-10-04T00:00:00.000Z",
+            "area":"PIE",
+            "totale":18,
+            "m":7,
+            "f":11,
+            "d":18,
+            "N1":"ITC",
+            "N2":"ITC1",
+            "ISTAT":1,
+            "reg":"Piemonte"
+        },
+        {
+            "index":66,
+            "data":"2024-10-07T00:00:00.000Z",
+            "area":"PIE",
+            "totale":46,
+            "m":28,
+            "f":18,
+            "d":46,
+            "N1":"ITC",
+            "N2":"ITC1",
+            "ISTAT":1,
+            "reg":"Piemonte"
+        },
+        {
+            "index":67,
+            "data":"2024-10-09T00:00:00.000Z",
+            "area":"PIE",
+            "totale":27,
+            "m":18,
+            "f":9,
+            "d":27,
+            "N1":"ITC",
+            "N2":"ITC1",
+            "ISTAT":1,
+            "reg":"Piemonte"
+        },
+        {
+            "index":68,
+            "data":"2024-10-10T00:00:00.000Z",
+            "area":"PIE",
+            "totale":62,
+            "m":34,
+            "f":28,
+            "d":62,
+            "N1":"ITC",
+            "N2":"ITC1",
+            "ISTAT":1,
+            "reg":"Piemonte"
+        },
+        {
+            "index":69,
             "data":"2024-09-26T00:00:00.000Z",
             "area":"SAR",
             "totale":3,
@@ -508,7 +963,7 @@
             "reg":"Sardegna"
         },
         {
-            "index":35,
+            "index":70,
             "data":"2024-09-27T00:00:00.000Z",
             "area":"SAR",
             "totale":4,
@@ -521,7 +976,7 @@
             "reg":"Sardegna"
         },
         {
-            "index":36,
+            "index":71,
             "data":"2024-09-30T00:00:00.000Z",
             "area":"SAR",
             "totale":10,
@@ -534,7 +989,7 @@
             "reg":"Sardegna"
         },
         {
-            "index":37,
+            "index":72,
             "data":"2024-10-01T00:00:00.000Z",
             "area":"SAR",
             "totale":7,
@@ -545,6 +1000,305 @@
             "N2":"ITG2",
             "ISTAT":20,
             "reg":"Sardegna"
+        },
+        {
+            "index":73,
+            "data":"2024-10-02T00:00:00.000Z",
+            "area":"SAR",
+            "totale":9,
+            "m":5,
+            "f":4,
+            "d":9,
+            "N1":"ITG",
+            "N2":"ITG2",
+            "ISTAT":20,
+            "reg":"Sardegna"
+        },
+        {
+            "index":74,
+            "data":"2024-10-03T00:00:00.000Z",
+            "area":"SAR",
+            "totale":3,
+            "m":1,
+            "f":2,
+            "d":3,
+            "N1":"ITG",
+            "N2":"ITG2",
+            "ISTAT":20,
+            "reg":"Sardegna"
+        },
+        {
+            "index":75,
+            "data":"2024-10-04T00:00:00.000Z",
+            "area":"SAR",
+            "totale":9,
+            "m":5,
+            "f":4,
+            "d":9,
+            "N1":"ITG",
+            "N2":"ITG2",
+            "ISTAT":20,
+            "reg":"Sardegna"
+        },
+        {
+            "index":76,
+            "data":"2024-10-07T00:00:00.000Z",
+            "area":"SAR",
+            "totale":21,
+            "m":9,
+            "f":12,
+            "d":21,
+            "N1":"ITG",
+            "N2":"ITG2",
+            "ISTAT":20,
+            "reg":"Sardegna"
+        },
+        {
+            "index":77,
+            "data":"2024-10-08T00:00:00.000Z",
+            "area":"SAR",
+            "totale":16,
+            "m":8,
+            "f":8,
+            "d":16,
+            "N1":"ITG",
+            "N2":"ITG2",
+            "ISTAT":20,
+            "reg":"Sardegna"
+        },
+        {
+            "index":78,
+            "data":"2024-10-09T00:00:00.000Z",
+            "area":"SAR",
+            "totale":18,
+            "m":10,
+            "f":8,
+            "d":18,
+            "N1":"ITG",
+            "N2":"ITG2",
+            "ISTAT":20,
+            "reg":"Sardegna"
+        },
+        {
+            "index":79,
+            "data":"2024-10-10T00:00:00.000Z",
+            "area":"SAR",
+            "totale":28,
+            "m":16,
+            "f":12,
+            "d":28,
+            "N1":"ITG",
+            "N2":"ITG2",
+            "ISTAT":20,
+            "reg":"Sardegna"
+        },
+        {
+            "index":80,
+            "data":"2024-10-07T00:00:00.000Z",
+            "area":"SIC",
+            "totale":1,
+            "m":0,
+            "f":1,
+            "d":1,
+            "N1":"ITG",
+            "N2":"ITG1",
+            "ISTAT":19,
+            "reg":"Sicilia"
+        },
+        {
+            "index":81,
+            "data":"2024-10-08T00:00:00.000Z",
+            "area":"SIC",
+            "totale":2,
+            "m":1,
+            "f":1,
+            "d":2,
+            "N1":"ITG",
+            "N2":"ITG1",
+            "ISTAT":19,
+            "reg":"Sicilia"
+        },
+        {
+            "index":82,
+            "data":"2024-09-20T00:00:00.000Z",
+            "area":"TOS",
+            "totale":4,
+            "m":3,
+            "f":1,
+            "d":4,
+            "N1":"ITI",
+            "N2":"ITI1",
+            "ISTAT":9,
+            "reg":"Toscana"
+        },
+        {
+            "index":83,
+            "data":"2024-09-21T00:00:00.000Z",
+            "area":"TOS",
+            "totale":8,
+            "m":3,
+            "f":5,
+            "d":8,
+            "N1":"ITI",
+            "N2":"ITI1",
+            "ISTAT":9,
+            "reg":"Toscana"
+        },
+        {
+            "index":84,
+            "data":"2024-09-25T00:00:00.000Z",
+            "area":"TOS",
+            "totale":3,
+            "m":2,
+            "f":1,
+            "d":3,
+            "N1":"ITI",
+            "N2":"ITI1",
+            "ISTAT":9,
+            "reg":"Toscana"
+        },
+        {
+            "index":85,
+            "data":"2024-09-30T00:00:00.000Z",
+            "area":"TOS",
+            "totale":3,
+            "m":1,
+            "f":2,
+            "d":3,
+            "N1":"ITI",
+            "N2":"ITI1",
+            "ISTAT":9,
+            "reg":"Toscana"
+        },
+        {
+            "index":86,
+            "data":"2024-10-01T00:00:00.000Z",
+            "area":"TOS",
+            "totale":11,
+            "m":2,
+            "f":9,
+            "d":11,
+            "N1":"ITI",
+            "N2":"ITI1",
+            "ISTAT":9,
+            "reg":"Toscana"
+        },
+        {
+            "index":87,
+            "data":"2024-10-02T00:00:00.000Z",
+            "area":"TOS",
+            "totale":18,
+            "m":6,
+            "f":12,
+            "d":18,
+            "N1":"ITI",
+            "N2":"ITI1",
+            "ISTAT":9,
+            "reg":"Toscana"
+        },
+        {
+            "index":88,
+            "data":"2024-10-03T00:00:00.000Z",
+            "area":"TOS",
+            "totale":28,
+            "m":7,
+            "f":21,
+            "d":28,
+            "N1":"ITI",
+            "N2":"ITI1",
+            "ISTAT":9,
+            "reg":"Toscana"
+        },
+        {
+            "index":89,
+            "data":"2024-10-04T00:00:00.000Z",
+            "area":"TOS",
+            "totale":23,
+            "m":7,
+            "f":16,
+            "d":23,
+            "N1":"ITI",
+            "N2":"ITI1",
+            "ISTAT":9,
+            "reg":"Toscana"
+        },
+        {
+            "index":90,
+            "data":"2024-10-05T00:00:00.000Z",
+            "area":"TOS",
+            "totale":2,
+            "m":2,
+            "f":0,
+            "d":2,
+            "N1":"ITI",
+            "N2":"ITI1",
+            "ISTAT":9,
+            "reg":"Toscana"
+        },
+        {
+            "index":91,
+            "data":"2024-10-07T00:00:00.000Z",
+            "area":"TOS",
+            "totale":136,
+            "m":69,
+            "f":67,
+            "d":136,
+            "N1":"ITI",
+            "N2":"ITI1",
+            "ISTAT":9,
+            "reg":"Toscana"
+        },
+        {
+            "index":92,
+            "data":"2024-10-08T00:00:00.000Z",
+            "area":"TOS",
+            "totale":99,
+            "m":45,
+            "f":54,
+            "d":99,
+            "N1":"ITI",
+            "N2":"ITI1",
+            "ISTAT":9,
+            "reg":"Toscana"
+        },
+        {
+            "index":93,
+            "data":"2024-10-08T00:00:00.000Z",
+            "area":"VDA",
+            "totale":29,
+            "m":13,
+            "f":16,
+            "d":29,
+            "N1":"ITC",
+            "N2":"ITC2",
+            "ISTAT":2,
+            "reg":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
+        },
+        {
+            "index":94,
+            "data":"2024-10-09T00:00:00.000Z",
+            "area":"VDA",
+            "totale":41,
+            "m":23,
+            "f":18,
+            "d":41,
+            "N1":"ITC",
+            "N2":"ITC2",
+            "ISTAT":2,
+            "reg":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
+        },
+        {
+            "index":95,
+            "data":"2024-10-10T00:00:00.000Z",
+            "area":"VDA",
+            "totale":18,
+            "m":9,
+            "f":9,
+            "d":18,
+            "N1":"ITC",
+            "N2":"ITC2",
+            "ISTAT":2,
+            "reg":"Valle d'Aosta \/ Vall\u00e9e d'Aoste"
         }
     ]
 }
