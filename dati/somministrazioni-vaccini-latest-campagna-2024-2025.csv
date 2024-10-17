@@ -1,5 +1,8 @@
 data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-09-18,Pfizer/BioNTech,CAM,60-69,0,2,2,ITF,ITF3,15,Campania
+2024-09-19,Pfizer/BioNTech,TOS,50-59,0,1,1,ITI,ITI1,9,Toscana
+2024-09-19,Pfizer/BioNTech,TOS,60-69,1,1,2,ITI,ITI1,9,Toscana
+2024-09-19,Pfizer/BioNTech,TOS,70-79,1,2,3,ITI,ITI1,9,Toscana
 2024-09-20,Pfizer/BioNTech,TOS,20-29,1,0,1,ITI,ITI1,9,Toscana
 2024-09-20,Pfizer/BioNTech,TOS,60-69,2,1,3,ITI,ITI1,9,Toscana
 2024-09-21,Pfizer/BioNTech,TOS,30-39,0,1,1,ITI,ITI1,9,Toscana
@@ -81,6 +84,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-09-27,Pfizer/BioNTech,SAR,50-59,0,1,1,ITG,ITG2,20,Sardegna
 2024-09-27,Pfizer/BioNTech,SAR,60-69,2,0,2,ITG,ITG2,20,Sardegna
 2024-09-27,Pfizer/BioNTech,SAR,70-79,1,0,1,ITG,ITG2,20,Sardegna
+2024-09-27,Pfizer/BioNTech,TOS,90+,0,1,1,ITI,ITI1,9,Toscana
 2024-09-28,Pfizer/BioNTech,LIG,80-89,0,1,1,ITC,ITC3,7,Liguria
 2024-09-30,Pfizer/BioNTech,CAM,20-29,1,1,2,ITF,ITF3,15,Campania
 2024-09-30,Pfizer/BioNTech,CAM,60-69,1,0,1,ITF,ITF3,15,Campania
@@ -110,8 +114,11 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-09-30,Pfizer/BioNTech,SAR,60-69,1,2,3,ITG,ITG2,20,Sardegna
 2024-09-30,Pfizer/BioNTech,SAR,70-79,4,1,5,ITG,ITG2,20,Sardegna
 2024-09-30,Pfizer/BioNTech,SAR,80-89,1,0,1,ITG,ITG2,20,Sardegna
+2024-09-30,Pfizer/BioNTech,SIC,50-59,0,1,1,ITG,ITG1,19,Sicilia
+2024-09-30,Pfizer/BioNTech,SIC,60-69,1,1,2,ITG,ITG1,19,Sicilia
+2024-09-30,Pfizer/BioNTech,SIC,80-89,0,1,1,ITG,ITG1,19,Sicilia
 2024-09-30,Pfizer/BioNTech,TOS,70-79,1,1,2,ITI,ITI1,9,Toscana
-2024-09-30,Pfizer/BioNTech,TOS,80-89,0,1,1,ITI,ITI1,9,Toscana
+2024-09-30,Pfizer/BioNTech,TOS,80-89,0,2,2,ITI,ITI1,9,Toscana
 2024-10-01,Pfizer/BioNTech,CAM,60-69,1,1,2,ITF,ITF3,15,Campania
 2024-10-01,Pfizer/BioNTech,CAM,70-79,2,0,2,ITF,ITF3,15,Campania
 2024-10-01,Pfizer/BioNTech,EMR,50-59,1,0,1,ITH,ITH5,8,Emilia-Romagna
@@ -141,9 +148,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-01,Pfizer/BioNTech,SAR,50-59,1,1,2,ITG,ITG2,20,Sardegna
 2024-10-01,Pfizer/BioNTech,SAR,60-69,1,1,2,ITG,ITG2,20,Sardegna
 2024-10-01,Pfizer/BioNTech,SAR,70-79,1,0,1,ITG,ITG2,20,Sardegna
+2024-10-01,Pfizer/BioNTech,SIC,30-39,0,1,1,ITG,ITG1,19,Sicilia
 2024-10-01,Pfizer/BioNTech,TOS,50-59,0,1,1,ITI,ITI1,9,Toscana
-2024-10-01,Pfizer/BioNTech,TOS,80-89,1,6,7,ITI,ITI1,9,Toscana
-2024-10-01,Pfizer/BioNTech,TOS,90+,1,2,3,ITI,ITI1,9,Toscana
+2024-10-01,Pfizer/BioNTech,TOS,60-69,2,0,2,ITI,ITI1,9,Toscana
+2024-10-01,Pfizer/BioNTech,TOS,70-79,1,1,2,ITI,ITI1,9,Toscana
+2024-10-01,Pfizer/BioNTech,TOS,80-89,5,13,18,ITI,ITI1,9,Toscana
+2024-10-01,Pfizer/BioNTech,TOS,90+,1,11,12,ITI,ITI1,9,Toscana
 2024-10-02,Pfizer/BioNTech,CAL,60-69,0,1,1,ITF,ITF6,18,Calabria
 2024-10-02,Pfizer/BioNTech,CAL,70-79,1,2,3,ITF,ITF6,18,Calabria
 2024-10-02,Pfizer/BioNTech,CAM,30-39,1,0,1,ITF,ITF3,15,Campania
@@ -165,7 +175,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-02,Pfizer/BioNTech,LAZ,60-69,6,5,11,ITI,ITI4,12,Lazio
 2024-10-02,Pfizer/BioNTech,LAZ,70-79,10,11,21,ITI,ITI4,12,Lazio
 2024-10-02,Pfizer/BioNTech,LAZ,80-89,5,8,13,ITI,ITI4,12,Lazio
-2024-10-02,Pfizer/BioNTech,LAZ,90+,1,2,3,ITI,ITI4,12,Lazio
+2024-10-02,Pfizer/BioNTech,LAZ,90+,1,3,4,ITI,ITI4,12,Lazio
 2024-10-02,Pfizer/BioNTech,LIG,30-39,4,4,8,ITC,ITC3,7,Liguria
 2024-10-02,Pfizer/BioNTech,LIG,40-49,3,2,5,ITC,ITC3,7,Liguria
 2024-10-02,Pfizer/BioNTech,LIG,50-59,1,3,4,ITC,ITC3,7,Liguria
@@ -175,11 +185,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-02,Pfizer/BioNTech,SAR,60-69,2,2,4,ITG,ITG2,20,Sardegna
 2024-10-02,Pfizer/BioNTech,SAR,70-79,2,2,4,ITG,ITG2,20,Sardegna
 2024-10-02,Pfizer/BioNTech,SAR,80-89,1,0,1,ITG,ITG2,20,Sardegna
+2024-10-02,Pfizer/BioNTech,TOS,40-49,1,0,1,ITI,ITI1,9,Toscana
 2024-10-02,Pfizer/BioNTech,TOS,50-59,1,0,1,ITI,ITI1,9,Toscana
 2024-10-02,Pfizer/BioNTech,TOS,60-69,1,1,2,ITI,ITI1,9,Toscana
-2024-10-02,Pfizer/BioNTech,TOS,70-79,3,3,6,ITI,ITI1,9,Toscana
-2024-10-02,Pfizer/BioNTech,TOS,80-89,0,5,5,ITI,ITI1,9,Toscana
-2024-10-02,Pfizer/BioNTech,TOS,90+,1,3,4,ITI,ITI1,9,Toscana
+2024-10-02,Pfizer/BioNTech,TOS,70-79,3,5,8,ITI,ITI1,9,Toscana
+2024-10-02,Pfizer/BioNTech,TOS,80-89,0,9,9,ITI,ITI1,9,Toscana
+2024-10-02,Pfizer/BioNTech,TOS,90+,2,7,9,ITI,ITI1,9,Toscana
 2024-10-03,Pfizer/BioNTech,CAM,50-59,1,0,1,ITF,ITF3,15,Campania
 2024-10-03,Pfizer/BioNTech,CAM,60-69,1,0,1,ITF,ITF3,15,Campania
 2024-10-03,Pfizer/BioNTech,CAM,70-79,3,1,4,ITF,ITF3,15,Campania
@@ -223,10 +234,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-03,Pfizer/BioNTech,PIE,70-79,4,2,6,ITC,ITC1,1,Piemonte
 2024-10-03,Pfizer/BioNTech,SAR,60-69,1,1,2,ITG,ITG2,20,Sardegna
 2024-10-03,Pfizer/BioNTech,SAR,70-79,0,1,1,ITG,ITG2,20,Sardegna
-2024-10-03,Pfizer/BioNTech,TOS,60-69,1,1,2,ITI,ITI1,9,Toscana
-2024-10-03,Pfizer/BioNTech,TOS,70-79,2,3,5,ITI,ITI1,9,Toscana
-2024-10-03,Pfizer/BioNTech,TOS,80-89,3,10,13,ITI,ITI1,9,Toscana
-2024-10-03,Pfizer/BioNTech,TOS,90+,1,7,8,ITI,ITI1,9,Toscana
+2024-10-03,Pfizer/BioNTech,SIC,30-39,0,1,1,ITG,ITG1,19,Sicilia
+2024-10-03,Pfizer/BioNTech,SIC,40-49,1,0,1,ITG,ITG1,19,Sicilia
+2024-10-03,Pfizer/BioNTech,SIC,50-59,1,0,1,ITG,ITG1,19,Sicilia
+2024-10-03,Pfizer/BioNTech,TOS,50-59,0,1,1,ITI,ITI1,9,Toscana
+2024-10-03,Pfizer/BioNTech,TOS,60-69,2,3,5,ITI,ITI1,9,Toscana
+2024-10-03,Pfizer/BioNTech,TOS,70-79,5,7,12,ITI,ITI1,9,Toscana
+2024-10-03,Pfizer/BioNTech,TOS,80-89,3,17,20,ITI,ITI1,9,Toscana
+2024-10-03,Pfizer/BioNTech,TOS,90+,2,19,21,ITI,ITI1,9,Toscana
 2024-10-04,Pfizer/BioNTech,CAM,30-39,0,1,1,ITF,ITF3,15,Campania
 2024-10-04,Pfizer/BioNTech,CAM,60-69,2,1,3,ITF,ITF3,15,Campania
 2024-10-04,Pfizer/BioNTech,CAM,70-79,2,1,3,ITF,ITF3,15,Campania
@@ -243,8 +258,9 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-04,Pfizer/BioNTech,LAZ,40-49,1,0,1,ITI,ITI4,12,Lazio
 2024-10-04,Pfizer/BioNTech,LAZ,50-59,2,0,2,ITI,ITI4,12,Lazio
 2024-10-04,Pfizer/BioNTech,LAZ,60-69,4,5,9,ITI,ITI4,12,Lazio
-2024-10-04,Pfizer/BioNTech,LAZ,70-79,8,8,16,ITI,ITI4,12,Lazio
-2024-10-04,Pfizer/BioNTech,LAZ,80-89,4,7,11,ITI,ITI4,12,Lazio
+2024-10-04,Pfizer/BioNTech,LAZ,70-79,10,8,18,ITI,ITI4,12,Lazio
+2024-10-04,Pfizer/BioNTech,LAZ,80-89,11,7,18,ITI,ITI4,12,Lazio
+2024-10-04,Pfizer/BioNTech,LAZ,90+,2,0,2,ITI,ITI4,12,Lazio
 2024-10-04,Pfizer/BioNTech,LIG,30-39,1,0,1,ITC,ITC3,7,Liguria
 2024-10-04,Pfizer/BioNTech,LIG,40-49,1,0,1,ITC,ITC3,7,Liguria
 2024-10-04,Pfizer/BioNTech,LIG,50-59,2,2,4,ITC,ITC3,7,Liguria
@@ -268,15 +284,17 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-04,Pfizer/BioNTech,SAR,50-59,2,1,3,ITG,ITG2,20,Sardegna
 2024-10-04,Pfizer/BioNTech,SAR,60-69,2,2,4,ITG,ITG2,20,Sardegna
 2024-10-04,Pfizer/BioNTech,SAR,70-79,1,0,1,ITG,ITG2,20,Sardegna
-2024-10-04,Pfizer/BioNTech,TOS,70-79,4,2,6,ITI,ITI1,9,Toscana
+2024-10-04,Pfizer/BioNTech,TOS,70-79,5,2,7,ITI,ITI1,9,Toscana
 2024-10-04,Pfizer/BioNTech,TOS,80-89,1,8,9,ITI,ITI1,9,Toscana
-2024-10-04,Pfizer/BioNTech,TOS,90+,2,6,8,ITI,ITI1,9,Toscana
+2024-10-04,Pfizer/BioNTech,TOS,90+,2,7,9,ITI,ITI1,9,Toscana
 2024-10-05,Pfizer/BioNTech,CAM,60-69,0,1,1,ITF,ITF3,15,Campania
 2024-10-05,Pfizer/BioNTech,CAM,70-79,1,0,1,ITF,ITF3,15,Campania
+2024-10-05,Pfizer/BioNTech,LAZ,90+,0,2,2,ITI,ITI4,12,Lazio
 2024-10-05,Pfizer/BioNTech,LIG,50-59,1,0,1,ITC,ITC3,7,Liguria
 2024-10-05,Pfizer/BioNTech,LIG,60-69,0,2,2,ITC,ITC3,7,Liguria
 2024-10-05,Pfizer/BioNTech,LIG,70-79,1,1,2,ITC,ITC3,7,Liguria
 2024-10-05,Pfizer/BioNTech,TOS,40-49,1,0,1,ITI,ITI1,9,Toscana
+2024-10-05,Pfizer/BioNTech,TOS,70-79,1,1,2,ITI,ITI1,9,Toscana
 2024-10-05,Pfizer/BioNTech,TOS,80-89,1,0,1,ITI,ITI1,9,Toscana
 2024-10-07,Pfizer Pediatrico,TOS,05-11,0,1,1,ITI,ITI1,9,Toscana
 2024-10-07,Pfizer/BioNTech,CAM,20-29,0,1,1,ITF,ITF3,15,Campania
@@ -292,13 +310,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-07,Pfizer/BioNTech,EMR,70-79,44,45,89,ITH,ITH5,8,Emilia-Romagna
 2024-10-07,Pfizer/BioNTech,EMR,80-89,32,51,83,ITH,ITH5,8,Emilia-Romagna
 2024-10-07,Pfizer/BioNTech,EMR,90+,8,29,37,ITH,ITH5,8,Emilia-Romagna
-2024-10-07,Pfizer/BioNTech,LAZ,20-29,1,0,1,ITI,ITI4,12,Lazio
-2024-10-07,Pfizer/BioNTech,LAZ,30-39,0,1,1,ITI,ITI4,12,Lazio
-2024-10-07,Pfizer/BioNTech,LAZ,40-49,2,3,5,ITI,ITI4,12,Lazio
-2024-10-07,Pfizer/BioNTech,LAZ,50-59,2,2,4,ITI,ITI4,12,Lazio
-2024-10-07,Pfizer/BioNTech,LAZ,60-69,7,11,18,ITI,ITI4,12,Lazio
-2024-10-07,Pfizer/BioNTech,LAZ,70-79,9,9,18,ITI,ITI4,12,Lazio
-2024-10-07,Pfizer/BioNTech,LAZ,80-89,16,12,28,ITI,ITI4,12,Lazio
+2024-10-07,Pfizer/BioNTech,LAZ,20-29,1,1,2,ITI,ITI4,12,Lazio
+2024-10-07,Pfizer/BioNTech,LAZ,30-39,0,2,2,ITI,ITI4,12,Lazio
+2024-10-07,Pfizer/BioNTech,LAZ,40-49,2,5,7,ITI,ITI4,12,Lazio
+2024-10-07,Pfizer/BioNTech,LAZ,50-59,3,4,7,ITI,ITI4,12,Lazio
+2024-10-07,Pfizer/BioNTech,LAZ,60-69,11,15,26,ITI,ITI4,12,Lazio
+2024-10-07,Pfizer/BioNTech,LAZ,70-79,12,13,25,ITI,ITI4,12,Lazio
+2024-10-07,Pfizer/BioNTech,LAZ,80-89,18,13,31,ITI,ITI4,12,Lazio
 2024-10-07,Pfizer/BioNTech,LAZ,90+,4,2,6,ITI,ITI4,12,Lazio
 2024-10-07,Pfizer/BioNTech,LIG,30-39,0,1,1,ITC,ITC3,7,Liguria
 2024-10-07,Pfizer/BioNTech,LIG,50-59,1,1,2,ITC,ITC3,7,Liguria
@@ -328,16 +346,25 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-07,Pfizer/BioNTech,SAR,50-59,2,0,2,ITG,ITG2,20,Sardegna
 2024-10-07,Pfizer/BioNTech,SAR,60-69,1,6,7,ITG,ITG2,20,Sardegna
 2024-10-07,Pfizer/BioNTech,SAR,70-79,6,1,7,ITG,ITG2,20,Sardegna
+2024-10-07,Pfizer/BioNTech,SIC,30-39,1,0,1,ITG,ITG1,19,Sicilia
+2024-10-07,Pfizer/BioNTech,SIC,40-49,3,0,3,ITG,ITG1,19,Sicilia
+2024-10-07,Pfizer/BioNTech,SIC,50-59,2,0,2,ITG,ITG1,19,Sicilia
+2024-10-07,Pfizer/BioNTech,SIC,60-69,3,0,3,ITG,ITG1,19,Sicilia
+2024-10-07,Pfizer/BioNTech,SIC,70-79,1,0,1,ITG,ITG1,19,Sicilia
 2024-10-07,Pfizer/BioNTech,SIC,80-89,0,1,1,ITG,ITG1,19,Sicilia
 2024-10-07,Pfizer/BioNTech,TOS,12-19,0,1,1,ITI,ITI1,9,Toscana
 2024-10-07,Pfizer/BioNTech,TOS,20-29,1,0,1,ITI,ITI1,9,Toscana
 2024-10-07,Pfizer/BioNTech,TOS,30-39,3,5,8,ITI,ITI1,9,Toscana
 2024-10-07,Pfizer/BioNTech,TOS,40-49,3,1,4,ITI,ITI1,9,Toscana
 2024-10-07,Pfizer/BioNTech,TOS,50-59,6,1,7,ITI,ITI1,9,Toscana
-2024-10-07,Pfizer/BioNTech,TOS,60-69,19,19,38,ITI,ITI1,9,Toscana
+2024-10-07,Pfizer/BioNTech,TOS,60-69,19,20,39,ITI,ITI1,9,Toscana
 2024-10-07,Pfizer/BioNTech,TOS,70-79,25,18,43,ITI,ITI1,9,Toscana
-2024-10-07,Pfizer/BioNTech,TOS,80-89,12,12,24,ITI,ITI1,9,Toscana
-2024-10-07,Pfizer/BioNTech,TOS,90+,0,9,9,ITI,ITI1,9,Toscana
+2024-10-07,Pfizer/BioNTech,TOS,80-89,12,14,26,ITI,ITI1,9,Toscana
+2024-10-07,Pfizer/BioNTech,TOS,90+,0,10,10,ITI,ITI1,9,Toscana
+2024-10-08,Pfizer/BioNTech,ABR,40-49,0,2,2,ITF,ITF1,13,Abruzzo
+2024-10-08,Pfizer/BioNTech,ABR,50-59,1,0,1,ITF,ITF1,13,Abruzzo
+2024-10-08,Pfizer/BioNTech,ABR,70-79,1,0,1,ITF,ITF1,13,Abruzzo
+2024-10-08,Pfizer/BioNTech,ABR,80-89,0,4,4,ITF,ITF1,13,Abruzzo
 2024-10-08,Pfizer/BioNTech,CAM,20-29,1,0,1,ITF,ITF3,15,Campania
 2024-10-08,Pfizer/BioNTech,CAM,30-39,2,1,3,ITF,ITF3,15,Campania
 2024-10-08,Pfizer/BioNTech,CAM,40-49,1,0,1,ITF,ITF3,15,Campania
@@ -357,13 +384,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-08,Pfizer/BioNTech,LAZ,20-29,3,1,4,ITI,ITI4,12,Lazio
 2024-10-08,Pfizer/BioNTech,LAZ,30-39,6,9,15,ITI,ITI4,12,Lazio
 2024-10-08,Pfizer/BioNTech,LAZ,40-49,4,1,5,ITI,ITI4,12,Lazio
-2024-10-08,Pfizer/BioNTech,LAZ,50-59,7,6,13,ITI,ITI4,12,Lazio
-2024-10-08,Pfizer/BioNTech,LAZ,60-69,33,21,54,ITI,ITI4,12,Lazio
-2024-10-08,Pfizer/BioNTech,LAZ,70-79,35,34,69,ITI,ITI4,12,Lazio
-2024-10-08,Pfizer/BioNTech,LAZ,80-89,18,15,33,ITI,ITI4,12,Lazio
+2024-10-08,Pfizer/BioNTech,LAZ,50-59,7,7,14,ITI,ITI4,12,Lazio
+2024-10-08,Pfizer/BioNTech,LAZ,60-69,33,22,55,ITI,ITI4,12,Lazio
+2024-10-08,Pfizer/BioNTech,LAZ,70-79,37,38,75,ITI,ITI4,12,Lazio
+2024-10-08,Pfizer/BioNTech,LAZ,80-89,18,17,35,ITI,ITI4,12,Lazio
 2024-10-08,Pfizer/BioNTech,LAZ,90+,1,3,4,ITI,ITI4,12,Lazio
 2024-10-08,Pfizer/BioNTech,LIG,20-29,1,0,1,ITC,ITC3,7,Liguria
-2024-10-08,Pfizer/BioNTech,LIG,30-39,2,1,3,ITC,ITC3,7,Liguria
+2024-10-08,Pfizer/BioNTech,LIG,30-39,2,2,4,ITC,ITC3,7,Liguria
 2024-10-08,Pfizer/BioNTech,LIG,40-49,1,4,5,ITC,ITC3,7,Liguria
 2024-10-08,Pfizer/BioNTech,LIG,50-59,5,6,11,ITC,ITC3,7,Liguria
 2024-10-08,Pfizer/BioNTech,LIG,60-69,14,19,33,ITC,ITC3,7,Liguria
@@ -381,22 +408,25 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-08,Pfizer/BioNTech,SAR,60-69,1,2,3,ITG,ITG2,20,Sardegna
 2024-10-08,Pfizer/BioNTech,SAR,70-79,4,4,8,ITG,ITG2,20,Sardegna
 2024-10-08,Pfizer/BioNTech,SAR,80-89,1,1,2,ITG,ITG2,20,Sardegna
+2024-10-08,Pfizer/BioNTech,SIC,50-59,1,0,1,ITG,ITG1,19,Sicilia
 2024-10-08,Pfizer/BioNTech,SIC,60-69,1,0,1,ITG,ITG1,19,Sicilia
+2024-10-08,Pfizer/BioNTech,SIC,70-79,1,0,1,ITG,ITG1,19,Sicilia
 2024-10-08,Pfizer/BioNTech,SIC,80-89,0,1,1,ITG,ITG1,19,Sicilia
 2024-10-08,Pfizer/BioNTech,TOS,20-29,1,1,2,ITI,ITI1,9,Toscana
-2024-10-08,Pfizer/BioNTech,TOS,30-39,3,2,5,ITI,ITI1,9,Toscana
-2024-10-08,Pfizer/BioNTech,TOS,40-49,3,3,6,ITI,ITI1,9,Toscana
-2024-10-08,Pfizer/BioNTech,TOS,50-59,5,0,5,ITI,ITI1,9,Toscana
-2024-10-08,Pfizer/BioNTech,TOS,60-69,14,7,21,ITI,ITI1,9,Toscana
-2024-10-08,Pfizer/BioNTech,TOS,70-79,16,11,27,ITI,ITI1,9,Toscana
-2024-10-08,Pfizer/BioNTech,TOS,80-89,3,13,16,ITI,ITI1,9,Toscana
-2024-10-08,Pfizer/BioNTech,TOS,90+,0,17,17,ITI,ITI1,9,Toscana
+2024-10-08,Pfizer/BioNTech,TOS,30-39,4,2,6,ITI,ITI1,9,Toscana
+2024-10-08,Pfizer/BioNTech,TOS,40-49,3,5,8,ITI,ITI1,9,Toscana
+2024-10-08,Pfizer/BioNTech,TOS,50-59,8,0,8,ITI,ITI1,9,Toscana
+2024-10-08,Pfizer/BioNTech,TOS,60-69,18,9,27,ITI,ITI1,9,Toscana
+2024-10-08,Pfizer/BioNTech,TOS,70-79,19,18,37,ITI,ITI1,9,Toscana
+2024-10-08,Pfizer/BioNTech,TOS,80-89,9,35,44,ITI,ITI1,9,Toscana
+2024-10-08,Pfizer/BioNTech,TOS,90+,8,32,40,ITI,ITI1,9,Toscana
 2024-10-08,Pfizer/BioNTech,VDA,20-29,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-08,Pfizer/BioNTech,VDA,40-49,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-08,Pfizer/BioNTech,VDA,60-69,5,3,8,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-08,Pfizer/BioNTech,VDA,70-79,4,5,9,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-08,Pfizer/BioNTech,VDA,80-89,3,6,9,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-08,Pfizer/BioNTech,VDA,90+,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-09,Pfizer Pediatrico,LAZ,05-11,1,0,1,ITI,ITI4,12,Lazio
 2024-10-09,Pfizer/BioNTech,CAM,30-39,1,2,3,ITF,ITF3,15,Campania
 2024-10-09,Pfizer/BioNTech,CAM,40-49,1,0,1,ITF,ITF3,15,Campania
 2024-10-09,Pfizer/BioNTech,CAM,50-59,2,0,2,ITF,ITF3,15,Campania
@@ -408,10 +438,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-09,Pfizer/BioNTech,LAZ,30-39,6,4,10,ITI,ITI4,12,Lazio
 2024-10-09,Pfizer/BioNTech,LAZ,40-49,5,4,9,ITI,ITI4,12,Lazio
 2024-10-09,Pfizer/BioNTech,LAZ,50-59,8,12,20,ITI,ITI4,12,Lazio
-2024-10-09,Pfizer/BioNTech,LAZ,60-69,18,18,36,ITI,ITI4,12,Lazio
-2024-10-09,Pfizer/BioNTech,LAZ,70-79,19,11,30,ITI,ITI4,12,Lazio
-2024-10-09,Pfizer/BioNTech,LAZ,80-89,10,14,24,ITI,ITI4,12,Lazio
-2024-10-09,Pfizer/BioNTech,LAZ,90+,0,5,5,ITI,ITI4,12,Lazio
+2024-10-09,Pfizer/BioNTech,LAZ,60-69,21,22,43,ITI,ITI4,12,Lazio
+2024-10-09,Pfizer/BioNTech,LAZ,70-79,23,12,35,ITI,ITI4,12,Lazio
+2024-10-09,Pfizer/BioNTech,LAZ,80-89,16,26,42,ITI,ITI4,12,Lazio
+2024-10-09,Pfizer/BioNTech,LAZ,90+,1,8,9,ITI,ITI4,12,Lazio
 2024-10-09,Pfizer/BioNTech,LIG,20-29,1,1,2,ITC,ITC3,7,Liguria
 2024-10-09,Pfizer/BioNTech,LIG,30-39,0,1,1,ITC,ITC3,7,Liguria
 2024-10-09,Pfizer/BioNTech,LIG,40-49,1,0,1,ITC,ITC3,7,Liguria
@@ -440,30 +470,51 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-09,Pfizer/BioNTech,SAR,60-69,3,2,5,ITG,ITG2,20,Sardegna
 2024-10-09,Pfizer/BioNTech,SAR,70-79,1,0,1,ITG,ITG2,20,Sardegna
 2024-10-09,Pfizer/BioNTech,SAR,80-89,1,2,3,ITG,ITG2,20,Sardegna
+2024-10-09,Pfizer/BioNTech,SIC,30-39,1,0,1,ITG,ITG1,19,Sicilia
+2024-10-09,Pfizer/BioNTech,SIC,40-49,1,0,1,ITG,ITG1,19,Sicilia
+2024-10-09,Pfizer/BioNTech,SIC,50-59,2,0,2,ITG,ITG1,19,Sicilia
+2024-10-09,Pfizer/BioNTech,TOS,20-29,3,1,4,ITI,ITI1,9,Toscana
+2024-10-09,Pfizer/BioNTech,TOS,30-39,2,5,7,ITI,ITI1,9,Toscana
+2024-10-09,Pfizer/BioNTech,TOS,40-49,2,4,6,ITI,ITI1,9,Toscana
+2024-10-09,Pfizer/BioNTech,TOS,50-59,13,12,25,ITI,ITI1,9,Toscana
+2024-10-09,Pfizer/BioNTech,TOS,60-69,26,29,55,ITI,ITI1,9,Toscana
+2024-10-09,Pfizer/BioNTech,TOS,70-79,45,32,77,ITI,ITI1,9,Toscana
+2024-10-09,Pfizer/BioNTech,TOS,80-89,16,27,43,ITI,ITI1,9,Toscana
+2024-10-09,Pfizer/BioNTech,TOS,90+,3,20,23,ITI,ITI1,9,Toscana
 2024-10-09,Pfizer/BioNTech,VDA,30-39,0,3,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-09,Pfizer/BioNTech,VDA,50-59,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-09,Pfizer/BioNTech,VDA,60-69,8,3,11,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-09,Pfizer/BioNTech,VDA,70-79,8,6,14,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-09,Pfizer/BioNTech,VDA,80-89,7,4,11,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-09,Pfizer/BioNTech,VDA,90+,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-10,Pfizer/BioNTech,ABR,80-89,1,0,1,ITF,ITF1,13,Abruzzo
 2024-10-10,Pfizer/BioNTech,CAM,40-49,1,0,1,ITF,ITF3,15,Campania
 2024-10-10,Pfizer/BioNTech,CAM,50-59,1,2,3,ITF,ITF3,15,Campania
 2024-10-10,Pfizer/BioNTech,CAM,60-69,4,2,6,ITF,ITF3,15,Campania
 2024-10-10,Pfizer/BioNTech,CAM,70-79,2,1,3,ITF,ITF3,15,Campania
 2024-10-10,Pfizer/BioNTech,CAM,80-89,2,0,2,ITF,ITF3,15,Campania
 2024-10-10,Pfizer/BioNTech,CAM,90+,0,1,1,ITF,ITF3,15,Campania
-2024-10-10,Pfizer/BioNTech,LIG,50-59,0,4,4,ITC,ITC3,7,Liguria
-2024-10-10,Pfizer/BioNTech,LIG,60-69,1,2,3,ITC,ITC3,7,Liguria
-2024-10-10,Pfizer/BioNTech,LIG,70-79,5,7,12,ITC,ITC3,7,Liguria
+2024-10-10,Pfizer/BioNTech,LAZ,20-29,3,0,3,ITI,ITI4,12,Lazio
+2024-10-10,Pfizer/BioNTech,LAZ,30-39,2,4,6,ITI,ITI4,12,Lazio
+2024-10-10,Pfizer/BioNTech,LAZ,40-49,6,4,10,ITI,ITI4,12,Lazio
+2024-10-10,Pfizer/BioNTech,LAZ,50-59,6,9,15,ITI,ITI4,12,Lazio
+2024-10-10,Pfizer/BioNTech,LAZ,60-69,28,32,60,ITI,ITI4,12,Lazio
+2024-10-10,Pfizer/BioNTech,LAZ,70-79,28,26,54,ITI,ITI4,12,Lazio
+2024-10-10,Pfizer/BioNTech,LAZ,80-89,17,25,42,ITI,ITI4,12,Lazio
+2024-10-10,Pfizer/BioNTech,LAZ,90+,4,10,14,ITI,ITI4,12,Lazio
+2024-10-10,Pfizer/BioNTech,LIG,50-59,0,7,7,ITC,ITC3,7,Liguria
+2024-10-10,Pfizer/BioNTech,LIG,60-69,3,6,9,ITC,ITC3,7,Liguria
+2024-10-10,Pfizer/BioNTech,LIG,70-79,10,8,18,ITC,ITC3,7,Liguria
 2024-10-10,Pfizer/BioNTech,LIG,80-89,2,1,3,ITC,ITC3,7,Liguria
-2024-10-10,Pfizer/BioNTech,PAT,70-79,0,1,1,ITH,ITH2,4,Provincia Autonoma Trento
-2024-10-10,Pfizer/BioNTech,PAT,80-89,1,0,1,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-10,Pfizer/BioNTech,LIG,90+,1,0,1,ITC,ITC3,7,Liguria
+2024-10-10,Pfizer/BioNTech,PAT,70-79,0,3,3,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-10,Pfizer/BioNTech,PAT,80-89,4,1,5,ITH,ITH2,4,Provincia Autonoma Trento
 2024-10-10,Pfizer/BioNTech,PIE,20-29,1,0,1,ITC,ITC1,1,Piemonte
 2024-10-10,Pfizer/BioNTech,PIE,30-39,1,2,3,ITC,ITC1,1,Piemonte
 2024-10-10,Pfizer/BioNTech,PIE,40-49,0,2,2,ITC,ITC1,1,Piemonte
 2024-10-10,Pfizer/BioNTech,PIE,50-59,7,4,11,ITC,ITC1,1,Piemonte
-2024-10-10,Pfizer/BioNTech,PIE,60-69,8,8,16,ITC,ITC1,1,Piemonte
-2024-10-10,Pfizer/BioNTech,PIE,70-79,11,8,19,ITC,ITC1,1,Piemonte
+2024-10-10,Pfizer/BioNTech,PIE,60-69,9,8,17,ITC,ITC1,1,Piemonte
+2024-10-10,Pfizer/BioNTech,PIE,70-79,12,9,21,ITC,ITC1,1,Piemonte
 2024-10-10,Pfizer/BioNTech,PIE,80-89,6,4,10,ITC,ITC1,1,Piemonte
 2024-10-10,Pfizer/BioNTech,SAR,30-39,1,0,1,ITG,ITG2,20,Sardegna
 2024-10-10,Pfizer/BioNTech,SAR,40-49,2,0,2,ITG,ITG2,20,Sardegna
@@ -471,9 +522,484 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-10,Pfizer/BioNTech,SAR,60-69,5,3,8,ITG,ITG2,20,Sardegna
 2024-10-10,Pfizer/BioNTech,SAR,70-79,8,6,14,ITG,ITG2,20,Sardegna
 2024-10-10,Pfizer/BioNTech,SAR,80-89,0,1,1,ITG,ITG2,20,Sardegna
+2024-10-10,Pfizer/BioNTech,SIC,20-29,2,1,3,ITG,ITG1,19,Sicilia
+2024-10-10,Pfizer/BioNTech,SIC,30-39,1,2,3,ITG,ITG1,19,Sicilia
+2024-10-10,Pfizer/BioNTech,SIC,50-59,0,1,1,ITG,ITG1,19,Sicilia
+2024-10-10,Pfizer/BioNTech,SIC,60-69,0,1,1,ITG,ITG1,19,Sicilia
+2024-10-10,Pfizer/BioNTech,SIC,70-79,2,0,2,ITG,ITG1,19,Sicilia
+2024-10-10,Pfizer/BioNTech,SIC,90+,0,1,1,ITG,ITG1,19,Sicilia
+2024-10-10,Pfizer/BioNTech,TOS,20-29,2,0,2,ITI,ITI1,9,Toscana
+2024-10-10,Pfizer/BioNTech,TOS,30-39,5,4,9,ITI,ITI1,9,Toscana
+2024-10-10,Pfizer/BioNTech,TOS,40-49,6,5,11,ITI,ITI1,9,Toscana
+2024-10-10,Pfizer/BioNTech,TOS,50-59,17,21,38,ITI,ITI1,9,Toscana
+2024-10-10,Pfizer/BioNTech,TOS,60-69,60,55,115,ITI,ITI1,9,Toscana
+2024-10-10,Pfizer/BioNTech,TOS,70-79,85,78,163,ITI,ITI1,9,Toscana
+2024-10-10,Pfizer/BioNTech,TOS,80-89,52,89,141,ITI,ITI1,9,Toscana
+2024-10-10,Pfizer/BioNTech,TOS,90+,15,52,67,ITI,ITI1,9,Toscana
 2024-10-10,Pfizer/BioNTech,VDA,40-49,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-10,Pfizer/BioNTech,VDA,50-59,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-10,Pfizer/BioNTech,VDA,60-69,2,1,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2024-10-10,Pfizer/BioNTech,VDA,70-79,3,2,5,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2024-10-10,Pfizer/BioNTech,VDA,80-89,3,4,7,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2024-10-10,Pfizer/BioNTech,VDA,90+,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-10,Pfizer/BioNTech,VDA,70-79,4,6,10,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-10,Pfizer/BioNTech,VDA,80-89,4,5,9,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-10,Pfizer/BioNTech,VDA,90+,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-11,Pfizer/BioNTech,CAM,20-29,0,1,1,ITF,ITF3,15,Campania
+2024-10-11,Pfizer/BioNTech,CAM,30-39,1,1,2,ITF,ITF3,15,Campania
+2024-10-11,Pfizer/BioNTech,CAM,50-59,3,2,5,ITF,ITF3,15,Campania
+2024-10-11,Pfizer/BioNTech,CAM,60-69,5,2,7,ITF,ITF3,15,Campania
+2024-10-11,Pfizer/BioNTech,CAM,70-79,3,2,5,ITF,ITF3,15,Campania
+2024-10-11,Pfizer/BioNTech,CAM,80-89,2,2,4,ITF,ITF3,15,Campania
+2024-10-11,Pfizer/BioNTech,CAM,90+,1,0,1,ITF,ITF3,15,Campania
+2024-10-11,Pfizer/BioNTech,LAZ,12-19,1,0,1,ITI,ITI4,12,Lazio
+2024-10-11,Pfizer/BioNTech,LAZ,20-29,9,9,18,ITI,ITI4,12,Lazio
+2024-10-11,Pfizer/BioNTech,LAZ,30-39,10,11,21,ITI,ITI4,12,Lazio
+2024-10-11,Pfizer/BioNTech,LAZ,40-49,10,7,17,ITI,ITI4,12,Lazio
+2024-10-11,Pfizer/BioNTech,LAZ,50-59,26,20,46,ITI,ITI4,12,Lazio
+2024-10-11,Pfizer/BioNTech,LAZ,60-69,40,27,67,ITI,ITI4,12,Lazio
+2024-10-11,Pfizer/BioNTech,LAZ,70-79,40,33,73,ITI,ITI4,12,Lazio
+2024-10-11,Pfizer/BioNTech,LAZ,80-89,17,22,39,ITI,ITI4,12,Lazio
+2024-10-11,Pfizer/BioNTech,LAZ,90+,4,3,7,ITI,ITI4,12,Lazio
+2024-10-11,Pfizer/BioNTech,LIG,30-39,0,1,1,ITC,ITC3,7,Liguria
+2024-10-11,Pfizer/BioNTech,LIG,40-49,1,0,1,ITC,ITC3,7,Liguria
+2024-10-11,Pfizer/BioNTech,LIG,50-59,6,3,9,ITC,ITC3,7,Liguria
+2024-10-11,Pfizer/BioNTech,LIG,60-69,11,12,23,ITC,ITC3,7,Liguria
+2024-10-11,Pfizer/BioNTech,LIG,70-79,15,14,29,ITC,ITC3,7,Liguria
+2024-10-11,Pfizer/BioNTech,LIG,80-89,11,7,18,ITC,ITC3,7,Liguria
+2024-10-11,Pfizer/BioNTech,LIG,90+,0,3,3,ITC,ITC3,7,Liguria
+2024-10-11,Pfizer/BioNTech,MOL,60-69,0,3,3,ITF,ITF2,14,Molise
+2024-10-11,Pfizer/BioNTech,MOL,70-79,1,0,1,ITF,ITF2,14,Molise
+2024-10-11,Pfizer/BioNTech,MOL,80-89,0,1,1,ITF,ITF2,14,Molise
+2024-10-11,Pfizer/BioNTech,PAT,12-19,1,1,2,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-11,Pfizer/BioNTech,PAT,20-29,0,1,1,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-11,Pfizer/BioNTech,PAT,30-39,2,1,3,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-11,Pfizer/BioNTech,PAT,40-49,4,3,7,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-11,Pfizer/BioNTech,PAT,50-59,4,7,11,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-11,Pfizer/BioNTech,PAT,60-69,13,14,27,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-11,Pfizer/BioNTech,PAT,70-79,10,9,19,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-11,Pfizer/BioNTech,PAT,80-89,2,0,2,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-11,Pfizer/BioNTech,PAT,90+,0,2,2,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-11,Pfizer/BioNTech,PIE,12-19,0,1,1,ITC,ITC1,1,Piemonte
+2024-10-11,Pfizer/BioNTech,PIE,20-29,1,3,4,ITC,ITC1,1,Piemonte
+2024-10-11,Pfizer/BioNTech,PIE,30-39,2,4,6,ITC,ITC1,1,Piemonte
+2024-10-11,Pfizer/BioNTech,PIE,40-49,4,6,10,ITC,ITC1,1,Piemonte
+2024-10-11,Pfizer/BioNTech,PIE,50-59,6,6,12,ITC,ITC1,1,Piemonte
+2024-10-11,Pfizer/BioNTech,PIE,60-69,14,22,36,ITC,ITC1,1,Piemonte
+2024-10-11,Pfizer/BioNTech,PIE,70-79,27,33,60,ITC,ITC1,1,Piemonte
+2024-10-11,Pfizer/BioNTech,PIE,80-89,11,12,23,ITC,ITC1,1,Piemonte
+2024-10-11,Pfizer/BioNTech,PIE,90+,4,2,6,ITC,ITC1,1,Piemonte
+2024-10-11,Pfizer/BioNTech,SAR,30-39,1,0,1,ITG,ITG2,20,Sardegna
+2024-10-11,Pfizer/BioNTech,SAR,40-49,3,1,4,ITG,ITG2,20,Sardegna
+2024-10-11,Pfizer/BioNTech,SAR,50-59,1,2,3,ITG,ITG2,20,Sardegna
+2024-10-11,Pfizer/BioNTech,SAR,60-69,0,1,1,ITG,ITG2,20,Sardegna
+2024-10-11,Pfizer/BioNTech,SAR,70-79,1,6,7,ITG,ITG2,20,Sardegna
+2024-10-11,Pfizer/BioNTech,SAR,80-89,3,0,3,ITG,ITG2,20,Sardegna
+2024-10-11,Pfizer/BioNTech,SIC,50-59,0,1,1,ITG,ITG1,19,Sicilia
+2024-10-11,Pfizer/BioNTech,SIC,60-69,0,2,2,ITG,ITG1,19,Sicilia
+2024-10-11,Pfizer/BioNTech,SIC,70-79,4,0,4,ITG,ITG1,19,Sicilia
+2024-10-11,Pfizer/BioNTech,SIC,80-89,1,1,2,ITG,ITG1,19,Sicilia
+2024-10-11,Pfizer/BioNTech,SIC,90+,1,0,1,ITG,ITG1,19,Sicilia
+2024-10-11,Pfizer/BioNTech,TOS,20-29,1,4,5,ITI,ITI1,9,Toscana
+2024-10-11,Pfizer/BioNTech,TOS,30-39,10,6,16,ITI,ITI1,9,Toscana
+2024-10-11,Pfizer/BioNTech,TOS,40-49,9,9,18,ITI,ITI1,9,Toscana
+2024-10-11,Pfizer/BioNTech,TOS,50-59,16,23,39,ITI,ITI1,9,Toscana
+2024-10-11,Pfizer/BioNTech,TOS,60-69,49,62,111,ITI,ITI1,9,Toscana
+2024-10-11,Pfizer/BioNTech,TOS,70-79,120,106,226,ITI,ITI1,9,Toscana
+2024-10-11,Pfizer/BioNTech,TOS,80-89,65,105,170,ITI,ITI1,9,Toscana
+2024-10-11,Pfizer/BioNTech,TOS,90+,15,43,58,ITI,ITI1,9,Toscana
+2024-10-11,Pfizer/BioNTech,VDA,12-19,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-11,Pfizer/BioNTech,VDA,20-29,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-11,Pfizer/BioNTech,VDA,30-39,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-11,Pfizer/BioNTech,VDA,40-49,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-11,Pfizer/BioNTech,VDA,50-59,5,4,9,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-11,Pfizer/BioNTech,VDA,60-69,4,7,11,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-11,Pfizer/BioNTech,VDA,70-79,15,7,22,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-11,Pfizer/BioNTech,VDA,80-89,13,11,24,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-11,Pfizer/BioNTech,VDA,90+,2,1,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-12,Pfizer Pediatrico,LAZ,00-04,2,0,2,ITI,ITI4,12,Lazio
+2024-10-12,Pfizer Pediatrico,LAZ,05-11,2,0,2,ITI,ITI4,12,Lazio
+2024-10-12,Pfizer/BioNTech,LAZ,12-19,1,0,1,ITI,ITI4,12,Lazio
+2024-10-12,Pfizer/BioNTech,LAZ,20-29,1,2,3,ITI,ITI4,12,Lazio
+2024-10-12,Pfizer/BioNTech,LAZ,30-39,2,6,8,ITI,ITI4,12,Lazio
+2024-10-12,Pfizer/BioNTech,LAZ,40-49,9,8,17,ITI,ITI4,12,Lazio
+2024-10-12,Pfizer/BioNTech,LAZ,50-59,5,5,10,ITI,ITI4,12,Lazio
+2024-10-12,Pfizer/BioNTech,LAZ,60-69,14,8,22,ITI,ITI4,12,Lazio
+2024-10-12,Pfizer/BioNTech,LAZ,70-79,19,15,34,ITI,ITI4,12,Lazio
+2024-10-12,Pfizer/BioNTech,LAZ,80-89,10,13,23,ITI,ITI4,12,Lazio
+2024-10-12,Pfizer/BioNTech,LAZ,90+,2,7,9,ITI,ITI4,12,Lazio
+2024-10-12,Pfizer/BioNTech,LIG,50-59,2,1,3,ITC,ITC3,7,Liguria
+2024-10-12,Pfizer/BioNTech,LIG,60-69,2,1,3,ITC,ITC3,7,Liguria
+2024-10-12,Pfizer/BioNTech,LIG,70-79,1,1,2,ITC,ITC3,7,Liguria
+2024-10-12,Pfizer/BioNTech,LIG,80-89,1,0,1,ITC,ITC3,7,Liguria
+2024-10-12,Pfizer/BioNTech,LIG,90+,0,1,1,ITC,ITC3,7,Liguria
+2024-10-12,Pfizer/BioNTech,PIE,12-19,0,1,1,ITC,ITC1,1,Piemonte
+2024-10-12,Pfizer/BioNTech,PIE,30-39,0,2,2,ITC,ITC1,1,Piemonte
+2024-10-12,Pfizer/BioNTech,PIE,40-49,0,3,3,ITC,ITC1,1,Piemonte
+2024-10-12,Pfizer/BioNTech,PIE,50-59,5,3,8,ITC,ITC1,1,Piemonte
+2024-10-12,Pfizer/BioNTech,PIE,60-69,5,4,9,ITC,ITC1,1,Piemonte
+2024-10-12,Pfizer/BioNTech,PIE,70-79,5,6,11,ITC,ITC1,1,Piemonte
+2024-10-12,Pfizer/BioNTech,PIE,80-89,3,3,6,ITC,ITC1,1,Piemonte
+2024-10-12,Pfizer/BioNTech,TOS,12-19,0,1,1,ITI,ITI1,9,Toscana
+2024-10-12,Pfizer/BioNTech,TOS,20-29,0,1,1,ITI,ITI1,9,Toscana
+2024-10-12,Pfizer/BioNTech,TOS,30-39,1,1,2,ITI,ITI1,9,Toscana
+2024-10-12,Pfizer/BioNTech,TOS,40-49,4,1,5,ITI,ITI1,9,Toscana
+2024-10-12,Pfizer/BioNTech,TOS,50-59,6,8,14,ITI,ITI1,9,Toscana
+2024-10-12,Pfizer/BioNTech,TOS,60-69,18,29,47,ITI,ITI1,9,Toscana
+2024-10-12,Pfizer/BioNTech,TOS,70-79,35,45,80,ITI,ITI1,9,Toscana
+2024-10-12,Pfizer/BioNTech,TOS,80-89,19,26,45,ITI,ITI1,9,Toscana
+2024-10-12,Pfizer/BioNTech,TOS,90+,1,6,7,ITI,ITI1,9,Toscana
+2024-10-12,Pfizer/BioNTech,VDA,20-29,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-12,Pfizer/BioNTech,VDA,50-59,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-12,Pfizer/BioNTech,VDA,60-69,2,3,5,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-12,Pfizer/BioNTech,VDA,70-79,6,1,7,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-12,Pfizer/BioNTech,VDA,80-89,6,4,10,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-13,Pfizer/BioNTech,TOS,50-59,2,2,4,ITI,ITI1,9,Toscana
+2024-10-13,Pfizer/BioNTech,TOS,60-69,2,2,4,ITI,ITI1,9,Toscana
+2024-10-13,Pfizer/BioNTech,TOS,70-79,4,7,11,ITI,ITI1,9,Toscana
+2024-10-13,Pfizer/BioNTech,TOS,80-89,6,13,19,ITI,ITI1,9,Toscana
+2024-10-13,Pfizer/BioNTech,TOS,90+,2,6,8,ITI,ITI1,9,Toscana
+2024-10-14,Pfizer Pediatrico,TOS,05-11,1,0,1,ITI,ITI1,9,Toscana
+2024-10-14,Pfizer/BioNTech,ABR,40-49,0,1,1,ITF,ITF1,13,Abruzzo
+2024-10-14,Pfizer/BioNTech,ABR,60-69,2,2,4,ITF,ITF1,13,Abruzzo
+2024-10-14,Pfizer/BioNTech,ABR,70-79,4,4,8,ITF,ITF1,13,Abruzzo
+2024-10-14,Pfizer/BioNTech,ABR,80-89,1,0,1,ITF,ITF1,13,Abruzzo
+2024-10-14,Pfizer/BioNTech,ABR,90+,0,2,2,ITF,ITF1,13,Abruzzo
+2024-10-14,Pfizer/BioNTech,CAM,20-29,1,0,1,ITF,ITF3,15,Campania
+2024-10-14,Pfizer/BioNTech,CAM,30-39,1,1,2,ITF,ITF3,15,Campania
+2024-10-14,Pfizer/BioNTech,CAM,50-59,4,2,6,ITF,ITF3,15,Campania
+2024-10-14,Pfizer/BioNTech,CAM,60-69,8,2,10,ITF,ITF3,15,Campania
+2024-10-14,Pfizer/BioNTech,CAM,70-79,5,3,8,ITF,ITF3,15,Campania
+2024-10-14,Pfizer/BioNTech,CAM,80-89,2,2,4,ITF,ITF3,15,Campania
+2024-10-14,Pfizer/BioNTech,CAM,90+,1,2,3,ITF,ITF3,15,Campania
+2024-10-14,Pfizer/BioNTech,FVG,50-59,1,1,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-14,Pfizer/BioNTech,FVG,60-69,1,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-14,Pfizer/BioNTech,LAZ,20-29,1,4,5,ITI,ITI4,12,Lazio
+2024-10-14,Pfizer/BioNTech,LAZ,30-39,7,10,17,ITI,ITI4,12,Lazio
+2024-10-14,Pfizer/BioNTech,LAZ,40-49,8,6,14,ITI,ITI4,12,Lazio
+2024-10-14,Pfizer/BioNTech,LAZ,50-59,11,10,21,ITI,ITI4,12,Lazio
+2024-10-14,Pfizer/BioNTech,LAZ,60-69,47,36,83,ITI,ITI4,12,Lazio
+2024-10-14,Pfizer/BioNTech,LAZ,70-79,53,44,97,ITI,ITI4,12,Lazio
+2024-10-14,Pfizer/BioNTech,LAZ,80-89,31,35,66,ITI,ITI4,12,Lazio
+2024-10-14,Pfizer/BioNTech,LAZ,90+,6,12,18,ITI,ITI4,12,Lazio
+2024-10-14,Pfizer/BioNTech,LIG,12-19,1,0,1,ITC,ITC3,7,Liguria
+2024-10-14,Pfizer/BioNTech,LIG,20-29,1,2,3,ITC,ITC3,7,Liguria
+2024-10-14,Pfizer/BioNTech,LIG,30-39,2,3,5,ITC,ITC3,7,Liguria
+2024-10-14,Pfizer/BioNTech,LIG,40-49,3,1,4,ITC,ITC3,7,Liguria
+2024-10-14,Pfizer/BioNTech,LIG,50-59,5,8,13,ITC,ITC3,7,Liguria
+2024-10-14,Pfizer/BioNTech,LIG,60-69,28,25,53,ITC,ITC3,7,Liguria
+2024-10-14,Pfizer/BioNTech,LIG,70-79,34,29,63,ITC,ITC3,7,Liguria
+2024-10-14,Pfizer/BioNTech,LIG,80-89,17,16,33,ITC,ITC3,7,Liguria
+2024-10-14,Pfizer/BioNTech,LIG,90+,1,2,3,ITC,ITC3,7,Liguria
+2024-10-14,Pfizer/BioNTech,MOL,12-19,0,2,2,ITF,ITF2,14,Molise
+2024-10-14,Pfizer/BioNTech,MOL,40-49,0,1,1,ITF,ITF2,14,Molise
+2024-10-14,Pfizer/BioNTech,MOL,50-59,1,0,1,ITF,ITF2,14,Molise
+2024-10-14,Pfizer/BioNTech,PAB,30-39,1,0,1,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-14,Pfizer/BioNTech,PAB,40-49,0,1,1,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-14,Pfizer/BioNTech,PAB,50-59,2,0,2,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-14,Pfizer/BioNTech,PAB,60-69,1,0,1,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-14,Pfizer/BioNTech,PAT,20-29,2,0,2,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-14,Pfizer/BioNTech,PAT,40-49,1,0,1,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-14,Pfizer/BioNTech,PAT,50-59,3,0,3,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-14,Pfizer/BioNTech,PAT,60-69,4,4,8,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-14,Pfizer/BioNTech,PAT,70-79,4,3,7,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-14,Pfizer/BioNTech,PAT,80-89,4,5,9,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-14,Pfizer/BioNTech,PAT,90+,0,2,2,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-14,Pfizer/BioNTech,PIE,12-19,1,1,2,ITC,ITC1,1,Piemonte
+2024-10-14,Pfizer/BioNTech,PIE,20-29,3,1,4,ITC,ITC1,1,Piemonte
+2024-10-14,Pfizer/BioNTech,PIE,30-39,6,2,8,ITC,ITC1,1,Piemonte
+2024-10-14,Pfizer/BioNTech,PIE,40-49,2,7,9,ITC,ITC1,1,Piemonte
+2024-10-14,Pfizer/BioNTech,PIE,50-59,11,7,18,ITC,ITC1,1,Piemonte
+2024-10-14,Pfizer/BioNTech,PIE,60-69,31,36,67,ITC,ITC1,1,Piemonte
+2024-10-14,Pfizer/BioNTech,PIE,70-79,37,29,66,ITC,ITC1,1,Piemonte
+2024-10-14,Pfizer/BioNTech,PIE,80-89,12,13,25,ITC,ITC1,1,Piemonte
+2024-10-14,Pfizer/BioNTech,PIE,90+,1,1,2,ITC,ITC1,1,Piemonte
+2024-10-14,Pfizer/BioNTech,SAR,30-39,1,0,1,ITG,ITG2,20,Sardegna
+2024-10-14,Pfizer/BioNTech,SAR,40-49,1,0,1,ITG,ITG2,20,Sardegna
+2024-10-14,Pfizer/BioNTech,SAR,50-59,4,1,5,ITG,ITG2,20,Sardegna
+2024-10-14,Pfizer/BioNTech,SAR,60-69,5,5,10,ITG,ITG2,20,Sardegna
+2024-10-14,Pfizer/BioNTech,SAR,70-79,6,6,12,ITG,ITG2,20,Sardegna
+2024-10-14,Pfizer/BioNTech,SAR,80-89,6,2,8,ITG,ITG2,20,Sardegna
+2024-10-14,Pfizer/BioNTech,SIC,20-29,1,1,2,ITG,ITG1,19,Sicilia
+2024-10-14,Pfizer/BioNTech,SIC,30-39,1,0,1,ITG,ITG1,19,Sicilia
+2024-10-14,Pfizer/BioNTech,SIC,50-59,0,2,2,ITG,ITG1,19,Sicilia
+2024-10-14,Pfizer/BioNTech,SIC,60-69,2,3,5,ITG,ITG1,19,Sicilia
+2024-10-14,Pfizer/BioNTech,SIC,70-79,1,2,3,ITG,ITG1,19,Sicilia
+2024-10-14,Pfizer/BioNTech,TOS,20-29,2,1,3,ITI,ITI1,9,Toscana
+2024-10-14,Pfizer/BioNTech,TOS,30-39,3,9,12,ITI,ITI1,9,Toscana
+2024-10-14,Pfizer/BioNTech,TOS,40-49,7,12,19,ITI,ITI1,9,Toscana
+2024-10-14,Pfizer/BioNTech,TOS,50-59,22,18,40,ITI,ITI1,9,Toscana
+2024-10-14,Pfizer/BioNTech,TOS,60-69,92,95,187,ITI,ITI1,9,Toscana
+2024-10-14,Pfizer/BioNTech,TOS,70-79,139,139,278,ITI,ITI1,9,Toscana
+2024-10-14,Pfizer/BioNTech,TOS,80-89,107,122,229,ITI,ITI1,9,Toscana
+2024-10-14,Pfizer/BioNTech,TOS,90+,9,36,45,ITI,ITI1,9,Toscana
+2024-10-14,Pfizer/BioNTech,VDA,40-49,3,0,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-14,Pfizer/BioNTech,VDA,50-59,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-14,Pfizer/BioNTech,VDA,60-69,7,6,13,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-14,Pfizer/BioNTech,VDA,70-79,12,15,27,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-14,Pfizer/BioNTech,VDA,80-89,7,7,14,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-14,Pfizer/BioNTech,VDA,90+,0,4,4,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-15,Pfizer Pediatrico,LAZ,05-11,1,1,2,ITI,ITI4,12,Lazio
+2024-10-15,Pfizer Pediatrico,PAB,05-11,2,0,2,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-15,Pfizer/BioNTech,ABR,30-39,1,2,3,ITF,ITF1,13,Abruzzo
+2024-10-15,Pfizer/BioNTech,ABR,40-49,0,2,2,ITF,ITF1,13,Abruzzo
+2024-10-15,Pfizer/BioNTech,ABR,50-59,2,2,4,ITF,ITF1,13,Abruzzo
+2024-10-15,Pfizer/BioNTech,ABR,60-69,6,4,10,ITF,ITF1,13,Abruzzo
+2024-10-15,Pfizer/BioNTech,ABR,70-79,7,4,11,ITF,ITF1,13,Abruzzo
+2024-10-15,Pfizer/BioNTech,ABR,80-89,4,2,6,ITF,ITF1,13,Abruzzo
+2024-10-15,Pfizer/BioNTech,CAM,30-39,0,1,1,ITF,ITF3,15,Campania
+2024-10-15,Pfizer/BioNTech,CAM,40-49,3,4,7,ITF,ITF3,15,Campania
+2024-10-15,Pfizer/BioNTech,CAM,50-59,4,4,8,ITF,ITF3,15,Campania
+2024-10-15,Pfizer/BioNTech,CAM,60-69,12,7,19,ITF,ITF3,15,Campania
+2024-10-15,Pfizer/BioNTech,CAM,70-79,8,3,11,ITF,ITF3,15,Campania
+2024-10-15,Pfizer/BioNTech,CAM,80-89,2,2,4,ITF,ITF3,15,Campania
+2024-10-15,Pfizer/BioNTech,CAM,90+,1,2,3,ITF,ITF3,15,Campania
+2024-10-15,Pfizer/BioNTech,FVG,40-49,1,1,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-15,Pfizer/BioNTech,FVG,50-59,2,4,6,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-15,Pfizer/BioNTech,FVG,60-69,1,2,3,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-15,Pfizer/BioNTech,FVG,70-79,4,3,7,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-15,Pfizer/BioNTech,FVG,80-89,3,1,4,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-15,Pfizer/BioNTech,LAZ,12-19,1,0,1,ITI,ITI4,12,Lazio
+2024-10-15,Pfizer/BioNTech,LAZ,20-29,3,2,5,ITI,ITI4,12,Lazio
+2024-10-15,Pfizer/BioNTech,LAZ,30-39,10,11,21,ITI,ITI4,12,Lazio
+2024-10-15,Pfizer/BioNTech,LAZ,40-49,8,8,16,ITI,ITI4,12,Lazio
+2024-10-15,Pfizer/BioNTech,LAZ,50-59,8,14,22,ITI,ITI4,12,Lazio
+2024-10-15,Pfizer/BioNTech,LAZ,60-69,40,52,92,ITI,ITI4,12,Lazio
+2024-10-15,Pfizer/BioNTech,LAZ,70-79,75,54,129,ITI,ITI4,12,Lazio
+2024-10-15,Pfizer/BioNTech,LAZ,80-89,36,38,74,ITI,ITI4,12,Lazio
+2024-10-15,Pfizer/BioNTech,LAZ,90+,8,10,18,ITI,ITI4,12,Lazio
+2024-10-15,Pfizer/BioNTech,LIG,20-29,3,3,6,ITC,ITC3,7,Liguria
+2024-10-15,Pfizer/BioNTech,LIG,30-39,4,11,15,ITC,ITC3,7,Liguria
+2024-10-15,Pfizer/BioNTech,LIG,40-49,11,5,16,ITC,ITC3,7,Liguria
+2024-10-15,Pfizer/BioNTech,LIG,50-59,17,15,32,ITC,ITC3,7,Liguria
+2024-10-15,Pfizer/BioNTech,LIG,60-69,54,39,93,ITC,ITC3,7,Liguria
+2024-10-15,Pfizer/BioNTech,LIG,70-79,73,54,127,ITC,ITC3,7,Liguria
+2024-10-15,Pfizer/BioNTech,LIG,80-89,25,24,49,ITC,ITC3,7,Liguria
+2024-10-15,Pfizer/BioNTech,LIG,90+,4,7,11,ITC,ITC3,7,Liguria
+2024-10-15,Pfizer/BioNTech,PAB,12-19,1,0,1,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-15,Pfizer/BioNTech,PAB,20-29,1,3,4,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-15,Pfizer/BioNTech,PAB,30-39,12,6,18,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-15,Pfizer/BioNTech,PAB,40-49,14,15,29,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-15,Pfizer/BioNTech,PAB,50-59,24,24,48,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-15,Pfizer/BioNTech,PAB,60-69,38,42,80,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-15,Pfizer/BioNTech,PAB,70-79,64,42,106,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-15,Pfizer/BioNTech,PAB,80-89,29,25,54,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-15,Pfizer/BioNTech,PAB,90+,3,3,6,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-15,Pfizer/BioNTech,PAT,20-29,0,2,2,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-15,Pfizer/BioNTech,PAT,30-39,11,9,20,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-15,Pfizer/BioNTech,PAT,40-49,14,5,19,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-15,Pfizer/BioNTech,PAT,50-59,11,12,23,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-15,Pfizer/BioNTech,PAT,60-69,34,25,59,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-15,Pfizer/BioNTech,PAT,70-79,32,21,53,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-15,Pfizer/BioNTech,PAT,80-89,24,19,43,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-15,Pfizer/BioNTech,PAT,90+,5,2,7,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-15,Pfizer/BioNTech,PIE,12-19,2,0,2,ITC,ITC1,1,Piemonte
+2024-10-15,Pfizer/BioNTech,PIE,20-29,3,0,3,ITC,ITC1,1,Piemonte
+2024-10-15,Pfizer/BioNTech,PIE,30-39,9,6,15,ITC,ITC1,1,Piemonte
+2024-10-15,Pfizer/BioNTech,PIE,40-49,7,6,13,ITC,ITC1,1,Piemonte
+2024-10-15,Pfizer/BioNTech,PIE,50-59,17,19,36,ITC,ITC1,1,Piemonte
+2024-10-15,Pfizer/BioNTech,PIE,60-69,43,35,78,ITC,ITC1,1,Piemonte
+2024-10-15,Pfizer/BioNTech,PIE,70-79,39,38,77,ITC,ITC1,1,Piemonte
+2024-10-15,Pfizer/BioNTech,PIE,80-89,15,12,27,ITC,ITC1,1,Piemonte
+2024-10-15,Pfizer/BioNTech,PIE,90+,3,1,4,ITC,ITC1,1,Piemonte
+2024-10-15,Pfizer/BioNTech,SAR,20-29,1,1,2,ITG,ITG2,20,Sardegna
+2024-10-15,Pfizer/BioNTech,SAR,30-39,2,1,3,ITG,ITG2,20,Sardegna
+2024-10-15,Pfizer/BioNTech,SAR,40-49,2,4,6,ITG,ITG2,20,Sardegna
+2024-10-15,Pfizer/BioNTech,SAR,50-59,0,1,1,ITG,ITG2,20,Sardegna
+2024-10-15,Pfizer/BioNTech,SAR,60-69,3,5,8,ITG,ITG2,20,Sardegna
+2024-10-15,Pfizer/BioNTech,SAR,70-79,4,5,9,ITG,ITG2,20,Sardegna
+2024-10-15,Pfizer/BioNTech,SAR,80-89,5,11,16,ITG,ITG2,20,Sardegna
+2024-10-15,Pfizer/BioNTech,SAR,90+,1,4,5,ITG,ITG2,20,Sardegna
+2024-10-15,Pfizer/BioNTech,SIC,20-29,1,0,1,ITG,ITG1,19,Sicilia
+2024-10-15,Pfizer/BioNTech,SIC,30-39,1,0,1,ITG,ITG1,19,Sicilia
+2024-10-15,Pfizer/BioNTech,SIC,50-59,1,0,1,ITG,ITG1,19,Sicilia
+2024-10-15,Pfizer/BioNTech,SIC,60-69,2,3,5,ITG,ITG1,19,Sicilia
+2024-10-15,Pfizer/BioNTech,SIC,70-79,2,2,4,ITG,ITG1,19,Sicilia
+2024-10-15,Pfizer/BioNTech,SIC,80-89,2,0,2,ITG,ITG1,19,Sicilia
+2024-10-15,Pfizer/BioNTech,TOS,12-19,1,1,2,ITI,ITI1,9,Toscana
+2024-10-15,Pfizer/BioNTech,TOS,20-29,6,2,8,ITI,ITI1,9,Toscana
+2024-10-15,Pfizer/BioNTech,TOS,30-39,8,14,22,ITI,ITI1,9,Toscana
+2024-10-15,Pfizer/BioNTech,TOS,40-49,9,13,22,ITI,ITI1,9,Toscana
+2024-10-15,Pfizer/BioNTech,TOS,50-59,19,32,51,ITI,ITI1,9,Toscana
+2024-10-15,Pfizer/BioNTech,TOS,60-69,90,102,192,ITI,ITI1,9,Toscana
+2024-10-15,Pfizer/BioNTech,TOS,70-79,198,217,415,ITI,ITI1,9,Toscana
+2024-10-15,Pfizer/BioNTech,TOS,80-89,121,156,277,ITI,ITI1,9,Toscana
+2024-10-15,Pfizer/BioNTech,TOS,90+,20,53,73,ITI,ITI1,9,Toscana
+2024-10-15,Pfizer/BioNTech,UMB,60-69,1,0,1,ITI,ITI2,10,Umbria
+2024-10-15,Pfizer/BioNTech,UMB,70-79,0,1,1,ITI,ITI2,10,Umbria
+2024-10-15,Pfizer/BioNTech,UMB,80-89,1,0,1,ITI,ITI2,10,Umbria
+2024-10-15,Pfizer/BioNTech,VDA,30-39,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-15,Pfizer/BioNTech,VDA,60-69,4,4,8,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-15,Pfizer/BioNTech,VDA,70-79,11,7,18,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-15,Pfizer/BioNTech,VDA,80-89,4,3,7,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-15,Pfizer/BioNTech,VDA,90+,0,3,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-16,Pfizer/BioNTech,ABR,40-49,0,1,1,ITF,ITF1,13,Abruzzo
+2024-10-16,Pfizer/BioNTech,ABR,50-59,3,3,6,ITF,ITF1,13,Abruzzo
+2024-10-16,Pfizer/BioNTech,ABR,60-69,4,3,7,ITF,ITF1,13,Abruzzo
+2024-10-16,Pfizer/BioNTech,ABR,70-79,8,10,18,ITF,ITF1,13,Abruzzo
+2024-10-16,Pfizer/BioNTech,ABR,80-89,4,2,6,ITF,ITF1,13,Abruzzo
+2024-10-16,Pfizer/BioNTech,ABR,90+,1,2,3,ITF,ITF1,13,Abruzzo
+2024-10-16,Pfizer/BioNTech,CAM,30-39,1,0,1,ITF,ITF3,15,Campania
+2024-10-16,Pfizer/BioNTech,CAM,50-59,0,3,3,ITF,ITF3,15,Campania
+2024-10-16,Pfizer/BioNTech,CAM,60-69,6,4,10,ITF,ITF3,15,Campania
+2024-10-16,Pfizer/BioNTech,CAM,70-79,7,5,12,ITF,ITF3,15,Campania
+2024-10-16,Pfizer/BioNTech,CAM,80-89,2,2,4,ITF,ITF3,15,Campania
+2024-10-16,Pfizer/BioNTech,CAM,90+,0,1,1,ITF,ITF3,15,Campania
+2024-10-16,Pfizer/BioNTech,FVG,30-39,0,1,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-16,Pfizer/BioNTech,FVG,40-49,0,1,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-16,Pfizer/BioNTech,FVG,50-59,0,2,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-16,Pfizer/BioNTech,FVG,60-69,2,3,5,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-16,Pfizer/BioNTech,FVG,70-79,3,2,5,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-16,Pfizer/BioNTech,FVG,80-89,0,1,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-16,Pfizer/BioNTech,LAZ,20-29,6,2,8,ITI,ITI4,12,Lazio
+2024-10-16,Pfizer/BioNTech,LAZ,30-39,3,5,8,ITI,ITI4,12,Lazio
+2024-10-16,Pfizer/BioNTech,LAZ,40-49,9,18,27,ITI,ITI4,12,Lazio
+2024-10-16,Pfizer/BioNTech,LAZ,50-59,22,22,44,ITI,ITI4,12,Lazio
+2024-10-16,Pfizer/BioNTech,LAZ,60-69,55,52,107,ITI,ITI4,12,Lazio
+2024-10-16,Pfizer/BioNTech,LAZ,70-79,73,70,143,ITI,ITI4,12,Lazio
+2024-10-16,Pfizer/BioNTech,LAZ,80-89,56,60,116,ITI,ITI4,12,Lazio
+2024-10-16,Pfizer/BioNTech,LAZ,90+,15,17,32,ITI,ITI4,12,Lazio
+2024-10-16,Pfizer/BioNTech,LIG,12-19,1,0,1,ITC,ITC3,7,Liguria
+2024-10-16,Pfizer/BioNTech,LIG,30-39,5,4,9,ITC,ITC3,7,Liguria
+2024-10-16,Pfizer/BioNTech,LIG,40-49,7,12,19,ITC,ITC3,7,Liguria
+2024-10-16,Pfizer/BioNTech,LIG,50-59,13,15,28,ITC,ITC3,7,Liguria
+2024-10-16,Pfizer/BioNTech,LIG,60-69,42,44,86,ITC,ITC3,7,Liguria
+2024-10-16,Pfizer/BioNTech,LIG,70-79,75,55,130,ITC,ITC3,7,Liguria
+2024-10-16,Pfizer/BioNTech,LIG,80-89,37,35,72,ITC,ITC3,7,Liguria
+2024-10-16,Pfizer/BioNTech,LIG,90+,11,7,18,ITC,ITC3,7,Liguria
+2024-10-16,Pfizer/BioNTech,PAB,20-29,3,4,7,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-16,Pfizer/BioNTech,PAB,30-39,8,12,20,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-16,Pfizer/BioNTech,PAB,40-49,17,15,32,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-16,Pfizer/BioNTech,PAB,50-59,36,20,56,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-16,Pfizer/BioNTech,PAB,60-69,48,45,93,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-16,Pfizer/BioNTech,PAB,70-79,56,34,90,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-16,Pfizer/BioNTech,PAB,80-89,32,22,54,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-16,Pfizer/BioNTech,PAB,90+,5,6,11,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-16,Pfizer/BioNTech,PAT,20-29,2,7,9,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-16,Pfizer/BioNTech,PAT,30-39,5,8,13,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-16,Pfizer/BioNTech,PAT,40-49,10,6,16,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-16,Pfizer/BioNTech,PAT,50-59,16,13,29,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-16,Pfizer/BioNTech,PAT,60-69,45,36,81,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-16,Pfizer/BioNTech,PAT,70-79,41,31,72,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-16,Pfizer/BioNTech,PAT,80-89,28,22,50,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-16,Pfizer/BioNTech,PAT,90+,6,4,10,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-16,Pfizer/BioNTech,PIE,12-19,2,1,3,ITC,ITC1,1,Piemonte
+2024-10-16,Pfizer/BioNTech,PIE,20-29,1,2,3,ITC,ITC1,1,Piemonte
+2024-10-16,Pfizer/BioNTech,PIE,30-39,3,6,9,ITC,ITC1,1,Piemonte
+2024-10-16,Pfizer/BioNTech,PIE,40-49,13,14,27,ITC,ITC1,1,Piemonte
+2024-10-16,Pfizer/BioNTech,PIE,50-59,8,15,23,ITC,ITC1,1,Piemonte
+2024-10-16,Pfizer/BioNTech,PIE,60-69,46,28,74,ITC,ITC1,1,Piemonte
+2024-10-16,Pfizer/BioNTech,PIE,70-79,62,42,104,ITC,ITC1,1,Piemonte
+2024-10-16,Pfizer/BioNTech,PIE,80-89,26,13,39,ITC,ITC1,1,Piemonte
+2024-10-16,Pfizer/BioNTech,PIE,90+,3,3,6,ITC,ITC1,1,Piemonte
+2024-10-16,Pfizer/BioNTech,SAR,30-39,1,0,1,ITG,ITG2,20,Sardegna
+2024-10-16,Pfizer/BioNTech,SAR,60-69,2,2,4,ITG,ITG2,20,Sardegna
+2024-10-16,Pfizer/BioNTech,SAR,70-79,5,1,6,ITG,ITG2,20,Sardegna
+2024-10-16,Pfizer/BioNTech,SAR,80-89,1,1,2,ITG,ITG2,20,Sardegna
+2024-10-16,Pfizer/BioNTech,SIC,30-39,2,1,3,ITG,ITG1,19,Sicilia
+2024-10-16,Pfizer/BioNTech,SIC,40-49,0,1,1,ITG,ITG1,19,Sicilia
+2024-10-16,Pfizer/BioNTech,SIC,50-59,1,0,1,ITG,ITG1,19,Sicilia
+2024-10-16,Pfizer/BioNTech,SIC,70-79,1,0,1,ITG,ITG1,19,Sicilia
+2024-10-16,Pfizer/BioNTech,TOS,12-19,1,1,2,ITI,ITI1,9,Toscana
+2024-10-16,Pfizer/BioNTech,TOS,20-29,2,6,8,ITI,ITI1,9,Toscana
+2024-10-16,Pfizer/BioNTech,TOS,30-39,15,15,30,ITI,ITI1,9,Toscana
+2024-10-16,Pfizer/BioNTech,TOS,40-49,7,18,25,ITI,ITI1,9,Toscana
+2024-10-16,Pfizer/BioNTech,TOS,50-59,22,22,44,ITI,ITI1,9,Toscana
+2024-10-16,Pfizer/BioNTech,TOS,60-69,100,124,224,ITI,ITI1,9,Toscana
+2024-10-16,Pfizer/BioNTech,TOS,70-79,216,227,443,ITI,ITI1,9,Toscana
+2024-10-16,Pfizer/BioNTech,TOS,80-89,137,165,302,ITI,ITI1,9,Toscana
+2024-10-16,Pfizer/BioNTech,TOS,90+,26,50,76,ITI,ITI1,9,Toscana
+2024-10-16,Pfizer/BioNTech,UMB,40-49,1,1,2,ITI,ITI2,10,Umbria
+2024-10-16,Pfizer/BioNTech,UMB,50-59,0,1,1,ITI,ITI2,10,Umbria
+2024-10-16,Pfizer/BioNTech,UMB,60-69,2,0,2,ITI,ITI2,10,Umbria
+2024-10-16,Pfizer/BioNTech,UMB,70-79,0,1,1,ITI,ITI2,10,Umbria
+2024-10-16,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
+2024-10-16,Pfizer/BioNTech,VDA,20-29,2,0,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-16,Pfizer/BioNTech,VDA,30-39,3,1,4,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-16,Pfizer/BioNTech,VDA,40-49,6,3,9,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-16,Pfizer/BioNTech,VDA,50-59,4,5,9,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-16,Pfizer/BioNTech,VDA,60-69,26,23,49,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-16,Pfizer/BioNTech,VDA,70-79,32,31,63,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-16,Pfizer/BioNTech,VDA,80-89,23,29,52,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-16,Pfizer/BioNTech,VDA,90+,3,7,10,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-17,Pfizer/BioNTech,CAM,30-39,2,1,3,ITF,ITF3,15,Campania
+2024-10-17,Pfizer/BioNTech,CAM,40-49,1,1,2,ITF,ITF3,15,Campania
+2024-10-17,Pfizer/BioNTech,CAM,50-59,5,4,9,ITF,ITF3,15,Campania
+2024-10-17,Pfizer/BioNTech,CAM,60-69,12,11,23,ITF,ITF3,15,Campania
+2024-10-17,Pfizer/BioNTech,CAM,70-79,6,3,9,ITF,ITF3,15,Campania
+2024-10-17,Pfizer/BioNTech,CAM,80-89,4,4,8,ITF,ITF3,15,Campania
+2024-10-17,Pfizer/BioNTech,CAM,90+,0,1,1,ITF,ITF3,15,Campania
+2024-10-17,Pfizer/BioNTech,FVG,40-49,0,3,3,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-17,Pfizer/BioNTech,FVG,50-59,4,2,6,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-17,Pfizer/BioNTech,FVG,60-69,10,6,16,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-17,Pfizer/BioNTech,FVG,70-79,5,7,12,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-17,Pfizer/BioNTech,FVG,80-89,7,2,9,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-17,Pfizer/BioNTech,FVG,90+,0,1,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2024-10-17,Pfizer/BioNTech,LAZ,20-29,1,4,5,ITI,ITI4,12,Lazio
+2024-10-17,Pfizer/BioNTech,LAZ,30-39,7,6,13,ITI,ITI4,12,Lazio
+2024-10-17,Pfizer/BioNTech,LAZ,40-49,5,5,10,ITI,ITI4,12,Lazio
+2024-10-17,Pfizer/BioNTech,LAZ,50-59,10,14,24,ITI,ITI4,12,Lazio
+2024-10-17,Pfizer/BioNTech,LAZ,60-69,43,29,72,ITI,ITI4,12,Lazio
+2024-10-17,Pfizer/BioNTech,LAZ,70-79,70,66,136,ITI,ITI4,12,Lazio
+2024-10-17,Pfizer/BioNTech,LAZ,80-89,39,38,77,ITI,ITI4,12,Lazio
+2024-10-17,Pfizer/BioNTech,LAZ,90+,3,14,17,ITI,ITI4,12,Lazio
+2024-10-17,Pfizer/BioNTech,LIG,20-29,3,1,4,ITC,ITC3,7,Liguria
+2024-10-17,Pfizer/BioNTech,LIG,30-39,5,2,7,ITC,ITC3,7,Liguria
+2024-10-17,Pfizer/BioNTech,LIG,40-49,2,3,5,ITC,ITC3,7,Liguria
+2024-10-17,Pfizer/BioNTech,LIG,50-59,9,11,20,ITC,ITC3,7,Liguria
+2024-10-17,Pfizer/BioNTech,LIG,60-69,35,26,61,ITC,ITC3,7,Liguria
+2024-10-17,Pfizer/BioNTech,LIG,70-79,37,35,72,ITC,ITC3,7,Liguria
+2024-10-17,Pfizer/BioNTech,LIG,80-89,22,12,34,ITC,ITC3,7,Liguria
+2024-10-17,Pfizer/BioNTech,LIG,90+,0,2,2,ITC,ITC3,7,Liguria
+2024-10-17,Pfizer/BioNTech,PAB,12-19,1,0,1,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-17,Pfizer/BioNTech,PAB,20-29,0,2,2,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-17,Pfizer/BioNTech,PAB,30-39,5,5,10,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-17,Pfizer/BioNTech,PAB,40-49,14,16,30,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-17,Pfizer/BioNTech,PAB,50-59,21,16,37,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-17,Pfizer/BioNTech,PAB,60-69,36,38,74,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-17,Pfizer/BioNTech,PAB,70-79,70,53,123,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-17,Pfizer/BioNTech,PAB,80-89,32,30,62,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-17,Pfizer/BioNTech,PAB,90+,2,5,7,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2024-10-17,Pfizer/BioNTech,PAT,20-29,1,2,3,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-17,Pfizer/BioNTech,PAT,30-39,6,4,10,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-17,Pfizer/BioNTech,PAT,40-49,5,5,10,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-17,Pfizer/BioNTech,PAT,50-59,11,12,23,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-17,Pfizer/BioNTech,PAT,60-69,24,10,34,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-17,Pfizer/BioNTech,PAT,70-79,17,18,35,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-17,Pfizer/BioNTech,PAT,80-89,13,16,29,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-17,Pfizer/BioNTech,PAT,90+,2,3,5,ITH,ITH2,4,Provincia Autonoma Trento
+2024-10-17,Pfizer/BioNTech,PIE,12-19,1,1,2,ITC,ITC1,1,Piemonte
+2024-10-17,Pfizer/BioNTech,PIE,20-29,1,3,4,ITC,ITC1,1,Piemonte
+2024-10-17,Pfizer/BioNTech,PIE,30-39,4,12,16,ITC,ITC1,1,Piemonte
+2024-10-17,Pfizer/BioNTech,PIE,40-49,15,12,27,ITC,ITC1,1,Piemonte
+2024-10-17,Pfizer/BioNTech,PIE,50-59,22,25,47,ITC,ITC1,1,Piemonte
+2024-10-17,Pfizer/BioNTech,PIE,60-69,58,58,116,ITC,ITC1,1,Piemonte
+2024-10-17,Pfizer/BioNTech,PIE,70-79,53,44,97,ITC,ITC1,1,Piemonte
+2024-10-17,Pfizer/BioNTech,PIE,80-89,32,16,48,ITC,ITC1,1,Piemonte
+2024-10-17,Pfizer/BioNTech,PIE,90+,1,1,2,ITC,ITC1,1,Piemonte
+2024-10-17,Pfizer/BioNTech,SAR,12-19,1,0,1,ITG,ITG2,20,Sardegna
+2024-10-17,Pfizer/BioNTech,SAR,30-39,0,3,3,ITG,ITG2,20,Sardegna
+2024-10-17,Pfizer/BioNTech,SAR,40-49,3,2,5,ITG,ITG2,20,Sardegna
+2024-10-17,Pfizer/BioNTech,SAR,50-59,2,2,4,ITG,ITG2,20,Sardegna
+2024-10-17,Pfizer/BioNTech,SAR,60-69,5,6,11,ITG,ITG2,20,Sardegna
+2024-10-17,Pfizer/BioNTech,SAR,70-79,12,17,29,ITG,ITG2,20,Sardegna
+2024-10-17,Pfizer/BioNTech,SAR,80-89,8,12,20,ITG,ITG2,20,Sardegna
+2024-10-17,Pfizer/BioNTech,SAR,90+,0,5,5,ITG,ITG2,20,Sardegna
+2024-10-17,Pfizer/BioNTech,TOS,12-19,0,1,1,ITI,ITI1,9,Toscana
+2024-10-17,Pfizer/BioNTech,TOS,20-29,2,7,9,ITI,ITI1,9,Toscana
+2024-10-17,Pfizer/BioNTech,TOS,30-39,15,19,34,ITI,ITI1,9,Toscana
+2024-10-17,Pfizer/BioNTech,TOS,40-49,12,19,31,ITI,ITI1,9,Toscana
+2024-10-17,Pfizer/BioNTech,TOS,50-59,32,33,65,ITI,ITI1,9,Toscana
+2024-10-17,Pfizer/BioNTech,TOS,60-69,163,145,308,ITI,ITI1,9,Toscana
+2024-10-17,Pfizer/BioNTech,TOS,70-79,297,276,573,ITI,ITI1,9,Toscana
+2024-10-17,Pfizer/BioNTech,TOS,80-89,202,218,420,ITI,ITI1,9,Toscana
+2024-10-17,Pfizer/BioNTech,TOS,90+,25,58,83,ITI,ITI1,9,Toscana
+2024-10-17,Pfizer/BioNTech,UMB,50-59,0,1,1,ITI,ITI2,10,Umbria
+2024-10-17,Pfizer/BioNTech,UMB,60-69,3,0,3,ITI,ITI2,10,Umbria
+2024-10-17,Pfizer/BioNTech,UMB,70-79,2,0,2,ITI,ITI2,10,Umbria
+2024-10-17,Pfizer/BioNTech,UMB,80-89,0,2,2,ITI,ITI2,10,Umbria
+2024-10-17,Pfizer/BioNTech,VDA,20-29,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-17,Pfizer/BioNTech,VDA,30-39,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-17,Pfizer/BioNTech,VDA,40-49,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-17,Pfizer/BioNTech,VDA,50-59,3,3,6,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-17,Pfizer/BioNTech,VDA,60-69,8,7,15,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-17,Pfizer/BioNTech,VDA,70-79,14,11,25,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-17,Pfizer/BioNTech,VDA,80-89,6,15,21,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-10-17,Pfizer/BioNTech,VDA,90+,1,3,4,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
