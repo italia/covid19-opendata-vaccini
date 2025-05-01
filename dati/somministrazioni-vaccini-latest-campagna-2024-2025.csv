@@ -5827,7 +5827,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-15,Pfizer/BioNTech,PAT,90+,2,9,11,ITH,ITH2,4,Provincia Autonoma Trento
 2024-11-15,Pfizer/BioNTech,PIE,12-19,2,3,5,ITC,ITC1,1,Piemonte
 2024-11-15,Pfizer/BioNTech,PIE,20-29,11,12,23,ITC,ITC1,1,Piemonte
-2024-11-15,Pfizer/BioNTech,PIE,30-39,20,24,44,ITC,ITC1,1,Piemonte
+2024-11-15,Pfizer/BioNTech,PIE,30-39,22,24,46,ITC,ITC1,1,Piemonte
 2024-11-15,Pfizer/BioNTech,PIE,40-49,23,42,65,ITC,ITC1,1,Piemonte
 2024-11-15,Pfizer/BioNTech,PIE,50-59,79,89,168,ITC,ITC1,1,Piemonte
 2024-11-15,Pfizer/BioNTech,PIE,60-69,242,268,510,ITC,ITC1,1,Piemonte
@@ -10537,8 +10537,8 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-18,Pfizer/BioNTech,PIE,50-59,16,13,29,ITC,ITC1,1,Piemonte
 2024-12-18,Pfizer/BioNTech,PIE,60-69,50,56,106,ITC,ITC1,1,Piemonte
 2024-12-18,Pfizer/BioNTech,PIE,70-79,68,73,141,ITC,ITC1,1,Piemonte
-2024-12-18,Pfizer/BioNTech,PIE,80-89,58,90,148,ITC,ITC1,1,Piemonte
-2024-12-18,Pfizer/BioNTech,PIE,90+,11,42,53,ITC,ITC1,1,Piemonte
+2024-12-18,Pfizer/BioNTech,PIE,80-89,58,91,149,ITC,ITC1,1,Piemonte
+2024-12-18,Pfizer/BioNTech,PIE,90+,11,44,55,ITC,ITC1,1,Piemonte
 2024-12-18,Pfizer/BioNTech,PUG,12-19,3,0,3,ITF,ITF4,16,Puglia
 2024-12-18,Pfizer/BioNTech,PUG,20-29,2,2,4,ITF,ITF4,16,Puglia
 2024-12-18,Pfizer/BioNTech,PUG,30-39,6,7,13,ITF,ITF4,16,Puglia
@@ -15802,6 +15802,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-04-22,Pfizer/BioNTech,PUG,60-69,0,1,1,ITF,ITF4,16,Puglia
 2025-04-22,Pfizer/BioNTech,TOS,50-59,1,0,1,ITI,ITI1,9,Toscana
 2025-04-23,Pfizer/BioNTech,LIG,50-59,0,1,1,ITC,ITC3,7,Liguria
+2025-04-23,Pfizer/BioNTech,LOM,30-39,0,1,1,ITC,ITC4,3,Lombardia
+2025-04-23,Pfizer/BioNTech,LOM,40-49,0,2,2,ITC,ITC4,3,Lombardia
+2025-04-23,Pfizer/BioNTech,LOM,50-59,2,0,2,ITC,ITC4,3,Lombardia
+2025-04-23,Pfizer/BioNTech,LOM,60-69,0,1,1,ITC,ITC4,3,Lombardia
+2025-04-23,Pfizer/BioNTech,LOM,80-89,0,1,1,ITC,ITC4,3,Lombardia
+2025-04-23,Pfizer/BioNTech,PUG,70-79,1,0,1,ITF,ITF4,16,Puglia
 2025-04-23,Pfizer/BioNTech,TOS,30-39,1,0,1,ITI,ITI1,9,Toscana
 2025-04-23,Pfizer/BioNTech,VEN,40-49,0,1,1,ITH,ITH3,5,Veneto
 2025-04-23,Pfizer/BioNTech,VEN,50-59,1,0,1,ITH,ITH3,5,Veneto
@@ -15810,4 +15816,41 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-04-24,Pfizer/BioNTech,CAM,60-69,0,1,1,ITF,ITF3,15,Campania
 2025-04-24,Pfizer/BioNTech,CAM,70-79,1,0,1,ITF,ITF3,15,Campania
 2025-04-24,Pfizer/BioNTech,CAM,80-89,0,1,1,ITF,ITF3,15,Campania
+2025-04-24,Pfizer/BioNTech,LOM,20-29,0,1,1,ITC,ITC4,3,Lombardia
+2025-04-24,Pfizer/BioNTech,LOM,40-49,1,0,1,ITC,ITC4,3,Lombardia
+2025-04-24,Pfizer/BioNTech,LOM,60-69,0,3,3,ITC,ITC4,3,Lombardia
+2025-04-24,Pfizer/BioNTech,LOM,70-79,2,5,7,ITC,ITC4,3,Lombardia
+2025-04-24,Pfizer/BioNTech,LOM,80-89,2,12,14,ITC,ITC4,3,Lombardia
+2025-04-24,Pfizer/BioNTech,LOM,90+,0,9,9,ITC,ITC4,3,Lombardia
+2025-04-24,Pfizer/BioNTech,PUG,30-39,0,1,1,ITF,ITF4,16,Puglia
 2025-04-24,Pfizer/BioNTech,TOS,20-29,1,0,1,ITI,ITI1,9,Toscana
+2025-04-26,Pfizer Pediatrico,PUG,05-11,1,0,1,ITF,ITF4,16,Puglia
+2025-04-26,Pfizer/BioNTech,LOM,60-69,0,1,1,ITC,ITC4,3,Lombardia
+2025-04-26,Pfizer/BioNTech,LOM,70-79,1,0,1,ITC,ITC4,3,Lombardia
+2025-04-26,Pfizer/BioNTech,PUG,12-19,1,0,1,ITF,ITF4,16,Puglia
+2025-04-26,Pfizer/BioNTech,PUG,30-39,0,1,1,ITF,ITF4,16,Puglia
+2025-04-26,Pfizer/BioNTech,PUG,50-59,0,1,1,ITF,ITF4,16,Puglia
+2025-04-26,Pfizer/BioNTech,PUG,60-69,0,2,2,ITF,ITF4,16,Puglia
+2025-04-28,Pfizer/BioNTech,LOM,40-49,0,2,2,ITC,ITC4,3,Lombardia
+2025-04-28,Pfizer/BioNTech,LOM,50-59,1,1,2,ITC,ITC4,3,Lombardia
+2025-04-28,Pfizer/BioNTech,LOM,70-79,4,3,7,ITC,ITC4,3,Lombardia
+2025-04-28,Pfizer/BioNTech,LOM,80-89,1,10,11,ITC,ITC4,3,Lombardia
+2025-04-28,Pfizer/BioNTech,LOM,90+,1,12,13,ITC,ITC4,3,Lombardia
+2025-04-28,Pfizer/BioNTech,MAR,70-79,1,1,2,ITI,ITI3,11,Marche
+2025-04-28,Pfizer/BioNTech,PUG,60-69,0,1,1,ITF,ITF4,16,Puglia
+2025-04-28,Pfizer/BioNTech,PUG,70-79,0,1,1,ITF,ITF4,16,Puglia
+2025-04-29,Pfizer/BioNTech,FVG,70-79,0,1,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2025-04-29,Pfizer/BioNTech,FVG,80-89,1,1,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2025-04-29,Pfizer/BioNTech,LIG,40-49,1,0,1,ITC,ITC3,7,Liguria
+2025-04-29,Pfizer/BioNTech,LIG,50-59,0,1,1,ITC,ITC3,7,Liguria
+2025-04-29,Pfizer/BioNTech,LIG,60-69,2,2,4,ITC,ITC3,7,Liguria
+2025-04-29,Pfizer/BioNTech,LOM,80-89,0,2,2,ITC,ITC4,3,Lombardia
+2025-04-29,Pfizer/BioNTech,LOM,90+,0,2,2,ITC,ITC4,3,Lombardia
+2025-04-29,Pfizer/BioNTech,PIE,30-39,1,0,1,ITC,ITC1,1,Piemonte
+2025-04-29,Pfizer/BioNTech,PIE,50-59,1,1,2,ITC,ITC1,1,Piemonte
+2025-04-29,Pfizer/BioNTech,PIE,60-69,2,2,4,ITC,ITC1,1,Piemonte
+2025-04-29,Pfizer/BioNTech,PIE,70-79,1,1,2,ITC,ITC1,1,Piemonte
+2025-04-29,Pfizer/BioNTech,PIE,80-89,1,1,2,ITC,ITC1,1,Piemonte
+2025-04-30,Pfizer/BioNTech,FVG,20-29,1,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2025-04-30,Pfizer/BioNTech,LOM,70-79,1,0,1,ITC,ITC4,3,Lombardia
+2025-04-30,Pfizer/BioNTech,VEN,20-29,1,1,2,ITH,ITH3,5,Veneto
