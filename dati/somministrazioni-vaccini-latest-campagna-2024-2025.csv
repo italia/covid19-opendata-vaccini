@@ -32,6 +32,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-09-20,Pfizer/BioNTech,PUG,70-79,1,0,1,ITF,ITF4,16,Puglia
 2024-09-20,Pfizer/BioNTech,TOS,20-29,1,0,1,ITI,ITI1,9,Toscana
 2024-09-20,Pfizer/BioNTech,TOS,60-69,2,1,3,ITI,ITI1,9,Toscana
+2024-09-20,Pfizer/BioNTech,UMB,80-89,0,1,1,ITI,ITI2,10,Umbria
 2024-09-21,Pfizer/BioNTech,LAZ,60-69,0,1,1,ITI,ITI4,12,Lazio
 2024-09-21,Pfizer/BioNTech,LOM,12-19,1,0,1,ITC,ITC4,3,Lombardia
 2024-09-21,Pfizer/BioNTech,LOM,20-29,0,1,1,ITC,ITC4,3,Lombardia
@@ -861,6 +862,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-09,Pfizer/BioNTech,TOS,70-79,57,37,94,ITI,ITI1,9,Toscana
 2024-10-09,Pfizer/BioNTech,TOS,80-89,25,35,60,ITI,ITI1,9,Toscana
 2024-10-09,Pfizer/BioNTech,TOS,90+,3,20,23,ITI,ITI1,9,Toscana
+2024-10-09,Pfizer/BioNTech,UMB,50-59,1,2,3,ITI,ITI2,10,Umbria
+2024-10-09,Pfizer/BioNTech,UMB,60-69,4,4,8,ITI,ITI2,10,Umbria
+2024-10-09,Pfizer/BioNTech,UMB,70-79,4,2,6,ITI,ITI2,10,Umbria
+2024-10-09,Pfizer/BioNTech,UMB,80-89,2,2,4,ITI,ITI2,10,Umbria
 2024-10-09,Pfizer/BioNTech,VDA,30-39,0,3,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-09,Pfizer/BioNTech,VDA,50-59,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-09,Pfizer/BioNTech,VDA,60-69,8,3,11,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -959,6 +964,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-10,Pfizer/BioNTech,TOS,70-79,103,90,193,ITI,ITI1,9,Toscana
 2024-10-10,Pfizer/BioNTech,TOS,80-89,69,100,169,ITI,ITI1,9,Toscana
 2024-10-10,Pfizer/BioNTech,TOS,90+,15,52,67,ITI,ITI1,9,Toscana
+2024-10-10,Pfizer/BioNTech,UMB,30-39,1,2,3,ITI,ITI2,10,Umbria
+2024-10-10,Pfizer/BioNTech,UMB,40-49,0,2,2,ITI,ITI2,10,Umbria
+2024-10-10,Pfizer/BioNTech,UMB,60-69,5,6,11,ITI,ITI2,10,Umbria
+2024-10-10,Pfizer/BioNTech,UMB,70-79,5,2,7,ITI,ITI2,10,Umbria
+2024-10-10,Pfizer/BioNTech,UMB,80-89,2,5,7,ITI,ITI2,10,Umbria
+2024-10-10,Pfizer/BioNTech,UMB,90+,1,4,5,ITI,ITI2,10,Umbria
 2024-10-10,Pfizer/BioNTech,VDA,40-49,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-10,Pfizer/BioNTech,VDA,50-59,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-10,Pfizer/BioNTech,VDA,60-69,2,1,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -1073,7 +1084,11 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-11,Pfizer/BioNTech,TOS,70-79,132,123,255,ITI,ITI1,9,Toscana
 2024-10-11,Pfizer/BioNTech,TOS,80-89,76,119,195,ITI,ITI1,9,Toscana
 2024-10-11,Pfizer/BioNTech,TOS,90+,15,43,58,ITI,ITI1,9,Toscana
-2024-10-11,Pfizer/BioNTech,UMB,70-79,1,1,2,ITI,ITI2,10,Umbria
+2024-10-11,Pfizer/BioNTech,UMB,40-49,0,1,1,ITI,ITI2,10,Umbria
+2024-10-11,Pfizer/BioNTech,UMB,60-69,5,10,15,ITI,ITI2,10,Umbria
+2024-10-11,Pfizer/BioNTech,UMB,70-79,10,7,17,ITI,ITI2,10,Umbria
+2024-10-11,Pfizer/BioNTech,UMB,80-89,9,8,17,ITI,ITI2,10,Umbria
+2024-10-11,Pfizer/BioNTech,UMB,90+,1,7,8,ITI,ITI2,10,Umbria
 2024-10-11,Pfizer/BioNTech,VDA,12-19,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-11,Pfizer/BioNTech,VDA,20-29,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-11,Pfizer/BioNTech,VDA,30-39,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -1296,8 +1311,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-14,Pfizer/BioNTech,TOS,80-89,133,143,276,ITI,ITI1,9,Toscana
 2024-10-14,Pfizer/BioNTech,TOS,90+,11,43,54,ITI,ITI1,9,Toscana
 2024-10-14,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
-2024-10-14,Pfizer/BioNTech,UMB,40-49,0,1,1,ITI,ITI2,10,Umbria
-2024-10-14,Pfizer/BioNTech,UMB,50-59,0,1,1,ITI,ITI2,10,Umbria
+2024-10-14,Pfizer/BioNTech,UMB,40-49,0,2,2,ITI,ITI2,10,Umbria
+2024-10-14,Pfizer/BioNTech,UMB,50-59,0,2,2,ITI,ITI2,10,Umbria
+2024-10-14,Pfizer/BioNTech,UMB,60-69,6,4,10,ITI,ITI2,10,Umbria
+2024-10-14,Pfizer/BioNTech,UMB,70-79,6,12,18,ITI,ITI2,10,Umbria
+2024-10-14,Pfizer/BioNTech,UMB,80-89,12,16,28,ITI,ITI2,10,Umbria
+2024-10-14,Pfizer/BioNTech,UMB,90+,4,8,12,ITI,ITI2,10,Umbria
 2024-10-14,Pfizer/BioNTech,VDA,40-49,3,0,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-14,Pfizer/BioNTech,VDA,50-59,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-14,Pfizer/BioNTech,VDA,60-69,7,8,15,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -1441,9 +1460,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-15,Pfizer/BioNTech,TOS,70-79,227,238,465,ITI,ITI1,9,Toscana
 2024-10-15,Pfizer/BioNTech,TOS,80-89,139,171,310,ITI,ITI1,9,Toscana
 2024-10-15,Pfizer/BioNTech,TOS,90+,20,58,78,ITI,ITI1,9,Toscana
-2024-10-15,Pfizer/BioNTech,UMB,60-69,2,0,2,ITI,ITI2,10,Umbria
-2024-10-15,Pfizer/BioNTech,UMB,70-79,0,1,1,ITI,ITI2,10,Umbria
-2024-10-15,Pfizer/BioNTech,UMB,80-89,1,0,1,ITI,ITI2,10,Umbria
+2024-10-15,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
+2024-10-15,Pfizer/BioNTech,UMB,50-59,1,2,3,ITI,ITI2,10,Umbria
+2024-10-15,Pfizer/BioNTech,UMB,60-69,15,6,21,ITI,ITI2,10,Umbria
+2024-10-15,Pfizer/BioNTech,UMB,70-79,10,11,21,ITI,ITI2,10,Umbria
+2024-10-15,Pfizer/BioNTech,UMB,80-89,11,12,23,ITI,ITI2,10,Umbria
+2024-10-15,Pfizer/BioNTech,UMB,90+,0,12,12,ITI,ITI2,10,Umbria
 2024-10-15,Pfizer/BioNTech,VDA,30-39,2,1,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-15,Pfizer/BioNTech,VDA,50-59,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-15,Pfizer/BioNTech,VDA,60-69,11,7,18,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -1586,12 +1608,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-16,Pfizer/BioNTech,TOS,70-79,267,275,542,ITI,ITI1,9,Toscana
 2024-10-16,Pfizer/BioNTech,TOS,80-89,176,199,375,ITI,ITI1,9,Toscana
 2024-10-16,Pfizer/BioNTech,TOS,90+,28,60,88,ITI,ITI1,9,Toscana
-2024-10-16,Pfizer/BioNTech,UMB,40-49,1,1,2,ITI,ITI2,10,Umbria
-2024-10-16,Pfizer/BioNTech,UMB,50-59,0,1,1,ITI,ITI2,10,Umbria
-2024-10-16,Pfizer/BioNTech,UMB,60-69,2,0,2,ITI,ITI2,10,Umbria
-2024-10-16,Pfizer/BioNTech,UMB,70-79,2,2,4,ITI,ITI2,10,Umbria
-2024-10-16,Pfizer/BioNTech,UMB,80-89,1,0,1,ITI,ITI2,10,Umbria
-2024-10-16,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
+2024-10-16,Pfizer/BioNTech,UMB,30-39,2,0,2,ITI,ITI2,10,Umbria
+2024-10-16,Pfizer/BioNTech,UMB,40-49,3,5,8,ITI,ITI2,10,Umbria
+2024-10-16,Pfizer/BioNTech,UMB,50-59,2,2,4,ITI,ITI2,10,Umbria
+2024-10-16,Pfizer/BioNTech,UMB,60-69,12,13,25,ITI,ITI2,10,Umbria
+2024-10-16,Pfizer/BioNTech,UMB,70-79,24,17,41,ITI,ITI2,10,Umbria
+2024-10-16,Pfizer/BioNTech,UMB,80-89,13,15,28,ITI,ITI2,10,Umbria
+2024-10-16,Pfizer/BioNTech,UMB,90+,5,9,14,ITI,ITI2,10,Umbria
 2024-10-16,Pfizer/BioNTech,VDA,20-29,2,0,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-16,Pfizer/BioNTech,VDA,30-39,3,2,5,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-16,Pfizer/BioNTech,VDA,40-49,6,4,10,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -1737,10 +1760,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-17,Pfizer/BioNTech,TOS,70-79,380,372,752,ITI,ITI1,9,Toscana
 2024-10-17,Pfizer/BioNTech,TOS,80-89,285,304,589,ITI,ITI1,9,Toscana
 2024-10-17,Pfizer/BioNTech,TOS,90+,35,81,116,ITI,ITI1,9,Toscana
-2024-10-17,Pfizer/BioNTech,UMB,50-59,0,1,1,ITI,ITI2,10,Umbria
-2024-10-17,Pfizer/BioNTech,UMB,60-69,6,1,7,ITI,ITI2,10,Umbria
-2024-10-17,Pfizer/BioNTech,UMB,70-79,2,0,2,ITI,ITI2,10,Umbria
-2024-10-17,Pfizer/BioNTech,UMB,80-89,0,4,4,ITI,ITI2,10,Umbria
+2024-10-17,Pfizer/BioNTech,UMB,30-39,1,3,4,ITI,ITI2,10,Umbria
+2024-10-17,Pfizer/BioNTech,UMB,40-49,3,2,5,ITI,ITI2,10,Umbria
+2024-10-17,Pfizer/BioNTech,UMB,50-59,3,7,10,ITI,ITI2,10,Umbria
+2024-10-17,Pfizer/BioNTech,UMB,60-69,21,20,41,ITI,ITI2,10,Umbria
+2024-10-17,Pfizer/BioNTech,UMB,70-79,46,31,77,ITI,ITI2,10,Umbria
+2024-10-17,Pfizer/BioNTech,UMB,80-89,27,27,54,ITI,ITI2,10,Umbria
+2024-10-17,Pfizer/BioNTech,UMB,90+,6,19,25,ITI,ITI2,10,Umbria
 2024-10-17,Pfizer/BioNTech,VDA,20-29,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-17,Pfizer/BioNTech,VDA,30-39,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-17,Pfizer/BioNTech,VDA,40-49,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -1893,12 +1919,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-18,Pfizer/BioNTech,TOS,70-79,368,350,718,ITI,ITI1,9,Toscana
 2024-10-18,Pfizer/BioNTech,TOS,80-89,228,283,511,ITI,ITI1,9,Toscana
 2024-10-18,Pfizer/BioNTech,TOS,90+,32,58,90,ITI,ITI1,9,Toscana
-2024-10-18,Pfizer/BioNTech,UMB,30-39,1,0,1,ITI,ITI2,10,Umbria
-2024-10-18,Pfizer/BioNTech,UMB,40-49,1,1,2,ITI,ITI2,10,Umbria
-2024-10-18,Pfizer/BioNTech,UMB,50-59,1,1,2,ITI,ITI2,10,Umbria
-2024-10-18,Pfizer/BioNTech,UMB,60-69,1,0,1,ITI,ITI2,10,Umbria
-2024-10-18,Pfizer/BioNTech,UMB,70-79,2,0,2,ITI,ITI2,10,Umbria
-2024-10-18,Pfizer/BioNTech,UMB,80-89,0,1,1,ITI,ITI2,10,Umbria
+2024-10-18,Pfizer/BioNTech,UMB,30-39,1,1,2,ITI,ITI2,10,Umbria
+2024-10-18,Pfizer/BioNTech,UMB,40-49,1,3,4,ITI,ITI2,10,Umbria
+2024-10-18,Pfizer/BioNTech,UMB,50-59,11,4,15,ITI,ITI2,10,Umbria
+2024-10-18,Pfizer/BioNTech,UMB,60-69,17,19,36,ITI,ITI2,10,Umbria
+2024-10-18,Pfizer/BioNTech,UMB,70-79,39,34,73,ITI,ITI2,10,Umbria
+2024-10-18,Pfizer/BioNTech,UMB,80-89,11,25,36,ITI,ITI2,10,Umbria
+2024-10-18,Pfizer/BioNTech,UMB,90+,9,11,20,ITI,ITI2,10,Umbria
 2024-10-18,Pfizer/BioNTech,VDA,20-29,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-18,Pfizer/BioNTech,VDA,30-39,0,3,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-18,Pfizer/BioNTech,VDA,40-49,2,2,4,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -2009,9 +2036,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-19,Pfizer/BioNTech,TOS,70-79,101,101,202,ITI,ITI1,9,Toscana
 2024-10-19,Pfizer/BioNTech,TOS,80-89,58,79,137,ITI,ITI1,9,Toscana
 2024-10-19,Pfizer/BioNTech,TOS,90+,8,23,31,ITI,ITI1,9,Toscana
+2024-10-19,Pfizer/BioNTech,UMB,12-19,0,1,1,ITI,ITI2,10,Umbria
+2024-10-19,Pfizer/BioNTech,UMB,20-29,1,0,1,ITI,ITI2,10,Umbria
 2024-10-19,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
-2024-10-19,Pfizer/BioNTech,UMB,60-69,0,1,1,ITI,ITI2,10,Umbria
-2024-10-19,Pfizer/BioNTech,UMB,70-79,0,1,1,ITI,ITI2,10,Umbria
+2024-10-19,Pfizer/BioNTech,UMB,50-59,1,0,1,ITI,ITI2,10,Umbria
+2024-10-19,Pfizer/BioNTech,UMB,60-69,1,4,5,ITI,ITI2,10,Umbria
+2024-10-19,Pfizer/BioNTech,UMB,70-79,2,4,6,ITI,ITI2,10,Umbria
+2024-10-19,Pfizer/BioNTech,UMB,80-89,7,6,13,ITI,ITI2,10,Umbria
+2024-10-19,Pfizer/BioNTech,UMB,90+,1,4,5,ITI,ITI2,10,Umbria
 2024-10-19,Pfizer/BioNTech,VDA,20-29,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-19,Pfizer/BioNTech,VDA,60-69,3,5,8,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-19,Pfizer/BioNTech,VDA,70-79,6,2,8,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -2207,8 +2239,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-21,Pfizer/BioNTech,TOS,90+,37,65,102,ITI,ITI1,9,Toscana
 2024-10-21,Pfizer/BioNTech,UMB,20-29,0,1,1,ITI,ITI2,10,Umbria
 2024-10-21,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
-2024-10-21,Pfizer/BioNTech,UMB,60-69,0,1,1,ITI,ITI2,10,Umbria
-2024-10-21,Pfizer/BioNTech,UMB,70-79,0,1,1,ITI,ITI2,10,Umbria
+2024-10-21,Pfizer/BioNTech,UMB,40-49,2,1,3,ITI,ITI2,10,Umbria
+2024-10-21,Pfizer/BioNTech,UMB,50-59,2,4,6,ITI,ITI2,10,Umbria
+2024-10-21,Pfizer/BioNTech,UMB,60-69,7,9,16,ITI,ITI2,10,Umbria
+2024-10-21,Pfizer/BioNTech,UMB,70-79,23,27,50,ITI,ITI2,10,Umbria
+2024-10-21,Pfizer/BioNTech,UMB,80-89,18,23,41,ITI,ITI2,10,Umbria
+2024-10-21,Pfizer/BioNTech,UMB,90+,3,6,9,ITI,ITI2,10,Umbria
 2024-10-21,Pfizer/BioNTech,VDA,20-29,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-21,Pfizer/BioNTech,VDA,30-39,0,4,4,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-21,Pfizer/BioNTech,VDA,40-49,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -2360,11 +2396,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-22,Pfizer/BioNTech,TOS,70-79,382,383,765,ITI,ITI1,9,Toscana
 2024-10-22,Pfizer/BioNTech,TOS,80-89,248,322,570,ITI,ITI1,9,Toscana
 2024-10-22,Pfizer/BioNTech,TOS,90+,33,73,106,ITI,ITI1,9,Toscana
-2024-10-22,Pfizer/BioNTech,UMB,40-49,1,0,1,ITI,ITI2,10,Umbria
-2024-10-22,Pfizer/BioNTech,UMB,50-59,0,1,1,ITI,ITI2,10,Umbria
-2024-10-22,Pfizer/BioNTech,UMB,60-69,5,3,8,ITI,ITI2,10,Umbria
-2024-10-22,Pfizer/BioNTech,UMB,70-79,2,4,6,ITI,ITI2,10,Umbria
-2024-10-22,Pfizer/BioNTech,UMB,80-89,2,0,2,ITI,ITI2,10,Umbria
+2024-10-22,Pfizer/BioNTech,UMB,20-29,1,0,1,ITI,ITI2,10,Umbria
+2024-10-22,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
+2024-10-22,Pfizer/BioNTech,UMB,40-49,5,2,7,ITI,ITI2,10,Umbria
+2024-10-22,Pfizer/BioNTech,UMB,50-59,3,7,10,ITI,ITI2,10,Umbria
+2024-10-22,Pfizer/BioNTech,UMB,60-69,22,19,41,ITI,ITI2,10,Umbria
+2024-10-22,Pfizer/BioNTech,UMB,70-79,39,27,66,ITI,ITI2,10,Umbria
+2024-10-22,Pfizer/BioNTech,UMB,80-89,20,29,49,ITI,ITI2,10,Umbria
+2024-10-22,Pfizer/BioNTech,UMB,90+,11,14,25,ITI,ITI2,10,Umbria
 2024-10-22,Pfizer/BioNTech,VDA,20-29,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-22,Pfizer/BioNTech,VDA,30-39,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-22,Pfizer/BioNTech,VDA,40-49,2,1,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -2521,9 +2560,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-23,Pfizer/BioNTech,TOS,70-79,432,394,826,ITI,ITI1,9,Toscana
 2024-10-23,Pfizer/BioNTech,TOS,80-89,271,356,627,ITI,ITI1,9,Toscana
 2024-10-23,Pfizer/BioNTech,TOS,90+,31,71,102,ITI,ITI1,9,Toscana
-2024-10-23,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
-2024-10-23,Pfizer/BioNTech,UMB,60-69,1,3,4,ITI,ITI2,10,Umbria
-2024-10-23,Pfizer/BioNTech,UMB,70-79,1,0,1,ITI,ITI2,10,Umbria
+2024-10-23,Pfizer/BioNTech,UMB,20-29,1,1,2,ITI,ITI2,10,Umbria
+2024-10-23,Pfizer/BioNTech,UMB,30-39,1,2,3,ITI,ITI2,10,Umbria
+2024-10-23,Pfizer/BioNTech,UMB,40-49,4,1,5,ITI,ITI2,10,Umbria
+2024-10-23,Pfizer/BioNTech,UMB,50-59,4,9,13,ITI,ITI2,10,Umbria
+2024-10-23,Pfizer/BioNTech,UMB,60-69,16,26,42,ITI,ITI2,10,Umbria
+2024-10-23,Pfizer/BioNTech,UMB,70-79,34,38,72,ITI,ITI2,10,Umbria
+2024-10-23,Pfizer/BioNTech,UMB,80-89,17,19,36,ITI,ITI2,10,Umbria
+2024-10-23,Pfizer/BioNTech,UMB,90+,4,11,15,ITI,ITI2,10,Umbria
 2024-10-23,Pfizer/BioNTech,VDA,20-29,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-23,Pfizer/BioNTech,VDA,30-39,9,6,15,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-23,Pfizer/BioNTech,VDA,40-49,6,4,10,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -2681,13 +2725,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-24,Pfizer/BioNTech,TOS,70-79,514,520,1034,ITI,ITI1,9,Toscana
 2024-10-24,Pfizer/BioNTech,TOS,80-89,357,436,793,ITI,ITI1,9,Toscana
 2024-10-24,Pfizer/BioNTech,TOS,90+,49,115,164,ITI,ITI1,9,Toscana
-2024-10-24,Pfizer/BioNTech,UMB,30-39,0,2,2,ITI,ITI2,10,Umbria
-2024-10-24,Pfizer/BioNTech,UMB,40-49,3,4,7,ITI,ITI2,10,Umbria
-2024-10-24,Pfizer/BioNTech,UMB,50-59,1,2,3,ITI,ITI2,10,Umbria
-2024-10-24,Pfizer/BioNTech,UMB,60-69,9,7,16,ITI,ITI2,10,Umbria
-2024-10-24,Pfizer/BioNTech,UMB,70-79,6,4,10,ITI,ITI2,10,Umbria
-2024-10-24,Pfizer/BioNTech,UMB,80-89,6,6,12,ITI,ITI2,10,Umbria
-2024-10-24,Pfizer/BioNTech,UMB,90+,3,3,6,ITI,ITI2,10,Umbria
+2024-10-24,Pfizer/BioNTech,UMB,30-39,2,5,7,ITI,ITI2,10,Umbria
+2024-10-24,Pfizer/BioNTech,UMB,40-49,5,9,14,ITI,ITI2,10,Umbria
+2024-10-24,Pfizer/BioNTech,UMB,50-59,4,11,15,ITI,ITI2,10,Umbria
+2024-10-24,Pfizer/BioNTech,UMB,60-69,28,40,68,ITI,ITI2,10,Umbria
+2024-10-24,Pfizer/BioNTech,UMB,70-79,47,54,101,ITI,ITI2,10,Umbria
+2024-10-24,Pfizer/BioNTech,UMB,80-89,48,59,107,ITI,ITI2,10,Umbria
+2024-10-24,Pfizer/BioNTech,UMB,90+,12,19,31,ITI,ITI2,10,Umbria
 2024-10-24,Pfizer/BioNTech,VDA,30-39,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-24,Pfizer/BioNTech,VDA,40-49,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-24,Pfizer/BioNTech,VDA,50-59,5,3,8,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -2852,13 +2896,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-25,Pfizer/BioNTech,TOS,70-79,505,500,1005,ITI,ITI1,9,Toscana
 2024-10-25,Pfizer/BioNTech,TOS,80-89,300,396,696,ITI,ITI1,9,Toscana
 2024-10-25,Pfizer/BioNTech,TOS,90+,46,119,165,ITI,ITI1,9,Toscana
-2024-10-25,Pfizer/BioNTech,UMB,20-29,0,1,1,ITI,ITI2,10,Umbria
-2024-10-25,Pfizer/BioNTech,UMB,30-39,2,3,5,ITI,ITI2,10,Umbria
-2024-10-25,Pfizer/BioNTech,UMB,40-49,2,5,7,ITI,ITI2,10,Umbria
-2024-10-25,Pfizer/BioNTech,UMB,50-59,1,3,4,ITI,ITI2,10,Umbria
-2024-10-25,Pfizer/BioNTech,UMB,60-69,5,4,9,ITI,ITI2,10,Umbria
-2024-10-25,Pfizer/BioNTech,UMB,70-79,1,4,5,ITI,ITI2,10,Umbria
-2024-10-25,Pfizer/BioNTech,UMB,80-89,5,3,8,ITI,ITI2,10,Umbria
+2024-10-25,Pfizer/BioNTech,UMB,20-29,1,1,2,ITI,ITI2,10,Umbria
+2024-10-25,Pfizer/BioNTech,UMB,30-39,3,7,10,ITI,ITI2,10,Umbria
+2024-10-25,Pfizer/BioNTech,UMB,40-49,6,11,17,ITI,ITI2,10,Umbria
+2024-10-25,Pfizer/BioNTech,UMB,50-59,9,10,19,ITI,ITI2,10,Umbria
+2024-10-25,Pfizer/BioNTech,UMB,60-69,38,24,62,ITI,ITI2,10,Umbria
+2024-10-25,Pfizer/BioNTech,UMB,70-79,66,60,126,ITI,ITI2,10,Umbria
+2024-10-25,Pfizer/BioNTech,UMB,80-89,54,44,98,ITI,ITI2,10,Umbria
+2024-10-25,Pfizer/BioNTech,UMB,90+,6,27,33,ITI,ITI2,10,Umbria
 2024-10-25,Pfizer/BioNTech,VDA,12-19,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-25,Pfizer/BioNTech,VDA,20-29,0,3,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-25,Pfizer/BioNTech,VDA,30-39,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -2973,10 +3018,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-26,Pfizer/BioNTech,TOS,70-79,140,136,276,ITI,ITI1,9,Toscana
 2024-10-26,Pfizer/BioNTech,TOS,80-89,83,116,199,ITI,ITI1,9,Toscana
 2024-10-26,Pfizer/BioNTech,TOS,90+,11,31,42,ITI,ITI1,9,Toscana
-2024-10-26,Pfizer/BioNTech,UMB,60-69,1,0,1,ITI,ITI2,10,Umbria
-2024-10-26,Pfizer/BioNTech,UMB,70-79,2,1,3,ITI,ITI2,10,Umbria
-2024-10-26,Pfizer/BioNTech,UMB,80-89,0,1,1,ITI,ITI2,10,Umbria
-2024-10-26,Pfizer/BioNTech,UMB,90+,1,0,1,ITI,ITI2,10,Umbria
+2024-10-26,Pfizer/BioNTech,UMB,40-49,1,2,3,ITI,ITI2,10,Umbria
+2024-10-26,Pfizer/BioNTech,UMB,50-59,2,2,4,ITI,ITI2,10,Umbria
+2024-10-26,Pfizer/BioNTech,UMB,60-69,7,2,9,ITI,ITI2,10,Umbria
+2024-10-26,Pfizer/BioNTech,UMB,70-79,15,6,21,ITI,ITI2,10,Umbria
+2024-10-26,Pfizer/BioNTech,UMB,80-89,4,14,18,ITI,ITI2,10,Umbria
+2024-10-26,Pfizer/BioNTech,UMB,90+,4,6,10,ITI,ITI2,10,Umbria
 2024-10-26,Pfizer/BioNTech,VEN,12-19,14,10,24,ITH,ITH3,5,Veneto
 2024-10-26,Pfizer/BioNTech,VEN,20-29,57,52,109,ITH,ITH3,5,Veneto
 2024-10-26,Pfizer/BioNTech,VEN,30-39,130,141,271,ITH,ITH3,5,Veneto
@@ -3031,6 +3078,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-27,Pfizer/BioNTech,TOS,70-79,16,17,33,ITI,ITI1,9,Toscana
 2024-10-27,Pfizer/BioNTech,TOS,80-89,9,9,18,ITI,ITI1,9,Toscana
 2024-10-27,Pfizer/BioNTech,TOS,90+,0,3,3,ITI,ITI1,9,Toscana
+2024-10-27,Pfizer/BioNTech,UMB,20-29,1,0,1,ITI,ITI2,10,Umbria
+2024-10-27,Pfizer/BioNTech,UMB,30-39,4,3,7,ITI,ITI2,10,Umbria
+2024-10-27,Pfizer/BioNTech,UMB,40-49,3,2,5,ITI,ITI2,10,Umbria
+2024-10-27,Pfizer/BioNTech,UMB,50-59,5,4,9,ITI,ITI2,10,Umbria
+2024-10-27,Pfizer/BioNTech,UMB,60-69,17,20,37,ITI,ITI2,10,Umbria
+2024-10-27,Pfizer/BioNTech,UMB,70-79,40,28,68,ITI,ITI2,10,Umbria
+2024-10-27,Pfizer/BioNTech,UMB,80-89,26,20,46,ITI,ITI2,10,Umbria
+2024-10-27,Pfizer/BioNTech,UMB,90+,7,6,13,ITI,ITI2,10,Umbria
 2024-10-27,Pfizer/BioNTech,VDA,70-79,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-27,Pfizer/BioNTech,VEN,12-19,1,0,1,ITH,ITH3,5,Veneto
 2024-10-27,Pfizer/BioNTech,VEN,20-29,2,0,2,ITH,ITH3,5,Veneto
@@ -3184,10 +3239,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-28,Pfizer/BioNTech,TOS,70-79,380,393,773,ITI,ITI1,9,Toscana
 2024-10-28,Pfizer/BioNTech,TOS,80-89,219,266,485,ITI,ITI1,9,Toscana
 2024-10-28,Pfizer/BioNTech,TOS,90+,31,81,112,ITI,ITI1,9,Toscana
-2024-10-28,Pfizer/BioNTech,UMB,30-39,2,0,2,ITI,ITI2,10,Umbria
-2024-10-28,Pfizer/BioNTech,UMB,50-59,0,1,1,ITI,ITI2,10,Umbria
-2024-10-28,Pfizer/BioNTech,UMB,70-79,1,2,3,ITI,ITI2,10,Umbria
-2024-10-28,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
+2024-10-28,Pfizer/BioNTech,UMB,30-39,3,0,3,ITI,ITI2,10,Umbria
+2024-10-28,Pfizer/BioNTech,UMB,40-49,0,1,1,ITI,ITI2,10,Umbria
+2024-10-28,Pfizer/BioNTech,UMB,50-59,4,6,10,ITI,ITI2,10,Umbria
+2024-10-28,Pfizer/BioNTech,UMB,60-69,14,12,26,ITI,ITI2,10,Umbria
+2024-10-28,Pfizer/BioNTech,UMB,70-79,20,19,39,ITI,ITI2,10,Umbria
+2024-10-28,Pfizer/BioNTech,UMB,80-89,19,28,47,ITI,ITI2,10,Umbria
+2024-10-28,Pfizer/BioNTech,UMB,90+,2,6,8,ITI,ITI2,10,Umbria
 2024-10-28,Pfizer/BioNTech,VDA,20-29,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-28,Pfizer/BioNTech,VDA,40-49,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-28,Pfizer/BioNTech,VDA,50-59,1,5,6,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -3347,13 +3405,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-29,Pfizer/BioNTech,TOS,70-79,492,479,971,ITI,ITI1,9,Toscana
 2024-10-29,Pfizer/BioNTech,TOS,80-89,261,363,624,ITI,ITI1,9,Toscana
 2024-10-29,Pfizer/BioNTech,TOS,90+,40,100,140,ITI,ITI1,9,Toscana
-2024-10-29,Pfizer/BioNTech,UMB,20-29,1,0,1,ITI,ITI2,10,Umbria
-2024-10-29,Pfizer/BioNTech,UMB,30-39,1,0,1,ITI,ITI2,10,Umbria
-2024-10-29,Pfizer/BioNTech,UMB,40-49,1,1,2,ITI,ITI2,10,Umbria
-2024-10-29,Pfizer/BioNTech,UMB,50-59,1,0,1,ITI,ITI2,10,Umbria
-2024-10-29,Pfizer/BioNTech,UMB,60-69,3,3,6,ITI,ITI2,10,Umbria
-2024-10-29,Pfizer/BioNTech,UMB,70-79,6,3,9,ITI,ITI2,10,Umbria
-2024-10-29,Pfizer/BioNTech,UMB,80-89,2,2,4,ITI,ITI2,10,Umbria
+2024-10-29,Pfizer/BioNTech,UMB,20-29,2,0,2,ITI,ITI2,10,Umbria
+2024-10-29,Pfizer/BioNTech,UMB,30-39,2,1,3,ITI,ITI2,10,Umbria
+2024-10-29,Pfizer/BioNTech,UMB,40-49,7,8,15,ITI,ITI2,10,Umbria
+2024-10-29,Pfizer/BioNTech,UMB,50-59,11,8,19,ITI,ITI2,10,Umbria
+2024-10-29,Pfizer/BioNTech,UMB,60-69,27,24,51,ITI,ITI2,10,Umbria
+2024-10-29,Pfizer/BioNTech,UMB,70-79,59,48,107,ITI,ITI2,10,Umbria
+2024-10-29,Pfizer/BioNTech,UMB,80-89,35,27,62,ITI,ITI2,10,Umbria
+2024-10-29,Pfizer/BioNTech,UMB,90+,7,18,25,ITI,ITI2,10,Umbria
 2024-10-29,Pfizer/BioNTech,VDA,20-29,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-29,Pfizer/BioNTech,VDA,30-39,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-29,Pfizer/BioNTech,VDA,40-49,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -3517,10 +3576,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-30,Pfizer/BioNTech,TOS,70-79,514,510,1024,ITI,ITI1,9,Toscana
 2024-10-30,Pfizer/BioNTech,TOS,80-89,323,386,709,ITI,ITI1,9,Toscana
 2024-10-30,Pfizer/BioNTech,TOS,90+,59,129,188,ITI,ITI1,9,Toscana
-2024-10-30,Pfizer/BioNTech,UMB,40-49,0,2,2,ITI,ITI2,10,Umbria
-2024-10-30,Pfizer/BioNTech,UMB,60-69,1,1,2,ITI,ITI2,10,Umbria
-2024-10-30,Pfizer/BioNTech,UMB,70-79,4,4,8,ITI,ITI2,10,Umbria
-2024-10-30,Pfizer/BioNTech,UMB,80-89,4,2,6,ITI,ITI2,10,Umbria
+2024-10-30,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
+2024-10-30,Pfizer/BioNTech,UMB,40-49,7,4,11,ITI,ITI2,10,Umbria
+2024-10-30,Pfizer/BioNTech,UMB,50-59,9,9,18,ITI,ITI2,10,Umbria
+2024-10-30,Pfizer/BioNTech,UMB,60-69,29,28,57,ITI,ITI2,10,Umbria
+2024-10-30,Pfizer/BioNTech,UMB,70-79,60,56,116,ITI,ITI2,10,Umbria
+2024-10-30,Pfizer/BioNTech,UMB,80-89,48,52,100,ITI,ITI2,10,Umbria
+2024-10-30,Pfizer/BioNTech,UMB,90+,11,23,34,ITI,ITI2,10,Umbria
 2024-10-30,Pfizer/BioNTech,VDA,20-29,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-30,Pfizer/BioNTech,VDA,30-39,4,3,7,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-30,Pfizer/BioNTech,VDA,40-49,5,6,11,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -3687,14 +3749,15 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-31,Pfizer/BioNTech,TOS,70-79,425,450,875,ITI,ITI1,9,Toscana
 2024-10-31,Pfizer/BioNTech,TOS,80-89,280,358,638,ITI,ITI1,9,Toscana
 2024-10-31,Pfizer/BioNTech,TOS,90+,51,106,157,ITI,ITI1,9,Toscana
+2024-10-31,Pfizer/BioNTech,UMB,12-19,2,0,2,ITI,ITI2,10,Umbria
 2024-10-31,Pfizer/BioNTech,UMB,20-29,1,0,1,ITI,ITI2,10,Umbria
-2024-10-31,Pfizer/BioNTech,UMB,30-39,1,1,2,ITI,ITI2,10,Umbria
-2024-10-31,Pfizer/BioNTech,UMB,40-49,1,0,1,ITI,ITI2,10,Umbria
-2024-10-31,Pfizer/BioNTech,UMB,50-59,2,1,3,ITI,ITI2,10,Umbria
-2024-10-31,Pfizer/BioNTech,UMB,60-69,3,3,6,ITI,ITI2,10,Umbria
-2024-10-31,Pfizer/BioNTech,UMB,70-79,9,6,15,ITI,ITI2,10,Umbria
-2024-10-31,Pfizer/BioNTech,UMB,80-89,5,2,7,ITI,ITI2,10,Umbria
-2024-10-31,Pfizer/BioNTech,UMB,90+,1,5,6,ITI,ITI2,10,Umbria
+2024-10-31,Pfizer/BioNTech,UMB,30-39,3,1,4,ITI,ITI2,10,Umbria
+2024-10-31,Pfizer/BioNTech,UMB,40-49,13,1,14,ITI,ITI2,10,Umbria
+2024-10-31,Pfizer/BioNTech,UMB,50-59,21,3,24,ITI,ITI2,10,Umbria
+2024-10-31,Pfizer/BioNTech,UMB,60-69,27,9,36,ITI,ITI2,10,Umbria
+2024-10-31,Pfizer/BioNTech,UMB,70-79,32,26,58,ITI,ITI2,10,Umbria
+2024-10-31,Pfizer/BioNTech,UMB,80-89,21,36,57,ITI,ITI2,10,Umbria
+2024-10-31,Pfizer/BioNTech,UMB,90+,5,25,30,ITI,ITI2,10,Umbria
 2024-10-31,Pfizer/BioNTech,VDA,30-39,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-31,Pfizer/BioNTech,VDA,40-49,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-10-31,Pfizer/BioNTech,VDA,50-59,2,2,4,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -3866,9 +3929,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-02,Pfizer/BioNTech,TOS,70-79,41,38,79,ITI,ITI1,9,Toscana
 2024-11-02,Pfizer/BioNTech,TOS,80-89,25,23,48,ITI,ITI1,9,Toscana
 2024-11-02,Pfizer/BioNTech,TOS,90+,1,4,5,ITI,ITI1,9,Toscana
-2024-11-02,Pfizer/BioNTech,UMB,60-69,1,1,2,ITI,ITI2,10,Umbria
-2024-11-02,Pfizer/BioNTech,UMB,70-79,1,2,3,ITI,ITI2,10,Umbria
-2024-11-02,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
+2024-11-02,Pfizer/BioNTech,UMB,30-39,1,0,1,ITI,ITI2,10,Umbria
+2024-11-02,Pfizer/BioNTech,UMB,40-49,1,0,1,ITI,ITI2,10,Umbria
+2024-11-02,Pfizer/BioNTech,UMB,60-69,4,6,10,ITI,ITI2,10,Umbria
+2024-11-02,Pfizer/BioNTech,UMB,70-79,6,4,10,ITI,ITI2,10,Umbria
+2024-11-02,Pfizer/BioNTech,UMB,80-89,7,10,17,ITI,ITI2,10,Umbria
+2024-11-02,Pfizer/BioNTech,UMB,90+,1,3,4,ITI,ITI2,10,Umbria
 2024-11-02,Pfizer/BioNTech,VDA,50-59,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-02,Pfizer/BioNTech,VDA,70-79,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-02,Pfizer/BioNTech,VDA,80-89,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -3930,6 +3996,8 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-03,Pfizer/BioNTech,SAR,90+,2,3,5,ITG,ITG2,20,Sardegna
 2024-11-03,Pfizer/BioNTech,TOS,70-79,0,1,1,ITI,ITI1,9,Toscana
 2024-11-03,Pfizer/BioNTech,TOS,80-89,0,1,1,ITI,ITI1,9,Toscana
+2024-11-03,Pfizer/BioNTech,UMB,70-79,0,1,1,ITI,ITI2,10,Umbria
+2024-11-03,Pfizer/BioNTech,UMB,80-89,1,0,1,ITI,ITI2,10,Umbria
 2024-11-03,Pfizer/BioNTech,VDA,50-59,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-03,Pfizer/BioNTech,VDA,60-69,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-03,Pfizer/BioNTech,VDA,80-89,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -4051,7 +4119,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-04,Pfizer/BioNTech,PIE,50-59,52,72,124,ITC,ITC1,1,Piemonte
 2024-11-04,Pfizer/BioNTech,PIE,60-69,161,150,311,ITC,ITC1,1,Piemonte
 2024-11-04,Pfizer/BioNTech,PIE,70-79,224,185,409,ITC,ITC1,1,Piemonte
-2024-11-04,Pfizer/BioNTech,PIE,80-89,134,158,292,ITC,ITC1,1,Piemonte
+2024-11-04,Pfizer/BioNTech,PIE,80-89,135,158,293,ITC,ITC1,1,Piemonte
 2024-11-04,Pfizer/BioNTech,PIE,90+,31,79,110,ITC,ITC1,1,Piemonte
 2024-11-04,Pfizer/BioNTech,PUG,20-29,5,11,16,ITF,ITF4,16,Puglia
 2024-11-04,Pfizer/BioNTech,PUG,30-39,11,14,25,ITF,ITF4,16,Puglia
@@ -4087,14 +4155,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-04,Pfizer/BioNTech,TOS,70-79,345,340,685,ITI,ITI1,9,Toscana
 2024-11-04,Pfizer/BioNTech,TOS,80-89,182,230,412,ITI,ITI1,9,Toscana
 2024-11-04,Pfizer/BioNTech,TOS,90+,23,42,65,ITI,ITI1,9,Toscana
-2024-11-04,Pfizer/BioNTech,UMB,20-29,0,3,3,ITI,ITI2,10,Umbria
-2024-11-04,Pfizer/BioNTech,UMB,30-39,5,3,8,ITI,ITI2,10,Umbria
-2024-11-04,Pfizer/BioNTech,UMB,40-49,3,3,6,ITI,ITI2,10,Umbria
-2024-11-04,Pfizer/BioNTech,UMB,50-59,6,3,9,ITI,ITI2,10,Umbria
-2024-11-04,Pfizer/BioNTech,UMB,60-69,7,6,13,ITI,ITI2,10,Umbria
-2024-11-04,Pfizer/BioNTech,UMB,70-79,3,1,4,ITI,ITI2,10,Umbria
-2024-11-04,Pfizer/BioNTech,UMB,80-89,1,0,1,ITI,ITI2,10,Umbria
-2024-11-04,Pfizer/BioNTech,UMB,90+,0,2,2,ITI,ITI2,10,Umbria
+2024-11-04,Pfizer/BioNTech,UMB,20-29,0,4,4,ITI,ITI2,10,Umbria
+2024-11-04,Pfizer/BioNTech,UMB,30-39,5,5,10,ITI,ITI2,10,Umbria
+2024-11-04,Pfizer/BioNTech,UMB,40-49,3,5,8,ITI,ITI2,10,Umbria
+2024-11-04,Pfizer/BioNTech,UMB,50-59,13,9,22,ITI,ITI2,10,Umbria
+2024-11-04,Pfizer/BioNTech,UMB,60-69,24,20,44,ITI,ITI2,10,Umbria
+2024-11-04,Pfizer/BioNTech,UMB,70-79,36,24,60,ITI,ITI2,10,Umbria
+2024-11-04,Pfizer/BioNTech,UMB,80-89,19,25,44,ITI,ITI2,10,Umbria
+2024-11-04,Pfizer/BioNTech,UMB,90+,6,20,26,ITI,ITI2,10,Umbria
 2024-11-04,Pfizer/BioNTech,VDA,12-19,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-04,Pfizer/BioNTech,VDA,20-29,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-04,Pfizer/BioNTech,VDA,40-49,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -4255,13 +4323,15 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-05,Pfizer/BioNTech,TOS,70-79,458,451,909,ITI,ITI1,9,Toscana
 2024-11-05,Pfizer/BioNTech,TOS,80-89,251,361,612,ITI,ITI1,9,Toscana
 2024-11-05,Pfizer/BioNTech,TOS,90+,48,86,134,ITI,ITI1,9,Toscana
-2024-11-05,Pfizer/BioNTech,UMB,20-29,1,0,1,ITI,ITI2,10,Umbria
+2024-11-05,Pfizer/BioNTech,UMB,12-19,0,1,1,ITI,ITI2,10,Umbria
+2024-11-05,Pfizer/BioNTech,UMB,20-29,2,0,2,ITI,ITI2,10,Umbria
 2024-11-05,Pfizer/BioNTech,UMB,30-39,3,6,9,ITI,ITI2,10,Umbria
-2024-11-05,Pfizer/BioNTech,UMB,40-49,1,2,3,ITI,ITI2,10,Umbria
-2024-11-05,Pfizer/BioNTech,UMB,50-59,3,3,6,ITI,ITI2,10,Umbria
-2024-11-05,Pfizer/BioNTech,UMB,60-69,2,1,3,ITI,ITI2,10,Umbria
-2024-11-05,Pfizer/BioNTech,UMB,70-79,3,3,6,ITI,ITI2,10,Umbria
-2024-11-05,Pfizer/BioNTech,UMB,80-89,1,1,2,ITI,ITI2,10,Umbria
+2024-11-05,Pfizer/BioNTech,UMB,40-49,4,7,11,ITI,ITI2,10,Umbria
+2024-11-05,Pfizer/BioNTech,UMB,50-59,9,9,18,ITI,ITI2,10,Umbria
+2024-11-05,Pfizer/BioNTech,UMB,60-69,20,17,37,ITI,ITI2,10,Umbria
+2024-11-05,Pfizer/BioNTech,UMB,70-79,39,43,82,ITI,ITI2,10,Umbria
+2024-11-05,Pfizer/BioNTech,UMB,80-89,35,37,72,ITI,ITI2,10,Umbria
+2024-11-05,Pfizer/BioNTech,UMB,90+,8,13,21,ITI,ITI2,10,Umbria
 2024-11-05,Pfizer/BioNTech,VDA,40-49,2,0,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-05,Pfizer/BioNTech,VDA,50-59,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-05,Pfizer/BioNTech,VDA,60-69,6,10,16,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -4425,12 +4495,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-06,Pfizer/BioNTech,TOS,70-79,503,554,1057,ITI,ITI1,9,Toscana
 2024-11-06,Pfizer/BioNTech,TOS,80-89,314,401,715,ITI,ITI1,9,Toscana
 2024-11-06,Pfizer/BioNTech,TOS,90+,48,101,149,ITI,ITI1,9,Toscana
-2024-11-06,Pfizer/BioNTech,UMB,20-29,1,0,1,ITI,ITI2,10,Umbria
-2024-11-06,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
-2024-11-06,Pfizer/BioNTech,UMB,40-49,2,4,6,ITI,ITI2,10,Umbria
-2024-11-06,Pfizer/BioNTech,UMB,50-59,1,1,2,ITI,ITI2,10,Umbria
-2024-11-06,Pfizer/BioNTech,UMB,60-69,3,2,5,ITI,ITI2,10,Umbria
-2024-11-06,Pfizer/BioNTech,UMB,70-79,1,1,2,ITI,ITI2,10,Umbria
+2024-11-06,Pfizer/BioNTech,UMB,20-29,3,2,5,ITI,ITI2,10,Umbria
+2024-11-06,Pfizer/BioNTech,UMB,30-39,1,2,3,ITI,ITI2,10,Umbria
+2024-11-06,Pfizer/BioNTech,UMB,40-49,4,10,14,ITI,ITI2,10,Umbria
+2024-11-06,Pfizer/BioNTech,UMB,50-59,5,6,11,ITI,ITI2,10,Umbria
+2024-11-06,Pfizer/BioNTech,UMB,60-69,40,35,75,ITI,ITI2,10,Umbria
+2024-11-06,Pfizer/BioNTech,UMB,70-79,49,55,104,ITI,ITI2,10,Umbria
+2024-11-06,Pfizer/BioNTech,UMB,80-89,45,47,92,ITI,ITI2,10,Umbria
+2024-11-06,Pfizer/BioNTech,UMB,90+,3,14,17,ITI,ITI2,10,Umbria
 2024-11-06,Pfizer/BioNTech,VDA,20-29,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-06,Pfizer/BioNTech,VDA,30-39,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-06,Pfizer/BioNTech,VDA,40-49,5,2,7,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -4597,14 +4669,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-07,Pfizer/BioNTech,TOS,70-79,581,594,1175,ITI,ITI1,9,Toscana
 2024-11-07,Pfizer/BioNTech,TOS,80-89,372,418,790,ITI,ITI1,9,Toscana
 2024-11-07,Pfizer/BioNTech,TOS,90+,41,121,162,ITI,ITI1,9,Toscana
-2024-11-07,Pfizer/BioNTech,UMB,20-29,2,0,2,ITI,ITI2,10,Umbria
-2024-11-07,Pfizer/BioNTech,UMB,30-39,1,1,2,ITI,ITI2,10,Umbria
-2024-11-07,Pfizer/BioNTech,UMB,40-49,1,2,3,ITI,ITI2,10,Umbria
-2024-11-07,Pfizer/BioNTech,UMB,50-59,3,2,5,ITI,ITI2,10,Umbria
-2024-11-07,Pfizer/BioNTech,UMB,60-69,9,9,18,ITI,ITI2,10,Umbria
-2024-11-07,Pfizer/BioNTech,UMB,70-79,12,5,17,ITI,ITI2,10,Umbria
-2024-11-07,Pfizer/BioNTech,UMB,80-89,5,4,9,ITI,ITI2,10,Umbria
-2024-11-07,Pfizer/BioNTech,UMB,90+,1,0,1,ITI,ITI2,10,Umbria
+2024-11-07,Pfizer/BioNTech,UMB,20-29,2,1,3,ITI,ITI2,10,Umbria
+2024-11-07,Pfizer/BioNTech,UMB,30-39,3,4,7,ITI,ITI2,10,Umbria
+2024-11-07,Pfizer/BioNTech,UMB,40-49,2,3,5,ITI,ITI2,10,Umbria
+2024-11-07,Pfizer/BioNTech,UMB,50-59,10,9,19,ITI,ITI2,10,Umbria
+2024-11-07,Pfizer/BioNTech,UMB,60-69,29,37,66,ITI,ITI2,10,Umbria
+2024-11-07,Pfizer/BioNTech,UMB,70-79,57,47,104,ITI,ITI2,10,Umbria
+2024-11-07,Pfizer/BioNTech,UMB,80-89,59,50,109,ITI,ITI2,10,Umbria
+2024-11-07,Pfizer/BioNTech,UMB,90+,8,18,26,ITI,ITI2,10,Umbria
 2024-11-07,Pfizer/BioNTech,VDA,20-29,1,3,4,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-07,Pfizer/BioNTech,VDA,30-39,3,1,4,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-07,Pfizer/BioNTech,VDA,40-49,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -4771,13 +4843,15 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-08,Pfizer/BioNTech,TOS,70-79,563,519,1082,ITI,ITI1,9,Toscana
 2024-11-08,Pfizer/BioNTech,TOS,80-89,366,375,741,ITI,ITI1,9,Toscana
 2024-11-08,Pfizer/BioNTech,TOS,90+,37,114,151,ITI,ITI1,9,Toscana
-2024-11-08,Pfizer/BioNTech,UMB,20-29,1,4,5,ITI,ITI2,10,Umbria
-2024-11-08,Pfizer/BioNTech,UMB,30-39,3,5,8,ITI,ITI2,10,Umbria
-2024-11-08,Pfizer/BioNTech,UMB,40-49,3,5,8,ITI,ITI2,10,Umbria
-2024-11-08,Pfizer/BioNTech,UMB,50-59,4,2,6,ITI,ITI2,10,Umbria
-2024-11-08,Pfizer/BioNTech,UMB,60-69,3,6,9,ITI,ITI2,10,Umbria
-2024-11-08,Pfizer/BioNTech,UMB,70-79,5,1,6,ITI,ITI2,10,Umbria
-2024-11-08,Pfizer/BioNTech,UMB,80-89,0,1,1,ITI,ITI2,10,Umbria
+2024-11-08,Pfizer/BioNTech,UMB,12-19,1,0,1,ITI,ITI2,10,Umbria
+2024-11-08,Pfizer/BioNTech,UMB,20-29,2,4,6,ITI,ITI2,10,Umbria
+2024-11-08,Pfizer/BioNTech,UMB,30-39,4,6,10,ITI,ITI2,10,Umbria
+2024-11-08,Pfizer/BioNTech,UMB,40-49,8,9,17,ITI,ITI2,10,Umbria
+2024-11-08,Pfizer/BioNTech,UMB,50-59,14,12,26,ITI,ITI2,10,Umbria
+2024-11-08,Pfizer/BioNTech,UMB,60-69,40,30,70,ITI,ITI2,10,Umbria
+2024-11-08,Pfizer/BioNTech,UMB,70-79,70,45,115,ITI,ITI2,10,Umbria
+2024-11-08,Pfizer/BioNTech,UMB,80-89,39,56,95,ITI,ITI2,10,Umbria
+2024-11-08,Pfizer/BioNTech,UMB,90+,3,25,28,ITI,ITI2,10,Umbria
 2024-11-08,Pfizer/BioNTech,VDA,30-39,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-08,Pfizer/BioNTech,VDA,40-49,2,3,5,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-08,Pfizer/BioNTech,VDA,50-59,12,9,21,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -4925,9 +4999,15 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-09,Pfizer/BioNTech,TOS,70-79,161,172,333,ITI,ITI1,9,Toscana
 2024-11-09,Pfizer/BioNTech,TOS,80-89,119,135,254,ITI,ITI1,9,Toscana
 2024-11-09,Pfizer/BioNTech,TOS,90+,9,24,33,ITI,ITI1,9,Toscana
-2024-11-09,Pfizer/BioNTech,UMB,50-59,1,0,1,ITI,ITI2,10,Umbria
-2024-11-09,Pfizer/BioNTech,UMB,60-69,2,2,4,ITI,ITI2,10,Umbria
-2024-11-09,Pfizer/BioNTech,UMB,70-79,0,1,1,ITI,ITI2,10,Umbria
+2024-11-09,Pfizer/BioNTech,UMB,12-19,1,1,2,ITI,ITI2,10,Umbria
+2024-11-09,Pfizer/BioNTech,UMB,20-29,1,1,2,ITI,ITI2,10,Umbria
+2024-11-09,Pfizer/BioNTech,UMB,30-39,2,1,3,ITI,ITI2,10,Umbria
+2024-11-09,Pfizer/BioNTech,UMB,40-49,1,4,5,ITI,ITI2,10,Umbria
+2024-11-09,Pfizer/BioNTech,UMB,50-59,4,2,6,ITI,ITI2,10,Umbria
+2024-11-09,Pfizer/BioNTech,UMB,60-69,6,5,11,ITI,ITI2,10,Umbria
+2024-11-09,Pfizer/BioNTech,UMB,70-79,6,9,15,ITI,ITI2,10,Umbria
+2024-11-09,Pfizer/BioNTech,UMB,80-89,16,19,35,ITI,ITI2,10,Umbria
+2024-11-09,Pfizer/BioNTech,UMB,90+,6,12,18,ITI,ITI2,10,Umbria
 2024-11-09,Pfizer/BioNTech,VDA,20-29,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-09,Pfizer/BioNTech,VDA,40-49,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-09,Pfizer/BioNTech,VDA,50-59,2,4,6,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -5006,6 +5086,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-10,Pfizer/BioNTech,TOS,60-69,3,1,4,ITI,ITI1,9,Toscana
 2024-11-10,Pfizer/BioNTech,TOS,70-79,8,3,11,ITI,ITI1,9,Toscana
 2024-11-10,Pfizer/BioNTech,TOS,80-89,4,2,6,ITI,ITI1,9,Toscana
+2024-11-10,Pfizer/BioNTech,UMB,40-49,3,0,3,ITI,ITI2,10,Umbria
+2024-11-10,Pfizer/BioNTech,UMB,50-59,1,1,2,ITI,ITI2,10,Umbria
+2024-11-10,Pfizer/BioNTech,UMB,60-69,3,3,6,ITI,ITI2,10,Umbria
+2024-11-10,Pfizer/BioNTech,UMB,70-79,14,7,21,ITI,ITI2,10,Umbria
+2024-11-10,Pfizer/BioNTech,UMB,80-89,3,7,10,ITI,ITI2,10,Umbria
+2024-11-10,Pfizer/BioNTech,UMB,90+,0,2,2,ITI,ITI2,10,Umbria
 2024-11-10,Pfizer/BioNTech,VDA,60-69,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-10,Pfizer/BioNTech,VEN,30-39,2,1,3,ITH,ITH3,5,Veneto
 2024-11-10,Pfizer/BioNTech,VEN,50-59,4,5,9,ITH,ITH3,5,Veneto
@@ -5164,12 +5250,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-11,Pfizer/BioNTech,TOS,70-79,328,333,661,ITI,ITI1,9,Toscana
 2024-11-11,Pfizer/BioNTech,TOS,80-89,202,239,441,ITI,ITI1,9,Toscana
 2024-11-11,Pfizer/BioNTech,TOS,90+,33,43,76,ITI,ITI1,9,Toscana
-2024-11-11,Pfizer/BioNTech,UMB,30-39,2,2,4,ITI,ITI2,10,Umbria
-2024-11-11,Pfizer/BioNTech,UMB,40-49,1,3,4,ITI,ITI2,10,Umbria
-2024-11-11,Pfizer/BioNTech,UMB,50-59,2,3,5,ITI,ITI2,10,Umbria
-2024-11-11,Pfizer/BioNTech,UMB,60-69,2,5,7,ITI,ITI2,10,Umbria
-2024-11-11,Pfizer/BioNTech,UMB,70-79,1,3,4,ITI,ITI2,10,Umbria
-2024-11-11,Pfizer/BioNTech,UMB,80-89,2,2,4,ITI,ITI2,10,Umbria
+2024-11-11,Pfizer/BioNTech,UMB,30-39,4,2,6,ITI,ITI2,10,Umbria
+2024-11-11,Pfizer/BioNTech,UMB,40-49,1,6,7,ITI,ITI2,10,Umbria
+2024-11-11,Pfizer/BioNTech,UMB,50-59,12,5,17,ITI,ITI2,10,Umbria
+2024-11-11,Pfizer/BioNTech,UMB,60-69,12,20,32,ITI,ITI2,10,Umbria
+2024-11-11,Pfizer/BioNTech,UMB,70-79,36,32,68,ITI,ITI2,10,Umbria
+2024-11-11,Pfizer/BioNTech,UMB,80-89,19,34,53,ITI,ITI2,10,Umbria
+2024-11-11,Pfizer/BioNTech,UMB,90+,6,17,23,ITI,ITI2,10,Umbria
 2024-11-11,Pfizer/BioNTech,VDA,30-39,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-11,Pfizer/BioNTech,VDA,40-49,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-11,Pfizer/BioNTech,VDA,50-59,2,4,6,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -5336,12 +5423,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-12,Pfizer/BioNTech,TOS,70-79,368,409,777,ITI,ITI1,9,Toscana
 2024-11-12,Pfizer/BioNTech,TOS,80-89,253,298,551,ITI,ITI1,9,Toscana
 2024-11-12,Pfizer/BioNTech,TOS,90+,25,82,107,ITI,ITI1,9,Toscana
-2024-11-12,Pfizer/BioNTech,UMB,30-39,3,1,4,ITI,ITI2,10,Umbria
-2024-11-12,Pfizer/BioNTech,UMB,40-49,0,2,2,ITI,ITI2,10,Umbria
-2024-11-12,Pfizer/BioNTech,UMB,50-59,1,4,5,ITI,ITI2,10,Umbria
-2024-11-12,Pfizer/BioNTech,UMB,60-69,2,3,5,ITI,ITI2,10,Umbria
-2024-11-12,Pfizer/BioNTech,UMB,70-79,2,2,4,ITI,ITI2,10,Umbria
-2024-11-12,Pfizer/BioNTech,UMB,80-89,3,3,6,ITI,ITI2,10,Umbria
+2024-11-12,Pfizer/BioNTech,UMB,20-29,2,3,5,ITI,ITI2,10,Umbria
+2024-11-12,Pfizer/BioNTech,UMB,30-39,5,6,11,ITI,ITI2,10,Umbria
+2024-11-12,Pfizer/BioNTech,UMB,40-49,2,5,7,ITI,ITI2,10,Umbria
+2024-11-12,Pfizer/BioNTech,UMB,50-59,6,10,16,ITI,ITI2,10,Umbria
+2024-11-12,Pfizer/BioNTech,UMB,60-69,26,26,52,ITI,ITI2,10,Umbria
+2024-11-12,Pfizer/BioNTech,UMB,70-79,41,36,77,ITI,ITI2,10,Umbria
+2024-11-12,Pfizer/BioNTech,UMB,80-89,43,43,86,ITI,ITI2,10,Umbria
+2024-11-12,Pfizer/BioNTech,UMB,90+,8,18,26,ITI,ITI2,10,Umbria
 2024-11-12,Pfizer/BioNTech,VDA,20-29,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-12,Pfizer/BioNTech,VDA,30-39,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-12,Pfizer/BioNTech,VDA,50-59,4,2,6,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -5511,13 +5600,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-13,Pfizer/BioNTech,TOS,80-89,299,357,656,ITI,ITI1,9,Toscana
 2024-11-13,Pfizer/BioNTech,TOS,90+,32,75,107,ITI,ITI1,9,Toscana
 2024-11-13,Pfizer/BioNTech,UMB,12-19,1,0,1,ITI,ITI2,10,Umbria
-2024-11-13,Pfizer/BioNTech,UMB,30-39,4,2,6,ITI,ITI2,10,Umbria
-2024-11-13,Pfizer/BioNTech,UMB,40-49,1,3,4,ITI,ITI2,10,Umbria
-2024-11-13,Pfizer/BioNTech,UMB,50-59,7,7,14,ITI,ITI2,10,Umbria
-2024-11-13,Pfizer/BioNTech,UMB,60-69,12,12,24,ITI,ITI2,10,Umbria
-2024-11-13,Pfizer/BioNTech,UMB,70-79,5,9,14,ITI,ITI2,10,Umbria
-2024-11-13,Pfizer/BioNTech,UMB,80-89,7,7,14,ITI,ITI2,10,Umbria
-2024-11-13,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
+2024-11-13,Pfizer/BioNTech,UMB,20-29,0,2,2,ITI,ITI2,10,Umbria
+2024-11-13,Pfizer/BioNTech,UMB,30-39,7,4,11,ITI,ITI2,10,Umbria
+2024-11-13,Pfizer/BioNTech,UMB,40-49,1,5,6,ITI,ITI2,10,Umbria
+2024-11-13,Pfizer/BioNTech,UMB,50-59,17,15,32,ITI,ITI2,10,Umbria
+2024-11-13,Pfizer/BioNTech,UMB,60-69,55,41,96,ITI,ITI2,10,Umbria
+2024-11-13,Pfizer/BioNTech,UMB,70-79,65,63,128,ITI,ITI2,10,Umbria
+2024-11-13,Pfizer/BioNTech,UMB,80-89,65,58,123,ITI,ITI2,10,Umbria
+2024-11-13,Pfizer/BioNTech,UMB,90+,8,24,32,ITI,ITI2,10,Umbria
 2024-11-13,Pfizer/BioNTech,VDA,20-29,0,3,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-13,Pfizer/BioNTech,VDA,30-39,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-13,Pfizer/BioNTech,VDA,40-49,2,4,6,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -5689,13 +5779,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-14,Pfizer/BioNTech,TOS,80-89,312,410,722,ITI,ITI1,9,Toscana
 2024-11-14,Pfizer/BioNTech,TOS,90+,34,75,109,ITI,ITI1,9,Toscana
 2024-11-14,Pfizer/BioNTech,UMB,20-29,1,2,3,ITI,ITI2,10,Umbria
-2024-11-14,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
-2024-11-14,Pfizer/BioNTech,UMB,40-49,1,2,3,ITI,ITI2,10,Umbria
-2024-11-14,Pfizer/BioNTech,UMB,50-59,4,3,7,ITI,ITI2,10,Umbria
-2024-11-14,Pfizer/BioNTech,UMB,60-69,4,4,8,ITI,ITI2,10,Umbria
-2024-11-14,Pfizer/BioNTech,UMB,70-79,14,7,21,ITI,ITI2,10,Umbria
-2024-11-14,Pfizer/BioNTech,UMB,80-89,8,3,11,ITI,ITI2,10,Umbria
-2024-11-14,Pfizer/BioNTech,UMB,90+,0,2,2,ITI,ITI2,10,Umbria
+2024-11-14,Pfizer/BioNTech,UMB,30-39,2,3,5,ITI,ITI2,10,Umbria
+2024-11-14,Pfizer/BioNTech,UMB,40-49,3,5,8,ITI,ITI2,10,Umbria
+2024-11-14,Pfizer/BioNTech,UMB,50-59,12,12,24,ITI,ITI2,10,Umbria
+2024-11-14,Pfizer/BioNTech,UMB,60-69,27,15,42,ITI,ITI2,10,Umbria
+2024-11-14,Pfizer/BioNTech,UMB,70-79,57,52,109,ITI,ITI2,10,Umbria
+2024-11-14,Pfizer/BioNTech,UMB,80-89,38,43,81,ITI,ITI2,10,Umbria
+2024-11-14,Pfizer/BioNTech,UMB,90+,13,26,39,ITI,ITI2,10,Umbria
 2024-11-14,Pfizer/BioNTech,VDA,40-49,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-14,Pfizer/BioNTech,VDA,50-59,4,6,10,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-14,Pfizer/BioNTech,VDA,60-69,8,11,19,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -5869,13 +5959,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-15,Pfizer/BioNTech,TOS,80-89,258,313,571,ITI,ITI1,9,Toscana
 2024-11-15,Pfizer/BioNTech,TOS,90+,29,63,92,ITI,ITI1,9,Toscana
 2024-11-15,Pfizer/BioNTech,UMB,20-29,1,4,5,ITI,ITI2,10,Umbria
-2024-11-15,Pfizer/BioNTech,UMB,30-39,3,0,3,ITI,ITI2,10,Umbria
-2024-11-15,Pfizer/BioNTech,UMB,40-49,2,2,4,ITI,ITI2,10,Umbria
-2024-11-15,Pfizer/BioNTech,UMB,50-59,2,4,6,ITI,ITI2,10,Umbria
-2024-11-15,Pfizer/BioNTech,UMB,60-69,4,4,8,ITI,ITI2,10,Umbria
-2024-11-15,Pfizer/BioNTech,UMB,70-79,12,9,21,ITI,ITI2,10,Umbria
-2024-11-15,Pfizer/BioNTech,UMB,80-89,1,0,1,ITI,ITI2,10,Umbria
-2024-11-15,Pfizer/BioNTech,UMB,90+,0,2,2,ITI,ITI2,10,Umbria
+2024-11-15,Pfizer/BioNTech,UMB,30-39,4,3,7,ITI,ITI2,10,Umbria
+2024-11-15,Pfizer/BioNTech,UMB,40-49,5,4,9,ITI,ITI2,10,Umbria
+2024-11-15,Pfizer/BioNTech,UMB,50-59,12,10,22,ITI,ITI2,10,Umbria
+2024-11-15,Pfizer/BioNTech,UMB,60-69,37,36,73,ITI,ITI2,10,Umbria
+2024-11-15,Pfizer/BioNTech,UMB,70-79,66,45,111,ITI,ITI2,10,Umbria
+2024-11-15,Pfizer/BioNTech,UMB,80-89,34,36,70,ITI,ITI2,10,Umbria
+2024-11-15,Pfizer/BioNTech,UMB,90+,9,16,25,ITI,ITI2,10,Umbria
 2024-11-15,Pfizer/BioNTech,VDA,30-39,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-15,Pfizer/BioNTech,VDA,40-49,1,3,4,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-15,Pfizer/BioNTech,VDA,50-59,4,4,8,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -6011,10 +6101,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-16,Pfizer/BioNTech,TOS,70-79,124,154,278,ITI,ITI1,9,Toscana
 2024-11-16,Pfizer/BioNTech,TOS,80-89,63,113,176,ITI,ITI1,9,Toscana
 2024-11-16,Pfizer/BioNTech,TOS,90+,10,23,33,ITI,ITI1,9,Toscana
-2024-11-16,Pfizer/BioNTech,UMB,60-69,1,1,2,ITI,ITI2,10,Umbria
-2024-11-16,Pfizer/BioNTech,UMB,70-79,0,1,1,ITI,ITI2,10,Umbria
-2024-11-16,Pfizer/BioNTech,UMB,80-89,2,1,3,ITI,ITI2,10,Umbria
-2024-11-16,Pfizer/BioNTech,UMB,90+,1,0,1,ITI,ITI2,10,Umbria
+2024-11-16,Pfizer/BioNTech,UMB,30-39,2,1,3,ITI,ITI2,10,Umbria
+2024-11-16,Pfizer/BioNTech,UMB,40-49,1,0,1,ITI,ITI2,10,Umbria
+2024-11-16,Pfizer/BioNTech,UMB,50-59,2,0,2,ITI,ITI2,10,Umbria
+2024-11-16,Pfizer/BioNTech,UMB,60-69,4,3,7,ITI,ITI2,10,Umbria
+2024-11-16,Pfizer/BioNTech,UMB,70-79,10,10,20,ITI,ITI2,10,Umbria
+2024-11-16,Pfizer/BioNTech,UMB,80-89,5,9,14,ITI,ITI2,10,Umbria
+2024-11-16,Pfizer/BioNTech,UMB,90+,2,8,10,ITI,ITI2,10,Umbria
 2024-11-16,Pfizer/BioNTech,VDA,40-49,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-16,Pfizer/BioNTech,VDA,50-59,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-16,Pfizer/BioNTech,VDA,60-69,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -6242,10 +6335,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-18,Pfizer/BioNTech,TOS,70-79,287,267,554,ITI,ITI1,9,Toscana
 2024-11-18,Pfizer/BioNTech,TOS,80-89,151,182,333,ITI,ITI1,9,Toscana
 2024-11-18,Pfizer/BioNTech,TOS,90+,14,51,65,ITI,ITI1,9,Toscana
-2024-11-18,Pfizer/BioNTech,UMB,30-39,1,1,2,ITI,ITI2,10,Umbria
-2024-11-18,Pfizer/BioNTech,UMB,50-59,1,1,2,ITI,ITI2,10,Umbria
-2024-11-18,Pfizer/BioNTech,UMB,60-69,2,1,3,ITI,ITI2,10,Umbria
-2024-11-18,Pfizer/BioNTech,UMB,70-79,3,2,5,ITI,ITI2,10,Umbria
+2024-11-18,Pfizer/BioNTech,UMB,30-39,2,3,5,ITI,ITI2,10,Umbria
+2024-11-18,Pfizer/BioNTech,UMB,40-49,0,2,2,ITI,ITI2,10,Umbria
+2024-11-18,Pfizer/BioNTech,UMB,50-59,7,6,13,ITI,ITI2,10,Umbria
+2024-11-18,Pfizer/BioNTech,UMB,60-69,23,18,41,ITI,ITI2,10,Umbria
+2024-11-18,Pfizer/BioNTech,UMB,70-79,24,22,46,ITI,ITI2,10,Umbria
+2024-11-18,Pfizer/BioNTech,UMB,80-89,12,29,41,ITI,ITI2,10,Umbria
+2024-11-18,Pfizer/BioNTech,UMB,90+,2,10,12,ITI,ITI2,10,Umbria
 2024-11-18,Pfizer/BioNTech,VDA,30-39,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-18,Pfizer/BioNTech,VDA,50-59,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-18,Pfizer/BioNTech,VDA,60-69,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -6411,14 +6507,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-19,Pfizer/BioNTech,TOS,70-79,287,263,550,ITI,ITI1,9,Toscana
 2024-11-19,Pfizer/BioNTech,TOS,80-89,158,223,381,ITI,ITI1,9,Toscana
 2024-11-19,Pfizer/BioNTech,TOS,90+,21,55,76,ITI,ITI1,9,Toscana
-2024-11-19,Pfizer/BioNTech,UMB,20-29,0,1,1,ITI,ITI2,10,Umbria
-2024-11-19,Pfizer/BioNTech,UMB,30-39,5,1,6,ITI,ITI2,10,Umbria
-2024-11-19,Pfizer/BioNTech,UMB,40-49,1,1,2,ITI,ITI2,10,Umbria
-2024-11-19,Pfizer/BioNTech,UMB,50-59,2,4,6,ITI,ITI2,10,Umbria
-2024-11-19,Pfizer/BioNTech,UMB,60-69,0,2,2,ITI,ITI2,10,Umbria
-2024-11-19,Pfizer/BioNTech,UMB,70-79,4,2,6,ITI,ITI2,10,Umbria
-2024-11-19,Pfizer/BioNTech,UMB,80-89,3,5,8,ITI,ITI2,10,Umbria
-2024-11-19,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
+2024-11-19,Pfizer/BioNTech,UMB,20-29,0,3,3,ITI,ITI2,10,Umbria
+2024-11-19,Pfizer/BioNTech,UMB,30-39,6,2,8,ITI,ITI2,10,Umbria
+2024-11-19,Pfizer/BioNTech,UMB,40-49,2,2,4,ITI,ITI2,10,Umbria
+2024-11-19,Pfizer/BioNTech,UMB,50-59,9,6,15,ITI,ITI2,10,Umbria
+2024-11-19,Pfizer/BioNTech,UMB,60-69,20,25,45,ITI,ITI2,10,Umbria
+2024-11-19,Pfizer/BioNTech,UMB,70-79,38,33,71,ITI,ITI2,10,Umbria
+2024-11-19,Pfizer/BioNTech,UMB,80-89,25,31,56,ITI,ITI2,10,Umbria
+2024-11-19,Pfizer/BioNTech,UMB,90+,5,6,11,ITI,ITI2,10,Umbria
 2024-11-19,Pfizer/BioNTech,VDA,30-39,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-19,Pfizer/BioNTech,VDA,50-59,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-19,Pfizer/BioNTech,VDA,60-69,3,4,7,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -6581,14 +6677,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-20,Pfizer/BioNTech,TOS,80-89,210,244,454,ITI,ITI1,9,Toscana
 2024-11-20,Pfizer/BioNTech,TOS,90+,18,59,77,ITI,ITI1,9,Toscana
 2024-11-20,Pfizer/BioNTech,UMB,12-19,0,1,1,ITI,ITI2,10,Umbria
-2024-11-20,Pfizer/BioNTech,UMB,20-29,0,2,2,ITI,ITI2,10,Umbria
-2024-11-20,Pfizer/BioNTech,UMB,30-39,2,2,4,ITI,ITI2,10,Umbria
-2024-11-20,Pfizer/BioNTech,UMB,40-49,1,0,1,ITI,ITI2,10,Umbria
-2024-11-20,Pfizer/BioNTech,UMB,50-59,3,1,4,ITI,ITI2,10,Umbria
-2024-11-20,Pfizer/BioNTech,UMB,60-69,4,2,6,ITI,ITI2,10,Umbria
-2024-11-20,Pfizer/BioNTech,UMB,70-79,4,3,7,ITI,ITI2,10,Umbria
-2024-11-20,Pfizer/BioNTech,UMB,80-89,2,1,3,ITI,ITI2,10,Umbria
-2024-11-20,Pfizer/BioNTech,UMB,90+,1,1,2,ITI,ITI2,10,Umbria
+2024-11-20,Pfizer/BioNTech,UMB,20-29,0,3,3,ITI,ITI2,10,Umbria
+2024-11-20,Pfizer/BioNTech,UMB,30-39,3,5,8,ITI,ITI2,10,Umbria
+2024-11-20,Pfizer/BioNTech,UMB,40-49,2,1,3,ITI,ITI2,10,Umbria
+2024-11-20,Pfizer/BioNTech,UMB,50-59,14,9,23,ITI,ITI2,10,Umbria
+2024-11-20,Pfizer/BioNTech,UMB,60-69,25,18,43,ITI,ITI2,10,Umbria
+2024-11-20,Pfizer/BioNTech,UMB,70-79,44,37,81,ITI,ITI2,10,Umbria
+2024-11-20,Pfizer/BioNTech,UMB,80-89,24,46,70,ITI,ITI2,10,Umbria
+2024-11-20,Pfizer/BioNTech,UMB,90+,12,14,26,ITI,ITI2,10,Umbria
 2024-11-20,Pfizer/BioNTech,VDA,12-19,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-20,Pfizer/BioNTech,VDA,30-39,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-20,Pfizer/BioNTech,VDA,40-49,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -6760,13 +6856,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-21,Pfizer/BioNTech,TOS,80-89,215,306,521,ITI,ITI1,9,Toscana
 2024-11-21,Pfizer/BioNTech,TOS,90+,29,83,112,ITI,ITI1,9,Toscana
 2024-11-21,Pfizer/BioNTech,UMB,12-19,0,1,1,ITI,ITI2,10,Umbria
-2024-11-21,Pfizer/BioNTech,UMB,30-39,1,2,3,ITI,ITI2,10,Umbria
-2024-11-21,Pfizer/BioNTech,UMB,40-49,0,3,3,ITI,ITI2,10,Umbria
-2024-11-21,Pfizer/BioNTech,UMB,50-59,2,0,2,ITI,ITI2,10,Umbria
-2024-11-21,Pfizer/BioNTech,UMB,60-69,2,4,6,ITI,ITI2,10,Umbria
-2024-11-21,Pfizer/BioNTech,UMB,70-79,2,0,2,ITI,ITI2,10,Umbria
-2024-11-21,Pfizer/BioNTech,UMB,80-89,2,3,5,ITI,ITI2,10,Umbria
-2024-11-21,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
+2024-11-21,Pfizer/BioNTech,UMB,20-29,1,3,4,ITI,ITI2,10,Umbria
+2024-11-21,Pfizer/BioNTech,UMB,30-39,2,2,4,ITI,ITI2,10,Umbria
+2024-11-21,Pfizer/BioNTech,UMB,40-49,2,9,11,ITI,ITI2,10,Umbria
+2024-11-21,Pfizer/BioNTech,UMB,50-59,6,9,15,ITI,ITI2,10,Umbria
+2024-11-21,Pfizer/BioNTech,UMB,60-69,32,25,57,ITI,ITI2,10,Umbria
+2024-11-21,Pfizer/BioNTech,UMB,70-79,40,26,66,ITI,ITI2,10,Umbria
+2024-11-21,Pfizer/BioNTech,UMB,80-89,28,27,55,ITI,ITI2,10,Umbria
+2024-11-21,Pfizer/BioNTech,UMB,90+,3,12,15,ITI,ITI2,10,Umbria
 2024-11-21,Pfizer/BioNTech,VDA,30-39,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-21,Pfizer/BioNTech,VDA,40-49,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-21,Pfizer/BioNTech,VDA,60-69,9,9,18,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -6938,13 +7035,15 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-22,Pfizer/BioNTech,TOS,70-79,369,341,710,ITI,ITI1,9,Toscana
 2024-11-22,Pfizer/BioNTech,TOS,80-89,210,254,464,ITI,ITI1,9,Toscana
 2024-11-22,Pfizer/BioNTech,TOS,90+,20,65,85,ITI,ITI1,9,Toscana
-2024-11-22,Pfizer/BioNTech,UMB,20-29,1,0,1,ITI,ITI2,10,Umbria
-2024-11-22,Pfizer/BioNTech,UMB,30-39,1,0,1,ITI,ITI2,10,Umbria
-2024-11-22,Pfizer/BioNTech,UMB,50-59,0,1,1,ITI,ITI2,10,Umbria
-2024-11-22,Pfizer/BioNTech,UMB,60-69,1,2,3,ITI,ITI2,10,Umbria
-2024-11-22,Pfizer/BioNTech,UMB,70-79,3,6,9,ITI,ITI2,10,Umbria
-2024-11-22,Pfizer/BioNTech,UMB,80-89,3,0,3,ITI,ITI2,10,Umbria
-2024-11-22,Pfizer/BioNTech,UMB,90+,1,1,2,ITI,ITI2,10,Umbria
+2024-11-22,Pfizer/BioNTech,UMB,12-19,0,1,1,ITI,ITI2,10,Umbria
+2024-11-22,Pfizer/BioNTech,UMB,20-29,2,0,2,ITI,ITI2,10,Umbria
+2024-11-22,Pfizer/BioNTech,UMB,30-39,3,2,5,ITI,ITI2,10,Umbria
+2024-11-22,Pfizer/BioNTech,UMB,40-49,4,4,8,ITI,ITI2,10,Umbria
+2024-11-22,Pfizer/BioNTech,UMB,50-59,8,5,13,ITI,ITI2,10,Umbria
+2024-11-22,Pfizer/BioNTech,UMB,60-69,25,31,56,ITI,ITI2,10,Umbria
+2024-11-22,Pfizer/BioNTech,UMB,70-79,37,45,82,ITI,ITI2,10,Umbria
+2024-11-22,Pfizer/BioNTech,UMB,80-89,35,30,65,ITI,ITI2,10,Umbria
+2024-11-22,Pfizer/BioNTech,UMB,90+,3,12,15,ITI,ITI2,10,Umbria
 2024-11-22,Pfizer/BioNTech,VDA,12-19,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-22,Pfizer/BioNTech,VDA,30-39,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-22,Pfizer/BioNTech,VDA,40-49,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -7083,7 +7182,11 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-23,Pfizer/BioNTech,TOS,70-79,70,81,151,ITI,ITI1,9,Toscana
 2024-11-23,Pfizer/BioNTech,TOS,80-89,46,56,102,ITI,ITI1,9,Toscana
 2024-11-23,Pfizer/BioNTech,TOS,90+,2,20,22,ITI,ITI1,9,Toscana
-2024-11-23,Pfizer/BioNTech,UMB,50-59,1,0,1,ITI,ITI2,10,Umbria
+2024-11-23,Pfizer/BioNTech,UMB,50-59,1,2,3,ITI,ITI2,10,Umbria
+2024-11-23,Pfizer/BioNTech,UMB,60-69,0,2,2,ITI,ITI2,10,Umbria
+2024-11-23,Pfizer/BioNTech,UMB,70-79,3,4,7,ITI,ITI2,10,Umbria
+2024-11-23,Pfizer/BioNTech,UMB,80-89,8,6,14,ITI,ITI2,10,Umbria
+2024-11-23,Pfizer/BioNTech,UMB,90+,4,4,8,ITI,ITI2,10,Umbria
 2024-11-23,Pfizer/BioNTech,VDA,90+,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-23,Pfizer/BioNTech,VEN,12-19,1,3,4,ITH,ITH3,5,Veneto
 2024-11-23,Pfizer/BioNTech,VEN,20-29,10,4,14,ITH,ITH3,5,Veneto
@@ -7159,6 +7262,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-24,Pfizer/BioNTech,TOS,70-79,6,7,13,ITI,ITI1,9,Toscana
 2024-11-24,Pfizer/BioNTech,TOS,80-89,2,8,10,ITI,ITI1,9,Toscana
 2024-11-24,Pfizer/BioNTech,TOS,90+,0,3,3,ITI,ITI1,9,Toscana
+2024-11-24,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
 2024-11-24,Pfizer/BioNTech,VDA,90+,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-24,Pfizer/BioNTech,VEN,50-59,0,1,1,ITH,ITH3,5,Veneto
 2024-11-24,Pfizer/BioNTech,VEN,60-69,3,2,5,ITH,ITH3,5,Veneto
@@ -7316,9 +7420,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-25,Pfizer/BioNTech,TOS,90+,19,39,58,ITI,ITI1,9,Toscana
 2024-11-25,Pfizer/BioNTech,UMB,20-29,1,0,1,ITI,ITI2,10,Umbria
 2024-11-25,Pfizer/BioNTech,UMB,30-39,2,0,2,ITI,ITI2,10,Umbria
-2024-11-25,Pfizer/BioNTech,UMB,60-69,1,0,1,ITI,ITI2,10,Umbria
-2024-11-25,Pfizer/BioNTech,UMB,70-79,1,2,3,ITI,ITI2,10,Umbria
-2024-11-25,Pfizer/BioNTech,UMB,80-89,1,0,1,ITI,ITI2,10,Umbria
+2024-11-25,Pfizer/BioNTech,UMB,60-69,8,8,16,ITI,ITI2,10,Umbria
+2024-11-25,Pfizer/BioNTech,UMB,70-79,18,12,30,ITI,ITI2,10,Umbria
+2024-11-25,Pfizer/BioNTech,UMB,80-89,16,12,28,ITI,ITI2,10,Umbria
+2024-11-25,Pfizer/BioNTech,UMB,90+,4,6,10,ITI,ITI2,10,Umbria
 2024-11-25,Pfizer/BioNTech,VDA,50-59,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-25,Pfizer/BioNTech,VDA,60-69,3,3,6,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-25,Pfizer/BioNTech,VDA,70-79,3,3,6,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -7482,13 +7587,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-26,Pfizer/BioNTech,TOS,70-79,220,234,454,ITI,ITI1,9,Toscana
 2024-11-26,Pfizer/BioNTech,TOS,80-89,151,189,340,ITI,ITI1,9,Toscana
 2024-11-26,Pfizer/BioNTech,TOS,90+,19,52,71,ITI,ITI1,9,Toscana
-2024-11-26,Pfizer/BioNTech,UMB,20-29,1,0,1,ITI,ITI2,10,Umbria
-2024-11-26,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
-2024-11-26,Pfizer/BioNTech,UMB,40-49,1,0,1,ITI,ITI2,10,Umbria
-2024-11-26,Pfizer/BioNTech,UMB,50-59,1,2,3,ITI,ITI2,10,Umbria
-2024-11-26,Pfizer/BioNTech,UMB,60-69,2,2,4,ITI,ITI2,10,Umbria
-2024-11-26,Pfizer/BioNTech,UMB,70-79,6,2,8,ITI,ITI2,10,Umbria
-2024-11-26,Pfizer/BioNTech,UMB,80-89,5,1,6,ITI,ITI2,10,Umbria
+2024-11-26,Pfizer/BioNTech,UMB,20-29,2,0,2,ITI,ITI2,10,Umbria
+2024-11-26,Pfizer/BioNTech,UMB,30-39,0,5,5,ITI,ITI2,10,Umbria
+2024-11-26,Pfizer/BioNTech,UMB,40-49,5,3,8,ITI,ITI2,10,Umbria
+2024-11-26,Pfizer/BioNTech,UMB,50-59,6,6,12,ITI,ITI2,10,Umbria
+2024-11-26,Pfizer/BioNTech,UMB,60-69,20,30,50,ITI,ITI2,10,Umbria
+2024-11-26,Pfizer/BioNTech,UMB,70-79,49,34,83,ITI,ITI2,10,Umbria
+2024-11-26,Pfizer/BioNTech,UMB,80-89,20,35,55,ITI,ITI2,10,Umbria
+2024-11-26,Pfizer/BioNTech,UMB,90+,9,15,24,ITI,ITI2,10,Umbria
 2024-11-26,Pfizer/BioNTech,VDA,60-69,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-26,Pfizer/BioNTech,VDA,70-79,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-26,Pfizer/BioNTech,VDA,80-89,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -7649,13 +7755,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-27,Pfizer/BioNTech,TOS,70-79,248,285,533,ITI,ITI1,9,Toscana
 2024-11-27,Pfizer/BioNTech,TOS,80-89,148,204,352,ITI,ITI1,9,Toscana
 2024-11-27,Pfizer/BioNTech,TOS,90+,20,61,81,ITI,ITI1,9,Toscana
-2024-11-27,Pfizer/BioNTech,UMB,30-39,0,4,4,ITI,ITI2,10,Umbria
-2024-11-27,Pfizer/BioNTech,UMB,40-49,3,2,5,ITI,ITI2,10,Umbria
-2024-11-27,Pfizer/BioNTech,UMB,50-59,3,3,6,ITI,ITI2,10,Umbria
-2024-11-27,Pfizer/BioNTech,UMB,60-69,14,7,21,ITI,ITI2,10,Umbria
-2024-11-27,Pfizer/BioNTech,UMB,70-79,10,10,20,ITI,ITI2,10,Umbria
-2024-11-27,Pfizer/BioNTech,UMB,80-89,7,5,12,ITI,ITI2,10,Umbria
-2024-11-27,Pfizer/BioNTech,UMB,90+,3,0,3,ITI,ITI2,10,Umbria
+2024-11-27,Pfizer/BioNTech,UMB,30-39,1,6,7,ITI,ITI2,10,Umbria
+2024-11-27,Pfizer/BioNTech,UMB,40-49,8,5,13,ITI,ITI2,10,Umbria
+2024-11-27,Pfizer/BioNTech,UMB,50-59,7,8,15,ITI,ITI2,10,Umbria
+2024-11-27,Pfizer/BioNTech,UMB,60-69,32,24,56,ITI,ITI2,10,Umbria
+2024-11-27,Pfizer/BioNTech,UMB,70-79,51,37,88,ITI,ITI2,10,Umbria
+2024-11-27,Pfizer/BioNTech,UMB,80-89,23,36,59,ITI,ITI2,10,Umbria
+2024-11-27,Pfizer/BioNTech,UMB,90+,11,11,22,ITI,ITI2,10,Umbria
 2024-11-27,Pfizer/BioNTech,VDA,30-39,2,1,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-27,Pfizer/BioNTech,VDA,40-49,2,1,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-27,Pfizer/BioNTech,VDA,50-59,3,3,6,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -7819,13 +7925,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-28,Pfizer/BioNTech,TOS,70-79,293,304,597,ITI,ITI1,9,Toscana
 2024-11-28,Pfizer/BioNTech,TOS,80-89,165,249,414,ITI,ITI1,9,Toscana
 2024-11-28,Pfizer/BioNTech,TOS,90+,26,43,69,ITI,ITI1,9,Toscana
-2024-11-28,Pfizer/BioNTech,UMB,30-39,1,0,1,ITI,ITI2,10,Umbria
-2024-11-28,Pfizer/BioNTech,UMB,40-49,1,1,2,ITI,ITI2,10,Umbria
-2024-11-28,Pfizer/BioNTech,UMB,50-59,4,1,5,ITI,ITI2,10,Umbria
-2024-11-28,Pfizer/BioNTech,UMB,60-69,5,4,9,ITI,ITI2,10,Umbria
-2024-11-28,Pfizer/BioNTech,UMB,70-79,8,9,17,ITI,ITI2,10,Umbria
-2024-11-28,Pfizer/BioNTech,UMB,80-89,6,11,17,ITI,ITI2,10,Umbria
-2024-11-28,Pfizer/BioNTech,UMB,90+,1,1,2,ITI,ITI2,10,Umbria
+2024-11-28,Pfizer/BioNTech,UMB,20-29,1,1,2,ITI,ITI2,10,Umbria
+2024-11-28,Pfizer/BioNTech,UMB,30-39,3,3,6,ITI,ITI2,10,Umbria
+2024-11-28,Pfizer/BioNTech,UMB,40-49,4,4,8,ITI,ITI2,10,Umbria
+2024-11-28,Pfizer/BioNTech,UMB,50-59,4,4,8,ITI,ITI2,10,Umbria
+2024-11-28,Pfizer/BioNTech,UMB,60-69,14,18,32,ITI,ITI2,10,Umbria
+2024-11-28,Pfizer/BioNTech,UMB,70-79,34,31,65,ITI,ITI2,10,Umbria
+2024-11-28,Pfizer/BioNTech,UMB,80-89,23,33,56,ITI,ITI2,10,Umbria
+2024-11-28,Pfizer/BioNTech,UMB,90+,4,8,12,ITI,ITI2,10,Umbria
 2024-11-28,Pfizer/BioNTech,VDA,50-59,3,0,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-28,Pfizer/BioNTech,VDA,60-69,1,4,5,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-28,Pfizer/BioNTech,VDA,70-79,3,5,8,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -7985,13 +8092,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-29,Pfizer/BioNTech,TOS,70-79,240,294,534,ITI,ITI1,9,Toscana
 2024-11-29,Pfizer/BioNTech,TOS,80-89,144,182,326,ITI,ITI1,9,Toscana
 2024-11-29,Pfizer/BioNTech,TOS,90+,14,39,53,ITI,ITI1,9,Toscana
-2024-11-29,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
-2024-11-29,Pfizer/BioNTech,UMB,40-49,1,0,1,ITI,ITI2,10,Umbria
-2024-11-29,Pfizer/BioNTech,UMB,50-59,0,2,2,ITI,ITI2,10,Umbria
-2024-11-29,Pfizer/BioNTech,UMB,60-69,2,3,5,ITI,ITI2,10,Umbria
-2024-11-29,Pfizer/BioNTech,UMB,70-79,2,2,4,ITI,ITI2,10,Umbria
-2024-11-29,Pfizer/BioNTech,UMB,80-89,2,1,3,ITI,ITI2,10,Umbria
-2024-11-29,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
+2024-11-29,Pfizer/BioNTech,UMB,20-29,1,0,1,ITI,ITI2,10,Umbria
+2024-11-29,Pfizer/BioNTech,UMB,30-39,1,2,3,ITI,ITI2,10,Umbria
+2024-11-29,Pfizer/BioNTech,UMB,40-49,3,0,3,ITI,ITI2,10,Umbria
+2024-11-29,Pfizer/BioNTech,UMB,50-59,1,5,6,ITI,ITI2,10,Umbria
+2024-11-29,Pfizer/BioNTech,UMB,60-69,17,17,34,ITI,ITI2,10,Umbria
+2024-11-29,Pfizer/BioNTech,UMB,70-79,30,35,65,ITI,ITI2,10,Umbria
+2024-11-29,Pfizer/BioNTech,UMB,80-89,30,27,57,ITI,ITI2,10,Umbria
+2024-11-29,Pfizer/BioNTech,UMB,90+,6,11,17,ITI,ITI2,10,Umbria
 2024-11-29,Pfizer/BioNTech,VDA,30-39,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-29,Pfizer/BioNTech,VDA,40-49,2,0,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-29,Pfizer/BioNTech,VDA,50-59,1,4,5,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -8129,6 +8237,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-30,Pfizer/BioNTech,TOS,70-79,18,21,39,ITI,ITI1,9,Toscana
 2024-11-30,Pfizer/BioNTech,TOS,80-89,16,26,42,ITI,ITI1,9,Toscana
 2024-11-30,Pfizer/BioNTech,TOS,90+,3,8,11,ITI,ITI1,9,Toscana
+2024-11-30,Pfizer/BioNTech,UMB,40-49,1,0,1,ITI,ITI2,10,Umbria
+2024-11-30,Pfizer/BioNTech,UMB,60-69,2,1,3,ITI,ITI2,10,Umbria
+2024-11-30,Pfizer/BioNTech,UMB,70-79,4,3,7,ITI,ITI2,10,Umbria
+2024-11-30,Pfizer/BioNTech,UMB,80-89,1,2,3,ITI,ITI2,10,Umbria
 2024-11-30,Pfizer/BioNTech,VDA,20-29,2,0,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-30,Pfizer/BioNTech,VDA,50-59,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-11-30,Pfizer/BioNTech,VDA,70-79,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -8188,6 +8300,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-01,Pfizer/BioNTech,TOS,60-69,2,1,3,ITI,ITI1,9,Toscana
 2024-12-01,Pfizer/BioNTech,TOS,70-79,6,2,8,ITI,ITI1,9,Toscana
 2024-12-01,Pfizer/BioNTech,TOS,80-89,1,1,2,ITI,ITI1,9,Toscana
+2024-12-01,Pfizer/BioNTech,UMB,50-59,0,1,1,ITI,ITI2,10,Umbria
+2024-12-01,Pfizer/BioNTech,UMB,70-79,1,1,2,ITI,ITI2,10,Umbria
+2024-12-01,Pfizer/BioNTech,UMB,80-89,0,2,2,ITI,ITI2,10,Umbria
+2024-12-01,Pfizer/BioNTech,UMB,90+,1,0,1,ITI,ITI2,10,Umbria
 2024-12-01,Pfizer/BioNTech,VEN,20-29,1,0,1,ITH,ITH3,5,Veneto
 2024-12-01,Pfizer/BioNTech,VEN,30-39,2,0,2,ITH,ITH3,5,Veneto
 2024-12-01,Pfizer/BioNTech,VEN,50-59,2,0,2,ITH,ITH3,5,Veneto
@@ -8339,13 +8455,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-02,Pfizer/BioNTech,TOS,70-79,119,115,234,ITI,ITI1,9,Toscana
 2024-12-02,Pfizer/BioNTech,TOS,80-89,62,83,145,ITI,ITI1,9,Toscana
 2024-12-02,Pfizer/BioNTech,TOS,90+,11,11,22,ITI,ITI1,9,Toscana
-2024-12-02,Pfizer/BioNTech,UMB,20-29,0,1,1,ITI,ITI2,10,Umbria
-2024-12-02,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
-2024-12-02,Pfizer/BioNTech,UMB,40-49,1,0,1,ITI,ITI2,10,Umbria
-2024-12-02,Pfizer/BioNTech,UMB,50-59,0,1,1,ITI,ITI2,10,Umbria
-2024-12-02,Pfizer/BioNTech,UMB,60-69,2,1,3,ITI,ITI2,10,Umbria
-2024-12-02,Pfizer/BioNTech,UMB,70-79,0,3,3,ITI,ITI2,10,Umbria
-2024-12-02,Pfizer/BioNTech,UMB,80-89,0,1,1,ITI,ITI2,10,Umbria
+2024-12-02,Pfizer/BioNTech,UMB,20-29,1,1,2,ITI,ITI2,10,Umbria
+2024-12-02,Pfizer/BioNTech,UMB,30-39,0,2,2,ITI,ITI2,10,Umbria
+2024-12-02,Pfizer/BioNTech,UMB,40-49,3,3,6,ITI,ITI2,10,Umbria
+2024-12-02,Pfizer/BioNTech,UMB,50-59,5,3,8,ITI,ITI2,10,Umbria
+2024-12-02,Pfizer/BioNTech,UMB,60-69,8,13,21,ITI,ITI2,10,Umbria
+2024-12-02,Pfizer/BioNTech,UMB,70-79,6,15,21,ITI,ITI2,10,Umbria
+2024-12-02,Pfizer/BioNTech,UMB,80-89,12,12,24,ITI,ITI2,10,Umbria
+2024-12-02,Pfizer/BioNTech,UMB,90+,3,12,15,ITI,ITI2,10,Umbria
 2024-12-02,Pfizer/BioNTech,VDA,20-29,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-02,Pfizer/BioNTech,VDA,60-69,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-02,Pfizer/BioNTech,VDA,70-79,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -8510,10 +8627,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-03,Pfizer/BioNTech,TOS,70-79,121,140,261,ITI,ITI1,9,Toscana
 2024-12-03,Pfizer/BioNTech,TOS,80-89,82,122,204,ITI,ITI1,9,Toscana
 2024-12-03,Pfizer/BioNTech,TOS,90+,8,19,27,ITI,ITI1,9,Toscana
+2024-12-03,Pfizer/BioNTech,UMB,20-29,2,0,2,ITI,ITI2,10,Umbria
+2024-12-03,Pfizer/BioNTech,UMB,30-39,1,0,1,ITI,ITI2,10,Umbria
 2024-12-03,Pfizer/BioNTech,UMB,40-49,0,1,1,ITI,ITI2,10,Umbria
-2024-12-03,Pfizer/BioNTech,UMB,50-59,1,0,1,ITI,ITI2,10,Umbria
-2024-12-03,Pfizer/BioNTech,UMB,60-69,4,1,5,ITI,ITI2,10,Umbria
-2024-12-03,Pfizer/BioNTech,UMB,70-79,0,2,2,ITI,ITI2,10,Umbria
+2024-12-03,Pfizer/BioNTech,UMB,50-59,4,2,6,ITI,ITI2,10,Umbria
+2024-12-03,Pfizer/BioNTech,UMB,60-69,13,11,24,ITI,ITI2,10,Umbria
+2024-12-03,Pfizer/BioNTech,UMB,70-79,21,12,33,ITI,ITI2,10,Umbria
+2024-12-03,Pfizer/BioNTech,UMB,80-89,11,23,34,ITI,ITI2,10,Umbria
+2024-12-03,Pfizer/BioNTech,UMB,90+,5,8,13,ITI,ITI2,10,Umbria
 2024-12-03,Pfizer/BioNTech,VDA,70-79,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-03,Pfizer/BioNTech,VEN,12-19,1,2,3,ITH,ITH3,5,Veneto
 2024-12-03,Pfizer/BioNTech,VEN,20-29,17,17,34,ITH,ITH3,5,Veneto
@@ -8669,13 +8790,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-04,Pfizer/BioNTech,TOS,70-79,145,167,312,ITI,ITI1,9,Toscana
 2024-12-04,Pfizer/BioNTech,TOS,80-89,87,118,205,ITI,ITI1,9,Toscana
 2024-12-04,Pfizer/BioNTech,TOS,90+,6,30,36,ITI,ITI1,9,Toscana
+2024-12-04,Pfizer/BioNTech,UMB,20-29,0,1,1,ITI,ITI2,10,Umbria
 2024-12-04,Pfizer/BioNTech,UMB,30-39,1,0,1,ITI,ITI2,10,Umbria
-2024-12-04,Pfizer/BioNTech,UMB,40-49,1,1,2,ITI,ITI2,10,Umbria
-2024-12-04,Pfizer/BioNTech,UMB,50-59,0,1,1,ITI,ITI2,10,Umbria
-2024-12-04,Pfizer/BioNTech,UMB,60-69,1,1,2,ITI,ITI2,10,Umbria
-2024-12-04,Pfizer/BioNTech,UMB,70-79,7,8,15,ITI,ITI2,10,Umbria
-2024-12-04,Pfizer/BioNTech,UMB,80-89,5,4,9,ITI,ITI2,10,Umbria
-2024-12-04,Pfizer/BioNTech,UMB,90+,3,0,3,ITI,ITI2,10,Umbria
+2024-12-04,Pfizer/BioNTech,UMB,40-49,1,3,4,ITI,ITI2,10,Umbria
+2024-12-04,Pfizer/BioNTech,UMB,50-59,7,4,11,ITI,ITI2,10,Umbria
+2024-12-04,Pfizer/BioNTech,UMB,60-69,29,12,41,ITI,ITI2,10,Umbria
+2024-12-04,Pfizer/BioNTech,UMB,70-79,36,44,80,ITI,ITI2,10,Umbria
+2024-12-04,Pfizer/BioNTech,UMB,80-89,25,26,51,ITI,ITI2,10,Umbria
+2024-12-04,Pfizer/BioNTech,UMB,90+,5,6,11,ITI,ITI2,10,Umbria
 2024-12-04,Pfizer/BioNTech,VDA,40-49,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-04,Pfizer/BioNTech,VDA,50-59,3,2,5,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-04,Pfizer/BioNTech,VDA,60-69,2,7,9,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -8832,14 +8954,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-05,Pfizer/BioNTech,TOS,70-79,136,142,278,ITI,ITI1,9,Toscana
 2024-12-05,Pfizer/BioNTech,TOS,80-89,107,120,227,ITI,ITI1,9,Toscana
 2024-12-05,Pfizer/BioNTech,TOS,90+,10,26,36,ITI,ITI1,9,Toscana
-2024-12-05,Pfizer/BioNTech,UMB,20-29,1,1,2,ITI,ITI2,10,Umbria
-2024-12-05,Pfizer/BioNTech,UMB,30-39,1,0,1,ITI,ITI2,10,Umbria
-2024-12-05,Pfizer/BioNTech,UMB,40-49,1,1,2,ITI,ITI2,10,Umbria
-2024-12-05,Pfizer/BioNTech,UMB,50-59,2,1,3,ITI,ITI2,10,Umbria
-2024-12-05,Pfizer/BioNTech,UMB,60-69,3,1,4,ITI,ITI2,10,Umbria
-2024-12-05,Pfizer/BioNTech,UMB,70-79,10,10,20,ITI,ITI2,10,Umbria
-2024-12-05,Pfizer/BioNTech,UMB,80-89,6,2,8,ITI,ITI2,10,Umbria
-2024-12-05,Pfizer/BioNTech,UMB,90+,0,2,2,ITI,ITI2,10,Umbria
+2024-12-05,Pfizer/BioNTech,UMB,20-29,3,3,6,ITI,ITI2,10,Umbria
+2024-12-05,Pfizer/BioNTech,UMB,30-39,1,1,2,ITI,ITI2,10,Umbria
+2024-12-05,Pfizer/BioNTech,UMB,40-49,1,2,3,ITI,ITI2,10,Umbria
+2024-12-05,Pfizer/BioNTech,UMB,50-59,10,6,16,ITI,ITI2,10,Umbria
+2024-12-05,Pfizer/BioNTech,UMB,60-69,20,20,40,ITI,ITI2,10,Umbria
+2024-12-05,Pfizer/BioNTech,UMB,70-79,49,36,85,ITI,ITI2,10,Umbria
+2024-12-05,Pfizer/BioNTech,UMB,80-89,30,29,59,ITI,ITI2,10,Umbria
+2024-12-05,Pfizer/BioNTech,UMB,90+,2,8,10,ITI,ITI2,10,Umbria
 2024-12-05,Pfizer/BioNTech,VDA,40-49,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-05,Pfizer/BioNTech,VDA,50-59,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-05,Pfizer/BioNTech,VDA,60-69,2,0,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -9002,8 +9124,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-06,Pfizer/BioNTech,TOS,70-79,119,133,252,ITI,ITI1,9,Toscana
 2024-12-06,Pfizer/BioNTech,TOS,80-89,90,115,205,ITI,ITI1,9,Toscana
 2024-12-06,Pfizer/BioNTech,TOS,90+,14,26,40,ITI,ITI1,9,Toscana
-2024-12-06,Pfizer/BioNTech,UMB,30-39,1,1,2,ITI,ITI2,10,Umbria
-2024-12-06,Pfizer/BioNTech,UMB,60-69,1,1,2,ITI,ITI2,10,Umbria
+2024-12-06,Pfizer/BioNTech,UMB,30-39,1,3,4,ITI,ITI2,10,Umbria
+2024-12-06,Pfizer/BioNTech,UMB,40-49,2,2,4,ITI,ITI2,10,Umbria
+2024-12-06,Pfizer/BioNTech,UMB,50-59,2,3,5,ITI,ITI2,10,Umbria
+2024-12-06,Pfizer/BioNTech,UMB,60-69,13,10,23,ITI,ITI2,10,Umbria
+2024-12-06,Pfizer/BioNTech,UMB,70-79,25,32,57,ITI,ITI2,10,Umbria
+2024-12-06,Pfizer/BioNTech,UMB,80-89,27,28,55,ITI,ITI2,10,Umbria
+2024-12-06,Pfizer/BioNTech,UMB,90+,7,18,25,ITI,ITI2,10,Umbria
 2024-12-06,Pfizer/BioNTech,VDA,30-39,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-06,Pfizer/BioNTech,VDA,50-59,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-06,Pfizer/BioNTech,VDA,60-69,4,3,7,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -9116,6 +9243,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-07,Pfizer/BioNTech,TOS,70-79,12,18,30,ITI,ITI1,9,Toscana
 2024-12-07,Pfizer/BioNTech,TOS,80-89,3,10,13,ITI,ITI1,9,Toscana
 2024-12-07,Pfizer/BioNTech,TOS,90+,0,1,1,ITI,ITI1,9,Toscana
+2024-12-07,Pfizer/BioNTech,UMB,60-69,1,4,5,ITI,ITI2,10,Umbria
+2024-12-07,Pfizer/BioNTech,UMB,70-79,4,1,5,ITI,ITI2,10,Umbria
+2024-12-07,Pfizer/BioNTech,UMB,80-89,3,4,7,ITI,ITI2,10,Umbria
+2024-12-07,Pfizer/BioNTech,UMB,90+,1,0,1,ITI,ITI2,10,Umbria
 2024-12-07,Pfizer/BioNTech,VDA,20-29,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-07,Pfizer/BioNTech,VDA,70-79,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-07,Pfizer/BioNTech,VEN,12-19,1,0,1,ITH,ITH3,5,Veneto
@@ -9311,6 +9442,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-09,Pfizer/BioNTech,TOS,70-79,67,78,145,ITI,ITI1,9,Toscana
 2024-12-09,Pfizer/BioNTech,TOS,80-89,46,57,103,ITI,ITI1,9,Toscana
 2024-12-09,Pfizer/BioNTech,TOS,90+,3,8,11,ITI,ITI1,9,Toscana
+2024-12-09,Pfizer/BioNTech,UMB,20-29,0,1,1,ITI,ITI2,10,Umbria
+2024-12-09,Pfizer/BioNTech,UMB,40-49,0,1,1,ITI,ITI2,10,Umbria
+2024-12-09,Pfizer/BioNTech,UMB,50-59,3,3,6,ITI,ITI2,10,Umbria
+2024-12-09,Pfizer/BioNTech,UMB,60-69,6,3,9,ITI,ITI2,10,Umbria
+2024-12-09,Pfizer/BioNTech,UMB,70-79,8,5,13,ITI,ITI2,10,Umbria
+2024-12-09,Pfizer/BioNTech,UMB,80-89,4,6,10,ITI,ITI2,10,Umbria
+2024-12-09,Pfizer/BioNTech,UMB,90+,1,7,8,ITI,ITI2,10,Umbria
 2024-12-09,Pfizer/BioNTech,VDA,50-59,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-09,Pfizer/BioNTech,VDA,60-69,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-09,Pfizer/BioNTech,VDA,70-79,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -9436,7 +9574,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-10,Pfizer/BioNTech,PIE,50-59,22,28,50,ITC,ITC1,1,Piemonte
 2024-12-10,Pfizer/BioNTech,PIE,60-69,79,66,145,ITC,ITC1,1,Piemonte
 2024-12-10,Pfizer/BioNTech,PIE,70-79,110,100,210,ITC,ITC1,1,Piemonte
-2024-12-10,Pfizer/BioNTech,PIE,80-89,74,87,161,ITC,ITC1,1,Piemonte
+2024-12-10,Pfizer/BioNTech,PIE,80-89,75,87,162,ITC,ITC1,1,Piemonte
 2024-12-10,Pfizer/BioNTech,PIE,90+,17,52,69,ITC,ITC1,1,Piemonte
 2024-12-10,Pfizer/BioNTech,PUG,12-19,1,1,2,ITF,ITF4,16,Puglia
 2024-12-10,Pfizer/BioNTech,PUG,20-29,6,2,8,ITF,ITF4,16,Puglia
@@ -9471,6 +9609,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-10,Pfizer/BioNTech,TOS,70-79,90,95,185,ITI,ITI1,9,Toscana
 2024-12-10,Pfizer/BioNTech,TOS,80-89,56,61,117,ITI,ITI1,9,Toscana
 2024-12-10,Pfizer/BioNTech,TOS,90+,7,18,25,ITI,ITI1,9,Toscana
+2024-12-10,Pfizer/BioNTech,UMB,40-49,2,4,6,ITI,ITI2,10,Umbria
+2024-12-10,Pfizer/BioNTech,UMB,50-59,0,3,3,ITI,ITI2,10,Umbria
+2024-12-10,Pfizer/BioNTech,UMB,60-69,5,6,11,ITI,ITI2,10,Umbria
+2024-12-10,Pfizer/BioNTech,UMB,70-79,14,7,21,ITI,ITI2,10,Umbria
+2024-12-10,Pfizer/BioNTech,UMB,80-89,7,9,16,ITI,ITI2,10,Umbria
+2024-12-10,Pfizer/BioNTech,UMB,90+,1,8,9,ITI,ITI2,10,Umbria
 2024-12-10,Pfizer/BioNTech,VDA,70-79,2,2,4,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-10,Pfizer/BioNTech,VDA,80-89,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-10,Pfizer/BioNTech,VEN,12-19,0,1,1,ITH,ITH3,5,Veneto
@@ -9623,12 +9767,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-11,Pfizer/BioNTech,TOS,70-79,89,94,183,ITI,ITI1,9,Toscana
 2024-12-11,Pfizer/BioNTech,TOS,80-89,53,80,133,ITI,ITI1,9,Toscana
 2024-12-11,Pfizer/BioNTech,TOS,90+,7,19,26,ITI,ITI1,9,Toscana
-2024-12-11,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
-2024-12-11,Pfizer/BioNTech,UMB,40-49,1,0,1,ITI,ITI2,10,Umbria
-2024-12-11,Pfizer/BioNTech,UMB,50-59,3,3,6,ITI,ITI2,10,Umbria
-2024-12-11,Pfizer/BioNTech,UMB,60-69,6,7,13,ITI,ITI2,10,Umbria
-2024-12-11,Pfizer/BioNTech,UMB,70-79,8,5,13,ITI,ITI2,10,Umbria
-2024-12-11,Pfizer/BioNTech,UMB,80-89,3,3,6,ITI,ITI2,10,Umbria
+2024-12-11,Pfizer/BioNTech,UMB,30-39,1,1,2,ITI,ITI2,10,Umbria
+2024-12-11,Pfizer/BioNTech,UMB,40-49,2,1,3,ITI,ITI2,10,Umbria
+2024-12-11,Pfizer/BioNTech,UMB,50-59,9,5,14,ITI,ITI2,10,Umbria
+2024-12-11,Pfizer/BioNTech,UMB,60-69,15,13,28,ITI,ITI2,10,Umbria
+2024-12-11,Pfizer/BioNTech,UMB,70-79,25,20,45,ITI,ITI2,10,Umbria
+2024-12-11,Pfizer/BioNTech,UMB,80-89,20,21,41,ITI,ITI2,10,Umbria
+2024-12-11,Pfizer/BioNTech,UMB,90+,2,7,9,ITI,ITI2,10,Umbria
 2024-12-11,Pfizer/BioNTech,VDA,20-29,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-11,Pfizer/BioNTech,VDA,30-39,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-11,Pfizer/BioNTech,VDA,50-59,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -9778,10 +9923,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-12,Pfizer/BioNTech,TOS,70-79,84,91,175,ITI,ITI1,9,Toscana
 2024-12-12,Pfizer/BioNTech,TOS,80-89,51,66,117,ITI,ITI1,9,Toscana
 2024-12-12,Pfizer/BioNTech,TOS,90+,5,15,20,ITI,ITI1,9,Toscana
-2024-12-12,Pfizer/BioNTech,UMB,50-59,0,1,1,ITI,ITI2,10,Umbria
-2024-12-12,Pfizer/BioNTech,UMB,60-69,1,1,2,ITI,ITI2,10,Umbria
-2024-12-12,Pfizer/BioNTech,UMB,70-79,1,4,5,ITI,ITI2,10,Umbria
-2024-12-12,Pfizer/BioNTech,UMB,80-89,0,1,1,ITI,ITI2,10,Umbria
+2024-12-12,Pfizer/BioNTech,UMB,40-49,1,1,2,ITI,ITI2,10,Umbria
+2024-12-12,Pfizer/BioNTech,UMB,50-59,6,4,10,ITI,ITI2,10,Umbria
+2024-12-12,Pfizer/BioNTech,UMB,60-69,15,13,28,ITI,ITI2,10,Umbria
+2024-12-12,Pfizer/BioNTech,UMB,70-79,14,30,44,ITI,ITI2,10,Umbria
+2024-12-12,Pfizer/BioNTech,UMB,80-89,17,18,35,ITI,ITI2,10,Umbria
+2024-12-12,Pfizer/BioNTech,UMB,90+,9,10,19,ITI,ITI2,10,Umbria
 2024-12-12,Pfizer/BioNTech,VDA,60-69,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-12,Pfizer/BioNTech,VDA,70-79,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-12,Pfizer/BioNTech,VDA,80-89,3,8,11,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -9935,12 +10082,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-13,Pfizer/BioNTech,TOS,70-79,89,104,193,ITI,ITI1,9,Toscana
 2024-12-13,Pfizer/BioNTech,TOS,80-89,68,82,150,ITI,ITI1,9,Toscana
 2024-12-13,Pfizer/BioNTech,TOS,90+,13,17,30,ITI,ITI1,9,Toscana
-2024-12-13,Pfizer/BioNTech,UMB,30-39,1,0,1,ITI,ITI2,10,Umbria
-2024-12-13,Pfizer/BioNTech,UMB,50-59,1,3,4,ITI,ITI2,10,Umbria
-2024-12-13,Pfizer/BioNTech,UMB,60-69,3,2,5,ITI,ITI2,10,Umbria
-2024-12-13,Pfizer/BioNTech,UMB,70-79,2,1,3,ITI,ITI2,10,Umbria
-2024-12-13,Pfizer/BioNTech,UMB,80-89,0,2,2,ITI,ITI2,10,Umbria
-2024-12-13,Pfizer/BioNTech,UMB,90+,1,0,1,ITI,ITI2,10,Umbria
+2024-12-13,Pfizer/BioNTech,UMB,20-29,0,2,2,ITI,ITI2,10,Umbria
+2024-12-13,Pfizer/BioNTech,UMB,30-39,5,1,6,ITI,ITI2,10,Umbria
+2024-12-13,Pfizer/BioNTech,UMB,40-49,6,5,11,ITI,ITI2,10,Umbria
+2024-12-13,Pfizer/BioNTech,UMB,50-59,6,5,11,ITI,ITI2,10,Umbria
+2024-12-13,Pfizer/BioNTech,UMB,60-69,20,21,41,ITI,ITI2,10,Umbria
+2024-12-13,Pfizer/BioNTech,UMB,70-79,34,23,57,ITI,ITI2,10,Umbria
+2024-12-13,Pfizer/BioNTech,UMB,80-89,19,17,36,ITI,ITI2,10,Umbria
+2024-12-13,Pfizer/BioNTech,UMB,90+,4,6,10,ITI,ITI2,10,Umbria
 2024-12-13,Pfizer/BioNTech,VDA,20-29,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-13,Pfizer/BioNTech,VDA,50-59,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-13,Pfizer/BioNTech,VDA,60-69,6,5,11,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -10065,9 +10214,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-14,Pfizer/BioNTech,TOS,90+,2,1,3,ITI,ITI1,9,Toscana
 2024-12-14,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
 2024-12-14,Pfizer/BioNTech,UMB,40-49,1,0,1,ITI,ITI2,10,Umbria
+2024-12-14,Pfizer/BioNTech,UMB,50-59,1,0,1,ITI,ITI2,10,Umbria
 2024-12-14,Pfizer/BioNTech,UMB,60-69,2,1,3,ITI,ITI2,10,Umbria
 2024-12-14,Pfizer/BioNTech,UMB,70-79,2,1,3,ITI,ITI2,10,Umbria
-2024-12-14,Pfizer/BioNTech,UMB,80-89,3,1,4,ITI,ITI2,10,Umbria
+2024-12-14,Pfizer/BioNTech,UMB,80-89,3,3,6,ITI,ITI2,10,Umbria
 2024-12-14,Pfizer/BioNTech,VDA,70-79,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-14,Pfizer/BioNTech,VDA,80-89,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-14,Pfizer/BioNTech,VDA,90+,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -10261,10 +10411,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-16,Pfizer/BioNTech,TOS,70-79,43,42,85,ITI,ITI1,9,Toscana
 2024-12-16,Pfizer/BioNTech,TOS,80-89,19,27,46,ITI,ITI1,9,Toscana
 2024-12-16,Pfizer/BioNTech,TOS,90+,5,13,18,ITI,ITI1,9,Toscana
-2024-12-16,Pfizer/BioNTech,UMB,60-69,2,3,5,ITI,ITI2,10,Umbria
-2024-12-16,Pfizer/BioNTech,UMB,70-79,0,3,3,ITI,ITI2,10,Umbria
-2024-12-16,Pfizer/BioNTech,UMB,80-89,1,0,1,ITI,ITI2,10,Umbria
-2024-12-16,Pfizer/BioNTech,UMB,90+,0,2,2,ITI,ITI2,10,Umbria
+2024-12-16,Pfizer/BioNTech,UMB,20-29,4,2,6,ITI,ITI2,10,Umbria
+2024-12-16,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
+2024-12-16,Pfizer/BioNTech,UMB,40-49,2,0,2,ITI,ITI2,10,Umbria
+2024-12-16,Pfizer/BioNTech,UMB,50-59,1,2,3,ITI,ITI2,10,Umbria
+2024-12-16,Pfizer/BioNTech,UMB,60-69,11,10,21,ITI,ITI2,10,Umbria
+2024-12-16,Pfizer/BioNTech,UMB,70-79,7,10,17,ITI,ITI2,10,Umbria
+2024-12-16,Pfizer/BioNTech,UMB,80-89,7,6,13,ITI,ITI2,10,Umbria
+2024-12-16,Pfizer/BioNTech,UMB,90+,1,6,7,ITI,ITI2,10,Umbria
 2024-12-16,Pfizer/BioNTech,VDA,50-59,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-16,Pfizer/BioNTech,VDA,60-69,0,3,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-16,Pfizer/BioNTech,VDA,80-89,1,3,4,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -10417,9 +10571,15 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-17,Pfizer/BioNTech,TOS,70-79,45,52,97,ITI,ITI1,9,Toscana
 2024-12-17,Pfizer/BioNTech,TOS,80-89,29,37,66,ITI,ITI1,9,Toscana
 2024-12-17,Pfizer/BioNTech,TOS,90+,4,8,12,ITI,ITI1,9,Toscana
+2024-12-17,Pfizer/BioNTech,UMB,20-29,1,0,1,ITI,ITI2,10,Umbria
+2024-12-17,Pfizer/BioNTech,UMB,50-59,3,1,4,ITI,ITI2,10,Umbria
+2024-12-17,Pfizer/BioNTech,UMB,60-69,14,18,32,ITI,ITI2,10,Umbria
+2024-12-17,Pfizer/BioNTech,UMB,70-79,17,12,29,ITI,ITI2,10,Umbria
+2024-12-17,Pfizer/BioNTech,UMB,80-89,9,10,19,ITI,ITI2,10,Umbria
+2024-12-17,Pfizer/BioNTech,UMB,90+,2,6,8,ITI,ITI2,10,Umbria
 2024-12-17,Pfizer/BioNTech,VDA,60-69,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-17,Pfizer/BioNTech,VDA,70-79,3,4,7,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2024-12-17,Pfizer/BioNTech,VDA,80-89,2,0,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2024-12-17,Pfizer/BioNTech,VDA,80-89,3,0,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-17,Pfizer/BioNTech,VDA,90+,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-17,Pfizer/BioNTech,VEN,12-19,1,0,1,ITH,ITH3,5,Veneto
 2024-12-17,Pfizer/BioNTech,VEN,20-29,3,1,4,ITH,ITH3,5,Veneto
@@ -10573,13 +10733,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-18,Pfizer/BioNTech,TOS,70-79,56,50,106,ITI,ITI1,9,Toscana
 2024-12-18,Pfizer/BioNTech,TOS,80-89,39,41,80,ITI,ITI1,9,Toscana
 2024-12-18,Pfizer/BioNTech,TOS,90+,4,11,15,ITI,ITI1,9,Toscana
-2024-12-18,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
-2024-12-18,Pfizer/BioNTech,UMB,40-49,3,0,3,ITI,ITI2,10,Umbria
-2024-12-18,Pfizer/BioNTech,UMB,50-59,0,2,2,ITI,ITI2,10,Umbria
-2024-12-18,Pfizer/BioNTech,UMB,60-69,1,2,3,ITI,ITI2,10,Umbria
-2024-12-18,Pfizer/BioNTech,UMB,70-79,5,4,9,ITI,ITI2,10,Umbria
-2024-12-18,Pfizer/BioNTech,UMB,80-89,1,1,2,ITI,ITI2,10,Umbria
-2024-12-18,Pfizer/BioNTech,UMB,90+,1,0,1,ITI,ITI2,10,Umbria
+2024-12-18,Pfizer/BioNTech,UMB,30-39,0,2,2,ITI,ITI2,10,Umbria
+2024-12-18,Pfizer/BioNTech,UMB,40-49,3,2,5,ITI,ITI2,10,Umbria
+2024-12-18,Pfizer/BioNTech,UMB,50-59,4,5,9,ITI,ITI2,10,Umbria
+2024-12-18,Pfizer/BioNTech,UMB,60-69,16,12,28,ITI,ITI2,10,Umbria
+2024-12-18,Pfizer/BioNTech,UMB,70-79,19,18,37,ITI,ITI2,10,Umbria
+2024-12-18,Pfizer/BioNTech,UMB,80-89,15,16,31,ITI,ITI2,10,Umbria
+2024-12-18,Pfizer/BioNTech,UMB,90+,5,3,8,ITI,ITI2,10,Umbria
 2024-12-18,Pfizer/BioNTech,VDA,50-59,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-18,Pfizer/BioNTech,VDA,60-69,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-18,Pfizer/BioNTech,VDA,70-79,2,6,8,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -10724,9 +10884,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-19,Pfizer/BioNTech,TOS,70-79,49,63,112,ITI,ITI1,9,Toscana
 2024-12-19,Pfizer/BioNTech,TOS,80-89,33,45,78,ITI,ITI1,9,Toscana
 2024-12-19,Pfizer/BioNTech,TOS,90+,4,12,16,ITI,ITI1,9,Toscana
-2024-12-19,Pfizer/BioNTech,UMB,40-49,3,0,3,ITI,ITI2,10,Umbria
-2024-12-19,Pfizer/BioNTech,UMB,70-79,3,1,4,ITI,ITI2,10,Umbria
-2024-12-19,Pfizer/BioNTech,UMB,80-89,1,2,3,ITI,ITI2,10,Umbria
+2024-12-19,Pfizer/BioNTech,UMB,40-49,3,1,4,ITI,ITI2,10,Umbria
+2024-12-19,Pfizer/BioNTech,UMB,50-59,4,3,7,ITI,ITI2,10,Umbria
+2024-12-19,Pfizer/BioNTech,UMB,60-69,10,8,18,ITI,ITI2,10,Umbria
+2024-12-19,Pfizer/BioNTech,UMB,70-79,16,23,39,ITI,ITI2,10,Umbria
+2024-12-19,Pfizer/BioNTech,UMB,80-89,17,22,39,ITI,ITI2,10,Umbria
+2024-12-19,Pfizer/BioNTech,UMB,90+,1,5,6,ITI,ITI2,10,Umbria
 2024-12-19,Pfizer/BioNTech,VDA,50-59,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-19,Pfizer/BioNTech,VDA,60-69,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-19,Pfizer/BioNTech,VDA,70-79,2,0,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -10873,8 +11036,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-20,Pfizer/BioNTech,TOS,70-79,40,57,97,ITI,ITI1,9,Toscana
 2024-12-20,Pfizer/BioNTech,TOS,80-89,29,34,63,ITI,ITI1,9,Toscana
 2024-12-20,Pfizer/BioNTech,TOS,90+,4,8,12,ITI,ITI1,9,Toscana
-2024-12-20,Pfizer/BioNTech,UMB,70-79,2,0,2,ITI,ITI2,10,Umbria
-2024-12-20,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
+2024-12-20,Pfizer/BioNTech,UMB,30-39,1,2,3,ITI,ITI2,10,Umbria
+2024-12-20,Pfizer/BioNTech,UMB,40-49,0,1,1,ITI,ITI2,10,Umbria
+2024-12-20,Pfizer/BioNTech,UMB,50-59,1,1,2,ITI,ITI2,10,Umbria
+2024-12-20,Pfizer/BioNTech,UMB,60-69,8,6,14,ITI,ITI2,10,Umbria
+2024-12-20,Pfizer/BioNTech,UMB,70-79,15,13,28,ITI,ITI2,10,Umbria
+2024-12-20,Pfizer/BioNTech,UMB,80-89,7,10,17,ITI,ITI2,10,Umbria
+2024-12-20,Pfizer/BioNTech,UMB,90+,3,3,6,ITI,ITI2,10,Umbria
 2024-12-20,Pfizer/BioNTech,VDA,30-39,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-20,Pfizer/BioNTech,VDA,50-59,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-20,Pfizer/BioNTech,VDA,60-69,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -10998,6 +11166,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-22,Pfizer/BioNTech,PUG,70-79,4,5,9,ITF,ITF4,16,Puglia
 2024-12-22,Pfizer/BioNTech,PUG,80-89,1,7,8,ITF,ITF4,16,Puglia
 2024-12-22,Pfizer/BioNTech,PUG,90+,2,2,4,ITF,ITF4,16,Puglia
+2024-12-22,Pfizer/BioNTech,UMB,12-19,0,1,1,ITI,ITI2,10,Umbria
+2024-12-22,Pfizer/BioNTech,UMB,20-29,2,0,2,ITI,ITI2,10,Umbria
+2024-12-22,Pfizer/BioNTech,UMB,40-49,3,0,3,ITI,ITI2,10,Umbria
+2024-12-22,Pfizer/BioNTech,UMB,60-69,1,0,1,ITI,ITI2,10,Umbria
+2024-12-22,Pfizer/BioNTech,UMB,80-89,0,2,2,ITI,ITI2,10,Umbria
+2024-12-22,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
 2024-12-23,Pfizer Pediatrico,LOM,00-04,0,3,3,ITC,ITC4,3,Lombardia
 2024-12-23,Pfizer Pediatrico,LOM,05-11,2,0,2,ITC,ITC4,3,Lombardia
 2024-12-23,Pfizer Pediatrico,VEN,00-04,0,1,1,ITH,ITH3,5,Veneto
@@ -11105,9 +11279,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-23,Pfizer/BioNTech,TOS,70-79,8,15,23,ITI,ITI1,9,Toscana
 2024-12-23,Pfizer/BioNTech,TOS,80-89,9,12,21,ITI,ITI1,9,Toscana
 2024-12-23,Pfizer/BioNTech,TOS,90+,3,2,5,ITI,ITI1,9,Toscana
-2024-12-23,Pfizer/BioNTech,UMB,30-39,1,0,1,ITI,ITI2,10,Umbria
-2024-12-23,Pfizer/BioNTech,UMB,50-59,1,0,1,ITI,ITI2,10,Umbria
-2024-12-23,Pfizer/BioNTech,UMB,70-79,1,0,1,ITI,ITI2,10,Umbria
+2024-12-23,Pfizer/BioNTech,UMB,30-39,2,0,2,ITI,ITI2,10,Umbria
+2024-12-23,Pfizer/BioNTech,UMB,50-59,3,1,4,ITI,ITI2,10,Umbria
+2024-12-23,Pfizer/BioNTech,UMB,60-69,2,4,6,ITI,ITI2,10,Umbria
+2024-12-23,Pfizer/BioNTech,UMB,70-79,5,1,6,ITI,ITI2,10,Umbria
+2024-12-23,Pfizer/BioNTech,UMB,80-89,3,2,5,ITI,ITI2,10,Umbria
+2024-12-23,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
 2024-12-23,Pfizer/BioNTech,VDA,70-79,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-23,Pfizer/BioNTech,VEN,20-29,3,6,9,ITH,ITH3,5,Veneto
 2024-12-23,Pfizer/BioNTech,VEN,30-39,1,2,3,ITH,ITH3,5,Veneto
@@ -11201,6 +11378,8 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-24,Pfizer/BioNTech,UMB,40-49,1,0,1,ITI,ITI2,10,Umbria
 2024-12-24,Pfizer/BioNTech,UMB,50-59,1,0,1,ITI,ITI2,10,Umbria
 2024-12-24,Pfizer/BioNTech,UMB,60-69,1,1,2,ITI,ITI2,10,Umbria
+2024-12-24,Pfizer/BioNTech,UMB,70-79,1,0,1,ITI,ITI2,10,Umbria
+2024-12-24,Pfizer/BioNTech,UMB,80-89,1,1,2,ITI,ITI2,10,Umbria
 2024-12-24,Pfizer/BioNTech,VEN,20-29,1,0,1,ITH,ITH3,5,Veneto
 2024-12-24,Pfizer/BioNTech,VEN,40-49,1,0,1,ITH,ITH3,5,Veneto
 2024-12-24,Pfizer/BioNTech,VEN,50-59,0,2,2,ITH,ITH3,5,Veneto
@@ -11223,6 +11402,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-26,Pfizer/BioNTech,MAR,60-69,1,0,1,ITI,ITI3,11,Marche
 2024-12-26,Pfizer/BioNTech,PIE,80-89,1,1,2,ITC,ITC1,1,Piemonte
 2024-12-26,Pfizer/BioNTech,PIE,90+,0,4,4,ITC,ITC1,1,Piemonte
+2024-12-26,Pfizer/BioNTech,UMB,70-79,0,1,1,ITI,ITI2,10,Umbria
 2024-12-26,Pfizer/BioNTech,VEN,70-79,1,0,1,ITH,ITH3,5,Veneto
 2024-12-27,Pfizer/BioNTech,ABR,30-39,0,1,1,ITF,ITF1,13,Abruzzo
 2024-12-27,Pfizer/BioNTech,ABR,60-69,0,1,1,ITF,ITF1,13,Abruzzo
@@ -11317,8 +11497,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-27,Pfizer/BioNTech,TOS,70-79,9,8,17,ITI,ITI1,9,Toscana
 2024-12-27,Pfizer/BioNTech,TOS,80-89,3,10,13,ITI,ITI1,9,Toscana
 2024-12-27,Pfizer/BioNTech,TOS,90+,3,8,11,ITI,ITI1,9,Toscana
-2024-12-27,Pfizer/BioNTech,UMB,60-69,1,1,2,ITI,ITI2,10,Umbria
-2024-12-27,Pfizer/BioNTech,UMB,80-89,0,1,1,ITI,ITI2,10,Umbria
+2024-12-27,Pfizer/BioNTech,UMB,60-69,7,6,13,ITI,ITI2,10,Umbria
+2024-12-27,Pfizer/BioNTech,UMB,70-79,2,6,8,ITI,ITI2,10,Umbria
+2024-12-27,Pfizer/BioNTech,UMB,80-89,1,4,5,ITI,ITI2,10,Umbria
+2024-12-27,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
 2024-12-27,Pfizer/BioNTech,VDA,60-69,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-27,Pfizer/BioNTech,VDA,70-79,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2024-12-27,Pfizer/BioNTech,VDA,80-89,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -11380,6 +11562,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-28,Pfizer/BioNTech,TOS,70-79,0,1,1,ITI,ITI1,9,Toscana
 2024-12-28,Pfizer/BioNTech,TOS,80-89,1,0,1,ITI,ITI1,9,Toscana
 2024-12-28,Pfizer/BioNTech,TOS,90+,1,0,1,ITI,ITI1,9,Toscana
+2024-12-28,Pfizer/BioNTech,UMB,70-79,0,1,1,ITI,ITI2,10,Umbria
 2024-12-28,Pfizer/BioNTech,VEN,30-39,1,0,1,ITH,ITH3,5,Veneto
 2024-12-28,Pfizer/BioNTech,VEN,60-69,1,0,1,ITH,ITH3,5,Veneto
 2024-12-28,Pfizer/BioNTech,VEN,80-89,0,1,1,ITH,ITH3,5,Veneto
@@ -11509,6 +11692,9 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-30,Pfizer/BioNTech,TOS,70-79,12,21,33,ITI,ITI1,9,Toscana
 2024-12-30,Pfizer/BioNTech,TOS,80-89,7,6,13,ITI,ITI1,9,Toscana
 2024-12-30,Pfizer/BioNTech,TOS,90+,2,2,4,ITI,ITI1,9,Toscana
+2024-12-30,Pfizer/BioNTech,UMB,60-69,1,0,1,ITI,ITI2,10,Umbria
+2024-12-30,Pfizer/BioNTech,UMB,70-79,0,1,1,ITI,ITI2,10,Umbria
+2024-12-30,Pfizer/BioNTech,UMB,80-89,0,4,4,ITI,ITI2,10,Umbria
 2024-12-30,Pfizer/BioNTech,VEN,12-19,1,0,1,ITH,ITH3,5,Veneto
 2024-12-30,Pfizer/BioNTech,VEN,30-39,0,1,1,ITH,ITH3,5,Veneto
 2024-12-30,Pfizer/BioNTech,VEN,50-59,0,2,2,ITH,ITH3,5,Veneto
@@ -11579,6 +11765,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-12-31,Pfizer/BioNTech,SIC,80-89,1,0,1,ITG,ITG1,19,Sicilia
 2024-12-31,Pfizer/BioNTech,TOS,70-79,2,2,4,ITI,ITI1,9,Toscana
 2024-12-31,Pfizer/BioNTech,TOS,80-89,0,2,2,ITI,ITI1,9,Toscana
+2024-12-31,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
 2024-12-31,Pfizer/BioNTech,VEN,20-29,0,1,1,ITH,ITH3,5,Veneto
 2024-12-31,Pfizer/BioNTech,VEN,30-39,1,0,1,ITH,ITH3,5,Veneto
 2024-12-31,Pfizer/BioNTech,VEN,50-59,2,0,2,ITH,ITH3,5,Veneto
@@ -11678,6 +11865,9 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-02,Pfizer/BioNTech,TOS,70-79,3,3,6,ITI,ITI1,9,Toscana
 2025-01-02,Pfizer/BioNTech,TOS,80-89,2,1,3,ITI,ITI1,9,Toscana
 2025-01-02,Pfizer/BioNTech,TOS,90+,0,1,1,ITI,ITI1,9,Toscana
+2025-01-02,Pfizer/BioNTech,UMB,50-59,1,1,2,ITI,ITI2,10,Umbria
+2025-01-02,Pfizer/BioNTech,UMB,60-69,1,0,1,ITI,ITI2,10,Umbria
+2025-01-02,Pfizer/BioNTech,UMB,80-89,5,4,9,ITI,ITI2,10,Umbria
 2025-01-02,Pfizer/BioNTech,VEN,20-29,1,0,1,ITH,ITH3,5,Veneto
 2025-01-02,Pfizer/BioNTech,VEN,30-39,1,1,2,ITH,ITH3,5,Veneto
 2025-01-02,Pfizer/BioNTech,VEN,40-49,1,3,4,ITH,ITH3,5,Veneto
@@ -11778,6 +11968,8 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-03,Pfizer/BioNTech,TOS,70-79,4,2,6,ITI,ITI1,9,Toscana
 2025-01-03,Pfizer/BioNTech,TOS,80-89,3,3,6,ITI,ITI1,9,Toscana
 2025-01-03,Pfizer/BioNTech,TOS,90+,0,1,1,ITI,ITI1,9,Toscana
+2025-01-03,Pfizer/BioNTech,UMB,70-79,0,2,2,ITI,ITI2,10,Umbria
+2025-01-03,Pfizer/BioNTech,UMB,80-89,2,2,4,ITI,ITI2,10,Umbria
 2025-01-03,Pfizer/BioNTech,VDA,40-49,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2025-01-03,Pfizer/BioNTech,VEN,20-29,1,1,2,ITH,ITH3,5,Veneto
 2025-01-03,Pfizer/BioNTech,VEN,30-39,3,3,6,ITH,ITH3,5,Veneto
@@ -12063,9 +12255,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-08,Pfizer/BioNTech,UMB,30-39,2,0,2,ITI,ITI2,10,Umbria
 2025-01-08,Pfizer/BioNTech,UMB,40-49,0,1,1,ITI,ITI2,10,Umbria
 2025-01-08,Pfizer/BioNTech,UMB,50-59,3,1,4,ITI,ITI2,10,Umbria
-2025-01-08,Pfizer/BioNTech,UMB,60-69,0,1,1,ITI,ITI2,10,Umbria
-2025-01-08,Pfizer/BioNTech,UMB,70-79,4,1,5,ITI,ITI2,10,Umbria
-2025-01-08,Pfizer/BioNTech,UMB,80-89,0,1,1,ITI,ITI2,10,Umbria
+2025-01-08,Pfizer/BioNTech,UMB,60-69,4,5,9,ITI,ITI2,10,Umbria
+2025-01-08,Pfizer/BioNTech,UMB,70-79,7,5,12,ITI,ITI2,10,Umbria
+2025-01-08,Pfizer/BioNTech,UMB,80-89,2,3,5,ITI,ITI2,10,Umbria
+2025-01-08,Pfizer/BioNTech,UMB,90+,2,4,6,ITI,ITI2,10,Umbria
 2025-01-08,Pfizer/BioNTech,VEN,20-29,1,1,2,ITH,ITH3,5,Veneto
 2025-01-08,Pfizer/BioNTech,VEN,30-39,2,1,3,ITH,ITH3,5,Veneto
 2025-01-08,Pfizer/BioNTech,VEN,40-49,0,2,2,ITH,ITH3,5,Veneto
@@ -12173,9 +12366,9 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-09,Pfizer/BioNTech,TOS,80-89,4,7,11,ITI,ITI1,9,Toscana
 2025-01-09,Pfizer/BioNTech,TOS,90+,1,1,2,ITI,ITI1,9,Toscana
 2025-01-09,Pfizer/BioNTech,UMB,50-59,1,0,1,ITI,ITI2,10,Umbria
-2025-01-09,Pfizer/BioNTech,UMB,60-69,3,3,6,ITI,ITI2,10,Umbria
-2025-01-09,Pfizer/BioNTech,UMB,70-79,2,1,3,ITI,ITI2,10,Umbria
-2025-01-09,Pfizer/BioNTech,UMB,80-89,0,1,1,ITI,ITI2,10,Umbria
+2025-01-09,Pfizer/BioNTech,UMB,60-69,5,6,11,ITI,ITI2,10,Umbria
+2025-01-09,Pfizer/BioNTech,UMB,70-79,4,2,6,ITI,ITI2,10,Umbria
+2025-01-09,Pfizer/BioNTech,UMB,80-89,2,3,5,ITI,ITI2,10,Umbria
 2025-01-09,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
 2025-01-09,Pfizer/BioNTech,VEN,20-29,0,2,2,ITH,ITH3,5,Veneto
 2025-01-09,Pfizer/BioNTech,VEN,30-39,1,3,4,ITH,ITH3,5,Veneto
@@ -12274,6 +12467,11 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-10,Pfizer/BioNTech,TOS,70-79,7,15,22,ITI,ITI1,9,Toscana
 2025-01-10,Pfizer/BioNTech,TOS,80-89,2,6,8,ITI,ITI1,9,Toscana
 2025-01-10,Pfizer/BioNTech,TOS,90+,1,2,3,ITI,ITI1,9,Toscana
+2025-01-10,Pfizer/BioNTech,UMB,50-59,0,2,2,ITI,ITI2,10,Umbria
+2025-01-10,Pfizer/BioNTech,UMB,60-69,1,0,1,ITI,ITI2,10,Umbria
+2025-01-10,Pfizer/BioNTech,UMB,70-79,2,2,4,ITI,ITI2,10,Umbria
+2025-01-10,Pfizer/BioNTech,UMB,80-89,4,2,6,ITI,ITI2,10,Umbria
+2025-01-10,Pfizer/BioNTech,UMB,90+,1,1,2,ITI,ITI2,10,Umbria
 2025-01-10,Pfizer/BioNTech,VDA,60-69,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2025-01-10,Pfizer/BioNTech,VDA,70-79,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2025-01-10,Pfizer/BioNTech,VEN,20-29,4,1,5,ITH,ITH3,5,Veneto
@@ -12431,6 +12629,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-13,Pfizer/BioNTech,TOS,60-69,4,4,8,ITI,ITI1,9,Toscana
 2025-01-13,Pfizer/BioNTech,TOS,70-79,4,4,8,ITI,ITI1,9,Toscana
 2025-01-13,Pfizer/BioNTech,TOS,80-89,10,4,14,ITI,ITI1,9,Toscana
+2025-01-13,Pfizer/BioNTech,UMB,80-89,1,0,1,ITI,ITI2,10,Umbria
 2025-01-13,Pfizer/BioNTech,VEN,20-29,1,0,1,ITH,ITH3,5,Veneto
 2025-01-13,Pfizer/BioNTech,VEN,30-39,2,4,6,ITH,ITH3,5,Veneto
 2025-01-13,Pfizer/BioNTech,VEN,40-49,2,1,3,ITH,ITH3,5,Veneto
@@ -12624,6 +12823,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-15,Pfizer/BioNTech,TOS,70-79,6,4,10,ITI,ITI1,9,Toscana
 2025-01-15,Pfizer/BioNTech,TOS,80-89,6,9,15,ITI,ITI1,9,Toscana
 2025-01-15,Pfizer/BioNTech,TOS,90+,1,4,5,ITI,ITI1,9,Toscana
+2025-01-15,Pfizer/BioNTech,UMB,20-29,1,0,1,ITI,ITI2,10,Umbria
+2025-01-15,Pfizer/BioNTech,UMB,50-59,0,1,1,ITI,ITI2,10,Umbria
+2025-01-15,Pfizer/BioNTech,UMB,60-69,2,4,6,ITI,ITI2,10,Umbria
+2025-01-15,Pfizer/BioNTech,UMB,70-79,3,1,4,ITI,ITI2,10,Umbria
+2025-01-15,Pfizer/BioNTech,UMB,80-89,3,3,6,ITI,ITI2,10,Umbria
+2025-01-15,Pfizer/BioNTech,UMB,90+,3,4,7,ITI,ITI2,10,Umbria
 2025-01-15,Pfizer/BioNTech,VDA,40-49,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2025-01-15,Pfizer/BioNTech,VDA,50-59,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2025-01-15,Pfizer/BioNTech,VDA,60-69,2,1,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -12708,6 +12913,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-16,Pfizer/BioNTech,TOS,70-79,10,8,18,ITI,ITI1,9,Toscana
 2025-01-16,Pfizer/BioNTech,TOS,80-89,7,10,17,ITI,ITI1,9,Toscana
 2025-01-16,Pfizer/BioNTech,TOS,90+,0,1,1,ITI,ITI1,9,Toscana
+2025-01-16,Pfizer/BioNTech,UMB,50-59,2,1,3,ITI,ITI2,10,Umbria
+2025-01-16,Pfizer/BioNTech,UMB,60-69,1,0,1,ITI,ITI2,10,Umbria
+2025-01-16,Pfizer/BioNTech,UMB,70-79,5,3,8,ITI,ITI2,10,Umbria
+2025-01-16,Pfizer/BioNTech,UMB,80-89,3,0,3,ITI,ITI2,10,Umbria
 2025-01-16,Pfizer/BioNTech,VDA,90+,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2025-01-16,Pfizer/BioNTech,VEN,20-29,1,0,1,ITH,ITH3,5,Veneto
 2025-01-16,Pfizer/BioNTech,VEN,30-39,2,0,2,ITH,ITH3,5,Veneto
@@ -12798,6 +13007,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-17,Pfizer/BioNTech,TOS,70-79,6,9,15,ITI,ITI1,9,Toscana
 2025-01-17,Pfizer/BioNTech,TOS,80-89,4,2,6,ITI,ITI1,9,Toscana
 2025-01-17,Pfizer/BioNTech,TOS,90+,1,2,3,ITI,ITI1,9,Toscana
+2025-01-17,Pfizer/BioNTech,UMB,40-49,0,1,1,ITI,ITI2,10,Umbria
+2025-01-17,Pfizer/BioNTech,UMB,50-59,0,2,2,ITI,ITI2,10,Umbria
+2025-01-17,Pfizer/BioNTech,UMB,60-69,3,2,5,ITI,ITI2,10,Umbria
+2025-01-17,Pfizer/BioNTech,UMB,70-79,5,4,9,ITI,ITI2,10,Umbria
+2025-01-17,Pfizer/BioNTech,UMB,80-89,1,3,4,ITI,ITI2,10,Umbria
+2025-01-17,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
 2025-01-17,Pfizer/BioNTech,VDA,60-69,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2025-01-17,Pfizer/BioNTech,VDA,80-89,0,3,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2025-01-17,Pfizer/BioNTech,VDA,90+,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -12857,6 +13072,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-18,Pfizer/BioNTech,TOS,50-59,1,0,1,ITI,ITI1,9,Toscana
 2025-01-18,Pfizer/BioNTech,TOS,70-79,0,1,1,ITI,ITI1,9,Toscana
 2025-01-18,Pfizer/BioNTech,TOS,80-89,1,0,1,ITI,ITI1,9,Toscana
+2025-01-18,Pfizer/BioNTech,UMB,70-79,1,0,1,ITI,ITI2,10,Umbria
 2025-01-18,Pfizer/BioNTech,VEN,20-29,0,1,1,ITH,ITH3,5,Veneto
 2025-01-18,Pfizer/BioNTech,VEN,40-49,0,1,1,ITH,ITH3,5,Veneto
 2025-01-18,Pfizer/BioNTech,VEN,50-59,0,1,1,ITH,ITH3,5,Veneto
@@ -12943,8 +13159,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-20,Pfizer/BioNTech,TOS,60-69,2,3,5,ITI,ITI1,9,Toscana
 2025-01-20,Pfizer/BioNTech,TOS,70-79,2,5,7,ITI,ITI1,9,Toscana
 2025-01-20,Pfizer/BioNTech,TOS,80-89,1,2,3,ITI,ITI1,9,Toscana
-2025-01-20,Pfizer/BioNTech,UMB,70-79,1,0,1,ITI,ITI2,10,Umbria
-2025-01-20,Pfizer/BioNTech,UMB,80-89,1,0,1,ITI,ITI2,10,Umbria
+2025-01-20,Pfizer/BioNTech,UMB,30-39,0,2,2,ITI,ITI2,10,Umbria
+2025-01-20,Pfizer/BioNTech,UMB,60-69,1,1,2,ITI,ITI2,10,Umbria
+2025-01-20,Pfizer/BioNTech,UMB,70-79,2,1,3,ITI,ITI2,10,Umbria
+2025-01-20,Pfizer/BioNTech,UMB,80-89,3,0,3,ITI,ITI2,10,Umbria
 2025-01-20,Pfizer/BioNTech,VDA,70-79,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2025-01-20,Pfizer/BioNTech,VDA,80-89,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2025-01-20,Pfizer/BioNTech,VEN,20-29,0,1,1,ITH,ITH3,5,Veneto
@@ -13034,6 +13252,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-21,Pfizer/BioNTech,TOS,60-69,0,1,1,ITI,ITI1,9,Toscana
 2025-01-21,Pfizer/BioNTech,TOS,70-79,2,1,3,ITI,ITI1,9,Toscana
 2025-01-21,Pfizer/BioNTech,TOS,80-89,3,2,5,ITI,ITI1,9,Toscana
+2025-01-21,Pfizer/BioNTech,UMB,60-69,0,2,2,ITI,ITI2,10,Umbria
+2025-01-21,Pfizer/BioNTech,UMB,70-79,0,3,3,ITI,ITI2,10,Umbria
+2025-01-21,Pfizer/BioNTech,UMB,80-89,1,3,4,ITI,ITI2,10,Umbria
+2025-01-21,Pfizer/BioNTech,UMB,90+,1,1,2,ITI,ITI2,10,Umbria
 2025-01-21,Pfizer/BioNTech,VEN,20-29,0,1,1,ITH,ITH3,5,Veneto
 2025-01-21,Pfizer/BioNTech,VEN,30-39,0,2,2,ITH,ITH3,5,Veneto
 2025-01-21,Pfizer/BioNTech,VEN,40-49,4,3,7,ITH,ITH3,5,Veneto
@@ -13120,9 +13342,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-22,Pfizer/BioNTech,TOS,60-69,6,8,14,ITI,ITI1,9,Toscana
 2025-01-22,Pfizer/BioNTech,TOS,70-79,6,7,13,ITI,ITI1,9,Toscana
 2025-01-22,Pfizer/BioNTech,TOS,80-89,3,4,7,ITI,ITI1,9,Toscana
-2025-01-22,Pfizer/BioNTech,UMB,60-69,1,1,2,ITI,ITI2,10,Umbria
-2025-01-22,Pfizer/BioNTech,UMB,70-79,2,3,5,ITI,ITI2,10,Umbria
+2025-01-22,Pfizer/BioNTech,UMB,12-19,0,1,1,ITI,ITI2,10,Umbria
+2025-01-22,Pfizer/BioNTech,UMB,50-59,1,0,1,ITI,ITI2,10,Umbria
+2025-01-22,Pfizer/BioNTech,UMB,60-69,2,3,5,ITI,ITI2,10,Umbria
+2025-01-22,Pfizer/BioNTech,UMB,70-79,3,3,6,ITI,ITI2,10,Umbria
 2025-01-22,Pfizer/BioNTech,UMB,80-89,3,1,4,ITI,ITI2,10,Umbria
+2025-01-22,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
 2025-01-22,Pfizer/BioNTech,VDA,70-79,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2025-01-22,Pfizer/BioNTech,VDA,80-89,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2025-01-22,Pfizer/BioNTech,VEN,12-19,1,0,1,ITH,ITH3,5,Veneto
@@ -13209,6 +13434,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-23,Pfizer/BioNTech,TOS,70-79,9,12,21,ITI,ITI1,9,Toscana
 2025-01-23,Pfizer/BioNTech,TOS,80-89,4,11,15,ITI,ITI1,9,Toscana
 2025-01-23,Pfizer/BioNTech,TOS,90+,0,8,8,ITI,ITI1,9,Toscana
+2025-01-23,Pfizer/BioNTech,UMB,40-49,0,1,1,ITI,ITI2,10,Umbria
+2025-01-23,Pfizer/BioNTech,UMB,50-59,2,0,2,ITI,ITI2,10,Umbria
+2025-01-23,Pfizer/BioNTech,UMB,70-79,1,2,3,ITI,ITI2,10,Umbria
+2025-01-23,Pfizer/BioNTech,UMB,80-89,2,0,2,ITI,ITI2,10,Umbria
 2025-01-23,Pfizer/BioNTech,VEN,30-39,1,1,2,ITH,ITH3,5,Veneto
 2025-01-23,Pfizer/BioNTech,VEN,40-49,2,1,3,ITH,ITH3,5,Veneto
 2025-01-23,Pfizer/BioNTech,VEN,50-59,1,0,1,ITH,ITH3,5,Veneto
@@ -13287,9 +13516,11 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-24,Pfizer/BioNTech,TOS,80-89,3,4,7,ITI,ITI1,9,Toscana
 2025-01-24,Pfizer/BioNTech,TOS,90+,0,3,3,ITI,ITI1,9,Toscana
 2025-01-24,Pfizer/BioNTech,UMB,40-49,0,2,2,ITI,ITI2,10,Umbria
-2025-01-24,Pfizer/BioNTech,UMB,60-69,2,1,3,ITI,ITI2,10,Umbria
-2025-01-24,Pfizer/BioNTech,UMB,70-79,0,1,1,ITI,ITI2,10,Umbria
-2025-01-24,Pfizer/BioNTech,UMB,80-89,2,3,5,ITI,ITI2,10,Umbria
+2025-01-24,Pfizer/BioNTech,UMB,50-59,1,0,1,ITI,ITI2,10,Umbria
+2025-01-24,Pfizer/BioNTech,UMB,60-69,3,1,4,ITI,ITI2,10,Umbria
+2025-01-24,Pfizer/BioNTech,UMB,70-79,1,3,4,ITI,ITI2,10,Umbria
+2025-01-24,Pfizer/BioNTech,UMB,80-89,5,5,10,ITI,ITI2,10,Umbria
+2025-01-24,Pfizer/BioNTech,UMB,90+,0,2,2,ITI,ITI2,10,Umbria
 2025-01-24,Pfizer/BioNTech,VEN,20-29,0,1,1,ITH,ITH3,5,Veneto
 2025-01-24,Pfizer/BioNTech,VEN,30-39,1,0,1,ITH,ITH3,5,Veneto
 2025-01-24,Pfizer/BioNTech,VEN,40-49,2,1,3,ITH,ITH3,5,Veneto
@@ -13337,6 +13568,9 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-26,Pfizer/BioNTech,EMR,50-59,1,2,3,ITH,ITH5,8,Emilia-Romagna
 2025-01-26,Pfizer/BioNTech,EMR,60-69,1,2,3,ITH,ITH5,8,Emilia-Romagna
 2025-01-26,Pfizer/BioNTech,EMR,70-79,2,0,2,ITH,ITH5,8,Emilia-Romagna
+2025-01-26,Pfizer/BioNTech,UMB,30-39,1,0,1,ITI,ITI2,10,Umbria
+2025-01-26,Pfizer/BioNTech,UMB,60-69,2,1,3,ITI,ITI2,10,Umbria
+2025-01-26,Pfizer/BioNTech,UMB,70-79,1,1,2,ITI,ITI2,10,Umbria
 2025-01-26,Pfizer/BioNTech,VEN,70-79,1,0,1,ITH,ITH3,5,Veneto
 2025-01-27,Pfizer Pediatrico,EMR,05-11,0,1,1,ITH,ITH5,8,Emilia-Romagna
 2025-01-27,Pfizer Pediatrico,FVG,00-04,0,1,1,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -13399,6 +13633,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-27,Pfizer/BioNTech,TOS,60-69,5,3,8,ITI,ITI1,9,Toscana
 2025-01-27,Pfizer/BioNTech,TOS,70-79,2,1,3,ITI,ITI1,9,Toscana
 2025-01-27,Pfizer/BioNTech,TOS,80-89,3,1,4,ITI,ITI1,9,Toscana
+2025-01-27,Pfizer/BioNTech,UMB,40-49,0,1,1,ITI,ITI2,10,Umbria
+2025-01-27,Pfizer/BioNTech,UMB,70-79,4,4,8,ITI,ITI2,10,Umbria
+2025-01-27,Pfizer/BioNTech,UMB,80-89,1,3,4,ITI,ITI2,10,Umbria
+2025-01-27,Pfizer/BioNTech,UMB,90+,1,3,4,ITI,ITI2,10,Umbria
 2025-01-27,Pfizer/BioNTech,VEN,40-49,1,1,2,ITH,ITH3,5,Veneto
 2025-01-27,Pfizer/BioNTech,VEN,50-59,1,1,2,ITH,ITH3,5,Veneto
 2025-01-27,Pfizer/BioNTech,VEN,60-69,1,2,3,ITH,ITH3,5,Veneto
@@ -13486,6 +13724,9 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-28,Pfizer/BioNTech,TOS,70-79,4,7,11,ITI,ITI1,9,Toscana
 2025-01-28,Pfizer/BioNTech,TOS,80-89,3,6,9,ITI,ITI1,9,Toscana
 2025-01-28,Pfizer/BioNTech,TOS,90+,1,0,1,ITI,ITI1,9,Toscana
+2025-01-28,Pfizer/BioNTech,UMB,30-39,2,0,2,ITI,ITI2,10,Umbria
+2025-01-28,Pfizer/BioNTech,UMB,60-69,0,1,1,ITI,ITI2,10,Umbria
+2025-01-28,Pfizer/BioNTech,UMB,70-79,2,1,3,ITI,ITI2,10,Umbria
 2025-01-28,Pfizer/BioNTech,VEN,20-29,0,1,1,ITH,ITH3,5,Veneto
 2025-01-28,Pfizer/BioNTech,VEN,30-39,8,8,16,ITH,ITH3,5,Veneto
 2025-01-28,Pfizer/BioNTech,VEN,40-49,2,1,3,ITH,ITH3,5,Veneto
@@ -13572,6 +13813,11 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-29,Pfizer/BioNTech,TOS,70-79,2,3,5,ITI,ITI1,9,Toscana
 2025-01-29,Pfizer/BioNTech,TOS,80-89,0,3,3,ITI,ITI1,9,Toscana
 2025-01-29,Pfizer/BioNTech,TOS,90+,1,1,2,ITI,ITI1,9,Toscana
+2025-01-29,Pfizer/BioNTech,UMB,40-49,0,1,1,ITI,ITI2,10,Umbria
+2025-01-29,Pfizer/BioNTech,UMB,50-59,0,1,1,ITI,ITI2,10,Umbria
+2025-01-29,Pfizer/BioNTech,UMB,70-79,0,4,4,ITI,ITI2,10,Umbria
+2025-01-29,Pfizer/BioNTech,UMB,80-89,4,1,5,ITI,ITI2,10,Umbria
+2025-01-29,Pfizer/BioNTech,UMB,90+,1,1,2,ITI,ITI2,10,Umbria
 2025-01-29,Pfizer/BioNTech,VDA,50-59,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2025-01-29,Pfizer/BioNTech,VDA,60-69,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2025-01-29,Pfizer/BioNTech,VDA,70-79,2,1,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
@@ -13648,6 +13894,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-30,Pfizer/BioNTech,TOS,60-69,2,4,6,ITI,ITI1,9,Toscana
 2025-01-30,Pfizer/BioNTech,TOS,70-79,2,1,3,ITI,ITI1,9,Toscana
 2025-01-30,Pfizer/BioNTech,TOS,80-89,4,4,8,ITI,ITI1,9,Toscana
+2025-01-30,Pfizer/BioNTech,UMB,90+,1,0,1,ITI,ITI2,10,Umbria
 2025-01-30,Pfizer/BioNTech,VEN,50-59,0,2,2,ITH,ITH3,5,Veneto
 2025-01-30,Pfizer/BioNTech,VEN,60-69,4,2,6,ITH,ITH3,5,Veneto
 2025-01-30,Pfizer/BioNTech,VEN,70-79,8,3,11,ITH,ITH3,5,Veneto
@@ -13728,6 +13975,9 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-01-31,Pfizer/BioNTech,TOS,70-79,3,6,9,ITI,ITI1,9,Toscana
 2025-01-31,Pfizer/BioNTech,TOS,80-89,5,5,10,ITI,ITI1,9,Toscana
 2025-01-31,Pfizer/BioNTech,TOS,90+,0,1,1,ITI,ITI1,9,Toscana
+2025-01-31,Pfizer/BioNTech,UMB,40-49,1,0,1,ITI,ITI2,10,Umbria
+2025-01-31,Pfizer/BioNTech,UMB,60-69,0,1,1,ITI,ITI2,10,Umbria
+2025-01-31,Pfizer/BioNTech,UMB,70-79,1,0,1,ITI,ITI2,10,Umbria
 2025-01-31,Pfizer/BioNTech,VEN,20-29,1,1,2,ITH,ITH3,5,Veneto
 2025-01-31,Pfizer/BioNTech,VEN,30-39,1,0,1,ITH,ITH3,5,Veneto
 2025-01-31,Pfizer/BioNTech,VEN,40-49,1,1,2,ITH,ITH3,5,Veneto
@@ -13936,6 +14186,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-02-05,Pfizer/BioNTech,TOS,70-79,1,2,3,ITI,ITI1,9,Toscana
 2025-02-05,Pfizer/BioNTech,TOS,80-89,3,0,3,ITI,ITI1,9,Toscana
 2025-02-05,Pfizer/BioNTech,TOS,90+,0,2,2,ITI,ITI1,9,Toscana
+2025-02-05,Pfizer/BioNTech,UMB,60-69,1,0,1,ITI,ITI2,10,Umbria
+2025-02-05,Pfizer/BioNTech,UMB,70-79,0,1,1,ITI,ITI2,10,Umbria
+2025-02-05,Pfizer/BioNTech,UMB,80-89,1,2,3,ITI,ITI2,10,Umbria
+2025-02-05,Pfizer/BioNTech,UMB,90+,0,3,3,ITI,ITI2,10,Umbria
 2025-02-05,Pfizer/BioNTech,VEN,20-29,0,1,1,ITH,ITH3,5,Veneto
 2025-02-05,Pfizer/BioNTech,VEN,30-39,1,3,4,ITH,ITH3,5,Veneto
 2025-02-05,Pfizer/BioNTech,VEN,50-59,1,3,4,ITH,ITH3,5,Veneto
@@ -14059,6 +14313,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-02-07,Pfizer/BioNTech,PUG,30-39,2,2,4,ITF,ITF4,16,Puglia
 2025-02-07,Pfizer/BioNTech,PUG,40-49,1,1,2,ITF,ITF4,16,Puglia
 2025-02-07,Pfizer/BioNTech,TOS,60-69,1,0,1,ITI,ITI1,9,Toscana
+2025-02-07,Pfizer/BioNTech,UMB,60-69,0,1,1,ITI,ITI2,10,Umbria
 2025-02-07,Pfizer/BioNTech,VEN,50-59,1,1,2,ITH,ITH3,5,Veneto
 2025-02-07,Pfizer/BioNTech,VEN,60-69,1,0,1,ITH,ITH3,5,Veneto
 2025-02-07,Pfizer/BioNTech,VEN,70-79,2,0,2,ITH,ITH3,5,Veneto
@@ -14455,6 +14710,9 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-02-17,Pfizer/BioNTech,TOS,60-69,1,1,2,ITI,ITI1,9,Toscana
 2025-02-17,Pfizer/BioNTech,TOS,70-79,1,2,3,ITI,ITI1,9,Toscana
 2025-02-17,Pfizer/BioNTech,TOS,80-89,0,1,1,ITI,ITI1,9,Toscana
+2025-02-17,Pfizer/BioNTech,UMB,40-49,0,1,1,ITI,ITI2,10,Umbria
+2025-02-17,Pfizer/BioNTech,UMB,60-69,0,1,1,ITI,ITI2,10,Umbria
+2025-02-17,Pfizer/BioNTech,UMB,70-79,0,1,1,ITI,ITI2,10,Umbria
 2025-02-17,Pfizer/BioNTech,VEN,80-89,1,0,1,ITH,ITH3,5,Veneto
 2025-02-18,Pfizer Pediatrico,PAB,00-04,0,1,1,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
 2025-02-18,Pfizer/BioNTech,CAM,50-59,1,0,1,ITF,ITF3,15,Campania
@@ -14950,6 +15208,8 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-03-04,Pfizer/BioNTech,PUG,70-79,1,0,1,ITF,ITF4,16,Puglia
 2025-03-04,Pfizer/BioNTech,TOS,12-19,0,1,1,ITI,ITI1,9,Toscana
 2025-03-04,Pfizer/BioNTech,TOS,70-79,0,1,1,ITI,ITI1,9,Toscana
+2025-03-04,Pfizer/BioNTech,UMB,70-79,2,1,3,ITI,ITI2,10,Umbria
+2025-03-04,Pfizer/BioNTech,UMB,80-89,2,1,3,ITI,ITI2,10,Umbria
 2025-03-05,Pfizer Pediatrico,PUG,05-11,1,0,1,ITF,ITF4,16,Puglia
 2025-03-05,Pfizer/BioNTech,EMR,70-79,1,0,1,ITH,ITH5,8,Emilia-Romagna
 2025-03-05,Pfizer/BioNTech,FVG,70-79,2,0,2,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -15018,6 +15278,8 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-03-06,Pfizer/BioNTech,TOS,30-39,0,1,1,ITI,ITI1,9,Toscana
 2025-03-06,Pfizer/BioNTech,TOS,60-69,1,2,3,ITI,ITI1,9,Toscana
 2025-03-06,Pfizer/BioNTech,TOS,80-89,3,1,4,ITI,ITI1,9,Toscana
+2025-03-06,Pfizer/BioNTech,UMB,60-69,0,1,1,ITI,ITI2,10,Umbria
+2025-03-06,Pfizer/BioNTech,UMB,70-79,2,1,3,ITI,ITI2,10,Umbria
 2025-03-06,Pfizer/BioNTech,VEN,50-59,1,0,1,ITH,ITH3,5,Veneto
 2025-03-06,Pfizer/BioNTech,VEN,70-79,2,0,2,ITH,ITH3,5,Veneto
 2025-03-07,Pfizer/BioNTech,EMR,50-59,0,1,1,ITH,ITH5,8,Emilia-Romagna
@@ -15052,6 +15314,9 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-03-07,Pfizer/BioNTech,TOS,50-59,0,1,1,ITI,ITI1,9,Toscana
 2025-03-07,Pfizer/BioNTech,TOS,60-69,1,0,1,ITI,ITI1,9,Toscana
 2025-03-07,Pfizer/BioNTech,TOS,70-79,0,1,1,ITI,ITI1,9,Toscana
+2025-03-07,Pfizer/BioNTech,UMB,60-69,1,1,2,ITI,ITI2,10,Umbria
+2025-03-07,Pfizer/BioNTech,UMB,70-79,1,0,1,ITI,ITI2,10,Umbria
+2025-03-07,Pfizer/BioNTech,UMB,80-89,1,1,2,ITI,ITI2,10,Umbria
 2025-03-07,Pfizer/BioNTech,VEN,50-59,3,0,3,ITH,ITH3,5,Veneto
 2025-03-07,Pfizer/BioNTech,VEN,60-69,1,1,2,ITH,ITH3,5,Veneto
 2025-03-07,Pfizer/BioNTech,VEN,70-79,5,5,10,ITH,ITH3,5,Veneto
@@ -15377,6 +15642,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-03-21,Pfizer/BioNTech,TOS,40-49,0,1,1,ITI,ITI1,9,Toscana
 2025-03-21,Pfizer/BioNTech,TOS,60-69,2,1,3,ITI,ITI1,9,Toscana
 2025-03-21,Pfizer/BioNTech,TOS,70-79,1,0,1,ITI,ITI1,9,Toscana
+2025-03-21,Pfizer/BioNTech,UMB,70-79,0,1,1,ITI,ITI2,10,Umbria
 2025-03-21,Pfizer/BioNTech,VEN,20-29,1,0,1,ITH,ITH3,5,Veneto
 2025-03-21,Pfizer/BioNTech,VEN,40-49,0,1,1,ITH,ITH3,5,Veneto
 2025-03-21,Pfizer/BioNTech,VEN,50-59,0,1,1,ITH,ITH3,5,Veneto
@@ -15678,6 +15944,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-04-09,Pfizer/BioNTech,TOS,40-49,0,1,1,ITI,ITI1,9,Toscana
 2025-04-09,Pfizer/BioNTech,TOS,60-69,0,1,1,ITI,ITI1,9,Toscana
 2025-04-09,Pfizer/BioNTech,TOS,70-79,0,2,2,ITI,ITI1,9,Toscana
+2025-04-09,Pfizer/BioNTech,UMB,60-69,1,1,2,ITI,ITI2,10,Umbria
 2025-04-09,Pfizer/BioNTech,VEN,60-69,0,1,1,ITH,ITH3,5,Veneto
 2025-04-10,Pfizer/BioNTech,ABR,80-89,1,0,1,ITF,ITF1,13,Abruzzo
 2025-04-10,Pfizer/BioNTech,EMR,30-39,2,0,2,ITH,ITH5,8,Emilia-Romagna
@@ -15891,6 +16158,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-04-24,Pfizer/BioNTech,LOM,90+,0,9,9,ITC,ITC4,3,Lombardia
 2025-04-24,Pfizer/BioNTech,PUG,30-39,0,1,1,ITF,ITF4,16,Puglia
 2025-04-24,Pfizer/BioNTech,TOS,20-29,1,0,1,ITI,ITI1,9,Toscana
+2025-04-24,Pfizer/BioNTech,UMB,20-29,0,1,1,ITI,ITI2,10,Umbria
+2025-04-24,Pfizer/BioNTech,UMB,50-59,0,2,2,ITI,ITI2,10,Umbria
+2025-04-24,Pfizer/BioNTech,UMB,60-69,2,0,2,ITI,ITI2,10,Umbria
+2025-04-24,Pfizer/BioNTech,UMB,80-89,1,0,1,ITI,ITI2,10,Umbria
 2025-04-26,Pfizer Pediatrico,PUG,05-11,1,0,1,ITF,ITF4,16,Puglia
 2025-04-26,Pfizer/BioNTech,LOM,60-69,0,1,1,ITC,ITC4,3,Lombardia
 2025-04-26,Pfizer/BioNTech,LOM,70-79,1,0,1,ITC,ITC4,3,Lombardia
@@ -16401,3 +16672,19 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-07-09,Pfizer/BioNTech,MAR,60-69,1,0,1,ITI,ITI3,11,Marche
 2025-07-09,Pfizer/BioNTech,PIE,50-59,1,0,1,ITC,ITC1,1,Piemonte
 2025-07-09,Pfizer/BioNTech,TOS,30-39,1,0,1,ITI,ITI1,9,Toscana
+2025-07-11,Pfizer/BioNTech,EMR,40-49,0,1,1,ITH,ITH5,8,Emilia-Romagna
+2025-07-11,Pfizer/BioNTech,LOM,50-59,1,0,1,ITC,ITC4,3,Lombardia
+2025-07-14,Pfizer/BioNTech,EMR,20-29,0,1,1,ITH,ITH5,8,Emilia-Romagna
+2025-07-14,Pfizer/BioNTech,FVG,50-59,1,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2025-07-14,Pfizer/BioNTech,LOM,50-59,1,1,2,ITC,ITC4,3,Lombardia
+2025-07-15,Pfizer Pediatrico,EMR,05-11,1,0,1,ITH,ITH5,8,Emilia-Romagna
+2025-07-15,Pfizer/BioNTech,LOM,50-59,1,0,1,ITC,ITC4,3,Lombardia
+2025-07-16,Pfizer/BioNTech,CAM,20-29,1,0,1,ITF,ITF3,15,Campania
+2025-07-16,Pfizer/BioNTech,LOM,40-49,0,1,1,ITC,ITC4,3,Lombardia
+2025-07-16,Pfizer/BioNTech,LOM,80-89,0,1,1,ITC,ITC4,3,Lombardia
+2025-07-17,Pfizer/BioNTech,CAM,50-59,1,0,1,ITF,ITF3,15,Campania
+2025-07-17,Pfizer/BioNTech,EMR,40-49,0,1,1,ITH,ITH5,8,Emilia-Romagna
+2025-07-17,Pfizer/BioNTech,EMR,60-69,0,2,2,ITH,ITH5,8,Emilia-Romagna
+2025-07-17,Pfizer/BioNTech,PAT,20-29,0,1,1,ITH,ITH2,4,Provincia Autonoma Trento
+2025-07-17,Pfizer/BioNTech,PAT,60-69,0,1,1,ITH,ITH2,4,Provincia Autonoma Trento
+2025-07-17,Pfizer/BioNTech,PAT,70-79,1,0,1,ITH,ITH2,4,Provincia Autonoma Trento
