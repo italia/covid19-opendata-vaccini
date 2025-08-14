@@ -355,6 +355,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-10-02,Pfizer/BioNTech,LOM,70-79,31,34,65,ITC,ITC4,3,Lombardia
 2024-10-02,Pfizer/BioNTech,LOM,80-89,31,30,61,ITC,ITC4,3,Lombardia
 2024-10-02,Pfizer/BioNTech,LOM,90+,3,7,10,ITC,ITC4,3,Lombardia
+2024-10-02,Pfizer/BioNTech,PAT,20-29,1,0,1,ITH,ITH2,4,Provincia Autonoma Trento
 2024-10-02,Pfizer/BioNTech,PUG,40-49,3,0,3,ITF,ITF4,16,Puglia
 2024-10-02,Pfizer/BioNTech,PUG,50-59,6,4,10,ITF,ITF4,16,Puglia
 2024-10-02,Pfizer/BioNTech,PUG,60-69,3,7,10,ITF,ITF4,16,Puglia
@@ -4385,7 +4386,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-06,Pfizer/BioNTech,EMR,40-49,81,85,166,ITH,ITH5,8,Emilia-Romagna
 2024-11-06,Pfizer/BioNTech,EMR,50-59,199,216,415,ITH,ITH5,8,Emilia-Romagna
 2024-11-06,Pfizer/BioNTech,EMR,60-69,629,609,1238,ITH,ITH5,8,Emilia-Romagna
-2024-11-06,Pfizer/BioNTech,EMR,70-79,1002,918,1920,ITH,ITH5,8,Emilia-Romagna
+2024-11-06,Pfizer/BioNTech,EMR,70-79,1002,919,1921,ITH,ITH5,8,Emilia-Romagna
 2024-11-06,Pfizer/BioNTech,EMR,80-89,784,950,1734,ITH,ITH5,8,Emilia-Romagna
 2024-11-06,Pfizer/BioNTech,EMR,90+,193,394,587,ITH,ITH5,8,Emilia-Romagna
 2024-11-06,Pfizer/BioNTech,FVG,20-29,9,19,28,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -5917,7 +5918,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2024-11-15,Pfizer/BioNTech,PAT,80-89,26,30,56,ITH,ITH2,4,Provincia Autonoma Trento
 2024-11-15,Pfizer/BioNTech,PAT,90+,2,9,11,ITH,ITH2,4,Provincia Autonoma Trento
 2024-11-15,Pfizer/BioNTech,PIE,12-19,2,3,5,ITC,ITC1,1,Piemonte
-2024-11-15,Pfizer/BioNTech,PIE,20-29,11,12,23,ITC,ITC1,1,Piemonte
+2024-11-15,Pfizer/BioNTech,PIE,20-29,11,13,24,ITC,ITC1,1,Piemonte
 2024-11-15,Pfizer/BioNTech,PIE,30-39,22,24,46,ITC,ITC1,1,Piemonte
 2024-11-15,Pfizer/BioNTech,PIE,40-49,23,42,65,ITC,ITC1,1,Piemonte
 2024-11-15,Pfizer/BioNTech,PIE,50-59,79,89,168,ITC,ITC1,1,Piemonte
@@ -16870,3 +16871,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-08-06,Pfizer/BioNTech,LOM,80-89,0,1,1,ITC,ITC4,3,Lombardia
 2025-08-06,Pfizer/BioNTech,TOS,20-29,1,0,1,ITI,ITI1,9,Toscana
 2025-08-06,Pfizer/BioNTech,TOS,70-79,1,0,1,ITI,ITI1,9,Toscana
+2025-08-11,Pfizer/BioNTech,TOS,50-59,1,1,2,ITI,ITI1,9,Toscana
+2025-08-12,Pfizer/BioNTech,LOM,40-49,0,1,1,ITC,ITC4,3,Lombardia
+2025-08-14,Pfizer/BioNTech,EMR,60-69,1,0,1,ITH,ITH5,8,Emilia-Romagna
+2025-08-14,Pfizer/BioNTech,MAR,80-89,0,1,1,ITI,ITI3,11,Marche
