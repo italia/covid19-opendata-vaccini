@@ -2679,7 +2679,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-10-30,Pfizer/BioNTech,TOS,30-39,23,34,57,ITI,ITI1,9,Toscana
 2025-10-30,Pfizer/BioNTech,TOS,40-49,22,44,66,ITI,ITI1,9,Toscana
 2025-10-30,Pfizer/BioNTech,TOS,50-59,74,72,146,ITI,ITI1,9,Toscana
-2025-10-30,Pfizer/BioNTech,TOS,60-69,244,276,520,ITI,ITI1,9,Toscana
+2025-10-30,Pfizer/BioNTech,TOS,60-69,244,277,521,ITI,ITI1,9,Toscana
 2025-10-30,Pfizer/BioNTech,TOS,70-79,420,385,805,ITI,ITI1,9,Toscana
 2025-10-30,Pfizer/BioNTech,TOS,80-89,243,332,575,ITI,ITI1,9,Toscana
 2025-10-30,Pfizer/BioNTech,TOS,90+,23,79,102,ITI,ITI1,9,Toscana
@@ -13405,8 +13405,11 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-07-22,Pfizer/BioNTech,LOM,90+,2,12,14,ITC,ITC4,3,Lombardia
 2026-07-23,Pfizer/BioNTech,LOM,40-49,0,1,1,ITC,ITC4,3,Lombardia
 2026-07-23,Pfizer/BioNTech,LOM,50-59,1,0,1,ITC,ITC4,3,Lombardia
+2026-07-23,Pfizer/BioNTech,PUG,20-29,1,0,1,ITF,ITF4,16,Puglia
+2026-07-23,Pfizer/BioNTech,PUG,70-79,1,0,1,ITF,ITF4,16,Puglia
 2026-07-24,Pfizer/BioNTech,LOM,20-29,0,1,1,ITC,ITC4,3,Lombardia
 2026-07-24,Pfizer/BioNTech,LOM,50-59,1,1,2,ITC,ITC4,3,Lombardia
+2026-07-24,Pfizer/BioNTech,PUG,60-69,0,1,1,ITF,ITF4,16,Puglia
 2026-07-28,Pfizer/BioNTech,LOM,40-49,1,1,2,ITC,ITC4,3,Lombardia
 2026-07-29,Pfizer/BioNTech,EMR,60-69,1,0,1,ITH,ITH5,8,Emilia-Romagna
 2026-07-29,Pfizer/BioNTech,VEN,60-69,1,0,1,ITH,ITH3,5,Veneto
@@ -13417,3 +13420,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-08-03,Pfizer/BioNTech,TOS,70-79,0,1,1,ITI,ITI1,9,Toscana
 2026-08-04,Pfizer/BioNTech,FVG,70-79,1,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-08-04,Pfizer/BioNTech,TOS,60-69,1,0,1,ITI,ITI1,9,Toscana
+2026-08-05,Pfizer/BioNTech,SAR,30-39,1,1,2,ITG,ITG2,20,Sardegna
+2026-08-05,Pfizer/BioNTech,SAR,40-49,0,1,1,ITG,ITG2,20,Sardegna
+2026-08-05,Pfizer/BioNTech,SAR,50-59,1,0,1,ITG,ITG2,20,Sardegna
+2026-08-07,Pfizer/BioNTech,FVG,50-59,1,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-08-12,Pfizer/BioNTech,LOM,80-89,0,1,1,ITC,ITC4,3,Lombardia
+2026-08-12,Pfizer/BioNTech,LOM,90+,0,1,1,ITC,ITC4,3,Lombardia
+2026-08-13,Pfizer/BioNTech,VEN,40-49,1,0,1,ITH,ITH3,5,Veneto
