@@ -159,6 +159,64 @@ Di seguito un riepilogo dei campi oggetto di modifica con i files interessati da
 | codice_regione_ISTAT | ISTAT | `consegne-vaccini-latest`<br/> `vaccini-summary-latest`<br/> `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `punti-somministrazione-tipologia`|
 | nome_area | reg | `consegne-vaccini-latest`<br/> `vaccini-summary-latest`<br/> `somministrazioni-vaccini-latest`<br/> `somministrazioni-vaccini-summary-latest`<br/> `punti-somministrazione-tipologia`<br/> `platea`<br/> `platea-dose-addizionale-booster`<br/> `platea-booster-immunocompromessi`<br/> `soggetti-guariti`<br/> `platea-second-booster`|
 
+Di seguito la mappatura delle variazioni in CSV
+
+```
+old_name,new_name,files
+fornitore,forn,consegne-vaccini-latest
+fornitore,forn,somministrazioni-vaccini-latest
+data_somministrazione,data,somministrazioni-vaccini-latest
+data_somministrazione,data,somministrazioni-vaccini-summary-latest
+fascia_anagrafica,eta,somministrazioni-vaccini-latest
+fascia_anagrafica,eta,anagrafica-vaccini-summary-latest
+fascia_anagrafica,eta,platea
+fascia_anagrafica,eta,soggetti-guariti
+sesso_maschile,m,somministrazioni-vaccini-latest
+sesso_maschile,m,somministrazioni-vaccini-summary-latest
+sesso_maschile,m,anagrafica-vaccini-summary-latest
+sesso_femminile,f,somministrazioni-vaccini-latest
+sesso_femminile,f,somministrazioni-vaccini-summary-latest
+sesso_femminile,f,anagrafica-vaccini-summary-latest
+prima_dose,d1,somministrazioni-vaccini-latest
+prima_dose,d1,somministrazioni-vaccini-summary-latest
+prima_dose,d1,anagrafica-vaccini-summary-latest
+seconda_dose,d2,somministrazioni-vaccini-latest
+seconda_dose,d2,somministrazioni-vaccini-summary-latest
+seconda_dose,d2,anagrafica-vaccini-summary-latest
+pregressa_infezione,dpi,somministrazioni-vaccini-latest
+pregressa_infezione,dpi,somministrazioni-vaccini-summary-latest
+pregressa_infezione,dpi,anagrafica-vaccini-summary-latest
+dose_addizionale_booster,db1,somministrazioni-vaccini-latest
+dose_addizionale_booster,db1,somministrazioni-vaccini-summary-latest
+dose_addizionale_booster,db1,anagrafica-vaccini-summary-latest
+booster_immuno,dbi,somministrazioni-vaccini-latest
+booster_immuno,dbi,somministrazioni-vaccini-summary-latest
+booster_immuno,dbi,anagrafica-vaccini-summary-latest
+d2_booster,db2,somministrazioni-vaccini-latest
+d2_booster,db2,somministrazioni-vaccini-summary-latest
+d2_booster,db2,anagrafica-vaccini-summary-latest
+codice_NUTS1,N1,consegne-vaccini-latest
+codice_NUTS1,N1,vaccini-summary-latest
+codice_NUTS1,N1,somministrazioni-vaccini-latest
+codice_NUTS1,N1,somministrazioni-vaccini-summary-latest
+codice_NUTS1,N1,punti-somministrazione-tipologia
+codice_NUTS2,N2,consegne-vaccini-latest
+codice_NUTS2,N2,vaccini-summary-latest
+codice_NUTS2,N2,somministrazioni-vaccini-latest
+codice_NUTS2,N2,somministrazioni-vaccini-summary-latest
+codice_NUTS2,N2,punti-somministrazione-tipologia
+codice_regione_ISTAT,ISTAT,consegne-vaccini-latest
+codice_regione_ISTAT,ISTAT,vaccini-summary-latest
+codice_regione_ISTAT,ISTAT,somministrazioni-vaccini-latest
+codice_regione_ISTAT,ISTAT,somministrazioni-vaccini-summary-latest
+codice_regione_ISTAT,ISTAT,punti-somministrazione-tipologia
+nome_area,reg,platea
+nome_area,reg,platea-dose-addizionale-booster
+nome_area,reg,platea-booster-immunocompromessi
+nome_area,reg,soggetti-guariti
+nome_area,reg,platea-second-booster
+```
+
 ## 12/04/2022
 
 Aggiunto il campo **d2_booster** che identifica il numero di dosi di second booster somministrate a soggetti che abbiano già completato il ciclo vaccinale comprensivo di dose booster, dopo un intervallo minimo di almeno quattro mesi (120 giorni) dalla dose booster stessa. La modifica ha interessato i files `anagrafica-vaccini-summary-latest`, `somministrazioni-vaccini-latest`, `somministrazioni-vaccini-summary-latest`.
