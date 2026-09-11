@@ -3490,7 +3490,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-11-05,Pfizer/BioNTech,VDA,90+,8,10,18,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2025-11-05,Pfizer/BioNTech,VEN,12-19,4,1,5,ITH,ITH3,5,Veneto
 2025-11-05,Pfizer/BioNTech,VEN,20-29,21,21,42,ITH,ITH3,5,Veneto
-2025-11-05,Pfizer/BioNTech,VEN,30-39,51,53,104,ITH,ITH3,5,Veneto
+2025-11-05,Pfizer/BioNTech,VEN,30-39,51,52,103,ITH,ITH3,5,Veneto
 2025-11-05,Pfizer/BioNTech,VEN,40-49,62,48,110,ITH,ITH3,5,Veneto
 2025-11-05,Pfizer/BioNTech,VEN,50-59,106,124,230,ITH,ITH3,5,Veneto
 2025-11-05,Pfizer/BioNTech,VEN,60-69,259,247,506,ITH,ITH3,5,Veneto
@@ -5819,7 +5819,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2025-11-21,Pfizer/BioNTech,SIC,80-89,12,11,23,ITG,ITG1,19,Sicilia
 2025-11-21,Pfizer/BioNTech,SIC,90+,4,3,7,ITG,ITG1,19,Sicilia
 2025-11-21,Pfizer/BioNTech,TOS,12-19,6,2,8,ITI,ITI1,9,Toscana
-2025-11-21,Pfizer/BioNTech,TOS,20-29,5,13,18,ITI,ITI1,9,Toscana
+2025-11-21,Pfizer/BioNTech,TOS,20-29,6,13,19,ITI,ITI1,9,Toscana
 2025-11-21,Pfizer/BioNTech,TOS,30-39,17,27,44,ITI,ITI1,9,Toscana
 2025-11-21,Pfizer/BioNTech,TOS,40-49,27,34,61,ITI,ITI1,9,Toscana
 2025-11-21,Pfizer/BioNTech,TOS,50-59,41,64,105,ITI,ITI1,9,Toscana
@@ -12853,6 +12853,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-03-06,Pfizer/BioNTech,TOS,80-89,1,0,1,ITI,ITI1,9,Toscana
 2026-03-06,Pfizer/BioNTech,VDA,70-79,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-03-09,Pfizer Pediatrico,EMR,05-11,2,1,3,ITH,ITH5,8,Emilia-Romagna
+2026-03-09,Pfizer/BioNTech,ABR,40-49,1,0,1,ITF,ITF1,13,Abruzzo
 2026-03-09,Pfizer/BioNTech,EMR,40-49,1,0,1,ITH,ITH5,8,Emilia-Romagna
 2026-03-09,Pfizer/BioNTech,EMR,50-59,1,0,1,ITH,ITH5,8,Emilia-Romagna
 2026-03-09,Pfizer/BioNTech,EMR,60-69,2,0,2,ITH,ITH5,8,Emilia-Romagna
@@ -13054,6 +13055,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-03-29,Pfizer/BioNTech,EMR,60-69,2,2,4,ITH,ITH5,8,Emilia-Romagna
 2026-03-29,Pfizer/BioNTech,EMR,70-79,2,3,5,ITH,ITH5,8,Emilia-Romagna
 2026-03-29,Pfizer/BioNTech,EMR,80-89,4,3,7,ITH,ITH5,8,Emilia-Romagna
+2026-03-30,Pfizer/BioNTech,ABR,90+,0,1,1,ITF,ITF1,13,Abruzzo
 2026-03-30,Pfizer/BioNTech,CAM,60-69,1,0,1,ITF,ITF3,15,Campania
 2026-03-30,Pfizer/BioNTech,EMR,70-79,1,2,3,ITH,ITH5,8,Emilia-Romagna
 2026-03-30,Pfizer/BioNTech,EMR,80-89,0,1,1,ITH,ITH5,8,Emilia-Romagna
@@ -13437,3 +13439,9 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-09-01,Pfizer/BioNTech,LOM,50-59,1,0,1,ITC,ITC4,3,Lombardia
 2026-09-02,Pfizer/BioNTech,LOM,80-89,1,0,1,ITC,ITC4,3,Lombardia
 2026-09-03,Pfizer/BioNTech,PIE,70-79,0,1,1,ITC,ITC1,1,Piemonte
+2026-09-07,Pfizer/BioNTech,LOM,50-59,0,1,1,ITC,ITC4,3,Lombardia
+2026-09-08,Pfizer/BioNTech,LOM,50-59,0,1,1,ITC,ITC4,3,Lombardia
+2026-09-08,Pfizer/BioNTech,LOM,60-69,0,1,1,ITC,ITC4,3,Lombardia
+2026-09-08,Pfizer/BioNTech,LOM,70-79,1,0,1,ITC,ITC4,3,Lombardia
+2026-09-09,Pfizer/BioNTech,LOM,30-39,1,1,2,ITC,ITC4,3,Lombardia
+2026-09-09,Pfizer/BioNTech,LOM,50-59,1,0,1,ITC,ITC4,3,Lombardia
