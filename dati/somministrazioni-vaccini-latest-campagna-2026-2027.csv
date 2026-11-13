@@ -9,7 +9,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-03,Pfizer/BioNTech,LOM,90+,2,2,4,ITC,ITC4,3,Lombardia
 2026-10-04,Pfizer/BioNTech,LOM,40-49,0,1,1,ITC,ITC4,3,Lombardia
 2026-10-04,Pfizer/BioNTech,LOM,50-59,2,1,3,ITC,ITC4,3,Lombardia
-2026-10-04,Pfizer/BioNTech,LOM,60-69,0,5,5,ITC,ITC4,3,Lombardia
+2026-10-04,Pfizer/BioNTech,LOM,60-69,1,5,6,ITC,ITC4,3,Lombardia
 2026-10-04,Pfizer/BioNTech,LOM,70-79,13,9,22,ITC,ITC4,3,Lombardia
 2026-10-04,Pfizer/BioNTech,LOM,80-89,13,21,34,ITC,ITC4,3,Lombardia
 2026-10-04,Pfizer/BioNTech,LOM,90+,3,10,13,ITC,ITC4,3,Lombardia
@@ -25,7 +25,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-07,Pfizer/BioNTech,LOM,30-39,4,3,7,ITC,ITC4,3,Lombardia
 2026-10-07,Pfizer/BioNTech,LOM,40-49,5,4,9,ITC,ITC4,3,Lombardia
 2026-10-07,Pfizer/BioNTech,LOM,50-59,2,3,5,ITC,ITC4,3,Lombardia
-2026-10-07,Pfizer/BioNTech,LOM,60-69,4,3,7,ITC,ITC4,3,Lombardia
+2026-10-07,Pfizer/BioNTech,LOM,60-69,6,3,9,ITC,ITC4,3,Lombardia
 2026-10-07,Pfizer/BioNTech,LOM,70-79,8,4,12,ITC,ITC4,3,Lombardia
 2026-10-07,Pfizer/BioNTech,LOM,80-89,4,2,6,ITC,ITC4,3,Lombardia
 2026-10-07,Pfizer/BioNTech,LOM,90+,1,4,5,ITC,ITC4,3,Lombardia
@@ -36,32 +36,32 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-08,Pfizer/BioNTech,LOM,30-39,4,10,14,ITC,ITC4,3,Lombardia
 2026-10-08,Pfizer/BioNTech,LOM,40-49,5,5,10,ITC,ITC4,3,Lombardia
 2026-10-08,Pfizer/BioNTech,LOM,50-59,8,7,15,ITC,ITC4,3,Lombardia
-2026-10-08,Pfizer/BioNTech,LOM,60-69,19,18,37,ITC,ITC4,3,Lombardia
-2026-10-08,Pfizer/BioNTech,LOM,70-79,37,21,58,ITC,ITC4,3,Lombardia
-2026-10-08,Pfizer/BioNTech,LOM,80-89,22,24,46,ITC,ITC4,3,Lombardia
+2026-10-08,Pfizer/BioNTech,LOM,60-69,19,19,38,ITC,ITC4,3,Lombardia
+2026-10-08,Pfizer/BioNTech,LOM,70-79,39,25,64,ITC,ITC4,3,Lombardia
+2026-10-08,Pfizer/BioNTech,LOM,80-89,22,25,47,ITC,ITC4,3,Lombardia
 2026-10-08,Pfizer/BioNTech,LOM,90+,1,9,10,ITC,ITC4,3,Lombardia
 2026-10-08,Pfizer/BioNTech,TOS,70-79,1,1,2,ITI,ITI1,9,Toscana
 2026-10-08,Pfizer/BioNTech,VEN,60-69,1,0,1,ITH,ITH3,5,Veneto
 2026-10-09,Pfizer/BioNTech,LOM,12-19,2,2,4,ITC,ITC4,3,Lombardia
-2026-10-09,Pfizer/BioNTech,LOM,20-29,27,39,66,ITC,ITC4,3,Lombardia
+2026-10-09,Pfizer/BioNTech,LOM,20-29,28,38,66,ITC,ITC4,3,Lombardia
 2026-10-09,Pfizer/BioNTech,LOM,30-39,20,16,36,ITC,ITC4,3,Lombardia
 2026-10-09,Pfizer/BioNTech,LOM,40-49,10,17,27,ITC,ITC4,3,Lombardia
 2026-10-09,Pfizer/BioNTech,LOM,50-59,14,32,46,ITC,ITC4,3,Lombardia
 2026-10-09,Pfizer/BioNTech,LOM,60-69,29,36,65,ITC,ITC4,3,Lombardia
-2026-10-09,Pfizer/BioNTech,LOM,70-79,45,34,79,ITC,ITC4,3,Lombardia
+2026-10-09,Pfizer/BioNTech,LOM,70-79,46,34,80,ITC,ITC4,3,Lombardia
 2026-10-09,Pfizer/BioNTech,LOM,80-89,44,80,124,ITC,ITC4,3,Lombardia
 2026-10-09,Pfizer/BioNTech,LOM,90+,16,76,92,ITC,ITC4,3,Lombardia
 2026-10-09,Pfizer/BioNTech,VEN,70-79,1,0,1,ITH,ITH3,5,Veneto
 2026-10-10,Pfizer/BioNTech,EMR,50-59,1,0,1,ITH,ITH5,8,Emilia-Romagna
 2026-10-10,Pfizer/BioNTech,LOM,12-19,3,6,9,ITC,ITC4,3,Lombardia
 2026-10-10,Pfizer/BioNTech,LOM,20-29,6,12,18,ITC,ITC4,3,Lombardia
-2026-10-10,Pfizer/BioNTech,LOM,30-39,16,22,38,ITC,ITC4,3,Lombardia
-2026-10-10,Pfizer/BioNTech,LOM,40-49,19,24,43,ITC,ITC4,3,Lombardia
-2026-10-10,Pfizer/BioNTech,LOM,50-59,39,51,90,ITC,ITC4,3,Lombardia
-2026-10-10,Pfizer/BioNTech,LOM,60-69,90,96,186,ITC,ITC4,3,Lombardia
-2026-10-10,Pfizer/BioNTech,LOM,70-79,157,116,273,ITC,ITC4,3,Lombardia
-2026-10-10,Pfizer/BioNTech,LOM,80-89,133,162,295,ITC,ITC4,3,Lombardia
-2026-10-10,Pfizer/BioNTech,LOM,90+,27,29,56,ITC,ITC4,3,Lombardia
+2026-10-10,Pfizer/BioNTech,LOM,30-39,18,23,41,ITC,ITC4,3,Lombardia
+2026-10-10,Pfizer/BioNTech,LOM,40-49,20,26,46,ITC,ITC4,3,Lombardia
+2026-10-10,Pfizer/BioNTech,LOM,50-59,42,53,95,ITC,ITC4,3,Lombardia
+2026-10-10,Pfizer/BioNTech,LOM,60-69,94,99,193,ITC,ITC4,3,Lombardia
+2026-10-10,Pfizer/BioNTech,LOM,70-79,163,121,284,ITC,ITC4,3,Lombardia
+2026-10-10,Pfizer/BioNTech,LOM,80-89,140,164,304,ITC,ITC4,3,Lombardia
+2026-10-10,Pfizer/BioNTech,LOM,90+,28,30,58,ITC,ITC4,3,Lombardia
 2026-10-11,Pfizer/BioNTech,LOM,12-19,1,1,2,ITC,ITC4,3,Lombardia
 2026-10-11,Pfizer/BioNTech,LOM,20-29,0,1,1,ITC,ITC4,3,Lombardia
 2026-10-11,Pfizer/BioNTech,LOM,30-39,2,8,10,ITC,ITC4,3,Lombardia
@@ -72,10 +72,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-11,Pfizer/BioNTech,LOM,80-89,19,30,49,ITC,ITC4,3,Lombardia
 2026-10-11,Pfizer/BioNTech,LOM,90+,8,8,16,ITC,ITC4,3,Lombardia
 2026-10-12,Pfizer/BioNTech,EMR,20-29,7,9,16,ITH,ITH5,8,Emilia-Romagna
-2026-10-12,Pfizer/BioNTech,EMR,30-39,19,22,41,ITH,ITH5,8,Emilia-Romagna
-2026-10-12,Pfizer/BioNTech,EMR,40-49,15,19,34,ITH,ITH5,8,Emilia-Romagna
-2026-10-12,Pfizer/BioNTech,EMR,50-59,14,23,37,ITH,ITH5,8,Emilia-Romagna
-2026-10-12,Pfizer/BioNTech,EMR,60-69,68,46,114,ITH,ITH5,8,Emilia-Romagna
+2026-10-12,Pfizer/BioNTech,EMR,30-39,20,26,46,ITH,ITH5,8,Emilia-Romagna
+2026-10-12,Pfizer/BioNTech,EMR,40-49,19,22,41,ITH,ITH5,8,Emilia-Romagna
+2026-10-12,Pfizer/BioNTech,EMR,50-59,15,26,41,ITH,ITH5,8,Emilia-Romagna
+2026-10-12,Pfizer/BioNTech,EMR,60-69,68,49,117,ITH,ITH5,8,Emilia-Romagna
 2026-10-12,Pfizer/BioNTech,EMR,70-79,83,72,155,ITH,ITH5,8,Emilia-Romagna
 2026-10-12,Pfizer/BioNTech,EMR,80-89,75,99,174,ITH,ITH5,8,Emilia-Romagna
 2026-10-12,Pfizer/BioNTech,EMR,90+,23,41,64,ITH,ITH5,8,Emilia-Romagna
@@ -101,20 +101,20 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-13,Pfizer/BioNTech,EMR,30-39,27,36,63,ITH,ITH5,8,Emilia-Romagna
 2026-10-13,Pfizer/BioNTech,EMR,40-49,24,29,53,ITH,ITH5,8,Emilia-Romagna
 2026-10-13,Pfizer/BioNTech,EMR,50-59,50,55,105,ITH,ITH5,8,Emilia-Romagna
-2026-10-13,Pfizer/BioNTech,EMR,60-69,107,94,201,ITH,ITH5,8,Emilia-Romagna
-2026-10-13,Pfizer/BioNTech,EMR,70-79,171,190,361,ITH,ITH5,8,Emilia-Romagna
-2026-10-13,Pfizer/BioNTech,EMR,80-89,158,223,381,ITH,ITH5,8,Emilia-Romagna
-2026-10-13,Pfizer/BioNTech,EMR,90+,53,121,174,ITH,ITH5,8,Emilia-Romagna
+2026-10-13,Pfizer/BioNTech,EMR,60-69,107,95,202,ITH,ITH5,8,Emilia-Romagna
+2026-10-13,Pfizer/BioNTech,EMR,70-79,172,191,363,ITH,ITH5,8,Emilia-Romagna
+2026-10-13,Pfizer/BioNTech,EMR,80-89,159,223,382,ITH,ITH5,8,Emilia-Romagna
+2026-10-13,Pfizer/BioNTech,EMR,90+,53,123,176,ITH,ITH5,8,Emilia-Romagna
 2026-10-13,Pfizer/BioNTech,FVG,50-59,1,2,3,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-13,Pfizer/BioNTech,LOM,12-19,8,9,17,ITC,ITC4,3,Lombardia
 2026-10-13,Pfizer/BioNTech,LOM,20-29,37,57,94,ITC,ITC4,3,Lombardia
-2026-10-13,Pfizer/BioNTech,LOM,30-39,128,143,271,ITC,ITC4,3,Lombardia
+2026-10-13,Pfizer/BioNTech,LOM,30-39,128,144,272,ITC,ITC4,3,Lombardia
 2026-10-13,Pfizer/BioNTech,LOM,40-49,176,172,348,ITC,ITC4,3,Lombardia
-2026-10-13,Pfizer/BioNTech,LOM,50-59,272,201,473,ITC,ITC4,3,Lombardia
-2026-10-13,Pfizer/BioNTech,LOM,60-69,578,410,988,ITC,ITC4,3,Lombardia
-2026-10-13,Pfizer/BioNTech,LOM,70-79,675,547,1222,ITC,ITC4,3,Lombardia
-2026-10-13,Pfizer/BioNTech,LOM,80-89,456,543,999,ITC,ITC4,3,Lombardia
-2026-10-13,Pfizer/BioNTech,LOM,90+,112,218,330,ITC,ITC4,3,Lombardia
+2026-10-13,Pfizer/BioNTech,LOM,50-59,272,202,474,ITC,ITC4,3,Lombardia
+2026-10-13,Pfizer/BioNTech,LOM,60-69,581,412,993,ITC,ITC4,3,Lombardia
+2026-10-13,Pfizer/BioNTech,LOM,70-79,676,547,1223,ITC,ITC4,3,Lombardia
+2026-10-13,Pfizer/BioNTech,LOM,80-89,458,545,1003,ITC,ITC4,3,Lombardia
+2026-10-13,Pfizer/BioNTech,LOM,90+,113,219,332,ITC,ITC4,3,Lombardia
 2026-10-13,Pfizer/BioNTech,PAT,50-59,1,0,1,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-13,Pfizer/BioNTech,PAT,60-69,0,2,2,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-13,Pfizer/BioNTech,PAT,70-79,2,3,5,ITH,ITH2,4,Provincia Autonoma Trento
@@ -129,12 +129,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-14,Pfizer/BioNTech,EMR,12-19,0,1,1,ITH,ITH5,8,Emilia-Romagna
 2026-10-14,Pfizer/BioNTech,EMR,20-29,5,23,28,ITH,ITH5,8,Emilia-Romagna
 2026-10-14,Pfizer/BioNTech,EMR,30-39,25,37,62,ITH,ITH5,8,Emilia-Romagna
-2026-10-14,Pfizer/BioNTech,EMR,40-49,36,37,73,ITH,ITH5,8,Emilia-Romagna
-2026-10-14,Pfizer/BioNTech,EMR,50-59,45,63,108,ITH,ITH5,8,Emilia-Romagna
-2026-10-14,Pfizer/BioNTech,EMR,60-69,137,139,276,ITH,ITH5,8,Emilia-Romagna
-2026-10-14,Pfizer/BioNTech,EMR,70-79,221,192,413,ITH,ITH5,8,Emilia-Romagna
-2026-10-14,Pfizer/BioNTech,EMR,80-89,201,196,397,ITH,ITH5,8,Emilia-Romagna
-2026-10-14,Pfizer/BioNTech,EMR,90+,46,71,117,ITH,ITH5,8,Emilia-Romagna
+2026-10-14,Pfizer/BioNTech,EMR,40-49,37,37,74,ITH,ITH5,8,Emilia-Romagna
+2026-10-14,Pfizer/BioNTech,EMR,50-59,46,63,109,ITH,ITH5,8,Emilia-Romagna
+2026-10-14,Pfizer/BioNTech,EMR,60-69,140,139,279,ITH,ITH5,8,Emilia-Romagna
+2026-10-14,Pfizer/BioNTech,EMR,70-79,223,196,419,ITH,ITH5,8,Emilia-Romagna
+2026-10-14,Pfizer/BioNTech,EMR,80-89,202,204,406,ITH,ITH5,8,Emilia-Romagna
+2026-10-14,Pfizer/BioNTech,EMR,90+,47,72,119,ITH,ITH5,8,Emilia-Romagna
 2026-10-14,Pfizer/BioNTech,FVG,20-29,9,12,21,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-14,Pfizer/BioNTech,FVG,30-39,3,6,9,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-14,Pfizer/BioNTech,FVG,40-49,7,4,11,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -145,13 +145,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-14,Pfizer/BioNTech,FVG,90+,1,2,3,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-14,Pfizer/BioNTech,LOM,12-19,15,15,30,ITC,ITC4,3,Lombardia
 2026-10-14,Pfizer/BioNTech,LOM,20-29,66,59,125,ITC,ITC4,3,Lombardia
-2026-10-14,Pfizer/BioNTech,LOM,30-39,150,159,309,ITC,ITC4,3,Lombardia
+2026-10-14,Pfizer/BioNTech,LOM,30-39,150,160,310,ITC,ITC4,3,Lombardia
 2026-10-14,Pfizer/BioNTech,LOM,40-49,162,172,334,ITC,ITC4,3,Lombardia
 2026-10-14,Pfizer/BioNTech,LOM,50-59,277,248,525,ITC,ITC4,3,Lombardia
 2026-10-14,Pfizer/BioNTech,LOM,60-69,557,494,1051,ITC,ITC4,3,Lombardia
 2026-10-14,Pfizer/BioNTech,LOM,70-79,654,569,1223,ITC,ITC4,3,Lombardia
-2026-10-14,Pfizer/BioNTech,LOM,80-89,487,601,1088,ITC,ITC4,3,Lombardia
-2026-10-14,Pfizer/BioNTech,LOM,90+,131,262,393,ITC,ITC4,3,Lombardia
+2026-10-14,Pfizer/BioNTech,LOM,80-89,487,602,1089,ITC,ITC4,3,Lombardia
+2026-10-14,Pfizer/BioNTech,LOM,90+,132,262,394,ITC,ITC4,3,Lombardia
 2026-10-14,Pfizer/BioNTech,PAT,20-29,2,2,4,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-14,Pfizer/BioNTech,PAT,30-39,5,1,6,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-14,Pfizer/BioNTech,PAT,40-49,7,1,8,ITH,ITH2,4,Provincia Autonoma Trento
@@ -185,11 +185,11 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-15,Pfizer/BioNTech,EMR,20-29,14,21,35,ITH,ITH5,8,Emilia-Romagna
 2026-10-15,Pfizer/BioNTech,EMR,30-39,30,45,75,ITH,ITH5,8,Emilia-Romagna
 2026-10-15,Pfizer/BioNTech,EMR,40-49,32,34,66,ITH,ITH5,8,Emilia-Romagna
-2026-10-15,Pfizer/BioNTech,EMR,50-59,57,59,116,ITH,ITH5,8,Emilia-Romagna
-2026-10-15,Pfizer/BioNTech,EMR,60-69,146,124,270,ITH,ITH5,8,Emilia-Romagna
-2026-10-15,Pfizer/BioNTech,EMR,70-79,231,218,449,ITH,ITH5,8,Emilia-Romagna
-2026-10-15,Pfizer/BioNTech,EMR,80-89,221,287,508,ITH,ITH5,8,Emilia-Romagna
-2026-10-15,Pfizer/BioNTech,EMR,90+,57,82,139,ITH,ITH5,8,Emilia-Romagna
+2026-10-15,Pfizer/BioNTech,EMR,50-59,58,59,117,ITH,ITH5,8,Emilia-Romagna
+2026-10-15,Pfizer/BioNTech,EMR,60-69,147,125,272,ITH,ITH5,8,Emilia-Romagna
+2026-10-15,Pfizer/BioNTech,EMR,70-79,233,218,451,ITH,ITH5,8,Emilia-Romagna
+2026-10-15,Pfizer/BioNTech,EMR,80-89,225,288,513,ITH,ITH5,8,Emilia-Romagna
+2026-10-15,Pfizer/BioNTech,EMR,90+,58,82,140,ITH,ITH5,8,Emilia-Romagna
 2026-10-15,Pfizer/BioNTech,FVG,20-29,4,21,25,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-15,Pfizer/BioNTech,FVG,30-39,5,5,10,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-15,Pfizer/BioNTech,FVG,40-49,8,6,14,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -202,11 +202,11 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-15,Pfizer/BioNTech,LOM,20-29,35,62,97,ITC,ITC4,3,Lombardia
 2026-10-15,Pfizer/BioNTech,LOM,30-39,147,195,342,ITC,ITC4,3,Lombardia
 2026-10-15,Pfizer/BioNTech,LOM,40-49,197,183,380,ITC,ITC4,3,Lombardia
-2026-10-15,Pfizer/BioNTech,LOM,50-59,265,244,509,ITC,ITC4,3,Lombardia
-2026-10-15,Pfizer/BioNTech,LOM,60-69,534,482,1016,ITC,ITC4,3,Lombardia
-2026-10-15,Pfizer/BioNTech,LOM,70-79,737,677,1414,ITC,ITC4,3,Lombardia
-2026-10-15,Pfizer/BioNTech,LOM,80-89,587,672,1259,ITC,ITC4,3,Lombardia
-2026-10-15,Pfizer/BioNTech,LOM,90+,144,260,404,ITC,ITC4,3,Lombardia
+2026-10-15,Pfizer/BioNTech,LOM,50-59,265,245,510,ITC,ITC4,3,Lombardia
+2026-10-15,Pfizer/BioNTech,LOM,60-69,537,483,1020,ITC,ITC4,3,Lombardia
+2026-10-15,Pfizer/BioNTech,LOM,70-79,740,678,1418,ITC,ITC4,3,Lombardia
+2026-10-15,Pfizer/BioNTech,LOM,80-89,588,674,1262,ITC,ITC4,3,Lombardia
+2026-10-15,Pfizer/BioNTech,LOM,90+,144,261,405,ITC,ITC4,3,Lombardia
 2026-10-15,Pfizer/BioNTech,PAT,30-39,1,3,4,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-15,Pfizer/BioNTech,PAT,40-49,4,8,12,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-15,Pfizer/BioNTech,PAT,50-59,6,5,11,ITH,ITH2,4,Provincia Autonoma Trento
@@ -220,6 +220,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-15,Pfizer/BioNTech,PIE,70-79,3,1,4,ITC,ITC1,1,Piemonte
 2026-10-15,Pfizer/BioNTech,PIE,80-89,3,8,11,ITC,ITC1,1,Piemonte
 2026-10-15,Pfizer/BioNTech,PIE,90+,3,5,8,ITC,ITC1,1,Piemonte
+2026-10-15,Pfizer/BioNTech,SIC,30-39,1,0,1,ITG,ITG1,19,Sicilia
+2026-10-15,Pfizer/BioNTech,SIC,40-49,0,1,1,ITG,ITG1,19,Sicilia
+2026-10-15,Pfizer/BioNTech,SIC,60-69,0,1,1,ITG,ITG1,19,Sicilia
+2026-10-15,Pfizer/BioNTech,SIC,70-79,2,1,3,ITG,ITG1,19,Sicilia
 2026-10-15,Pfizer/BioNTech,TOS,50-59,3,2,5,ITI,ITI1,9,Toscana
 2026-10-15,Pfizer/BioNTech,TOS,60-69,16,12,28,ITI,ITI1,9,Toscana
 2026-10-15,Pfizer/BioNTech,TOS,70-79,24,24,48,ITI,ITI1,9,Toscana
@@ -248,14 +252,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-16,Pfizer/BioNTech,ABR,80-89,1,0,1,ITF,ITF1,13,Abruzzo
 2026-10-16,Pfizer/BioNTech,ABR,90+,1,0,1,ITF,ITF1,13,Abruzzo
 2026-10-16,Pfizer/BioNTech,EMR,12-19,2,0,2,ITH,ITH5,8,Emilia-Romagna
-2026-10-16,Pfizer/BioNTech,EMR,20-29,13,19,32,ITH,ITH5,8,Emilia-Romagna
-2026-10-16,Pfizer/BioNTech,EMR,30-39,39,56,95,ITH,ITH5,8,Emilia-Romagna
-2026-10-16,Pfizer/BioNTech,EMR,40-49,42,43,85,ITH,ITH5,8,Emilia-Romagna
-2026-10-16,Pfizer/BioNTech,EMR,50-59,68,79,147,ITH,ITH5,8,Emilia-Romagna
-2026-10-16,Pfizer/BioNTech,EMR,60-69,185,186,371,ITH,ITH5,8,Emilia-Romagna
-2026-10-16,Pfizer/BioNTech,EMR,70-79,289,273,562,ITH,ITH5,8,Emilia-Romagna
-2026-10-16,Pfizer/BioNTech,EMR,80-89,260,277,537,ITH,ITH5,8,Emilia-Romagna
-2026-10-16,Pfizer/BioNTech,EMR,90+,74,123,197,ITH,ITH5,8,Emilia-Romagna
+2026-10-16,Pfizer/BioNTech,EMR,20-29,14,19,33,ITH,ITH5,8,Emilia-Romagna
+2026-10-16,Pfizer/BioNTech,EMR,30-39,39,58,97,ITH,ITH5,8,Emilia-Romagna
+2026-10-16,Pfizer/BioNTech,EMR,40-49,43,44,87,ITH,ITH5,8,Emilia-Romagna
+2026-10-16,Pfizer/BioNTech,EMR,50-59,69,82,151,ITH,ITH5,8,Emilia-Romagna
+2026-10-16,Pfizer/BioNTech,EMR,60-69,185,188,373,ITH,ITH5,8,Emilia-Romagna
+2026-10-16,Pfizer/BioNTech,EMR,70-79,290,274,564,ITH,ITH5,8,Emilia-Romagna
+2026-10-16,Pfizer/BioNTech,EMR,80-89,263,279,542,ITH,ITH5,8,Emilia-Romagna
+2026-10-16,Pfizer/BioNTech,EMR,90+,74,125,199,ITH,ITH5,8,Emilia-Romagna
 2026-10-16,Pfizer/BioNTech,FVG,20-29,0,2,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-16,Pfizer/BioNTech,FVG,30-39,4,5,9,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-16,Pfizer/BioNTech,FVG,40-49,6,6,12,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -266,13 +270,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-16,Pfizer/BioNTech,FVG,90+,8,6,14,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-16,Pfizer/BioNTech,LOM,12-19,16,12,28,ITC,ITC4,3,Lombardia
 2026-10-16,Pfizer/BioNTech,LOM,20-29,72,87,159,ITC,ITC4,3,Lombardia
-2026-10-16,Pfizer/BioNTech,LOM,30-39,164,210,374,ITC,ITC4,3,Lombardia
-2026-10-16,Pfizer/BioNTech,LOM,40-49,198,210,408,ITC,ITC4,3,Lombardia
+2026-10-16,Pfizer/BioNTech,LOM,30-39,164,211,375,ITC,ITC4,3,Lombardia
+2026-10-16,Pfizer/BioNTech,LOM,40-49,199,210,409,ITC,ITC4,3,Lombardia
 2026-10-16,Pfizer/BioNTech,LOM,50-59,327,302,629,ITC,ITC4,3,Lombardia
-2026-10-16,Pfizer/BioNTech,LOM,60-69,572,513,1085,ITC,ITC4,3,Lombardia
-2026-10-16,Pfizer/BioNTech,LOM,70-79,710,609,1319,ITC,ITC4,3,Lombardia
-2026-10-16,Pfizer/BioNTech,LOM,80-89,578,661,1239,ITC,ITC4,3,Lombardia
-2026-10-16,Pfizer/BioNTech,LOM,90+,140,203,343,ITC,ITC4,3,Lombardia
+2026-10-16,Pfizer/BioNTech,LOM,60-69,572,517,1089,ITC,ITC4,3,Lombardia
+2026-10-16,Pfizer/BioNTech,LOM,70-79,712,612,1324,ITC,ITC4,3,Lombardia
+2026-10-16,Pfizer/BioNTech,LOM,80-89,585,664,1249,ITC,ITC4,3,Lombardia
+2026-10-16,Pfizer/BioNTech,LOM,90+,141,205,346,ITC,ITC4,3,Lombardia
 2026-10-16,Pfizer/BioNTech,PAT,30-39,6,5,11,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-16,Pfizer/BioNTech,PAT,40-49,9,12,21,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-16,Pfizer/BioNTech,PAT,50-59,13,8,21,ITH,ITH2,4,Provincia Autonoma Trento
@@ -317,9 +321,9 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-17,Pfizer/BioNTech,EMR,20-29,5,6,11,ITH,ITH5,8,Emilia-Romagna
 2026-10-17,Pfizer/BioNTech,EMR,30-39,13,10,23,ITH,ITH5,8,Emilia-Romagna
 2026-10-17,Pfizer/BioNTech,EMR,40-49,11,14,25,ITH,ITH5,8,Emilia-Romagna
-2026-10-17,Pfizer/BioNTech,EMR,50-59,28,33,61,ITH,ITH5,8,Emilia-Romagna
+2026-10-17,Pfizer/BioNTech,EMR,50-59,28,34,62,ITH,ITH5,8,Emilia-Romagna
 2026-10-17,Pfizer/BioNTech,EMR,60-69,81,63,144,ITH,ITH5,8,Emilia-Romagna
-2026-10-17,Pfizer/BioNTech,EMR,70-79,109,112,221,ITH,ITH5,8,Emilia-Romagna
+2026-10-17,Pfizer/BioNTech,EMR,70-79,109,113,222,ITH,ITH5,8,Emilia-Romagna
 2026-10-17,Pfizer/BioNTech,EMR,80-89,95,98,193,ITH,ITH5,8,Emilia-Romagna
 2026-10-17,Pfizer/BioNTech,EMR,90+,22,32,54,ITH,ITH5,8,Emilia-Romagna
 2026-10-17,Pfizer/BioNTech,FVG,50-59,0,2,2,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -328,14 +332,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-17,Pfizer/BioNTech,FVG,80-89,7,8,15,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-17,Pfizer/BioNTech,FVG,90+,5,3,8,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-17,Pfizer/BioNTech,LOM,12-19,22,24,46,ITC,ITC4,3,Lombardia
-2026-10-17,Pfizer/BioNTech,LOM,20-29,54,62,116,ITC,ITC4,3,Lombardia
-2026-10-17,Pfizer/BioNTech,LOM,30-39,127,156,283,ITC,ITC4,3,Lombardia
+2026-10-17,Pfizer/BioNTech,LOM,20-29,54,64,118,ITC,ITC4,3,Lombardia
+2026-10-17,Pfizer/BioNTech,LOM,30-39,128,156,284,ITC,ITC4,3,Lombardia
 2026-10-17,Pfizer/BioNTech,LOM,40-49,181,170,351,ITC,ITC4,3,Lombardia
-2026-10-17,Pfizer/BioNTech,LOM,50-59,287,269,556,ITC,ITC4,3,Lombardia
-2026-10-17,Pfizer/BioNTech,LOM,60-69,454,427,881,ITC,ITC4,3,Lombardia
-2026-10-17,Pfizer/BioNTech,LOM,70-79,560,532,1092,ITC,ITC4,3,Lombardia
-2026-10-17,Pfizer/BioNTech,LOM,80-89,465,473,938,ITC,ITC4,3,Lombardia
-2026-10-17,Pfizer/BioNTech,LOM,90+,82,121,203,ITC,ITC4,3,Lombardia
+2026-10-17,Pfizer/BioNTech,LOM,50-59,287,270,557,ITC,ITC4,3,Lombardia
+2026-10-17,Pfizer/BioNTech,LOM,60-69,456,429,885,ITC,ITC4,3,Lombardia
+2026-10-17,Pfizer/BioNTech,LOM,70-79,566,538,1104,ITC,ITC4,3,Lombardia
+2026-10-17,Pfizer/BioNTech,LOM,80-89,468,477,945,ITC,ITC4,3,Lombardia
+2026-10-17,Pfizer/BioNTech,LOM,90+,82,123,205,ITC,ITC4,3,Lombardia
 2026-10-17,Pfizer/BioNTech,PAT,50-59,2,1,3,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-17,Pfizer/BioNTech,PAT,70-79,7,9,16,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-17,Pfizer/BioNTech,PAT,80-89,12,8,20,ITH,ITH2,4,Provincia Autonoma Trento
@@ -388,11 +392,11 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-19,Pfizer/BioNTech,EMR,20-29,16,16,32,ITH,ITH5,8,Emilia-Romagna
 2026-10-19,Pfizer/BioNTech,EMR,30-39,36,30,66,ITH,ITH5,8,Emilia-Romagna
 2026-10-19,Pfizer/BioNTech,EMR,40-49,31,36,67,ITH,ITH5,8,Emilia-Romagna
-2026-10-19,Pfizer/BioNTech,EMR,50-59,60,77,137,ITH,ITH5,8,Emilia-Romagna
-2026-10-19,Pfizer/BioNTech,EMR,60-69,147,129,276,ITH,ITH5,8,Emilia-Romagna
-2026-10-19,Pfizer/BioNTech,EMR,70-79,255,231,486,ITH,ITH5,8,Emilia-Romagna
-2026-10-19,Pfizer/BioNTech,EMR,80-89,236,260,496,ITH,ITH5,8,Emilia-Romagna
-2026-10-19,Pfizer/BioNTech,EMR,90+,70,105,175,ITH,ITH5,8,Emilia-Romagna
+2026-10-19,Pfizer/BioNTech,EMR,50-59,61,77,138,ITH,ITH5,8,Emilia-Romagna
+2026-10-19,Pfizer/BioNTech,EMR,60-69,149,130,279,ITH,ITH5,8,Emilia-Romagna
+2026-10-19,Pfizer/BioNTech,EMR,70-79,256,231,487,ITH,ITH5,8,Emilia-Romagna
+2026-10-19,Pfizer/BioNTech,EMR,80-89,239,262,501,ITH,ITH5,8,Emilia-Romagna
+2026-10-19,Pfizer/BioNTech,EMR,90+,72,106,178,ITH,ITH5,8,Emilia-Romagna
 2026-10-19,Pfizer/BioNTech,FVG,20-29,3,3,6,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-19,Pfizer/BioNTech,FVG,30-39,5,8,13,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-19,Pfizer/BioNTech,FVG,40-49,6,5,11,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -406,10 +410,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-19,Pfizer/BioNTech,LOM,30-39,121,155,276,ITC,ITC4,3,Lombardia
 2026-10-19,Pfizer/BioNTech,LOM,40-49,171,183,354,ITC,ITC4,3,Lombardia
 2026-10-19,Pfizer/BioNTech,LOM,50-59,278,247,525,ITC,ITC4,3,Lombardia
-2026-10-19,Pfizer/BioNTech,LOM,60-69,570,498,1068,ITC,ITC4,3,Lombardia
-2026-10-19,Pfizer/BioNTech,LOM,70-79,707,588,1295,ITC,ITC4,3,Lombardia
-2026-10-19,Pfizer/BioNTech,LOM,80-89,519,595,1114,ITC,ITC4,3,Lombardia
-2026-10-19,Pfizer/BioNTech,LOM,90+,137,301,438,ITC,ITC4,3,Lombardia
+2026-10-19,Pfizer/BioNTech,LOM,60-69,570,499,1069,ITC,ITC4,3,Lombardia
+2026-10-19,Pfizer/BioNTech,LOM,70-79,708,590,1298,ITC,ITC4,3,Lombardia
+2026-10-19,Pfizer/BioNTech,LOM,80-89,521,598,1119,ITC,ITC4,3,Lombardia
+2026-10-19,Pfizer/BioNTech,LOM,90+,137,303,440,ITC,ITC4,3,Lombardia
 2026-10-19,Pfizer/BioNTech,PAT,20-29,1,1,2,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-19,Pfizer/BioNTech,PAT,30-39,9,14,23,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-19,Pfizer/BioNTech,PAT,40-49,11,7,18,ITH,ITH2,4,Provincia Autonoma Trento
@@ -451,19 +455,19 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-20,Pfizer/BioNTech,ABR,30-39,0,1,1,ITF,ITF1,13,Abruzzo
 2026-10-20,Pfizer/BioNTech,ABR,40-49,0,4,4,ITF,ITF1,13,Abruzzo
 2026-10-20,Pfizer/BioNTech,ABR,50-59,1,2,3,ITF,ITF1,13,Abruzzo
-2026-10-20,Pfizer/BioNTech,ABR,60-69,6,6,12,ITF,ITF1,13,Abruzzo
+2026-10-20,Pfizer/BioNTech,ABR,60-69,7,6,13,ITF,ITF1,13,Abruzzo
 2026-10-20,Pfizer/BioNTech,ABR,70-79,13,6,19,ITF,ITF1,13,Abruzzo
 2026-10-20,Pfizer/BioNTech,ABR,80-89,1,3,4,ITF,ITF1,13,Abruzzo
 2026-10-20,Pfizer/BioNTech,ABR,90+,0,3,3,ITF,ITF1,13,Abruzzo
 2026-10-20,Pfizer/BioNTech,EMR,12-19,3,3,6,ITH,ITH5,8,Emilia-Romagna
 2026-10-20,Pfizer/BioNTech,EMR,20-29,28,57,85,ITH,ITH5,8,Emilia-Romagna
-2026-10-20,Pfizer/BioNTech,EMR,30-39,52,62,114,ITH,ITH5,8,Emilia-Romagna
+2026-10-20,Pfizer/BioNTech,EMR,30-39,52,65,117,ITH,ITH5,8,Emilia-Romagna
 2026-10-20,Pfizer/BioNTech,EMR,40-49,43,71,114,ITH,ITH5,8,Emilia-Romagna
-2026-10-20,Pfizer/BioNTech,EMR,50-59,89,99,188,ITH,ITH5,8,Emilia-Romagna
-2026-10-20,Pfizer/BioNTech,EMR,60-69,281,259,540,ITH,ITH5,8,Emilia-Romagna
-2026-10-20,Pfizer/BioNTech,EMR,70-79,412,413,825,ITH,ITH5,8,Emilia-Romagna
-2026-10-20,Pfizer/BioNTech,EMR,80-89,384,427,811,ITH,ITH5,8,Emilia-Romagna
-2026-10-20,Pfizer/BioNTech,EMR,90+,109,180,289,ITH,ITH5,8,Emilia-Romagna
+2026-10-20,Pfizer/BioNTech,EMR,50-59,92,102,194,ITH,ITH5,8,Emilia-Romagna
+2026-10-20,Pfizer/BioNTech,EMR,60-69,285,263,548,ITH,ITH5,8,Emilia-Romagna
+2026-10-20,Pfizer/BioNTech,EMR,70-79,418,421,839,ITH,ITH5,8,Emilia-Romagna
+2026-10-20,Pfizer/BioNTech,EMR,80-89,387,431,818,ITH,ITH5,8,Emilia-Romagna
+2026-10-20,Pfizer/BioNTech,EMR,90+,109,181,290,ITH,ITH5,8,Emilia-Romagna
 2026-10-20,Pfizer/BioNTech,FVG,12-19,3,1,4,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-20,Pfizer/BioNTech,FVG,20-29,13,26,39,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-20,Pfizer/BioNTech,FVG,30-39,6,18,24,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -476,11 +480,11 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-20,Pfizer/BioNTech,LOM,12-19,15,11,26,ITC,ITC4,3,Lombardia
 2026-10-20,Pfizer/BioNTech,LOM,20-29,54,116,170,ITC,ITC4,3,Lombardia
 2026-10-20,Pfizer/BioNTech,LOM,30-39,165,177,342,ITC,ITC4,3,Lombardia
-2026-10-20,Pfizer/BioNTech,LOM,40-49,178,172,350,ITC,ITC4,3,Lombardia
-2026-10-20,Pfizer/BioNTech,LOM,50-59,276,295,571,ITC,ITC4,3,Lombardia
-2026-10-20,Pfizer/BioNTech,LOM,60-69,639,585,1224,ITC,ITC4,3,Lombardia
-2026-10-20,Pfizer/BioNTech,LOM,70-79,904,799,1703,ITC,ITC4,3,Lombardia
-2026-10-20,Pfizer/BioNTech,LOM,80-89,662,934,1596,ITC,ITC4,3,Lombardia
+2026-10-20,Pfizer/BioNTech,LOM,40-49,178,173,351,ITC,ITC4,3,Lombardia
+2026-10-20,Pfizer/BioNTech,LOM,50-59,278,295,573,ITC,ITC4,3,Lombardia
+2026-10-20,Pfizer/BioNTech,LOM,60-69,639,587,1226,ITC,ITC4,3,Lombardia
+2026-10-20,Pfizer/BioNTech,LOM,70-79,908,808,1716,ITC,ITC4,3,Lombardia
+2026-10-20,Pfizer/BioNTech,LOM,80-89,667,938,1605,ITC,ITC4,3,Lombardia
 2026-10-20,Pfizer/BioNTech,LOM,90+,204,557,761,ITC,ITC4,3,Lombardia
 2026-10-20,Pfizer/BioNTech,PAT,12-19,0,1,1,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-20,Pfizer/BioNTech,PAT,20-29,1,3,4,ITH,ITH2,4,Provincia Autonoma Trento
@@ -493,10 +497,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-20,Pfizer/BioNTech,PAT,90+,1,2,3,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-20,Pfizer/BioNTech,PIE,12-19,1,1,2,ITC,ITC1,1,Piemonte
 2026-10-20,Pfizer/BioNTech,PIE,20-29,0,1,1,ITC,ITC1,1,Piemonte
-2026-10-20,Pfizer/BioNTech,PIE,30-39,2,2,4,ITC,ITC1,1,Piemonte
+2026-10-20,Pfizer/BioNTech,PIE,30-39,5,3,8,ITC,ITC1,1,Piemonte
 2026-10-20,Pfizer/BioNTech,PIE,40-49,1,3,4,ITC,ITC1,1,Piemonte
-2026-10-20,Pfizer/BioNTech,PIE,50-59,0,6,6,ITC,ITC1,1,Piemonte
-2026-10-20,Pfizer/BioNTech,PIE,60-69,2,5,7,ITC,ITC1,1,Piemonte
+2026-10-20,Pfizer/BioNTech,PIE,50-59,0,9,9,ITC,ITC1,1,Piemonte
+2026-10-20,Pfizer/BioNTech,PIE,60-69,3,8,11,ITC,ITC1,1,Piemonte
 2026-10-20,Pfizer/BioNTech,PIE,70-79,3,1,4,ITC,ITC1,1,Piemonte
 2026-10-20,Pfizer/BioNTech,PIE,90+,2,7,9,ITC,ITC1,1,Piemonte
 2026-10-20,Pfizer/BioNTech,SIC,70-79,1,0,1,ITG,ITG1,19,Sicilia
@@ -514,21 +518,21 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-20,Pfizer/BioNTech,UMB,70-79,12,3,15,ITI,ITI2,10,Umbria
 2026-10-20,Pfizer/BioNTech,UMB,80-89,3,8,11,ITI,ITI2,10,Umbria
 2026-10-20,Pfizer/BioNTech,UMB,90+,0,2,2,ITI,ITI2,10,Umbria
-2026-10-20,Pfizer/BioNTech,VDA,30-39,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-10-20,Pfizer/BioNTech,VDA,30-39,0,2,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-10-20,Pfizer/BioNTech,VDA,40-49,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-10-20,Pfizer/BioNTech,VDA,60-69,2,0,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2026-10-20,Pfizer/BioNTech,VDA,70-79,3,4,7,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-10-20,Pfizer/BioNTech,VDA,70-79,3,5,8,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-10-20,Pfizer/BioNTech,VDA,80-89,3,6,9,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-10-20,Pfizer/BioNTech,VDA,90+,1,3,4,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-10-20,Pfizer/BioNTech,VEN,12-19,1,0,1,ITH,ITH3,5,Veneto
 2026-10-20,Pfizer/BioNTech,VEN,20-29,1,1,2,ITH,ITH3,5,Veneto
 2026-10-20,Pfizer/BioNTech,VEN,30-39,4,10,14,ITH,ITH3,5,Veneto
 2026-10-20,Pfizer/BioNTech,VEN,40-49,7,4,11,ITH,ITH3,5,Veneto
-2026-10-20,Pfizer/BioNTech,VEN,50-59,2,3,5,ITH,ITH3,5,Veneto
-2026-10-20,Pfizer/BioNTech,VEN,60-69,5,6,11,ITH,ITH3,5,Veneto
-2026-10-20,Pfizer/BioNTech,VEN,70-79,11,7,18,ITH,ITH3,5,Veneto
-2026-10-20,Pfizer/BioNTech,VEN,80-89,2,7,9,ITH,ITH3,5,Veneto
-2026-10-20,Pfizer/BioNTech,VEN,90+,0,5,5,ITH,ITH3,5,Veneto
+2026-10-20,Pfizer/BioNTech,VEN,50-59,2,4,6,ITH,ITH3,5,Veneto
+2026-10-20,Pfizer/BioNTech,VEN,60-69,8,7,15,ITH,ITH3,5,Veneto
+2026-10-20,Pfizer/BioNTech,VEN,70-79,12,9,21,ITH,ITH3,5,Veneto
+2026-10-20,Pfizer/BioNTech,VEN,80-89,6,8,14,ITH,ITH3,5,Veneto
+2026-10-20,Pfizer/BioNTech,VEN,90+,1,5,6,ITH,ITH3,5,Veneto
 2026-10-21,Pfizer Pediatrico,EMR,05-11,0,1,1,ITH,ITH5,8,Emilia-Romagna
 2026-10-21,Pfizer Pediatrico,FVG,05-11,0,2,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-21,Pfizer/BioNTech,ABR,30-39,0,1,1,ITF,ITF1,13,Abruzzo
@@ -539,13 +543,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-21,Pfizer/BioNTech,ABR,80-89,2,0,2,ITF,ITF1,13,Abruzzo
 2026-10-21,Pfizer/BioNTech,EMR,12-19,3,5,8,ITH,ITH5,8,Emilia-Romagna
 2026-10-21,Pfizer/BioNTech,EMR,20-29,29,30,59,ITH,ITH5,8,Emilia-Romagna
-2026-10-21,Pfizer/BioNTech,EMR,30-39,47,73,120,ITH,ITH5,8,Emilia-Romagna
-2026-10-21,Pfizer/BioNTech,EMR,40-49,75,65,140,ITH,ITH5,8,Emilia-Romagna
-2026-10-21,Pfizer/BioNTech,EMR,50-59,136,129,265,ITH,ITH5,8,Emilia-Romagna
-2026-10-21,Pfizer/BioNTech,EMR,60-69,375,347,722,ITH,ITH5,8,Emilia-Romagna
-2026-10-21,Pfizer/BioNTech,EMR,70-79,596,514,1110,ITH,ITH5,8,Emilia-Romagna
-2026-10-21,Pfizer/BioNTech,EMR,80-89,524,581,1105,ITH,ITH5,8,Emilia-Romagna
-2026-10-21,Pfizer/BioNTech,EMR,90+,121,234,355,ITH,ITH5,8,Emilia-Romagna
+2026-10-21,Pfizer/BioNTech,EMR,30-39,48,73,121,ITH,ITH5,8,Emilia-Romagna
+2026-10-21,Pfizer/BioNTech,EMR,40-49,75,67,142,ITH,ITH5,8,Emilia-Romagna
+2026-10-21,Pfizer/BioNTech,EMR,50-59,137,130,267,ITH,ITH5,8,Emilia-Romagna
+2026-10-21,Pfizer/BioNTech,EMR,60-69,379,354,733,ITH,ITH5,8,Emilia-Romagna
+2026-10-21,Pfizer/BioNTech,EMR,70-79,603,524,1127,ITH,ITH5,8,Emilia-Romagna
+2026-10-21,Pfizer/BioNTech,EMR,80-89,529,585,1114,ITH,ITH5,8,Emilia-Romagna
+2026-10-21,Pfizer/BioNTech,EMR,90+,121,235,356,ITH,ITH5,8,Emilia-Romagna
 2026-10-21,Pfizer/BioNTech,FVG,12-19,0,1,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-21,Pfizer/BioNTech,FVG,20-29,5,15,20,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-21,Pfizer/BioNTech,FVG,30-39,10,15,25,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -559,11 +563,11 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-21,Pfizer/BioNTech,LOM,20-29,55,80,135,ITC,ITC4,3,Lombardia
 2026-10-21,Pfizer/BioNTech,LOM,30-39,123,169,292,ITC,ITC4,3,Lombardia
 2026-10-21,Pfizer/BioNTech,LOM,40-49,195,195,390,ITC,ITC4,3,Lombardia
-2026-10-21,Pfizer/BioNTech,LOM,50-59,301,280,581,ITC,ITC4,3,Lombardia
-2026-10-21,Pfizer/BioNTech,LOM,60-69,593,522,1115,ITC,ITC4,3,Lombardia
-2026-10-21,Pfizer/BioNTech,LOM,70-79,827,743,1570,ITC,ITC4,3,Lombardia
-2026-10-21,Pfizer/BioNTech,LOM,80-89,651,767,1418,ITC,ITC4,3,Lombardia
-2026-10-21,Pfizer/BioNTech,LOM,90+,176,432,608,ITC,ITC4,3,Lombardia
+2026-10-21,Pfizer/BioNTech,LOM,50-59,303,281,584,ITC,ITC4,3,Lombardia
+2026-10-21,Pfizer/BioNTech,LOM,60-69,594,523,1117,ITC,ITC4,3,Lombardia
+2026-10-21,Pfizer/BioNTech,LOM,70-79,830,745,1575,ITC,ITC4,3,Lombardia
+2026-10-21,Pfizer/BioNTech,LOM,80-89,654,775,1429,ITC,ITC4,3,Lombardia
+2026-10-21,Pfizer/BioNTech,LOM,90+,179,434,613,ITC,ITC4,3,Lombardia
 2026-10-21,Pfizer/BioNTech,PAT,12-19,0,3,3,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-21,Pfizer/BioNTech,PAT,20-29,2,3,5,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-21,Pfizer/BioNTech,PAT,30-39,5,12,17,ITH,ITH2,4,Provincia Autonoma Trento
@@ -574,10 +578,10 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-21,Pfizer/BioNTech,PAT,80-89,13,17,30,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-21,Pfizer/BioNTech,PAT,90+,4,10,14,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-21,Pfizer/BioNTech,PIE,20-29,0,4,4,ITC,ITC1,1,Piemonte
-2026-10-21,Pfizer/BioNTech,PIE,30-39,6,14,20,ITC,ITC1,1,Piemonte
+2026-10-21,Pfizer/BioNTech,PIE,30-39,6,16,22,ITC,ITC1,1,Piemonte
 2026-10-21,Pfizer/BioNTech,PIE,40-49,4,5,9,ITC,ITC1,1,Piemonte
-2026-10-21,Pfizer/BioNTech,PIE,50-59,6,10,16,ITC,ITC1,1,Piemonte
-2026-10-21,Pfizer/BioNTech,PIE,60-69,5,7,12,ITC,ITC1,1,Piemonte
+2026-10-21,Pfizer/BioNTech,PIE,50-59,7,13,20,ITC,ITC1,1,Piemonte
+2026-10-21,Pfizer/BioNTech,PIE,60-69,6,10,16,ITC,ITC1,1,Piemonte
 2026-10-21,Pfizer/BioNTech,PIE,70-79,2,3,5,ITC,ITC1,1,Piemonte
 2026-10-21,Pfizer/BioNTech,PIE,80-89,3,34,37,ITC,ITC1,1,Piemonte
 2026-10-21,Pfizer/BioNTech,PIE,90+,1,52,53,ITC,ITC1,1,Piemonte
@@ -617,12 +621,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-22,Pfizer/BioNTech,ABR,80-89,3,4,7,ITF,ITF1,13,Abruzzo
 2026-10-22,Pfizer/BioNTech,EMR,12-19,3,6,9,ITH,ITH5,8,Emilia-Romagna
 2026-10-22,Pfizer/BioNTech,EMR,20-29,27,43,70,ITH,ITH5,8,Emilia-Romagna
-2026-10-22,Pfizer/BioNTech,EMR,30-39,55,81,136,ITH,ITH5,8,Emilia-Romagna
-2026-10-22,Pfizer/BioNTech,EMR,40-49,59,62,121,ITH,ITH5,8,Emilia-Romagna
-2026-10-22,Pfizer/BioNTech,EMR,50-59,110,140,250,ITH,ITH5,8,Emilia-Romagna
-2026-10-22,Pfizer/BioNTech,EMR,60-69,334,304,638,ITH,ITH5,8,Emilia-Romagna
-2026-10-22,Pfizer/BioNTech,EMR,70-79,533,466,999,ITH,ITH5,8,Emilia-Romagna
-2026-10-22,Pfizer/BioNTech,EMR,80-89,434,492,926,ITH,ITH5,8,Emilia-Romagna
+2026-10-22,Pfizer/BioNTech,EMR,30-39,58,86,144,ITH,ITH5,8,Emilia-Romagna
+2026-10-22,Pfizer/BioNTech,EMR,40-49,60,66,126,ITH,ITH5,8,Emilia-Romagna
+2026-10-22,Pfizer/BioNTech,EMR,50-59,114,145,259,ITH,ITH5,8,Emilia-Romagna
+2026-10-22,Pfizer/BioNTech,EMR,60-69,338,306,644,ITH,ITH5,8,Emilia-Romagna
+2026-10-22,Pfizer/BioNTech,EMR,70-79,534,470,1004,ITH,ITH5,8,Emilia-Romagna
+2026-10-22,Pfizer/BioNTech,EMR,80-89,438,494,932,ITH,ITH5,8,Emilia-Romagna
 2026-10-22,Pfizer/BioNTech,EMR,90+,132,216,348,ITH,ITH5,8,Emilia-Romagna
 2026-10-22,Pfizer/BioNTech,FVG,12-19,1,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-22,Pfizer/BioNTech,FVG,20-29,2,12,14,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -634,14 +638,14 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-22,Pfizer/BioNTech,FVG,80-89,38,46,84,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-22,Pfizer/BioNTech,FVG,90+,13,23,36,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-22,Pfizer/BioNTech,LOM,12-19,8,13,21,ITC,ITC4,3,Lombardia
-2026-10-22,Pfizer/BioNTech,LOM,20-29,58,79,137,ITC,ITC4,3,Lombardia
-2026-10-22,Pfizer/BioNTech,LOM,30-39,129,144,273,ITC,ITC4,3,Lombardia
-2026-10-22,Pfizer/BioNTech,LOM,40-49,166,173,339,ITC,ITC4,3,Lombardia
-2026-10-22,Pfizer/BioNTech,LOM,50-59,245,283,528,ITC,ITC4,3,Lombardia
-2026-10-22,Pfizer/BioNTech,LOM,60-69,599,571,1170,ITC,ITC4,3,Lombardia
-2026-10-22,Pfizer/BioNTech,LOM,70-79,784,727,1511,ITC,ITC4,3,Lombardia
-2026-10-22,Pfizer/BioNTech,LOM,80-89,678,840,1518,ITC,ITC4,3,Lombardia
-2026-10-22,Pfizer/BioNTech,LOM,90+,157,440,597,ITC,ITC4,3,Lombardia
+2026-10-22,Pfizer/BioNTech,LOM,20-29,59,80,139,ITC,ITC4,3,Lombardia
+2026-10-22,Pfizer/BioNTech,LOM,30-39,134,148,282,ITC,ITC4,3,Lombardia
+2026-10-22,Pfizer/BioNTech,LOM,40-49,166,176,342,ITC,ITC4,3,Lombardia
+2026-10-22,Pfizer/BioNTech,LOM,50-59,248,283,531,ITC,ITC4,3,Lombardia
+2026-10-22,Pfizer/BioNTech,LOM,60-69,602,574,1176,ITC,ITC4,3,Lombardia
+2026-10-22,Pfizer/BioNTech,LOM,70-79,792,735,1527,ITC,ITC4,3,Lombardia
+2026-10-22,Pfizer/BioNTech,LOM,80-89,680,845,1525,ITC,ITC4,3,Lombardia
+2026-10-22,Pfizer/BioNTech,LOM,90+,159,442,601,ITC,ITC4,3,Lombardia
 2026-10-22,Pfizer/BioNTech,PAT,20-29,1,4,5,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-22,Pfizer/BioNTech,PAT,30-39,9,17,26,ITH,ITH2,4,Provincia Autonoma Trento
 2026-10-22,Pfizer/BioNTech,PAT,40-49,7,4,11,ITH,ITH2,4,Provincia Autonoma Trento
@@ -656,7 +660,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-22,Pfizer/BioNTech,PIE,60-69,12,12,24,ITC,ITC1,1,Piemonte
 2026-10-22,Pfizer/BioNTech,PIE,70-79,15,15,30,ITC,ITC1,1,Piemonte
 2026-10-22,Pfizer/BioNTech,PIE,80-89,15,13,28,ITC,ITC1,1,Piemonte
-2026-10-22,Pfizer/BioNTech,PIE,90+,3,6,9,ITC,ITC1,1,Piemonte
+2026-10-22,Pfizer/BioNTech,PIE,90+,3,7,10,ITC,ITC1,1,Piemonte
 2026-10-22,Pfizer/BioNTech,TOS,12-19,1,0,1,ITI,ITI1,9,Toscana
 2026-10-22,Pfizer/BioNTech,TOS,20-29,2,4,6,ITI,ITI1,9,Toscana
 2026-10-22,Pfizer/BioNTech,TOS,30-39,4,6,10,ITI,ITI1,9,Toscana
@@ -665,7 +669,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-22,Pfizer/BioNTech,TOS,60-69,63,61,124,ITI,ITI1,9,Toscana
 2026-10-22,Pfizer/BioNTech,TOS,70-79,69,55,124,ITI,ITI1,9,Toscana
 2026-10-22,Pfizer/BioNTech,TOS,80-89,81,100,181,ITI,ITI1,9,Toscana
-2026-10-22,Pfizer/BioNTech,TOS,90+,9,32,41,ITI,ITI1,9,Toscana
+2026-10-22,Pfizer/BioNTech,TOS,90+,9,33,42,ITI,ITI1,9,Toscana
 2026-10-22,Pfizer/BioNTech,UMB,20-29,2,0,2,ITI,ITI2,10,Umbria
 2026-10-22,Pfizer/BioNTech,UMB,30-39,3,4,7,ITI,ITI2,10,Umbria
 2026-10-22,Pfizer/BioNTech,UMB,40-49,3,5,8,ITI,ITI2,10,Umbria
@@ -685,11 +689,11 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-22,Pfizer/BioNTech,VEN,20-29,5,24,29,ITH,ITH3,5,Veneto
 2026-10-22,Pfizer/BioNTech,VEN,30-39,15,23,38,ITH,ITH3,5,Veneto
 2026-10-22,Pfizer/BioNTech,VEN,40-49,10,8,18,ITH,ITH3,5,Veneto
-2026-10-22,Pfizer/BioNTech,VEN,50-59,8,12,20,ITH,ITH3,5,Veneto
-2026-10-22,Pfizer/BioNTech,VEN,60-69,12,6,18,ITH,ITH3,5,Veneto
-2026-10-22,Pfizer/BioNTech,VEN,70-79,10,7,17,ITH,ITH3,5,Veneto
-2026-10-22,Pfizer/BioNTech,VEN,80-89,4,11,15,ITH,ITH3,5,Veneto
-2026-10-22,Pfizer/BioNTech,VEN,90+,2,6,8,ITH,ITH3,5,Veneto
+2026-10-22,Pfizer/BioNTech,VEN,50-59,8,13,21,ITH,ITH3,5,Veneto
+2026-10-22,Pfizer/BioNTech,VEN,60-69,13,6,19,ITH,ITH3,5,Veneto
+2026-10-22,Pfizer/BioNTech,VEN,70-79,11,7,18,ITH,ITH3,5,Veneto
+2026-10-22,Pfizer/BioNTech,VEN,80-89,5,15,20,ITH,ITH3,5,Veneto
+2026-10-22,Pfizer/BioNTech,VEN,90+,2,7,9,ITH,ITH3,5,Veneto
 2026-10-23,Pfizer/BioNTech,ABR,12-19,1,0,1,ITF,ITF1,13,Abruzzo
 2026-10-23,Pfizer/BioNTech,ABR,20-29,1,0,1,ITF,ITF1,13,Abruzzo
 2026-10-23,Pfizer/BioNTech,ABR,30-39,2,0,2,ITF,ITF1,13,Abruzzo
@@ -703,35 +707,35 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-23,Pfizer/BioNTech,EMR,20-29,14,17,31,ITH,ITH5,8,Emilia-Romagna
 2026-10-23,Pfizer/BioNTech,EMR,30-39,50,63,113,ITH,ITH5,8,Emilia-Romagna
 2026-10-23,Pfizer/BioNTech,EMR,40-49,40,73,113,ITH,ITH5,8,Emilia-Romagna
-2026-10-23,Pfizer/BioNTech,EMR,50-59,107,107,214,ITH,ITH5,8,Emilia-Romagna
-2026-10-23,Pfizer/BioNTech,EMR,60-69,301,301,602,ITH,ITH5,8,Emilia-Romagna
-2026-10-23,Pfizer/BioNTech,EMR,70-79,488,437,925,ITH,ITH5,8,Emilia-Romagna
-2026-10-23,Pfizer/BioNTech,EMR,80-89,424,474,898,ITH,ITH5,8,Emilia-Romagna
-2026-10-23,Pfizer/BioNTech,EMR,90+,116,184,300,ITH,ITH5,8,Emilia-Romagna
-2026-10-23,Pfizer/BioNTech,FVG,12-19,0,1,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-23,Pfizer/BioNTech,EMR,50-59,108,108,216,ITH,ITH5,8,Emilia-Romagna
+2026-10-23,Pfizer/BioNTech,EMR,60-69,305,303,608,ITH,ITH5,8,Emilia-Romagna
+2026-10-23,Pfizer/BioNTech,EMR,70-79,489,439,928,ITH,ITH5,8,Emilia-Romagna
+2026-10-23,Pfizer/BioNTech,EMR,80-89,427,476,903,ITH,ITH5,8,Emilia-Romagna
+2026-10-23,Pfizer/BioNTech,EMR,90+,118,184,302,ITH,ITH5,8,Emilia-Romagna
+2026-10-23,Pfizer/BioNTech,FVG,12-19,1,1,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-23,Pfizer/BioNTech,FVG,20-29,2,2,4,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-23,Pfizer/BioNTech,FVG,30-39,6,4,10,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-23,Pfizer/BioNTech,FVG,40-49,12,18,30,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-23,Pfizer/BioNTech,FVG,50-59,15,20,35,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-23,Pfizer/BioNTech,FVG,60-69,47,52,99,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-23,Pfizer/BioNTech,FVG,70-79,66,67,133,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-23,Pfizer/BioNTech,FVG,80-89,52,58,110,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-23,Pfizer/BioNTech,FVG,90+,16,39,55,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-23,Pfizer/BioNTech,FVG,30-39,8,4,12,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-23,Pfizer/BioNTech,FVG,40-49,13,19,32,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-23,Pfizer/BioNTech,FVG,50-59,18,20,38,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-23,Pfizer/BioNTech,FVG,60-69,55,59,114,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-23,Pfizer/BioNTech,FVG,70-79,74,76,150,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-23,Pfizer/BioNTech,FVG,80-89,54,59,113,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-23,Pfizer/BioNTech,FVG,90+,17,39,56,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-23,Pfizer/BioNTech,LOM,12-19,22,18,40,ITC,ITC4,3,Lombardia
 2026-10-23,Pfizer/BioNTech,LOM,20-29,64,76,140,ITC,ITC4,3,Lombardia
 2026-10-23,Pfizer/BioNTech,LOM,30-39,123,145,268,ITC,ITC4,3,Lombardia
-2026-10-23,Pfizer/BioNTech,LOM,40-49,175,179,354,ITC,ITC4,3,Lombardia
-2026-10-23,Pfizer/BioNTech,LOM,50-59,281,254,535,ITC,ITC4,3,Lombardia
-2026-10-23,Pfizer/BioNTech,LOM,60-69,547,569,1116,ITC,ITC4,3,Lombardia
-2026-10-23,Pfizer/BioNTech,LOM,70-79,687,641,1328,ITC,ITC4,3,Lombardia
-2026-10-23,Pfizer/BioNTech,LOM,80-89,520,685,1205,ITC,ITC4,3,Lombardia
-2026-10-23,Pfizer/BioNTech,LOM,90+,124,358,482,ITC,ITC4,3,Lombardia
+2026-10-23,Pfizer/BioNTech,LOM,40-49,176,179,355,ITC,ITC4,3,Lombardia
+2026-10-23,Pfizer/BioNTech,LOM,50-59,282,256,538,ITC,ITC4,3,Lombardia
+2026-10-23,Pfizer/BioNTech,LOM,60-69,554,574,1128,ITC,ITC4,3,Lombardia
+2026-10-23,Pfizer/BioNTech,LOM,70-79,696,650,1346,ITC,ITC4,3,Lombardia
+2026-10-23,Pfizer/BioNTech,LOM,80-89,527,692,1219,ITC,ITC4,3,Lombardia
+2026-10-23,Pfizer/BioNTech,LOM,90+,125,365,490,ITC,ITC4,3,Lombardia
 2026-10-23,Pfizer/BioNTech,PIE,20-29,2,3,5,ITC,ITC1,1,Piemonte
 2026-10-23,Pfizer/BioNTech,PIE,30-39,8,8,16,ITC,ITC1,1,Piemonte
 2026-10-23,Pfizer/BioNTech,PIE,40-49,16,12,28,ITC,ITC1,1,Piemonte
-2026-10-23,Pfizer/BioNTech,PIE,50-59,28,17,45,ITC,ITC1,1,Piemonte
-2026-10-23,Pfizer/BioNTech,PIE,60-69,41,40,81,ITC,ITC1,1,Piemonte
-2026-10-23,Pfizer/BioNTech,PIE,70-79,94,97,191,ITC,ITC1,1,Piemonte
+2026-10-23,Pfizer/BioNTech,PIE,50-59,29,17,46,ITC,ITC1,1,Piemonte
+2026-10-23,Pfizer/BioNTech,PIE,60-69,43,41,84,ITC,ITC1,1,Piemonte
+2026-10-23,Pfizer/BioNTech,PIE,70-79,99,98,197,ITC,ITC1,1,Piemonte
 2026-10-23,Pfizer/BioNTech,PIE,80-89,53,73,126,ITC,ITC1,1,Piemonte
 2026-10-23,Pfizer/BioNTech,PIE,90+,6,24,30,ITC,ITC1,1,Piemonte
 2026-10-23,Pfizer/BioNTech,TOS,12-19,0,1,1,ITI,ITI1,9,Toscana
@@ -741,7 +745,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-23,Pfizer/BioNTech,TOS,50-59,8,17,25,ITI,ITI1,9,Toscana
 2026-10-23,Pfizer/BioNTech,TOS,60-69,62,56,118,ITI,ITI1,9,Toscana
 2026-10-23,Pfizer/BioNTech,TOS,70-79,67,68,135,ITI,ITI1,9,Toscana
-2026-10-23,Pfizer/BioNTech,TOS,80-89,49,82,131,ITI,ITI1,9,Toscana
+2026-10-23,Pfizer/BioNTech,TOS,80-89,51,82,133,ITI,ITI1,9,Toscana
 2026-10-23,Pfizer/BioNTech,TOS,90+,7,25,32,ITI,ITI1,9,Toscana
 2026-10-23,Pfizer/BioNTech,UMB,20-29,1,1,2,ITI,ITI2,10,Umbria
 2026-10-23,Pfizer/BioNTech,UMB,30-39,2,3,5,ITI,ITI2,10,Umbria
@@ -760,24 +764,24 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-23,Pfizer/BioNTech,VDA,90+,2,4,6,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-10-23,Pfizer/BioNTech,VEN,12-19,5,3,8,ITH,ITH3,5,Veneto
 2026-10-23,Pfizer/BioNTech,VEN,20-29,6,18,24,ITH,ITH3,5,Veneto
-2026-10-23,Pfizer/BioNTech,VEN,30-39,21,31,52,ITH,ITH3,5,Veneto
+2026-10-23,Pfizer/BioNTech,VEN,30-39,21,32,53,ITH,ITH3,5,Veneto
 2026-10-23,Pfizer/BioNTech,VEN,40-49,14,14,28,ITH,ITH3,5,Veneto
-2026-10-23,Pfizer/BioNTech,VEN,50-59,7,16,23,ITH,ITH3,5,Veneto
-2026-10-23,Pfizer/BioNTech,VEN,60-69,28,17,45,ITH,ITH3,5,Veneto
-2026-10-23,Pfizer/BioNTech,VEN,70-79,17,14,31,ITH,ITH3,5,Veneto
-2026-10-23,Pfizer/BioNTech,VEN,80-89,9,21,30,ITH,ITH3,5,Veneto
-2026-10-23,Pfizer/BioNTech,VEN,90+,1,7,8,ITH,ITH3,5,Veneto
+2026-10-23,Pfizer/BioNTech,VEN,50-59,7,17,24,ITH,ITH3,5,Veneto
+2026-10-23,Pfizer/BioNTech,VEN,60-69,29,18,47,ITH,ITH3,5,Veneto
+2026-10-23,Pfizer/BioNTech,VEN,70-79,19,15,34,ITH,ITH3,5,Veneto
+2026-10-23,Pfizer/BioNTech,VEN,80-89,10,24,34,ITH,ITH3,5,Veneto
+2026-10-23,Pfizer/BioNTech,VEN,90+,1,8,9,ITH,ITH3,5,Veneto
 2026-10-24,Pfizer/BioNTech,ABR,40-49,0,1,1,ITF,ITF1,13,Abruzzo
 2026-10-24,Pfizer/BioNTech,ABR,50-59,1,2,3,ITF,ITF1,13,Abruzzo
 2026-10-24,Pfizer/BioNTech,ABR,60-69,1,0,1,ITF,ITF1,13,Abruzzo
 2026-10-24,Pfizer/BioNTech,ABR,80-89,0,1,1,ITF,ITF1,13,Abruzzo
 2026-10-24,Pfizer/BioNTech,EMR,12-19,0,1,1,ITH,ITH5,8,Emilia-Romagna
-2026-10-24,Pfizer/BioNTech,EMR,20-29,5,5,10,ITH,ITH5,8,Emilia-Romagna
+2026-10-24,Pfizer/BioNTech,EMR,20-29,5,6,11,ITH,ITH5,8,Emilia-Romagna
 2026-10-24,Pfizer/BioNTech,EMR,30-39,17,15,32,ITH,ITH5,8,Emilia-Romagna
 2026-10-24,Pfizer/BioNTech,EMR,40-49,19,19,38,ITH,ITH5,8,Emilia-Romagna
 2026-10-24,Pfizer/BioNTech,EMR,50-59,40,50,90,ITH,ITH5,8,Emilia-Romagna
-2026-10-24,Pfizer/BioNTech,EMR,60-69,150,135,285,ITH,ITH5,8,Emilia-Romagna
-2026-10-24,Pfizer/BioNTech,EMR,70-79,227,209,436,ITH,ITH5,8,Emilia-Romagna
+2026-10-24,Pfizer/BioNTech,EMR,60-69,151,135,286,ITH,ITH5,8,Emilia-Romagna
+2026-10-24,Pfizer/BioNTech,EMR,70-79,228,210,438,ITH,ITH5,8,Emilia-Romagna
 2026-10-24,Pfizer/BioNTech,EMR,80-89,213,210,423,ITH,ITH5,8,Emilia-Romagna
 2026-10-24,Pfizer/BioNTech,EMR,90+,52,72,124,ITH,ITH5,8,Emilia-Romagna
 2026-10-24,Pfizer/BioNTech,FVG,20-29,3,2,5,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -789,13 +793,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-24,Pfizer/BioNTech,FVG,90+,4,12,16,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-24,Pfizer/BioNTech,LOM,12-19,27,30,57,ITC,ITC4,3,Lombardia
 2026-10-24,Pfizer/BioNTech,LOM,20-29,45,57,102,ITC,ITC4,3,Lombardia
-2026-10-24,Pfizer/BioNTech,LOM,30-39,100,130,230,ITC,ITC4,3,Lombardia
+2026-10-24,Pfizer/BioNTech,LOM,30-39,101,130,231,ITC,ITC4,3,Lombardia
 2026-10-24,Pfizer/BioNTech,LOM,40-49,148,158,306,ITC,ITC4,3,Lombardia
-2026-10-24,Pfizer/BioNTech,LOM,50-59,283,277,560,ITC,ITC4,3,Lombardia
-2026-10-24,Pfizer/BioNTech,LOM,60-69,466,424,890,ITC,ITC4,3,Lombardia
-2026-10-24,Pfizer/BioNTech,LOM,70-79,548,506,1054,ITC,ITC4,3,Lombardia
-2026-10-24,Pfizer/BioNTech,LOM,80-89,436,474,910,ITC,ITC4,3,Lombardia
-2026-10-24,Pfizer/BioNTech,LOM,90+,95,134,229,ITC,ITC4,3,Lombardia
+2026-10-24,Pfizer/BioNTech,LOM,50-59,284,277,561,ITC,ITC4,3,Lombardia
+2026-10-24,Pfizer/BioNTech,LOM,60-69,466,425,891,ITC,ITC4,3,Lombardia
+2026-10-24,Pfizer/BioNTech,LOM,70-79,550,508,1058,ITC,ITC4,3,Lombardia
+2026-10-24,Pfizer/BioNTech,LOM,80-89,441,476,917,ITC,ITC4,3,Lombardia
+2026-10-24,Pfizer/BioNTech,LOM,90+,96,134,230,ITC,ITC4,3,Lombardia
 2026-10-24,Pfizer/BioNTech,PIE,12-19,2,1,3,ITC,ITC1,1,Piemonte
 2026-10-24,Pfizer/BioNTech,PIE,20-29,2,0,2,ITC,ITC1,1,Piemonte
 2026-10-24,Pfizer/BioNTech,PIE,30-39,3,4,7,ITC,ITC1,1,Piemonte
@@ -815,14 +819,15 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-24,Pfizer/BioNTech,UMB,70-79,1,0,1,ITI,ITI2,10,Umbria
 2026-10-24,Pfizer/BioNTech,UMB,80-89,2,6,8,ITI,ITI2,10,Umbria
 2026-10-24,Pfizer/BioNTech,UMB,90+,1,1,2,ITI,ITI2,10,Umbria
-2026-10-24,Pfizer/BioNTech,VEN,20-29,4,9,13,ITH,ITH3,5,Veneto
-2026-10-24,Pfizer/BioNTech,VEN,30-39,7,12,19,ITH,ITH3,5,Veneto
-2026-10-24,Pfizer/BioNTech,VEN,40-49,12,9,21,ITH,ITH3,5,Veneto
-2026-10-24,Pfizer/BioNTech,VEN,50-59,10,15,25,ITH,ITH3,5,Veneto
-2026-10-24,Pfizer/BioNTech,VEN,60-69,31,32,63,ITH,ITH3,5,Veneto
-2026-10-24,Pfizer/BioNTech,VEN,70-79,31,20,51,ITH,ITH3,5,Veneto
-2026-10-24,Pfizer/BioNTech,VEN,80-89,23,15,38,ITH,ITH3,5,Veneto
-2026-10-24,Pfizer/BioNTech,VEN,90+,2,5,7,ITH,ITH3,5,Veneto
+2026-10-24,Pfizer/BioNTech,VEN,12-19,1,1,2,ITH,ITH3,5,Veneto
+2026-10-24,Pfizer/BioNTech,VEN,20-29,4,12,16,ITH,ITH3,5,Veneto
+2026-10-24,Pfizer/BioNTech,VEN,30-39,8,20,28,ITH,ITH3,5,Veneto
+2026-10-24,Pfizer/BioNTech,VEN,40-49,15,13,28,ITH,ITH3,5,Veneto
+2026-10-24,Pfizer/BioNTech,VEN,50-59,17,16,33,ITH,ITH3,5,Veneto
+2026-10-24,Pfizer/BioNTech,VEN,60-69,40,34,74,ITH,ITH3,5,Veneto
+2026-10-24,Pfizer/BioNTech,VEN,70-79,42,25,67,ITH,ITH3,5,Veneto
+2026-10-24,Pfizer/BioNTech,VEN,80-89,29,26,55,ITH,ITH3,5,Veneto
+2026-10-24,Pfizer/BioNTech,VEN,90+,5,8,13,ITH,ITH3,5,Veneto
 2026-10-25,Pfizer/BioNTech,EMR,12-19,1,0,1,ITH,ITH5,8,Emilia-Romagna
 2026-10-25,Pfizer/BioNTech,EMR,30-39,1,3,4,ITH,ITH5,8,Emilia-Romagna
 2026-10-25,Pfizer/BioNTech,EMR,40-49,1,1,2,ITH,ITH5,8,Emilia-Romagna
@@ -868,12 +873,12 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-26,Pfizer/BioNTech,EMR,12-19,3,1,4,ITH,ITH5,8,Emilia-Romagna
 2026-10-26,Pfizer/BioNTech,EMR,20-29,14,12,26,ITH,ITH5,8,Emilia-Romagna
 2026-10-26,Pfizer/BioNTech,EMR,30-39,42,55,97,ITH,ITH5,8,Emilia-Romagna
-2026-10-26,Pfizer/BioNTech,EMR,40-49,52,57,109,ITH,ITH5,8,Emilia-Romagna
-2026-10-26,Pfizer/BioNTech,EMR,50-59,76,105,181,ITH,ITH5,8,Emilia-Romagna
-2026-10-26,Pfizer/BioNTech,EMR,60-69,268,246,514,ITH,ITH5,8,Emilia-Romagna
-2026-10-26,Pfizer/BioNTech,EMR,70-79,370,352,722,ITH,ITH5,8,Emilia-Romagna
-2026-10-26,Pfizer/BioNTech,EMR,80-89,292,329,621,ITH,ITH5,8,Emilia-Romagna
-2026-10-26,Pfizer/BioNTech,EMR,90+,80,130,210,ITH,ITH5,8,Emilia-Romagna
+2026-10-26,Pfizer/BioNTech,EMR,40-49,52,58,110,ITH,ITH5,8,Emilia-Romagna
+2026-10-26,Pfizer/BioNTech,EMR,50-59,76,106,182,ITH,ITH5,8,Emilia-Romagna
+2026-10-26,Pfizer/BioNTech,EMR,60-69,273,252,525,ITH,ITH5,8,Emilia-Romagna
+2026-10-26,Pfizer/BioNTech,EMR,70-79,381,360,741,ITH,ITH5,8,Emilia-Romagna
+2026-10-26,Pfizer/BioNTech,EMR,80-89,302,346,648,ITH,ITH5,8,Emilia-Romagna
+2026-10-26,Pfizer/BioNTech,EMR,90+,84,140,224,ITH,ITH5,8,Emilia-Romagna
 2026-10-26,Pfizer/BioNTech,FVG,20-29,2,6,8,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-26,Pfizer/BioNTech,FVG,30-39,9,15,24,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-26,Pfizer/BioNTech,FVG,40-49,9,16,25,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -884,13 +889,13 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-26,Pfizer/BioNTech,FVG,90+,10,15,25,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-26,Pfizer/BioNTech,LOM,12-19,13,12,25,ITC,ITC4,3,Lombardia
 2026-10-26,Pfizer/BioNTech,LOM,20-29,68,70,138,ITC,ITC4,3,Lombardia
-2026-10-26,Pfizer/BioNTech,LOM,30-39,128,151,279,ITC,ITC4,3,Lombardia
-2026-10-26,Pfizer/BioNTech,LOM,40-49,171,142,313,ITC,ITC4,3,Lombardia
-2026-10-26,Pfizer/BioNTech,LOM,50-59,265,220,485,ITC,ITC4,3,Lombardia
-2026-10-26,Pfizer/BioNTech,LOM,60-69,485,509,994,ITC,ITC4,3,Lombardia
-2026-10-26,Pfizer/BioNTech,LOM,70-79,651,609,1260,ITC,ITC4,3,Lombardia
-2026-10-26,Pfizer/BioNTech,LOM,80-89,480,680,1160,ITC,ITC4,3,Lombardia
-2026-10-26,Pfizer/BioNTech,LOM,90+,127,378,505,ITC,ITC4,3,Lombardia
+2026-10-26,Pfizer/BioNTech,LOM,30-39,128,152,280,ITC,ITC4,3,Lombardia
+2026-10-26,Pfizer/BioNTech,LOM,40-49,172,142,314,ITC,ITC4,3,Lombardia
+2026-10-26,Pfizer/BioNTech,LOM,50-59,266,220,486,ITC,ITC4,3,Lombardia
+2026-10-26,Pfizer/BioNTech,LOM,60-69,486,509,995,ITC,ITC4,3,Lombardia
+2026-10-26,Pfizer/BioNTech,LOM,70-79,653,611,1264,ITC,ITC4,3,Lombardia
+2026-10-26,Pfizer/BioNTech,LOM,80-89,484,684,1168,ITC,ITC4,3,Lombardia
+2026-10-26,Pfizer/BioNTech,LOM,90+,128,380,508,ITC,ITC4,3,Lombardia
 2026-10-26,Pfizer/BioNTech,PIE,12-19,1,2,3,ITC,ITC1,1,Piemonte
 2026-10-26,Pfizer/BioNTech,PIE,20-29,4,8,12,ITC,ITC1,1,Piemonte
 2026-10-26,Pfizer/BioNTech,PIE,30-39,11,19,30,ITC,ITC1,1,Piemonte
@@ -904,7 +909,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-26,Pfizer/BioNTech,TOS,30-39,4,7,11,ITI,ITI1,9,Toscana
 2026-10-26,Pfizer/BioNTech,TOS,40-49,7,10,17,ITI,ITI1,9,Toscana
 2026-10-26,Pfizer/BioNTech,TOS,50-59,6,7,13,ITI,ITI1,9,Toscana
-2026-10-26,Pfizer/BioNTech,TOS,60-69,51,58,109,ITI,ITI1,9,Toscana
+2026-10-26,Pfizer/BioNTech,TOS,60-69,52,58,110,ITI,ITI1,9,Toscana
 2026-10-26,Pfizer/BioNTech,TOS,70-79,61,65,126,ITI,ITI1,9,Toscana
 2026-10-26,Pfizer/BioNTech,TOS,80-89,64,85,149,ITI,ITI1,9,Toscana
 2026-10-26,Pfizer/BioNTech,TOS,90+,5,18,23,ITI,ITI1,9,Toscana
@@ -915,35 +920,36 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-26,Pfizer/BioNTech,UMB,70-79,22,21,43,ITI,ITI2,10,Umbria
 2026-10-26,Pfizer/BioNTech,UMB,80-89,22,25,47,ITI,ITI2,10,Umbria
 2026-10-26,Pfizer/BioNTech,UMB,90+,6,9,15,ITI,ITI2,10,Umbria
-2026-10-26,Pfizer/BioNTech,VDA,70-79,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2026-10-26,Pfizer/BioNTech,VDA,80-89,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2026-10-26,Pfizer/BioNTech,VDA,90+,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-10-26,Pfizer/BioNTech,VDA,50-59,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-10-26,Pfizer/BioNTech,VDA,70-79,2,2,4,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-10-26,Pfizer/BioNTech,VDA,80-89,2,1,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-10-26,Pfizer/BioNTech,VDA,90+,1,4,5,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-10-26,Pfizer/BioNTech,VEN,20-29,3,8,11,ITH,ITH3,5,Veneto
 2026-10-26,Pfizer/BioNTech,VEN,30-39,18,14,32,ITH,ITH3,5,Veneto
 2026-10-26,Pfizer/BioNTech,VEN,40-49,3,9,12,ITH,ITH3,5,Veneto
-2026-10-26,Pfizer/BioNTech,VEN,50-59,10,10,20,ITH,ITH3,5,Veneto
-2026-10-26,Pfizer/BioNTech,VEN,60-69,24,15,39,ITH,ITH3,5,Veneto
-2026-10-26,Pfizer/BioNTech,VEN,70-79,10,15,25,ITH,ITH3,5,Veneto
-2026-10-26,Pfizer/BioNTech,VEN,80-89,12,12,24,ITH,ITH3,5,Veneto
+2026-10-26,Pfizer/BioNTech,VEN,50-59,11,10,21,ITH,ITH3,5,Veneto
+2026-10-26,Pfizer/BioNTech,VEN,60-69,27,15,42,ITH,ITH3,5,Veneto
+2026-10-26,Pfizer/BioNTech,VEN,70-79,15,19,34,ITH,ITH3,5,Veneto
+2026-10-26,Pfizer/BioNTech,VEN,80-89,13,12,25,ITH,ITH3,5,Veneto
 2026-10-26,Pfizer/BioNTech,VEN,90+,4,8,12,ITH,ITH3,5,Veneto
 2026-10-27,Pfizer Pediatrico,ABR,05-11,0,1,1,ITF,ITF1,13,Abruzzo
 2026-10-27,Pfizer Pediatrico,EMR,05-11,3,1,4,ITH,ITH5,8,Emilia-Romagna
-2026-10-27,Pfizer/BioNTech,ABR,30-39,0,2,2,ITF,ITF1,13,Abruzzo
+2026-10-27,Pfizer/BioNTech,ABR,30-39,0,3,3,ITF,ITF1,13,Abruzzo
 2026-10-27,Pfizer/BioNTech,ABR,40-49,1,0,1,ITF,ITF1,13,Abruzzo
-2026-10-27,Pfizer/BioNTech,ABR,50-59,2,0,2,ITF,ITF1,13,Abruzzo
+2026-10-27,Pfizer/BioNTech,ABR,50-59,3,1,4,ITF,ITF1,13,Abruzzo
 2026-10-27,Pfizer/BioNTech,ABR,60-69,6,5,11,ITF,ITF1,13,Abruzzo
-2026-10-27,Pfizer/BioNTech,ABR,70-79,6,9,15,ITF,ITF1,13,Abruzzo
-2026-10-27,Pfizer/BioNTech,ABR,80-89,4,4,8,ITF,ITF1,13,Abruzzo
+2026-10-27,Pfizer/BioNTech,ABR,70-79,7,9,16,ITF,ITF1,13,Abruzzo
+2026-10-27,Pfizer/BioNTech,ABR,80-89,4,5,9,ITF,ITF1,13,Abruzzo
 2026-10-27,Pfizer/BioNTech,ABR,90+,2,1,3,ITF,ITF1,13,Abruzzo
 2026-10-27,Pfizer/BioNTech,EMR,12-19,7,4,11,ITH,ITH5,8,Emilia-Romagna
 2026-10-27,Pfizer/BioNTech,EMR,20-29,37,56,93,ITH,ITH5,8,Emilia-Romagna
-2026-10-27,Pfizer/BioNTech,EMR,30-39,61,85,146,ITH,ITH5,8,Emilia-Romagna
-2026-10-27,Pfizer/BioNTech,EMR,40-49,53,69,122,ITH,ITH5,8,Emilia-Romagna
-2026-10-27,Pfizer/BioNTech,EMR,50-59,131,135,266,ITH,ITH5,8,Emilia-Romagna
-2026-10-27,Pfizer/BioNTech,EMR,60-69,351,352,703,ITH,ITH5,8,Emilia-Romagna
-2026-10-27,Pfizer/BioNTech,EMR,70-79,678,595,1273,ITH,ITH5,8,Emilia-Romagna
-2026-10-27,Pfizer/BioNTech,EMR,80-89,549,614,1163,ITH,ITH5,8,Emilia-Romagna
-2026-10-27,Pfizer/BioNTech,EMR,90+,151,232,383,ITH,ITH5,8,Emilia-Romagna
+2026-10-27,Pfizer/BioNTech,EMR,30-39,63,88,151,ITH,ITH5,8,Emilia-Romagna
+2026-10-27,Pfizer/BioNTech,EMR,40-49,54,70,124,ITH,ITH5,8,Emilia-Romagna
+2026-10-27,Pfizer/BioNTech,EMR,50-59,134,137,271,ITH,ITH5,8,Emilia-Romagna
+2026-10-27,Pfizer/BioNTech,EMR,60-69,353,361,714,ITH,ITH5,8,Emilia-Romagna
+2026-10-27,Pfizer/BioNTech,EMR,70-79,687,602,1289,ITH,ITH5,8,Emilia-Romagna
+2026-10-27,Pfizer/BioNTech,EMR,80-89,551,625,1176,ITH,ITH5,8,Emilia-Romagna
+2026-10-27,Pfizer/BioNTech,EMR,90+,152,239,391,ITH,ITH5,8,Emilia-Romagna
 2026-10-27,Pfizer/BioNTech,FVG,20-29,4,27,31,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-27,Pfizer/BioNTech,FVG,30-39,15,16,31,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-27,Pfizer/BioNTech,FVG,40-49,8,20,28,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -955,19 +961,19 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-27,Pfizer/BioNTech,LOM,12-19,8,8,16,ITC,ITC4,3,Lombardia
 2026-10-27,Pfizer/BioNTech,LOM,20-29,47,82,129,ITC,ITC4,3,Lombardia
 2026-10-27,Pfizer/BioNTech,LOM,30-39,134,156,290,ITC,ITC4,3,Lombardia
-2026-10-27,Pfizer/BioNTech,LOM,40-49,169,170,339,ITC,ITC4,3,Lombardia
-2026-10-27,Pfizer/BioNTech,LOM,50-59,280,239,519,ITC,ITC4,3,Lombardia
-2026-10-27,Pfizer/BioNTech,LOM,60-69,516,575,1091,ITC,ITC4,3,Lombardia
-2026-10-27,Pfizer/BioNTech,LOM,70-79,842,747,1589,ITC,ITC4,3,Lombardia
-2026-10-27,Pfizer/BioNTech,LOM,80-89,563,757,1320,ITC,ITC4,3,Lombardia
-2026-10-27,Pfizer/BioNTech,LOM,90+,169,378,547,ITC,ITC4,3,Lombardia
+2026-10-27,Pfizer/BioNTech,LOM,40-49,170,170,340,ITC,ITC4,3,Lombardia
+2026-10-27,Pfizer/BioNTech,LOM,50-59,281,239,520,ITC,ITC4,3,Lombardia
+2026-10-27,Pfizer/BioNTech,LOM,60-69,517,576,1093,ITC,ITC4,3,Lombardia
+2026-10-27,Pfizer/BioNTech,LOM,70-79,846,749,1595,ITC,ITC4,3,Lombardia
+2026-10-27,Pfizer/BioNTech,LOM,80-89,564,763,1327,ITC,ITC4,3,Lombardia
+2026-10-27,Pfizer/BioNTech,LOM,90+,169,383,552,ITC,ITC4,3,Lombardia
 2026-10-27,Pfizer/BioNTech,PIE,20-29,5,8,13,ITC,ITC1,1,Piemonte
-2026-10-27,Pfizer/BioNTech,PIE,30-39,10,16,26,ITC,ITC1,1,Piemonte
-2026-10-27,Pfizer/BioNTech,PIE,40-49,12,24,36,ITC,ITC1,1,Piemonte
-2026-10-27,Pfizer/BioNTech,PIE,50-59,28,29,57,ITC,ITC1,1,Piemonte
-2026-10-27,Pfizer/BioNTech,PIE,60-69,82,73,155,ITC,ITC1,1,Piemonte
-2026-10-27,Pfizer/BioNTech,PIE,70-79,134,104,238,ITC,ITC1,1,Piemonte
-2026-10-27,Pfizer/BioNTech,PIE,80-89,84,91,175,ITC,ITC1,1,Piemonte
+2026-10-27,Pfizer/BioNTech,PIE,30-39,12,18,30,ITC,ITC1,1,Piemonte
+2026-10-27,Pfizer/BioNTech,PIE,40-49,12,26,38,ITC,ITC1,1,Piemonte
+2026-10-27,Pfizer/BioNTech,PIE,50-59,30,30,60,ITC,ITC1,1,Piemonte
+2026-10-27,Pfizer/BioNTech,PIE,60-69,83,74,157,ITC,ITC1,1,Piemonte
+2026-10-27,Pfizer/BioNTech,PIE,70-79,135,104,239,ITC,ITC1,1,Piemonte
+2026-10-27,Pfizer/BioNTech,PIE,80-89,84,89,173,ITC,ITC1,1,Piemonte
 2026-10-27,Pfizer/BioNTech,PIE,90+,11,38,49,ITC,ITC1,1,Piemonte
 2026-10-27,Pfizer/BioNTech,TOS,12-19,1,0,1,ITI,ITI1,9,Toscana
 2026-10-27,Pfizer/BioNTech,TOS,20-29,1,5,6,ITI,ITI1,9,Toscana
@@ -975,7 +981,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-27,Pfizer/BioNTech,TOS,40-49,5,7,12,ITI,ITI1,9,Toscana
 2026-10-27,Pfizer/BioNTech,TOS,50-59,14,11,25,ITI,ITI1,9,Toscana
 2026-10-27,Pfizer/BioNTech,TOS,60-69,65,65,130,ITI,ITI1,9,Toscana
-2026-10-27,Pfizer/BioNTech,TOS,70-79,79,72,151,ITI,ITI1,9,Toscana
+2026-10-27,Pfizer/BioNTech,TOS,70-79,79,73,152,ITI,ITI1,9,Toscana
 2026-10-27,Pfizer/BioNTech,TOS,80-89,69,121,190,ITI,ITI1,9,Toscana
 2026-10-27,Pfizer/BioNTech,TOS,90+,15,23,38,ITI,ITI1,9,Toscana
 2026-10-27,Pfizer/BioNTech,UMB,20-29,1,1,2,ITI,ITI2,10,Umbria
@@ -992,92 +998,93 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-27,Pfizer/BioNTech,VDA,70-79,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-10-27,Pfizer/BioNTech,VDA,80-89,2,2,4,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-10-27,Pfizer/BioNTech,VEN,12-19,1,2,3,ITH,ITH3,5,Veneto
-2026-10-27,Pfizer/BioNTech,VEN,20-29,2,6,8,ITH,ITH3,5,Veneto
-2026-10-27,Pfizer/BioNTech,VEN,30-39,9,13,22,ITH,ITH3,5,Veneto
-2026-10-27,Pfizer/BioNTech,VEN,40-49,9,11,20,ITH,ITH3,5,Veneto
+2026-10-27,Pfizer/BioNTech,VEN,20-29,3,6,9,ITH,ITH3,5,Veneto
+2026-10-27,Pfizer/BioNTech,VEN,30-39,10,13,23,ITH,ITH3,5,Veneto
+2026-10-27,Pfizer/BioNTech,VEN,40-49,10,12,22,ITH,ITH3,5,Veneto
 2026-10-27,Pfizer/BioNTech,VEN,50-59,17,10,27,ITH,ITH3,5,Veneto
-2026-10-27,Pfizer/BioNTech,VEN,60-69,14,14,28,ITH,ITH3,5,Veneto
-2026-10-27,Pfizer/BioNTech,VEN,70-79,16,17,33,ITH,ITH3,5,Veneto
-2026-10-27,Pfizer/BioNTech,VEN,80-89,10,13,23,ITH,ITH3,5,Veneto
-2026-10-27,Pfizer/BioNTech,VEN,90+,5,14,19,ITH,ITH3,5,Veneto
+2026-10-27,Pfizer/BioNTech,VEN,60-69,15,15,30,ITH,ITH3,5,Veneto
+2026-10-27,Pfizer/BioNTech,VEN,70-79,24,18,42,ITH,ITH3,5,Veneto
+2026-10-27,Pfizer/BioNTech,VEN,80-89,13,18,31,ITH,ITH3,5,Veneto
+2026-10-27,Pfizer/BioNTech,VEN,90+,7,14,21,ITH,ITH3,5,Veneto
 2026-10-28,Pfizer Pediatrico,EMR,05-11,1,1,2,ITH,ITH5,8,Emilia-Romagna
 2026-10-28,Pfizer Pediatrico,TOS,05-11,1,0,1,ITI,ITI1,9,Toscana
 2026-10-28,Pfizer Pediatrico,VEN,05-11,1,0,1,ITH,ITH3,5,Veneto
-2026-10-28,Pfizer/BioNTech,ABR,20-29,1,0,1,ITF,ITF1,13,Abruzzo
+2026-10-28,Pfizer/BioNTech,ABR,20-29,1,1,2,ITF,ITF1,13,Abruzzo
 2026-10-28,Pfizer/BioNTech,ABR,40-49,1,0,1,ITF,ITF1,13,Abruzzo
 2026-10-28,Pfizer/BioNTech,ABR,50-59,4,1,5,ITF,ITF1,13,Abruzzo
 2026-10-28,Pfizer/BioNTech,ABR,60-69,13,5,18,ITF,ITF1,13,Abruzzo
 2026-10-28,Pfizer/BioNTech,ABR,70-79,17,6,23,ITF,ITF1,13,Abruzzo
-2026-10-28,Pfizer/BioNTech,ABR,80-89,7,10,17,ITF,ITF1,13,Abruzzo
+2026-10-28,Pfizer/BioNTech,ABR,80-89,8,11,19,ITF,ITF1,13,Abruzzo
 2026-10-28,Pfizer/BioNTech,ABR,90+,2,5,7,ITF,ITF1,13,Abruzzo
 2026-10-28,Pfizer/BioNTech,EMR,12-19,5,3,8,ITH,ITH5,8,Emilia-Romagna
 2026-10-28,Pfizer/BioNTech,EMR,20-29,15,36,51,ITH,ITH5,8,Emilia-Romagna
 2026-10-28,Pfizer/BioNTech,EMR,30-39,55,81,136,ITH,ITH5,8,Emilia-Romagna
 2026-10-28,Pfizer/BioNTech,EMR,40-49,79,81,160,ITH,ITH5,8,Emilia-Romagna
-2026-10-28,Pfizer/BioNTech,EMR,50-59,153,131,284,ITH,ITH5,8,Emilia-Romagna
-2026-10-28,Pfizer/BioNTech,EMR,60-69,412,394,806,ITH,ITH5,8,Emilia-Romagna
-2026-10-28,Pfizer/BioNTech,EMR,70-79,746,649,1395,ITH,ITH5,8,Emilia-Romagna
-2026-10-28,Pfizer/BioNTech,EMR,80-89,570,613,1183,ITH,ITH5,8,Emilia-Romagna
-2026-10-28,Pfizer/BioNTech,EMR,90+,165,239,404,ITH,ITH5,8,Emilia-Romagna
-2026-10-28,Pfizer/BioNTech,FVG,20-29,1,3,4,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-28,Pfizer/BioNTech,FVG,30-39,9,6,15,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-28,Pfizer/BioNTech,FVG,40-49,6,8,14,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-28,Pfizer/BioNTech,FVG,50-59,16,22,38,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-28,Pfizer/BioNTech,FVG,60-69,51,31,82,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-28,Pfizer/BioNTech,FVG,70-79,65,61,126,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-28,Pfizer/BioNTech,FVG,80-89,54,69,123,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-28,Pfizer/BioNTech,EMR,50-59,156,131,287,ITH,ITH5,8,Emilia-Romagna
+2026-10-28,Pfizer/BioNTech,EMR,60-69,417,401,818,ITH,ITH5,8,Emilia-Romagna
+2026-10-28,Pfizer/BioNTech,EMR,70-79,750,657,1407,ITH,ITH5,8,Emilia-Romagna
+2026-10-28,Pfizer/BioNTech,EMR,80-89,577,616,1193,ITH,ITH5,8,Emilia-Romagna
+2026-10-28,Pfizer/BioNTech,EMR,90+,167,241,408,ITH,ITH5,8,Emilia-Romagna
+2026-10-28,Pfizer/BioNTech,FVG,20-29,6,11,17,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-28,Pfizer/BioNTech,FVG,30-39,10,8,18,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-28,Pfizer/BioNTech,FVG,40-49,7,8,15,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-28,Pfizer/BioNTech,FVG,50-59,16,25,41,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-28,Pfizer/BioNTech,FVG,60-69,51,32,83,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-28,Pfizer/BioNTech,FVG,70-79,66,61,127,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-28,Pfizer/BioNTech,FVG,80-89,55,69,124,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-28,Pfizer/BioNTech,FVG,90+,13,37,50,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-28,Pfizer/BioNTech,LOM,12-19,12,10,22,ITC,ITC4,3,Lombardia
 2026-10-28,Pfizer/BioNTech,LOM,20-29,38,75,113,ITC,ITC4,3,Lombardia
-2026-10-28,Pfizer/BioNTech,LOM,30-39,111,147,258,ITC,ITC4,3,Lombardia
-2026-10-28,Pfizer/BioNTech,LOM,40-49,158,163,321,ITC,ITC4,3,Lombardia
-2026-10-28,Pfizer/BioNTech,LOM,50-59,252,241,493,ITC,ITC4,3,Lombardia
-2026-10-28,Pfizer/BioNTech,LOM,60-69,530,503,1033,ITC,ITC4,3,Lombardia
-2026-10-28,Pfizer/BioNTech,LOM,70-79,645,670,1315,ITC,ITC4,3,Lombardia
-2026-10-28,Pfizer/BioNTech,LOM,80-89,537,719,1256,ITC,ITC4,3,Lombardia
-2026-10-28,Pfizer/BioNTech,LOM,90+,140,345,485,ITC,ITC4,3,Lombardia
+2026-10-28,Pfizer/BioNTech,LOM,30-39,111,148,259,ITC,ITC4,3,Lombardia
+2026-10-28,Pfizer/BioNTech,LOM,40-49,160,167,327,ITC,ITC4,3,Lombardia
+2026-10-28,Pfizer/BioNTech,LOM,50-59,255,242,497,ITC,ITC4,3,Lombardia
+2026-10-28,Pfizer/BioNTech,LOM,60-69,534,507,1041,ITC,ITC4,3,Lombardia
+2026-10-28,Pfizer/BioNTech,LOM,70-79,658,681,1339,ITC,ITC4,3,Lombardia
+2026-10-28,Pfizer/BioNTech,LOM,80-89,549,731,1280,ITC,ITC4,3,Lombardia
+2026-10-28,Pfizer/BioNTech,LOM,90+,142,351,493,ITC,ITC4,3,Lombardia
 2026-10-28,Pfizer/BioNTech,PIE,12-19,2,0,2,ITC,ITC1,1,Piemonte
-2026-10-28,Pfizer/BioNTech,PIE,20-29,4,9,13,ITC,ITC1,1,Piemonte
-2026-10-28,Pfizer/BioNTech,PIE,30-39,15,16,31,ITC,ITC1,1,Piemonte
-2026-10-28,Pfizer/BioNTech,PIE,40-49,22,14,36,ITC,ITC1,1,Piemonte
-2026-10-28,Pfizer/BioNTech,PIE,50-59,29,44,73,ITC,ITC1,1,Piemonte
-2026-10-28,Pfizer/BioNTech,PIE,60-69,67,74,141,ITC,ITC1,1,Piemonte
+2026-10-28,Pfizer/BioNTech,PIE,20-29,5,10,15,ITC,ITC1,1,Piemonte
+2026-10-28,Pfizer/BioNTech,PIE,30-39,16,16,32,ITC,ITC1,1,Piemonte
+2026-10-28,Pfizer/BioNTech,PIE,40-49,22,16,38,ITC,ITC1,1,Piemonte
+2026-10-28,Pfizer/BioNTech,PIE,50-59,30,48,78,ITC,ITC1,1,Piemonte
+2026-10-28,Pfizer/BioNTech,PIE,60-69,67,77,144,ITC,ITC1,1,Piemonte
 2026-10-28,Pfizer/BioNTech,PIE,70-79,113,113,226,ITC,ITC1,1,Piemonte
-2026-10-28,Pfizer/BioNTech,PIE,80-89,92,141,233,ITC,ITC1,1,Piemonte
-2026-10-28,Pfizer/BioNTech,PIE,90+,15,66,81,ITC,ITC1,1,Piemonte
+2026-10-28,Pfizer/BioNTech,PIE,80-89,92,144,236,ITC,ITC1,1,Piemonte
+2026-10-28,Pfizer/BioNTech,PIE,90+,15,67,82,ITC,ITC1,1,Piemonte
 2026-10-28,Pfizer/BioNTech,SIC,60-69,0,1,1,ITG,ITG1,19,Sicilia
 2026-10-28,Pfizer/BioNTech,TOS,12-19,2,2,4,ITI,ITI1,9,Toscana
 2026-10-28,Pfizer/BioNTech,TOS,20-29,2,7,9,ITI,ITI1,9,Toscana
 2026-10-28,Pfizer/BioNTech,TOS,30-39,13,9,22,ITI,ITI1,9,Toscana
 2026-10-28,Pfizer/BioNTech,TOS,40-49,11,11,22,ITI,ITI1,9,Toscana
 2026-10-28,Pfizer/BioNTech,TOS,50-59,16,17,33,ITI,ITI1,9,Toscana
-2026-10-28,Pfizer/BioNTech,TOS,60-69,78,88,166,ITI,ITI1,9,Toscana
-2026-10-28,Pfizer/BioNTech,TOS,70-79,83,95,178,ITI,ITI1,9,Toscana
-2026-10-28,Pfizer/BioNTech,TOS,80-89,90,124,214,ITI,ITI1,9,Toscana
-2026-10-28,Pfizer/BioNTech,TOS,90+,13,39,52,ITI,ITI1,9,Toscana
+2026-10-28,Pfizer/BioNTech,TOS,60-69,79,88,167,ITI,ITI1,9,Toscana
+2026-10-28,Pfizer/BioNTech,TOS,70-79,83,96,179,ITI,ITI1,9,Toscana
+2026-10-28,Pfizer/BioNTech,TOS,80-89,90,125,215,ITI,ITI1,9,Toscana
+2026-10-28,Pfizer/BioNTech,TOS,90+,13,40,53,ITI,ITI1,9,Toscana
 2026-10-28,Pfizer/BioNTech,UMB,20-29,2,1,3,ITI,ITI2,10,Umbria
 2026-10-28,Pfizer/BioNTech,UMB,30-39,1,5,6,ITI,ITI2,10,Umbria
 2026-10-28,Pfizer/BioNTech,UMB,40-49,3,3,6,ITI,ITI2,10,Umbria
 2026-10-28,Pfizer/BioNTech,UMB,50-59,6,14,20,ITI,ITI2,10,Umbria
 2026-10-28,Pfizer/BioNTech,UMB,60-69,25,19,44,ITI,ITI2,10,Umbria
-2026-10-28,Pfizer/BioNTech,UMB,70-79,44,44,88,ITI,ITI2,10,Umbria
-2026-10-28,Pfizer/BioNTech,UMB,80-89,36,46,82,ITI,ITI2,10,Umbria
+2026-10-28,Pfizer/BioNTech,UMB,70-79,45,44,89,ITI,ITI2,10,Umbria
+2026-10-28,Pfizer/BioNTech,UMB,80-89,37,46,83,ITI,ITI2,10,Umbria
 2026-10-28,Pfizer/BioNTech,UMB,90+,10,5,15,ITI,ITI2,10,Umbria
-2026-10-28,Pfizer/BioNTech,VDA,80-89,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2026-10-28,Pfizer/BioNTech,VDA,90+,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-10-28,Pfizer/BioNTech,VDA,70-79,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-10-28,Pfizer/BioNTech,VDA,80-89,3,2,5,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-10-28,Pfizer/BioNTech,VDA,90+,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-10-28,Pfizer/BioNTech,VEN,12-19,0,2,2,ITH,ITH3,5,Veneto
 2026-10-28,Pfizer/BioNTech,VEN,20-29,6,7,13,ITH,ITH3,5,Veneto
-2026-10-28,Pfizer/BioNTech,VEN,30-39,17,30,47,ITH,ITH3,5,Veneto
+2026-10-28,Pfizer/BioNTech,VEN,30-39,18,30,48,ITH,ITH3,5,Veneto
 2026-10-28,Pfizer/BioNTech,VEN,40-49,10,9,19,ITH,ITH3,5,Veneto
-2026-10-28,Pfizer/BioNTech,VEN,50-59,12,16,28,ITH,ITH3,5,Veneto
-2026-10-28,Pfizer/BioNTech,VEN,60-69,29,25,54,ITH,ITH3,5,Veneto
-2026-10-28,Pfizer/BioNTech,VEN,70-79,14,18,32,ITH,ITH3,5,Veneto
-2026-10-28,Pfizer/BioNTech,VEN,80-89,8,12,20,ITH,ITH3,5,Veneto
-2026-10-28,Pfizer/BioNTech,VEN,90+,1,7,8,ITH,ITH3,5,Veneto
+2026-10-28,Pfizer/BioNTech,VEN,50-59,13,17,30,ITH,ITH3,5,Veneto
+2026-10-28,Pfizer/BioNTech,VEN,60-69,31,27,58,ITH,ITH3,5,Veneto
+2026-10-28,Pfizer/BioNTech,VEN,70-79,17,20,37,ITH,ITH3,5,Veneto
+2026-10-28,Pfizer/BioNTech,VEN,80-89,12,16,28,ITH,ITH3,5,Veneto
+2026-10-28,Pfizer/BioNTech,VEN,90+,2,14,16,ITH,ITH3,5,Veneto
 2026-10-29,Pfizer Pediatrico,EMR,05-11,2,1,3,ITH,ITH5,8,Emilia-Romagna
 2026-10-29,Pfizer Pediatrico,FVG,05-11,0,2,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-29,Pfizer Pediatrico,VEN,05-11,2,0,2,ITH,ITH3,5,Veneto
-2026-10-29,Pfizer/BioNTech,ABR,30-39,4,3,7,ITF,ITF1,13,Abruzzo
+2026-10-29,Pfizer/BioNTech,ABR,30-39,5,3,8,ITF,ITF1,13,Abruzzo
 2026-10-29,Pfizer/BioNTech,ABR,40-49,4,7,11,ITF,ITF1,13,Abruzzo
 2026-10-29,Pfizer/BioNTech,ABR,50-59,14,12,26,ITF,ITF1,13,Abruzzo
 2026-10-29,Pfizer/BioNTech,ABR,60-69,13,12,25,ITF,ITF1,13,Abruzzo
@@ -1085,178 +1092,178 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-29,Pfizer/BioNTech,ABR,80-89,9,6,15,ITF,ITF1,13,Abruzzo
 2026-10-29,Pfizer/BioNTech,ABR,90+,0,2,2,ITF,ITF1,13,Abruzzo
 2026-10-29,Pfizer/BioNTech,EMR,12-19,4,4,8,ITH,ITH5,8,Emilia-Romagna
-2026-10-29,Pfizer/BioNTech,EMR,20-29,28,41,69,ITH,ITH5,8,Emilia-Romagna
-2026-10-29,Pfizer/BioNTech,EMR,30-39,58,76,134,ITH,ITH5,8,Emilia-Romagna
-2026-10-29,Pfizer/BioNTech,EMR,40-49,97,77,174,ITH,ITH5,8,Emilia-Romagna
-2026-10-29,Pfizer/BioNTech,EMR,50-59,173,147,320,ITH,ITH5,8,Emilia-Romagna
-2026-10-29,Pfizer/BioNTech,EMR,60-69,460,438,898,ITH,ITH5,8,Emilia-Romagna
-2026-10-29,Pfizer/BioNTech,EMR,70-79,728,631,1359,ITH,ITH5,8,Emilia-Romagna
-2026-10-29,Pfizer/BioNTech,EMR,80-89,597,644,1241,ITH,ITH5,8,Emilia-Romagna
-2026-10-29,Pfizer/BioNTech,EMR,90+,158,269,427,ITH,ITH5,8,Emilia-Romagna
+2026-10-29,Pfizer/BioNTech,EMR,20-29,29,42,71,ITH,ITH5,8,Emilia-Romagna
+2026-10-29,Pfizer/BioNTech,EMR,30-39,60,83,143,ITH,ITH5,8,Emilia-Romagna
+2026-10-29,Pfizer/BioNTech,EMR,40-49,99,80,179,ITH,ITH5,8,Emilia-Romagna
+2026-10-29,Pfizer/BioNTech,EMR,50-59,179,150,329,ITH,ITH5,8,Emilia-Romagna
+2026-10-29,Pfizer/BioNTech,EMR,60-69,467,441,908,ITH,ITH5,8,Emilia-Romagna
+2026-10-29,Pfizer/BioNTech,EMR,70-79,734,640,1374,ITH,ITH5,8,Emilia-Romagna
+2026-10-29,Pfizer/BioNTech,EMR,80-89,604,655,1259,ITH,ITH5,8,Emilia-Romagna
+2026-10-29,Pfizer/BioNTech,EMR,90+,164,274,438,ITH,ITH5,8,Emilia-Romagna
 2026-10-29,Pfizer/BioNTech,FVG,20-29,6,18,24,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-29,Pfizer/BioNTech,FVG,30-39,10,21,31,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-29,Pfizer/BioNTech,FVG,40-49,9,17,26,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-29,Pfizer/BioNTech,FVG,50-59,15,20,35,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-29,Pfizer/BioNTech,FVG,60-69,66,45,111,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-29,Pfizer/BioNTech,FVG,30-39,12,22,34,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-29,Pfizer/BioNTech,FVG,40-49,9,19,28,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-29,Pfizer/BioNTech,FVG,50-59,16,22,38,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-29,Pfizer/BioNTech,FVG,60-69,69,46,115,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-29,Pfizer/BioNTech,FVG,70-79,73,70,143,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-29,Pfizer/BioNTech,FVG,80-89,58,57,115,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-29,Pfizer/BioNTech,FVG,90+,12,20,32,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-29,Pfizer/BioNTech,FVG,80-89,58,58,116,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-29,Pfizer/BioNTech,FVG,90+,12,21,33,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-29,Pfizer/BioNTech,LOM,12-19,12,4,16,ITC,ITC4,3,Lombardia
-2026-10-29,Pfizer/BioNTech,LOM,20-29,55,70,125,ITC,ITC4,3,Lombardia
-2026-10-29,Pfizer/BioNTech,LOM,30-39,103,124,227,ITC,ITC4,3,Lombardia
+2026-10-29,Pfizer/BioNTech,LOM,20-29,56,71,127,ITC,ITC4,3,Lombardia
+2026-10-29,Pfizer/BioNTech,LOM,30-39,103,125,228,ITC,ITC4,3,Lombardia
 2026-10-29,Pfizer/BioNTech,LOM,40-49,142,166,308,ITC,ITC4,3,Lombardia
-2026-10-29,Pfizer/BioNTech,LOM,50-59,280,230,510,ITC,ITC4,3,Lombardia
-2026-10-29,Pfizer/BioNTech,LOM,60-69,471,466,937,ITC,ITC4,3,Lombardia
-2026-10-29,Pfizer/BioNTech,LOM,70-79,699,704,1403,ITC,ITC4,3,Lombardia
-2026-10-29,Pfizer/BioNTech,LOM,80-89,580,753,1333,ITC,ITC4,3,Lombardia
-2026-10-29,Pfizer/BioNTech,LOM,90+,157,365,522,ITC,ITC4,3,Lombardia
+2026-10-29,Pfizer/BioNTech,LOM,50-59,281,231,512,ITC,ITC4,3,Lombardia
+2026-10-29,Pfizer/BioNTech,LOM,60-69,471,468,939,ITC,ITC4,3,Lombardia
+2026-10-29,Pfizer/BioNTech,LOM,70-79,702,706,1408,ITC,ITC4,3,Lombardia
+2026-10-29,Pfizer/BioNTech,LOM,80-89,584,758,1342,ITC,ITC4,3,Lombardia
+2026-10-29,Pfizer/BioNTech,LOM,90+,159,373,532,ITC,ITC4,3,Lombardia
 2026-10-29,Pfizer/BioNTech,PIE,12-19,3,0,3,ITC,ITC1,1,Piemonte
 2026-10-29,Pfizer/BioNTech,PIE,20-29,4,4,8,ITC,ITC1,1,Piemonte
-2026-10-29,Pfizer/BioNTech,PIE,30-39,9,21,30,ITC,ITC1,1,Piemonte
-2026-10-29,Pfizer/BioNTech,PIE,40-49,15,29,44,ITC,ITC1,1,Piemonte
-2026-10-29,Pfizer/BioNTech,PIE,50-59,42,46,88,ITC,ITC1,1,Piemonte
-2026-10-29,Pfizer/BioNTech,PIE,60-69,92,87,179,ITC,ITC1,1,Piemonte
-2026-10-29,Pfizer/BioNTech,PIE,70-79,136,132,268,ITC,ITC1,1,Piemonte
-2026-10-29,Pfizer/BioNTech,PIE,80-89,123,159,282,ITC,ITC1,1,Piemonte
-2026-10-29,Pfizer/BioNTech,PIE,90+,38,89,127,ITC,ITC1,1,Piemonte
+2026-10-29,Pfizer/BioNTech,PIE,30-39,9,20,29,ITC,ITC1,1,Piemonte
+2026-10-29,Pfizer/BioNTech,PIE,40-49,15,27,42,ITC,ITC1,1,Piemonte
+2026-10-29,Pfizer/BioNTech,PIE,50-59,41,42,83,ITC,ITC1,1,Piemonte
+2026-10-29,Pfizer/BioNTech,PIE,60-69,92,88,180,ITC,ITC1,1,Piemonte
+2026-10-29,Pfizer/BioNTech,PIE,70-79,140,133,273,ITC,ITC1,1,Piemonte
+2026-10-29,Pfizer/BioNTech,PIE,80-89,124,159,283,ITC,ITC1,1,Piemonte
+2026-10-29,Pfizer/BioNTech,PIE,90+,38,92,130,ITC,ITC1,1,Piemonte
 2026-10-29,Pfizer/BioNTech,TOS,20-29,3,4,7,ITI,ITI1,9,Toscana
 2026-10-29,Pfizer/BioNTech,TOS,30-39,8,13,21,ITI,ITI1,9,Toscana
 2026-10-29,Pfizer/BioNTech,TOS,40-49,18,7,25,ITI,ITI1,9,Toscana
 2026-10-29,Pfizer/BioNTech,TOS,50-59,24,25,49,ITI,ITI1,9,Toscana
-2026-10-29,Pfizer/BioNTech,TOS,60-69,97,88,185,ITI,ITI1,9,Toscana
-2026-10-29,Pfizer/BioNTech,TOS,70-79,123,126,249,ITI,ITI1,9,Toscana
-2026-10-29,Pfizer/BioNTech,TOS,80-89,116,149,265,ITI,ITI1,9,Toscana
-2026-10-29,Pfizer/BioNTech,TOS,90+,11,49,60,ITI,ITI1,9,Toscana
+2026-10-29,Pfizer/BioNTech,TOS,60-69,98,88,186,ITI,ITI1,9,Toscana
+2026-10-29,Pfizer/BioNTech,TOS,70-79,125,128,253,ITI,ITI1,9,Toscana
+2026-10-29,Pfizer/BioNTech,TOS,80-89,116,150,266,ITI,ITI1,9,Toscana
+2026-10-29,Pfizer/BioNTech,TOS,90+,12,50,62,ITI,ITI1,9,Toscana
 2026-10-29,Pfizer/BioNTech,UMB,12-19,1,0,1,ITI,ITI2,10,Umbria
-2026-10-29,Pfizer/BioNTech,UMB,30-39,8,3,11,ITI,ITI2,10,Umbria
-2026-10-29,Pfizer/BioNTech,UMB,40-49,1,6,7,ITI,ITI2,10,Umbria
-2026-10-29,Pfizer/BioNTech,UMB,50-59,2,5,7,ITI,ITI2,10,Umbria
-2026-10-29,Pfizer/BioNTech,UMB,60-69,21,24,45,ITI,ITI2,10,Umbria
-2026-10-29,Pfizer/BioNTech,UMB,70-79,27,29,56,ITI,ITI2,10,Umbria
-2026-10-29,Pfizer/BioNTech,UMB,80-89,23,22,45,ITI,ITI2,10,Umbria
+2026-10-29,Pfizer/BioNTech,UMB,30-39,9,4,13,ITI,ITI2,10,Umbria
+2026-10-29,Pfizer/BioNTech,UMB,40-49,2,7,9,ITI,ITI2,10,Umbria
+2026-10-29,Pfizer/BioNTech,UMB,50-59,3,6,9,ITI,ITI2,10,Umbria
+2026-10-29,Pfizer/BioNTech,UMB,60-69,21,38,59,ITI,ITI2,10,Umbria
+2026-10-29,Pfizer/BioNTech,UMB,70-79,32,36,68,ITI,ITI2,10,Umbria
+2026-10-29,Pfizer/BioNTech,UMB,80-89,25,27,52,ITI,ITI2,10,Umbria
 2026-10-29,Pfizer/BioNTech,UMB,90+,3,13,16,ITI,ITI2,10,Umbria
 2026-10-29,Pfizer/BioNTech,VDA,70-79,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-10-29,Pfizer/BioNTech,VDA,80-89,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-10-29,Pfizer/BioNTech,VEN,12-19,2,3,5,ITH,ITH3,5,Veneto
-2026-10-29,Pfizer/BioNTech,VEN,20-29,13,3,16,ITH,ITH3,5,Veneto
-2026-10-29,Pfizer/BioNTech,VEN,30-39,26,35,61,ITH,ITH3,5,Veneto
-2026-10-29,Pfizer/BioNTech,VEN,40-49,20,17,37,ITH,ITH3,5,Veneto
-2026-10-29,Pfizer/BioNTech,VEN,50-59,16,20,36,ITH,ITH3,5,Veneto
-2026-10-29,Pfizer/BioNTech,VEN,60-69,32,30,62,ITH,ITH3,5,Veneto
-2026-10-29,Pfizer/BioNTech,VEN,70-79,29,19,48,ITH,ITH3,5,Veneto
-2026-10-29,Pfizer/BioNTech,VEN,80-89,25,38,63,ITH,ITH3,5,Veneto
-2026-10-29,Pfizer/BioNTech,VEN,90+,6,15,21,ITH,ITH3,5,Veneto
+2026-10-29,Pfizer/BioNTech,VEN,20-29,13,4,17,ITH,ITH3,5,Veneto
+2026-10-29,Pfizer/BioNTech,VEN,30-39,27,38,65,ITH,ITH3,5,Veneto
+2026-10-29,Pfizer/BioNTech,VEN,40-49,20,19,39,ITH,ITH3,5,Veneto
+2026-10-29,Pfizer/BioNTech,VEN,50-59,17,20,37,ITH,ITH3,5,Veneto
+2026-10-29,Pfizer/BioNTech,VEN,60-69,35,36,71,ITH,ITH3,5,Veneto
+2026-10-29,Pfizer/BioNTech,VEN,70-79,34,29,63,ITH,ITH3,5,Veneto
+2026-10-29,Pfizer/BioNTech,VEN,80-89,37,53,90,ITH,ITH3,5,Veneto
+2026-10-29,Pfizer/BioNTech,VEN,90+,7,22,29,ITH,ITH3,5,Veneto
 2026-10-30,Pfizer Pediatrico,VEN,05-11,4,0,4,ITH,ITH3,5,Veneto
 2026-10-30,Pfizer/BioNTech,ABR,30-39,3,2,5,ITF,ITF1,13,Abruzzo
 2026-10-30,Pfizer/BioNTech,ABR,40-49,3,3,6,ITF,ITF1,13,Abruzzo
-2026-10-30,Pfizer/BioNTech,ABR,50-59,6,3,9,ITF,ITF1,13,Abruzzo
+2026-10-30,Pfizer/BioNTech,ABR,50-59,7,3,10,ITF,ITF1,13,Abruzzo
 2026-10-30,Pfizer/BioNTech,ABR,60-69,15,11,26,ITF,ITF1,13,Abruzzo
 2026-10-30,Pfizer/BioNTech,ABR,70-79,17,11,28,ITF,ITF1,13,Abruzzo
-2026-10-30,Pfizer/BioNTech,ABR,80-89,7,12,19,ITF,ITF1,13,Abruzzo
+2026-10-30,Pfizer/BioNTech,ABR,80-89,8,12,20,ITF,ITF1,13,Abruzzo
 2026-10-30,Pfizer/BioNTech,ABR,90+,2,6,8,ITF,ITF1,13,Abruzzo
 2026-10-30,Pfizer/BioNTech,EMR,12-19,4,3,7,ITH,ITH5,8,Emilia-Romagna
-2026-10-30,Pfizer/BioNTech,EMR,20-29,13,30,43,ITH,ITH5,8,Emilia-Romagna
+2026-10-30,Pfizer/BioNTech,EMR,20-29,14,31,45,ITH,ITH5,8,Emilia-Romagna
 2026-10-30,Pfizer/BioNTech,EMR,30-39,67,73,140,ITH,ITH5,8,Emilia-Romagna
-2026-10-30,Pfizer/BioNTech,EMR,40-49,53,84,137,ITH,ITH5,8,Emilia-Romagna
-2026-10-30,Pfizer/BioNTech,EMR,50-59,130,154,284,ITH,ITH5,8,Emilia-Romagna
-2026-10-30,Pfizer/BioNTech,EMR,60-69,380,399,779,ITH,ITH5,8,Emilia-Romagna
-2026-10-30,Pfizer/BioNTech,EMR,70-79,599,523,1122,ITH,ITH5,8,Emilia-Romagna
-2026-10-30,Pfizer/BioNTech,EMR,80-89,455,545,1000,ITH,ITH5,8,Emilia-Romagna
-2026-10-30,Pfizer/BioNTech,EMR,90+,113,188,301,ITH,ITH5,8,Emilia-Romagna
+2026-10-30,Pfizer/BioNTech,EMR,40-49,55,85,140,ITH,ITH5,8,Emilia-Romagna
+2026-10-30,Pfizer/BioNTech,EMR,50-59,142,159,301,ITH,ITH5,8,Emilia-Romagna
+2026-10-30,Pfizer/BioNTech,EMR,60-69,390,411,801,ITH,ITH5,8,Emilia-Romagna
+2026-10-30,Pfizer/BioNTech,EMR,70-79,615,536,1151,ITH,ITH5,8,Emilia-Romagna
+2026-10-30,Pfizer/BioNTech,EMR,80-89,469,555,1024,ITH,ITH5,8,Emilia-Romagna
+2026-10-30,Pfizer/BioNTech,EMR,90+,115,198,313,ITH,ITH5,8,Emilia-Romagna
 2026-10-30,Pfizer/BioNTech,FVG,12-19,3,1,4,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-30,Pfizer/BioNTech,FVG,20-29,4,6,10,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-30,Pfizer/BioNTech,FVG,30-39,8,15,23,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-30,Pfizer/BioNTech,FVG,40-49,16,19,35,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-30,Pfizer/BioNTech,FVG,50-59,26,26,52,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-30,Pfizer/BioNTech,FVG,60-69,79,57,136,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-30,Pfizer/BioNTech,FVG,60-69,83,60,143,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-30,Pfizer/BioNTech,FVG,70-79,119,100,219,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-30,Pfizer/BioNTech,FVG,80-89,73,82,155,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-30,Pfizer/BioNTech,FVG,80-89,73,83,156,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-30,Pfizer/BioNTech,FVG,90+,20,58,78,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-30,Pfizer/BioNTech,LOM,12-19,21,9,30,ITC,ITC4,3,Lombardia
-2026-10-30,Pfizer/BioNTech,LOM,20-29,58,60,118,ITC,ITC4,3,Lombardia
+2026-10-30,Pfizer/BioNTech,LOM,20-29,60,62,122,ITC,ITC4,3,Lombardia
 2026-10-30,Pfizer/BioNTech,LOM,30-39,123,149,272,ITC,ITC4,3,Lombardia
-2026-10-30,Pfizer/BioNTech,LOM,40-49,163,165,328,ITC,ITC4,3,Lombardia
-2026-10-30,Pfizer/BioNTech,LOM,50-59,256,277,533,ITC,ITC4,3,Lombardia
-2026-10-30,Pfizer/BioNTech,LOM,60-69,484,478,962,ITC,ITC4,3,Lombardia
-2026-10-30,Pfizer/BioNTech,LOM,70-79,623,528,1151,ITC,ITC4,3,Lombardia
-2026-10-30,Pfizer/BioNTech,LOM,80-89,417,565,982,ITC,ITC4,3,Lombardia
-2026-10-30,Pfizer/BioNTech,LOM,90+,120,277,397,ITC,ITC4,3,Lombardia
+2026-10-30,Pfizer/BioNTech,LOM,40-49,165,166,331,ITC,ITC4,3,Lombardia
+2026-10-30,Pfizer/BioNTech,LOM,50-59,258,281,539,ITC,ITC4,3,Lombardia
+2026-10-30,Pfizer/BioNTech,LOM,60-69,492,491,983,ITC,ITC4,3,Lombardia
+2026-10-30,Pfizer/BioNTech,LOM,70-79,643,548,1191,ITC,ITC4,3,Lombardia
+2026-10-30,Pfizer/BioNTech,LOM,80-89,433,605,1038,ITC,ITC4,3,Lombardia
+2026-10-30,Pfizer/BioNTech,LOM,90+,129,306,435,ITC,ITC4,3,Lombardia
 2026-10-30,Pfizer/BioNTech,PIE,12-19,1,1,2,ITC,ITC1,1,Piemonte
 2026-10-30,Pfizer/BioNTech,PIE,20-29,3,4,7,ITC,ITC1,1,Piemonte
 2026-10-30,Pfizer/BioNTech,PIE,30-39,19,17,36,ITC,ITC1,1,Piemonte
 2026-10-30,Pfizer/BioNTech,PIE,40-49,20,24,44,ITC,ITC1,1,Piemonte
 2026-10-30,Pfizer/BioNTech,PIE,50-59,35,40,75,ITC,ITC1,1,Piemonte
-2026-10-30,Pfizer/BioNTech,PIE,60-69,88,81,169,ITC,ITC1,1,Piemonte
-2026-10-30,Pfizer/BioNTech,PIE,70-79,147,136,283,ITC,ITC1,1,Piemonte
-2026-10-30,Pfizer/BioNTech,PIE,80-89,103,125,228,ITC,ITC1,1,Piemonte
-2026-10-30,Pfizer/BioNTech,PIE,90+,33,52,85,ITC,ITC1,1,Piemonte
+2026-10-30,Pfizer/BioNTech,PIE,60-69,91,81,172,ITC,ITC1,1,Piemonte
+2026-10-30,Pfizer/BioNTech,PIE,70-79,149,137,286,ITC,ITC1,1,Piemonte
+2026-10-30,Pfizer/BioNTech,PIE,80-89,102,124,226,ITC,ITC1,1,Piemonte
+2026-10-30,Pfizer/BioNTech,PIE,90+,33,53,86,ITC,ITC1,1,Piemonte
 2026-10-30,Pfizer/BioNTech,TOS,12-19,3,2,5,ITI,ITI1,9,Toscana
 2026-10-30,Pfizer/BioNTech,TOS,20-29,8,4,12,ITI,ITI1,9,Toscana
 2026-10-30,Pfizer/BioNTech,TOS,30-39,12,13,25,ITI,ITI1,9,Toscana
 2026-10-30,Pfizer/BioNTech,TOS,40-49,16,20,36,ITI,ITI1,9,Toscana
 2026-10-30,Pfizer/BioNTech,TOS,50-59,21,23,44,ITI,ITI1,9,Toscana
-2026-10-30,Pfizer/BioNTech,TOS,60-69,103,89,192,ITI,ITI1,9,Toscana
+2026-10-30,Pfizer/BioNTech,TOS,60-69,105,89,194,ITI,ITI1,9,Toscana
 2026-10-30,Pfizer/BioNTech,TOS,70-79,80,97,177,ITI,ITI1,9,Toscana
-2026-10-30,Pfizer/BioNTech,TOS,80-89,96,94,190,ITI,ITI1,9,Toscana
+2026-10-30,Pfizer/BioNTech,TOS,80-89,98,97,195,ITI,ITI1,9,Toscana
 2026-10-30,Pfizer/BioNTech,TOS,90+,11,30,41,ITI,ITI1,9,Toscana
 2026-10-30,Pfizer/BioNTech,UMB,30-39,0,2,2,ITI,ITI2,10,Umbria
 2026-10-30,Pfizer/BioNTech,UMB,40-49,1,2,3,ITI,ITI2,10,Umbria
 2026-10-30,Pfizer/BioNTech,UMB,50-59,2,1,3,ITI,ITI2,10,Umbria
-2026-10-30,Pfizer/BioNTech,UMB,60-69,12,14,26,ITI,ITI2,10,Umbria
-2026-10-30,Pfizer/BioNTech,UMB,70-79,20,18,38,ITI,ITI2,10,Umbria
-2026-10-30,Pfizer/BioNTech,UMB,80-89,17,24,41,ITI,ITI2,10,Umbria
-2026-10-30,Pfizer/BioNTech,UMB,90+,5,15,20,ITI,ITI2,10,Umbria
+2026-10-30,Pfizer/BioNTech,UMB,60-69,12,15,27,ITI,ITI2,10,Umbria
+2026-10-30,Pfizer/BioNTech,UMB,70-79,20,19,39,ITI,ITI2,10,Umbria
+2026-10-30,Pfizer/BioNTech,UMB,80-89,20,25,45,ITI,ITI2,10,Umbria
+2026-10-30,Pfizer/BioNTech,UMB,90+,5,16,21,ITI,ITI2,10,Umbria
 2026-10-30,Pfizer/BioNTech,VDA,50-59,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-10-30,Pfizer/BioNTech,VDA,60-69,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-10-30,Pfizer/BioNTech,VDA,70-79,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-10-30,Pfizer/BioNTech,VDA,80-89,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-10-30,Pfizer/BioNTech,VDA,90+,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2026-10-30,Pfizer/BioNTech,VEN,12-19,3,2,5,ITH,ITH3,5,Veneto
-2026-10-30,Pfizer/BioNTech,VEN,20-29,5,12,17,ITH,ITH3,5,Veneto
-2026-10-30,Pfizer/BioNTech,VEN,30-39,18,25,43,ITH,ITH3,5,Veneto
-2026-10-30,Pfizer/BioNTech,VEN,40-49,8,21,29,ITH,ITH3,5,Veneto
-2026-10-30,Pfizer/BioNTech,VEN,50-59,21,27,48,ITH,ITH3,5,Veneto
-2026-10-30,Pfizer/BioNTech,VEN,60-69,29,24,53,ITH,ITH3,5,Veneto
-2026-10-30,Pfizer/BioNTech,VEN,70-79,23,26,49,ITH,ITH3,5,Veneto
-2026-10-30,Pfizer/BioNTech,VEN,80-89,13,20,33,ITH,ITH3,5,Veneto
-2026-10-30,Pfizer/BioNTech,VEN,90+,7,12,19,ITH,ITH3,5,Veneto
+2026-10-30,Pfizer/BioNTech,VEN,12-19,3,3,6,ITH,ITH3,5,Veneto
+2026-10-30,Pfizer/BioNTech,VEN,20-29,5,13,18,ITH,ITH3,5,Veneto
+2026-10-30,Pfizer/BioNTech,VEN,30-39,19,27,46,ITH,ITH3,5,Veneto
+2026-10-30,Pfizer/BioNTech,VEN,40-49,9,26,35,ITH,ITH3,5,Veneto
+2026-10-30,Pfizer/BioNTech,VEN,50-59,27,31,58,ITH,ITH3,5,Veneto
+2026-10-30,Pfizer/BioNTech,VEN,60-69,36,31,67,ITH,ITH3,5,Veneto
+2026-10-30,Pfizer/BioNTech,VEN,70-79,29,31,60,ITH,ITH3,5,Veneto
+2026-10-30,Pfizer/BioNTech,VEN,80-89,14,30,44,ITH,ITH3,5,Veneto
+2026-10-30,Pfizer/BioNTech,VEN,90+,7,16,23,ITH,ITH3,5,Veneto
 2026-10-31,Pfizer Pediatrico,VEN,05-11,0,1,1,ITH,ITH3,5,Veneto
 2026-10-31,Pfizer/BioNTech,ABR,12-19,0,1,1,ITF,ITF1,13,Abruzzo
 2026-10-31,Pfizer/BioNTech,ABR,20-29,2,0,2,ITF,ITF1,13,Abruzzo
 2026-10-31,Pfizer/BioNTech,ABR,30-39,2,1,3,ITF,ITF1,13,Abruzzo
-2026-10-31,Pfizer/BioNTech,ABR,40-49,3,1,4,ITF,ITF1,13,Abruzzo
-2026-10-31,Pfizer/BioNTech,ABR,50-59,2,9,11,ITF,ITF1,13,Abruzzo
-2026-10-31,Pfizer/BioNTech,ABR,60-69,7,8,15,ITF,ITF1,13,Abruzzo
-2026-10-31,Pfizer/BioNTech,ABR,70-79,11,12,23,ITF,ITF1,13,Abruzzo
-2026-10-31,Pfizer/BioNTech,ABR,80-89,5,7,12,ITF,ITF1,13,Abruzzo
-2026-10-31,Pfizer/BioNTech,ABR,90+,1,3,4,ITF,ITF1,13,Abruzzo
+2026-10-31,Pfizer/BioNTech,ABR,40-49,3,3,6,ITF,ITF1,13,Abruzzo
+2026-10-31,Pfizer/BioNTech,ABR,50-59,2,11,13,ITF,ITF1,13,Abruzzo
+2026-10-31,Pfizer/BioNTech,ABR,60-69,7,9,16,ITF,ITF1,13,Abruzzo
+2026-10-31,Pfizer/BioNTech,ABR,70-79,11,14,25,ITF,ITF1,13,Abruzzo
+2026-10-31,Pfizer/BioNTech,ABR,80-89,5,20,25,ITF,ITF1,13,Abruzzo
+2026-10-31,Pfizer/BioNTech,ABR,90+,1,16,17,ITF,ITF1,13,Abruzzo
 2026-10-31,Pfizer/BioNTech,EMR,12-19,2,0,2,ITH,ITH5,8,Emilia-Romagna
 2026-10-31,Pfizer/BioNTech,EMR,20-29,4,1,5,ITH,ITH5,8,Emilia-Romagna
-2026-10-31,Pfizer/BioNTech,EMR,30-39,9,13,22,ITH,ITH5,8,Emilia-Romagna
+2026-10-31,Pfizer/BioNTech,EMR,30-39,10,13,23,ITH,ITH5,8,Emilia-Romagna
 2026-10-31,Pfizer/BioNTech,EMR,40-49,22,21,43,ITH,ITH5,8,Emilia-Romagna
-2026-10-31,Pfizer/BioNTech,EMR,50-59,43,26,69,ITH,ITH5,8,Emilia-Romagna
-2026-10-31,Pfizer/BioNTech,EMR,60-69,108,114,222,ITH,ITH5,8,Emilia-Romagna
-2026-10-31,Pfizer/BioNTech,EMR,70-79,185,172,357,ITH,ITH5,8,Emilia-Romagna
+2026-10-31,Pfizer/BioNTech,EMR,50-59,43,27,70,ITH,ITH5,8,Emilia-Romagna
+2026-10-31,Pfizer/BioNTech,EMR,60-69,109,114,223,ITH,ITH5,8,Emilia-Romagna
+2026-10-31,Pfizer/BioNTech,EMR,70-79,185,173,358,ITH,ITH5,8,Emilia-Romagna
 2026-10-31,Pfizer/BioNTech,EMR,80-89,135,148,283,ITH,ITH5,8,Emilia-Romagna
-2026-10-31,Pfizer/BioNTech,EMR,90+,31,50,81,ITH,ITH5,8,Emilia-Romagna
+2026-10-31,Pfizer/BioNTech,EMR,90+,31,51,82,ITH,ITH5,8,Emilia-Romagna
 2026-10-31,Pfizer/BioNTech,FVG,12-19,1,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-31,Pfizer/BioNTech,FVG,20-29,2,2,4,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-31,Pfizer/BioNTech,FVG,30-39,2,6,8,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-31,Pfizer/BioNTech,FVG,40-49,7,7,14,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-31,Pfizer/BioNTech,FVG,50-59,14,14,28,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-31,Pfizer/BioNTech,FVG,50-59,14,15,29,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-31,Pfizer/BioNTech,FVG,60-69,24,28,52,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-31,Pfizer/BioNTech,FVG,70-79,28,21,49,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-10-31,Pfizer/BioNTech,FVG,80-89,19,19,38,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-31,Pfizer/BioNTech,FVG,70-79,29,21,50,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-10-31,Pfizer/BioNTech,FVG,80-89,19,20,39,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-31,Pfizer/BioNTech,FVG,90+,1,8,9,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-10-31,Pfizer/BioNTech,LOM,12-19,9,12,21,ITC,ITC4,3,Lombardia
 2026-10-31,Pfizer/BioNTech,LOM,20-29,40,52,92,ITC,ITC4,3,Lombardia
-2026-10-31,Pfizer/BioNTech,LOM,30-39,86,91,177,ITC,ITC4,3,Lombardia
-2026-10-31,Pfizer/BioNTech,LOM,40-49,107,108,215,ITC,ITC4,3,Lombardia
-2026-10-31,Pfizer/BioNTech,LOM,50-59,202,173,375,ITC,ITC4,3,Lombardia
-2026-10-31,Pfizer/BioNTech,LOM,60-69,260,265,525,ITC,ITC4,3,Lombardia
-2026-10-31,Pfizer/BioNTech,LOM,70-79,333,306,639,ITC,ITC4,3,Lombardia
-2026-10-31,Pfizer/BioNTech,LOM,80-89,258,300,558,ITC,ITC4,3,Lombardia
-2026-10-31,Pfizer/BioNTech,LOM,90+,40,89,129,ITC,ITC4,3,Lombardia
+2026-10-31,Pfizer/BioNTech,LOM,30-39,88,95,183,ITC,ITC4,3,Lombardia
+2026-10-31,Pfizer/BioNTech,LOM,40-49,111,113,224,ITC,ITC4,3,Lombardia
+2026-10-31,Pfizer/BioNTech,LOM,50-59,204,173,377,ITC,ITC4,3,Lombardia
+2026-10-31,Pfizer/BioNTech,LOM,60-69,273,276,549,ITC,ITC4,3,Lombardia
+2026-10-31,Pfizer/BioNTech,LOM,70-79,352,330,682,ITC,ITC4,3,Lombardia
+2026-10-31,Pfizer/BioNTech,LOM,80-89,277,316,593,ITC,ITC4,3,Lombardia
+2026-10-31,Pfizer/BioNTech,LOM,90+,43,93,136,ITC,ITC4,3,Lombardia
 2026-10-31,Pfizer/BioNTech,PIE,20-29,2,0,2,ITC,ITC1,1,Piemonte
 2026-10-31,Pfizer/BioNTech,PIE,30-39,0,1,1,ITC,ITC1,1,Piemonte
 2026-10-31,Pfizer/BioNTech,PIE,40-49,3,2,5,ITC,ITC1,1,Piemonte
@@ -1266,11 +1273,11 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-31,Pfizer/BioNTech,PIE,80-89,18,17,35,ITC,ITC1,1,Piemonte
 2026-10-31,Pfizer/BioNTech,PIE,90+,0,8,8,ITC,ITC1,1,Piemonte
 2026-10-31,Pfizer/BioNTech,TOS,20-29,0,1,1,ITI,ITI1,9,Toscana
-2026-10-31,Pfizer/BioNTech,TOS,30-39,2,2,4,ITI,ITI1,9,Toscana
+2026-10-31,Pfizer/BioNTech,TOS,30-39,3,2,5,ITI,ITI1,9,Toscana
 2026-10-31,Pfizer/BioNTech,TOS,40-49,1,3,4,ITI,ITI1,9,Toscana
-2026-10-31,Pfizer/BioNTech,TOS,50-59,3,5,8,ITI,ITI1,9,Toscana
-2026-10-31,Pfizer/BioNTech,TOS,60-69,14,14,28,ITI,ITI1,9,Toscana
-2026-10-31,Pfizer/BioNTech,TOS,70-79,15,11,26,ITI,ITI1,9,Toscana
+2026-10-31,Pfizer/BioNTech,TOS,50-59,4,6,10,ITI,ITI1,9,Toscana
+2026-10-31,Pfizer/BioNTech,TOS,60-69,17,14,31,ITI,ITI1,9,Toscana
+2026-10-31,Pfizer/BioNTech,TOS,70-79,15,13,28,ITI,ITI1,9,Toscana
 2026-10-31,Pfizer/BioNTech,TOS,80-89,18,30,48,ITI,ITI1,9,Toscana
 2026-10-31,Pfizer/BioNTech,TOS,90+,3,3,6,ITI,ITI1,9,Toscana
 2026-10-31,Pfizer/BioNTech,UMB,60-69,2,1,3,ITI,ITI2,10,Umbria
@@ -1281,7 +1288,7 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-10-31,Pfizer/BioNTech,VEN,20-29,9,3,12,ITH,ITH3,5,Veneto
 2026-10-31,Pfizer/BioNTech,VEN,30-39,7,12,19,ITH,ITH3,5,Veneto
 2026-10-31,Pfizer/BioNTech,VEN,40-49,15,7,22,ITH,ITH3,5,Veneto
-2026-10-31,Pfizer/BioNTech,VEN,50-59,13,14,27,ITH,ITH3,5,Veneto
+2026-10-31,Pfizer/BioNTech,VEN,50-59,13,15,28,ITH,ITH3,5,Veneto
 2026-10-31,Pfizer/BioNTech,VEN,60-69,20,32,52,ITH,ITH3,5,Veneto
 2026-10-31,Pfizer/BioNTech,VEN,70-79,13,14,27,ITH,ITH3,5,Veneto
 2026-10-31,Pfizer/BioNTech,VEN,80-89,11,14,25,ITH,ITH3,5,Veneto
@@ -1290,11 +1297,11 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-11-01,Pfizer/BioNTech,EMR,20-29,2,0,2,ITH,ITH5,8,Emilia-Romagna
 2026-11-01,Pfizer/BioNTech,EMR,30-39,2,3,5,ITH,ITH5,8,Emilia-Romagna
 2026-11-01,Pfizer/BioNTech,EMR,40-49,6,2,8,ITH,ITH5,8,Emilia-Romagna
-2026-11-01,Pfizer/BioNTech,EMR,50-59,5,6,11,ITH,ITH5,8,Emilia-Romagna
-2026-11-01,Pfizer/BioNTech,EMR,60-69,13,32,45,ITH,ITH5,8,Emilia-Romagna
+2026-11-01,Pfizer/BioNTech,EMR,50-59,6,6,12,ITH,ITH5,8,Emilia-Romagna
+2026-11-01,Pfizer/BioNTech,EMR,60-69,17,33,50,ITH,ITH5,8,Emilia-Romagna
 2026-11-01,Pfizer/BioNTech,EMR,70-79,38,38,76,ITH,ITH5,8,Emilia-Romagna
-2026-11-01,Pfizer/BioNTech,EMR,80-89,40,53,93,ITH,ITH5,8,Emilia-Romagna
-2026-11-01,Pfizer/BioNTech,EMR,90+,13,35,48,ITH,ITH5,8,Emilia-Romagna
+2026-11-01,Pfizer/BioNTech,EMR,80-89,40,54,94,ITH,ITH5,8,Emilia-Romagna
+2026-11-01,Pfizer/BioNTech,EMR,90+,15,36,51,ITH,ITH5,8,Emilia-Romagna
 2026-11-01,Pfizer/BioNTech,FVG,60-69,0,2,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-11-01,Pfizer/BioNTech,FVG,70-79,1,1,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-11-01,Pfizer/BioNTech,FVG,80-89,1,2,3,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -1303,9 +1310,9 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-11-01,Pfizer/BioNTech,LOM,30-39,5,5,10,ITC,ITC4,3,Lombardia
 2026-11-01,Pfizer/BioNTech,LOM,40-49,6,7,13,ITC,ITC4,3,Lombardia
 2026-11-01,Pfizer/BioNTech,LOM,50-59,9,8,17,ITC,ITC4,3,Lombardia
-2026-11-01,Pfizer/BioNTech,LOM,60-69,25,18,43,ITC,ITC4,3,Lombardia
+2026-11-01,Pfizer/BioNTech,LOM,60-69,25,19,44,ITC,ITC4,3,Lombardia
 2026-11-01,Pfizer/BioNTech,LOM,70-79,27,31,58,ITC,ITC4,3,Lombardia
-2026-11-01,Pfizer/BioNTech,LOM,80-89,25,16,41,ITC,ITC4,3,Lombardia
+2026-11-01,Pfizer/BioNTech,LOM,80-89,25,17,42,ITC,ITC4,3,Lombardia
 2026-11-01,Pfizer/BioNTech,LOM,90+,3,5,8,ITC,ITC4,3,Lombardia
 2026-11-01,Pfizer/BioNTech,PIE,30-39,1,1,2,ITC,ITC1,1,Piemonte
 2026-11-01,Pfizer/BioNTech,PIE,40-49,1,0,1,ITC,ITC1,1,Piemonte
@@ -1334,47 +1341,48 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-11-02,Pfizer/BioNTech,ABR,80-89,6,3,9,ITF,ITF1,13,Abruzzo
 2026-11-02,Pfizer/BioNTech,ABR,90+,1,2,3,ITF,ITF1,13,Abruzzo
 2026-11-02,Pfizer/BioNTech,EMR,12-19,2,2,4,ITH,ITH5,8,Emilia-Romagna
-2026-11-02,Pfizer/BioNTech,EMR,20-29,12,20,32,ITH,ITH5,8,Emilia-Romagna
-2026-11-02,Pfizer/BioNTech,EMR,30-39,36,45,81,ITH,ITH5,8,Emilia-Romagna
-2026-11-02,Pfizer/BioNTech,EMR,40-49,49,39,88,ITH,ITH5,8,Emilia-Romagna
-2026-11-02,Pfizer/BioNTech,EMR,50-59,94,95,189,ITH,ITH5,8,Emilia-Romagna
-2026-11-02,Pfizer/BioNTech,EMR,60-69,220,236,456,ITH,ITH5,8,Emilia-Romagna
-2026-11-02,Pfizer/BioNTech,EMR,70-79,327,340,667,ITH,ITH5,8,Emilia-Romagna
-2026-11-02,Pfizer/BioNTech,EMR,80-89,298,298,596,ITH,ITH5,8,Emilia-Romagna
-2026-11-02,Pfizer/BioNTech,EMR,90+,71,128,199,ITH,ITH5,8,Emilia-Romagna
+2026-11-02,Pfizer/BioNTech,EMR,20-29,13,20,33,ITH,ITH5,8,Emilia-Romagna
+2026-11-02,Pfizer/BioNTech,EMR,30-39,37,46,83,ITH,ITH5,8,Emilia-Romagna
+2026-11-02,Pfizer/BioNTech,EMR,40-49,52,43,95,ITH,ITH5,8,Emilia-Romagna
+2026-11-02,Pfizer/BioNTech,EMR,50-59,100,100,200,ITH,ITH5,8,Emilia-Romagna
+2026-11-02,Pfizer/BioNTech,EMR,60-69,234,249,483,ITH,ITH5,8,Emilia-Romagna
+2026-11-02,Pfizer/BioNTech,EMR,70-79,344,359,703,ITH,ITH5,8,Emilia-Romagna
+2026-11-02,Pfizer/BioNTech,EMR,80-89,310,308,618,ITH,ITH5,8,Emilia-Romagna
+2026-11-02,Pfizer/BioNTech,EMR,90+,72,134,206,ITH,ITH5,8,Emilia-Romagna
 2026-11-02,Pfizer/BioNTech,FVG,20-29,1,4,5,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-11-02,Pfizer/BioNTech,FVG,30-39,3,4,7,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-11-02,Pfizer/BioNTech,FVG,40-49,4,5,9,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-11-02,Pfizer/BioNTech,FVG,50-59,9,15,24,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-02,Pfizer/BioNTech,FVG,60-69,23,28,51,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-02,Pfizer/BioNTech,FVG,60-69,24,28,52,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-11-02,Pfizer/BioNTech,FVG,70-79,34,32,66,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-02,Pfizer/BioNTech,FVG,80-89,29,43,72,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-02,Pfizer/BioNTech,FVG,80-89,29,44,73,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-11-02,Pfizer/BioNTech,FVG,90+,5,21,26,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-11-02,Pfizer/BioNTech,LOM,12-19,13,14,27,ITC,ITC4,3,Lombardia
-2026-11-02,Pfizer/BioNTech,LOM,20-29,35,41,76,ITC,ITC4,3,Lombardia
+2026-11-02,Pfizer/BioNTech,LOM,20-29,35,43,78,ITC,ITC4,3,Lombardia
 2026-11-02,Pfizer/BioNTech,LOM,30-39,70,77,147,ITC,ITC4,3,Lombardia
 2026-11-02,Pfizer/BioNTech,LOM,40-49,106,92,198,ITC,ITC4,3,Lombardia
-2026-11-02,Pfizer/BioNTech,LOM,50-59,179,170,349,ITC,ITC4,3,Lombardia
-2026-11-02,Pfizer/BioNTech,LOM,60-69,370,321,691,ITC,ITC4,3,Lombardia
-2026-11-02,Pfizer/BioNTech,LOM,70-79,425,409,834,ITC,ITC4,3,Lombardia
-2026-11-02,Pfizer/BioNTech,LOM,80-89,290,450,740,ITC,ITC4,3,Lombardia
-2026-11-02,Pfizer/BioNTech,LOM,90+,64,204,268,ITC,ITC4,3,Lombardia
+2026-11-02,Pfizer/BioNTech,LOM,50-59,180,175,355,ITC,ITC4,3,Lombardia
+2026-11-02,Pfizer/BioNTech,LOM,60-69,379,327,706,ITC,ITC4,3,Lombardia
+2026-11-02,Pfizer/BioNTech,LOM,70-79,433,419,852,ITC,ITC4,3,Lombardia
+2026-11-02,Pfizer/BioNTech,LOM,80-89,300,463,763,ITC,ITC4,3,Lombardia
+2026-11-02,Pfizer/BioNTech,LOM,90+,71,217,288,ITC,ITC4,3,Lombardia
 2026-11-02,Pfizer/BioNTech,PIE,20-29,2,5,7,ITC,ITC1,1,Piemonte
-2026-11-02,Pfizer/BioNTech,PIE,30-39,19,33,52,ITC,ITC1,1,Piemonte
+2026-11-02,Pfizer/BioNTech,PIE,30-39,20,33,53,ITC,ITC1,1,Piemonte
 2026-11-02,Pfizer/BioNTech,PIE,40-49,17,26,43,ITC,ITC1,1,Piemonte
-2026-11-02,Pfizer/BioNTech,PIE,50-59,26,37,63,ITC,ITC1,1,Piemonte
-2026-11-02,Pfizer/BioNTech,PIE,60-69,70,75,145,ITC,ITC1,1,Piemonte
-2026-11-02,Pfizer/BioNTech,PIE,70-79,91,79,170,ITC,ITC1,1,Piemonte
-2026-11-02,Pfizer/BioNTech,PIE,80-89,79,84,163,ITC,ITC1,1,Piemonte
-2026-11-02,Pfizer/BioNTech,PIE,90+,24,62,86,ITC,ITC1,1,Piemonte
+2026-11-02,Pfizer/BioNTech,PIE,50-59,26,38,64,ITC,ITC1,1,Piemonte
+2026-11-02,Pfizer/BioNTech,PIE,60-69,74,76,150,ITC,ITC1,1,Piemonte
+2026-11-02,Pfizer/BioNTech,PIE,70-79,94,84,178,ITC,ITC1,1,Piemonte
+2026-11-02,Pfizer/BioNTech,PIE,80-89,81,91,172,ITC,ITC1,1,Piemonte
+2026-11-02,Pfizer/BioNTech,PIE,90+,24,65,89,ITC,ITC1,1,Piemonte
+2026-11-02,Pfizer/BioNTech,SIC,50-59,0,1,1,ITG,ITG1,19,Sicilia
 2026-11-02,Pfizer/BioNTech,TOS,20-29,2,4,6,ITI,ITI1,9,Toscana
 2026-11-02,Pfizer/BioNTech,TOS,30-39,12,10,22,ITI,ITI1,9,Toscana
 2026-11-02,Pfizer/BioNTech,TOS,40-49,18,18,36,ITI,ITI1,9,Toscana
 2026-11-02,Pfizer/BioNTech,TOS,50-59,15,17,32,ITI,ITI1,9,Toscana
-2026-11-02,Pfizer/BioNTech,TOS,60-69,70,70,140,ITI,ITI1,9,Toscana
-2026-11-02,Pfizer/BioNTech,TOS,70-79,75,81,156,ITI,ITI1,9,Toscana
-2026-11-02,Pfizer/BioNTech,TOS,80-89,72,94,166,ITI,ITI1,9,Toscana
-2026-11-02,Pfizer/BioNTech,TOS,90+,7,22,29,ITI,ITI1,9,Toscana
+2026-11-02,Pfizer/BioNTech,TOS,60-69,71,72,143,ITI,ITI1,9,Toscana
+2026-11-02,Pfizer/BioNTech,TOS,70-79,75,82,157,ITI,ITI1,9,Toscana
+2026-11-02,Pfizer/BioNTech,TOS,80-89,75,100,175,ITI,ITI1,9,Toscana
+2026-11-02,Pfizer/BioNTech,TOS,90+,8,23,31,ITI,ITI1,9,Toscana
 2026-11-02,Pfizer/BioNTech,UMB,30-39,1,0,1,ITI,ITI2,10,Umbria
 2026-11-02,Pfizer/BioNTech,UMB,40-49,4,0,4,ITI,ITI2,10,Umbria
 2026-11-02,Pfizer/BioNTech,UMB,50-59,2,2,4,ITI,ITI2,10,Umbria
@@ -1386,28 +1394,28 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-11-02,Pfizer/BioNTech,VEN,12-19,1,0,1,ITH,ITH3,5,Veneto
 2026-11-02,Pfizer/BioNTech,VEN,20-29,2,4,6,ITH,ITH3,5,Veneto
 2026-11-02,Pfizer/BioNTech,VEN,30-39,13,17,30,ITH,ITH3,5,Veneto
-2026-11-02,Pfizer/BioNTech,VEN,40-49,11,13,24,ITH,ITH3,5,Veneto
+2026-11-02,Pfizer/BioNTech,VEN,40-49,12,13,25,ITH,ITH3,5,Veneto
 2026-11-02,Pfizer/BioNTech,VEN,50-59,14,19,33,ITH,ITH3,5,Veneto
 2026-11-02,Pfizer/BioNTech,VEN,60-69,32,24,56,ITH,ITH3,5,Veneto
-2026-11-02,Pfizer/BioNTech,VEN,70-79,37,16,53,ITH,ITH3,5,Veneto
-2026-11-02,Pfizer/BioNTech,VEN,80-89,22,23,45,ITH,ITH3,5,Veneto
+2026-11-02,Pfizer/BioNTech,VEN,70-79,37,18,55,ITH,ITH3,5,Veneto
+2026-11-02,Pfizer/BioNTech,VEN,80-89,22,25,47,ITH,ITH3,5,Veneto
 2026-11-02,Pfizer/BioNTech,VEN,90+,7,18,25,ITH,ITH3,5,Veneto
 2026-11-03,Pfizer/BioNTech,ABR,30-39,1,1,2,ITF,ITF1,13,Abruzzo
 2026-11-03,Pfizer/BioNTech,ABR,40-49,3,1,4,ITF,ITF1,13,Abruzzo
-2026-11-03,Pfizer/BioNTech,ABR,50-59,5,3,8,ITF,ITF1,13,Abruzzo
+2026-11-03,Pfizer/BioNTech,ABR,50-59,5,4,9,ITF,ITF1,13,Abruzzo
 2026-11-03,Pfizer/BioNTech,ABR,60-69,11,5,16,ITF,ITF1,13,Abruzzo
-2026-11-03,Pfizer/BioNTech,ABR,70-79,14,8,22,ITF,ITF1,13,Abruzzo
-2026-11-03,Pfizer/BioNTech,ABR,80-89,7,5,12,ITF,ITF1,13,Abruzzo
-2026-11-03,Pfizer/BioNTech,ABR,90+,2,4,6,ITF,ITF1,13,Abruzzo
+2026-11-03,Pfizer/BioNTech,ABR,70-79,15,8,23,ITF,ITF1,13,Abruzzo
+2026-11-03,Pfizer/BioNTech,ABR,80-89,8,8,16,ITF,ITF1,13,Abruzzo
+2026-11-03,Pfizer/BioNTech,ABR,90+,2,5,7,ITF,ITF1,13,Abruzzo
 2026-11-03,Pfizer/BioNTech,EMR,12-19,3,1,4,ITH,ITH5,8,Emilia-Romagna
-2026-11-03,Pfizer/BioNTech,EMR,20-29,15,29,44,ITH,ITH5,8,Emilia-Romagna
-2026-11-03,Pfizer/BioNTech,EMR,30-39,61,71,132,ITH,ITH5,8,Emilia-Romagna
-2026-11-03,Pfizer/BioNTech,EMR,40-49,57,83,140,ITH,ITH5,8,Emilia-Romagna
-2026-11-03,Pfizer/BioNTech,EMR,50-59,127,143,270,ITH,ITH5,8,Emilia-Romagna
-2026-11-03,Pfizer/BioNTech,EMR,60-69,408,374,782,ITH,ITH5,8,Emilia-Romagna
-2026-11-03,Pfizer/BioNTech,EMR,70-79,684,651,1335,ITH,ITH5,8,Emilia-Romagna
-2026-11-03,Pfizer/BioNTech,EMR,80-89,520,614,1134,ITH,ITH5,8,Emilia-Romagna
-2026-11-03,Pfizer/BioNTech,EMR,90+,140,258,398,ITH,ITH5,8,Emilia-Romagna
+2026-11-03,Pfizer/BioNTech,EMR,20-29,20,44,64,ITH,ITH5,8,Emilia-Romagna
+2026-11-03,Pfizer/BioNTech,EMR,30-39,65,80,145,ITH,ITH5,8,Emilia-Romagna
+2026-11-03,Pfizer/BioNTech,EMR,40-49,63,93,156,ITH,ITH5,8,Emilia-Romagna
+2026-11-03,Pfizer/BioNTech,EMR,50-59,139,150,289,ITH,ITH5,8,Emilia-Romagna
+2026-11-03,Pfizer/BioNTech,EMR,60-69,421,390,811,ITH,ITH5,8,Emilia-Romagna
+2026-11-03,Pfizer/BioNTech,EMR,70-79,711,679,1390,ITH,ITH5,8,Emilia-Romagna
+2026-11-03,Pfizer/BioNTech,EMR,80-89,534,639,1173,ITH,ITH5,8,Emilia-Romagna
+2026-11-03,Pfizer/BioNTech,EMR,90+,151,268,419,ITH,ITH5,8,Emilia-Romagna
 2026-11-03,Pfizer/BioNTech,FVG,12-19,1,3,4,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-11-03,Pfizer/BioNTech,FVG,20-29,3,1,4,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-11-03,Pfizer/BioNTech,FVG,30-39,6,8,14,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -1418,175 +1426,661 @@ data,forn,area,eta,m,f,d,N1,N2,ISTAT,reg
 2026-11-03,Pfizer/BioNTech,FVG,80-89,32,39,71,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-11-03,Pfizer/BioNTech,FVG,90+,8,16,24,ITH,ITH4,6,Friuli-Venezia Giulia
 2026-11-03,Pfizer/BioNTech,LOM,12-19,10,7,17,ITC,ITC4,3,Lombardia
-2026-11-03,Pfizer/BioNTech,LOM,20-29,37,67,104,ITC,ITC4,3,Lombardia
-2026-11-03,Pfizer/BioNTech,LOM,30-39,112,112,224,ITC,ITC4,3,Lombardia
-2026-11-03,Pfizer/BioNTech,LOM,40-49,124,134,258,ITC,ITC4,3,Lombardia
-2026-11-03,Pfizer/BioNTech,LOM,50-59,236,238,474,ITC,ITC4,3,Lombardia
-2026-11-03,Pfizer/BioNTech,LOM,60-69,430,441,871,ITC,ITC4,3,Lombardia
-2026-11-03,Pfizer/BioNTech,LOM,70-79,646,655,1301,ITC,ITC4,3,Lombardia
-2026-11-03,Pfizer/BioNTech,LOM,80-89,514,752,1266,ITC,ITC4,3,Lombardia
-2026-11-03,Pfizer/BioNTech,LOM,90+,124,445,569,ITC,ITC4,3,Lombardia
+2026-11-03,Pfizer/BioNTech,LOM,20-29,38,69,107,ITC,ITC4,3,Lombardia
+2026-11-03,Pfizer/BioNTech,LOM,30-39,112,113,225,ITC,ITC4,3,Lombardia
+2026-11-03,Pfizer/BioNTech,LOM,40-49,125,135,260,ITC,ITC4,3,Lombardia
+2026-11-03,Pfizer/BioNTech,LOM,50-59,239,242,481,ITC,ITC4,3,Lombardia
+2026-11-03,Pfizer/BioNTech,LOM,60-69,441,453,894,ITC,ITC4,3,Lombardia
+2026-11-03,Pfizer/BioNTech,LOM,70-79,664,676,1340,ITC,ITC4,3,Lombardia
+2026-11-03,Pfizer/BioNTech,LOM,80-89,528,796,1324,ITC,ITC4,3,Lombardia
+2026-11-03,Pfizer/BioNTech,LOM,90+,135,488,623,ITC,ITC4,3,Lombardia
 2026-11-03,Pfizer/BioNTech,PIE,12-19,1,2,3,ITC,ITC1,1,Piemonte
 2026-11-03,Pfizer/BioNTech,PIE,20-29,8,8,16,ITC,ITC1,1,Piemonte
-2026-11-03,Pfizer/BioNTech,PIE,30-39,21,17,38,ITC,ITC1,1,Piemonte
-2026-11-03,Pfizer/BioNTech,PIE,40-49,23,25,48,ITC,ITC1,1,Piemonte
-2026-11-03,Pfizer/BioNTech,PIE,50-59,35,41,76,ITC,ITC1,1,Piemonte
-2026-11-03,Pfizer/BioNTech,PIE,60-69,132,116,248,ITC,ITC1,1,Piemonte
-2026-11-03,Pfizer/BioNTech,PIE,70-79,194,144,338,ITC,ITC1,1,Piemonte
-2026-11-03,Pfizer/BioNTech,PIE,80-89,107,154,261,ITC,ITC1,1,Piemonte
-2026-11-03,Pfizer/BioNTech,PIE,90+,40,88,128,ITC,ITC1,1,Piemonte
-2026-11-03,Pfizer/BioNTech,SIC,50-59,1,0,1,ITG,ITG1,19,Sicilia
-2026-11-03,Pfizer/BioNTech,SIC,70-79,0,1,1,ITG,ITG1,19,Sicilia
+2026-11-03,Pfizer/BioNTech,PIE,30-39,22,19,41,ITC,ITC1,1,Piemonte
+2026-11-03,Pfizer/BioNTech,PIE,40-49,23,26,49,ITC,ITC1,1,Piemonte
+2026-11-03,Pfizer/BioNTech,PIE,50-59,37,44,81,ITC,ITC1,1,Piemonte
+2026-11-03,Pfizer/BioNTech,PIE,60-69,135,121,256,ITC,ITC1,1,Piemonte
+2026-11-03,Pfizer/BioNTech,PIE,70-79,202,149,351,ITC,ITC1,1,Piemonte
+2026-11-03,Pfizer/BioNTech,PIE,80-89,112,157,269,ITC,ITC1,1,Piemonte
+2026-11-03,Pfizer/BioNTech,PIE,90+,42,89,131,ITC,ITC1,1,Piemonte
+2026-11-03,Pfizer/BioNTech,SIC,50-59,2,0,2,ITG,ITG1,19,Sicilia
+2026-11-03,Pfizer/BioNTech,SIC,60-69,2,0,2,ITG,ITG1,19,Sicilia
+2026-11-03,Pfizer/BioNTech,SIC,70-79,3,3,6,ITG,ITG1,19,Sicilia
 2026-11-03,Pfizer/BioNTech,SIC,80-89,1,0,1,ITG,ITG1,19,Sicilia
 2026-11-03,Pfizer/BioNTech,TOS,12-19,2,0,2,ITI,ITI1,9,Toscana
 2026-11-03,Pfizer/BioNTech,TOS,20-29,3,6,9,ITI,ITI1,9,Toscana
-2026-11-03,Pfizer/BioNTech,TOS,30-39,7,16,23,ITI,ITI1,9,Toscana
-2026-11-03,Pfizer/BioNTech,TOS,40-49,14,9,23,ITI,ITI1,9,Toscana
+2026-11-03,Pfizer/BioNTech,TOS,30-39,8,17,25,ITI,ITI1,9,Toscana
+2026-11-03,Pfizer/BioNTech,TOS,40-49,15,9,24,ITI,ITI1,9,Toscana
 2026-11-03,Pfizer/BioNTech,TOS,50-59,9,32,41,ITI,ITI1,9,Toscana
 2026-11-03,Pfizer/BioNTech,TOS,60-69,71,63,134,ITI,ITI1,9,Toscana
-2026-11-03,Pfizer/BioNTech,TOS,70-79,77,92,169,ITI,ITI1,9,Toscana
-2026-11-03,Pfizer/BioNTech,TOS,80-89,71,98,169,ITI,ITI1,9,Toscana
-2026-11-03,Pfizer/BioNTech,TOS,90+,11,14,25,ITI,ITI1,9,Toscana
+2026-11-03,Pfizer/BioNTech,TOS,70-79,82,98,180,ITI,ITI1,9,Toscana
+2026-11-03,Pfizer/BioNTech,TOS,80-89,72,103,175,ITI,ITI1,9,Toscana
+2026-11-03,Pfizer/BioNTech,TOS,90+,11,17,28,ITI,ITI1,9,Toscana
 2026-11-03,Pfizer/BioNTech,UMB,12-19,0,1,1,ITI,ITI2,10,Umbria
 2026-11-03,Pfizer/BioNTech,UMB,20-29,0,2,2,ITI,ITI2,10,Umbria
 2026-11-03,Pfizer/BioNTech,UMB,30-39,2,1,3,ITI,ITI2,10,Umbria
-2026-11-03,Pfizer/BioNTech,UMB,40-49,0,3,3,ITI,ITI2,10,Umbria
+2026-11-03,Pfizer/BioNTech,UMB,40-49,1,3,4,ITI,ITI2,10,Umbria
 2026-11-03,Pfizer/BioNTech,UMB,50-59,3,3,6,ITI,ITI2,10,Umbria
-2026-11-03,Pfizer/BioNTech,UMB,60-69,6,6,12,ITI,ITI2,10,Umbria
-2026-11-03,Pfizer/BioNTech,UMB,70-79,16,18,34,ITI,ITI2,10,Umbria
-2026-11-03,Pfizer/BioNTech,UMB,80-89,10,12,22,ITI,ITI2,10,Umbria
-2026-11-03,Pfizer/BioNTech,UMB,90+,2,8,10,ITI,ITI2,10,Umbria
-2026-11-03,Pfizer/BioNTech,VDA,80-89,1,2,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2026-11-03,Pfizer/BioNTech,VDA,90+,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-11-03,Pfizer/BioNTech,UMB,60-69,8,6,14,ITI,ITI2,10,Umbria
+2026-11-03,Pfizer/BioNTech,UMB,70-79,17,19,36,ITI,ITI2,10,Umbria
+2026-11-03,Pfizer/BioNTech,UMB,80-89,12,13,25,ITI,ITI2,10,Umbria
+2026-11-03,Pfizer/BioNTech,UMB,90+,2,10,12,ITI,ITI2,10,Umbria
+2026-11-03,Pfizer/BioNTech,VDA,70-79,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-11-03,Pfizer/BioNTech,VDA,80-89,3,3,6,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-11-03,Pfizer/BioNTech,VDA,90+,2,1,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-11-03,Pfizer/BioNTech,VEN,12-19,4,1,5,ITH,ITH3,5,Veneto
-2026-11-03,Pfizer/BioNTech,VEN,20-29,2,7,9,ITH,ITH3,5,Veneto
-2026-11-03,Pfizer/BioNTech,VEN,30-39,16,21,37,ITH,ITH3,5,Veneto
-2026-11-03,Pfizer/BioNTech,VEN,40-49,12,17,29,ITH,ITH3,5,Veneto
-2026-11-03,Pfizer/BioNTech,VEN,50-59,11,12,23,ITH,ITH3,5,Veneto
-2026-11-03,Pfizer/BioNTech,VEN,60-69,18,22,40,ITH,ITH3,5,Veneto
+2026-11-03,Pfizer/BioNTech,VEN,20-29,3,7,10,ITH,ITH3,5,Veneto
+2026-11-03,Pfizer/BioNTech,VEN,30-39,22,22,44,ITH,ITH3,5,Veneto
+2026-11-03,Pfizer/BioNTech,VEN,40-49,13,18,31,ITH,ITH3,5,Veneto
+2026-11-03,Pfizer/BioNTech,VEN,50-59,13,14,27,ITH,ITH3,5,Veneto
+2026-11-03,Pfizer/BioNTech,VEN,60-69,20,26,46,ITH,ITH3,5,Veneto
 2026-11-03,Pfizer/BioNTech,VEN,70-79,13,17,30,ITH,ITH3,5,Veneto
-2026-11-03,Pfizer/BioNTech,VEN,80-89,14,17,31,ITH,ITH3,5,Veneto
-2026-11-03,Pfizer/BioNTech,VEN,90+,6,7,13,ITH,ITH3,5,Veneto
+2026-11-03,Pfizer/BioNTech,VEN,80-89,16,18,34,ITH,ITH3,5,Veneto
+2026-11-03,Pfizer/BioNTech,VEN,90+,7,9,16,ITH,ITH3,5,Veneto
 2026-11-04,Pfizer Pediatrico,EMR,05-11,3,2,5,ITH,ITH5,8,Emilia-Romagna
 2026-11-04,Pfizer Pediatrico,VEN,05-11,1,0,1,ITH,ITH3,5,Veneto
 2026-11-04,Pfizer/BioNTech,ABR,20-29,1,2,3,ITF,ITF1,13,Abruzzo
-2026-11-04,Pfizer/BioNTech,ABR,30-39,1,4,5,ITF,ITF1,13,Abruzzo
+2026-11-04,Pfizer/BioNTech,ABR,30-39,2,4,6,ITF,ITF1,13,Abruzzo
 2026-11-04,Pfizer/BioNTech,ABR,40-49,5,3,8,ITF,ITF1,13,Abruzzo
 2026-11-04,Pfizer/BioNTech,ABR,50-59,3,9,12,ITF,ITF1,13,Abruzzo
 2026-11-04,Pfizer/BioNTech,ABR,60-69,20,25,45,ITF,ITF1,13,Abruzzo
-2026-11-04,Pfizer/BioNTech,ABR,70-79,28,18,46,ITF,ITF1,13,Abruzzo
-2026-11-04,Pfizer/BioNTech,ABR,80-89,11,7,18,ITF,ITF1,13,Abruzzo
+2026-11-04,Pfizer/BioNTech,ABR,70-79,28,19,47,ITF,ITF1,13,Abruzzo
+2026-11-04,Pfizer/BioNTech,ABR,80-89,12,7,19,ITF,ITF1,13,Abruzzo
 2026-11-04,Pfizer/BioNTech,ABR,90+,2,4,6,ITF,ITF1,13,Abruzzo
 2026-11-04,Pfizer/BioNTech,EMR,12-19,2,3,5,ITH,ITH5,8,Emilia-Romagna
-2026-11-04,Pfizer/BioNTech,EMR,20-29,20,29,49,ITH,ITH5,8,Emilia-Romagna
-2026-11-04,Pfizer/BioNTech,EMR,30-39,54,69,123,ITH,ITH5,8,Emilia-Romagna
-2026-11-04,Pfizer/BioNTech,EMR,40-49,57,74,131,ITH,ITH5,8,Emilia-Romagna
-2026-11-04,Pfizer/BioNTech,EMR,50-59,126,164,290,ITH,ITH5,8,Emilia-Romagna
-2026-11-04,Pfizer/BioNTech,EMR,60-69,423,427,850,ITH,ITH5,8,Emilia-Romagna
-2026-11-04,Pfizer/BioNTech,EMR,70-79,689,624,1313,ITH,ITH5,8,Emilia-Romagna
-2026-11-04,Pfizer/BioNTech,EMR,80-89,571,638,1209,ITH,ITH5,8,Emilia-Romagna
-2026-11-04,Pfizer/BioNTech,EMR,90+,132,249,381,ITH,ITH5,8,Emilia-Romagna
-2026-11-04,Pfizer/BioNTech,FVG,20-29,3,6,9,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-04,Pfizer/BioNTech,FVG,30-39,3,4,7,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-04,Pfizer/BioNTech,FVG,40-49,6,5,11,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-04,Pfizer/BioNTech,FVG,50-59,15,18,33,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-04,Pfizer/BioNTech,FVG,60-69,28,38,66,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-04,Pfizer/BioNTech,FVG,70-79,51,53,104,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-04,Pfizer/BioNTech,FVG,80-89,32,43,75,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-04,Pfizer/BioNTech,FVG,90+,5,23,28,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-04,Pfizer/BioNTech,LOM,12-19,6,8,14,ITC,ITC4,3,Lombardia
-2026-11-04,Pfizer/BioNTech,LOM,20-29,37,47,84,ITC,ITC4,3,Lombardia
-2026-11-04,Pfizer/BioNTech,LOM,30-39,86,111,197,ITC,ITC4,3,Lombardia
-2026-11-04,Pfizer/BioNTech,LOM,40-49,142,131,273,ITC,ITC4,3,Lombardia
-2026-11-04,Pfizer/BioNTech,LOM,50-59,195,213,408,ITC,ITC4,3,Lombardia
-2026-11-04,Pfizer/BioNTech,LOM,60-69,414,385,799,ITC,ITC4,3,Lombardia
-2026-11-04,Pfizer/BioNTech,LOM,70-79,542,499,1041,ITC,ITC4,3,Lombardia
-2026-11-04,Pfizer/BioNTech,LOM,80-89,414,550,964,ITC,ITC4,3,Lombardia
-2026-11-04,Pfizer/BioNTech,LOM,90+,112,260,372,ITC,ITC4,3,Lombardia
+2026-11-04,Pfizer/BioNTech,EMR,20-29,20,31,51,ITH,ITH5,8,Emilia-Romagna
+2026-11-04,Pfizer/BioNTech,EMR,30-39,58,77,135,ITH,ITH5,8,Emilia-Romagna
+2026-11-04,Pfizer/BioNTech,EMR,40-49,57,77,134,ITH,ITH5,8,Emilia-Romagna
+2026-11-04,Pfizer/BioNTech,EMR,50-59,139,174,313,ITH,ITH5,8,Emilia-Romagna
+2026-11-04,Pfizer/BioNTech,EMR,60-69,449,456,905,ITH,ITH5,8,Emilia-Romagna
+2026-11-04,Pfizer/BioNTech,EMR,70-79,736,678,1414,ITH,ITH5,8,Emilia-Romagna
+2026-11-04,Pfizer/BioNTech,EMR,80-89,622,701,1323,ITH,ITH5,8,Emilia-Romagna
+2026-11-04,Pfizer/BioNTech,EMR,90+,147,293,440,ITH,ITH5,8,Emilia-Romagna
+2026-11-04,Pfizer/BioNTech,FVG,20-29,4,14,18,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-04,Pfizer/BioNTech,FVG,30-39,4,8,12,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-04,Pfizer/BioNTech,FVG,40-49,7,6,13,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-04,Pfizer/BioNTech,FVG,50-59,17,19,36,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-04,Pfizer/BioNTech,FVG,60-69,34,45,79,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-04,Pfizer/BioNTech,FVG,70-79,63,68,131,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-04,Pfizer/BioNTech,FVG,80-89,60,84,144,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-04,Pfizer/BioNTech,FVG,90+,16,78,94,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-04,Pfizer/BioNTech,LOM,12-19,6,9,15,ITC,ITC4,3,Lombardia
+2026-11-04,Pfizer/BioNTech,LOM,20-29,38,51,89,ITC,ITC4,3,Lombardia
+2026-11-04,Pfizer/BioNTech,LOM,30-39,88,116,204,ITC,ITC4,3,Lombardia
+2026-11-04,Pfizer/BioNTech,LOM,40-49,146,141,287,ITC,ITC4,3,Lombardia
+2026-11-04,Pfizer/BioNTech,LOM,50-59,204,223,427,ITC,ITC4,3,Lombardia
+2026-11-04,Pfizer/BioNTech,LOM,60-69,435,408,843,ITC,ITC4,3,Lombardia
+2026-11-04,Pfizer/BioNTech,LOM,70-79,570,540,1110,ITC,ITC4,3,Lombardia
+2026-11-04,Pfizer/BioNTech,LOM,80-89,460,619,1079,ITC,ITC4,3,Lombardia
+2026-11-04,Pfizer/BioNTech,LOM,90+,129,319,448,ITC,ITC4,3,Lombardia
 2026-11-04,Pfizer/BioNTech,PIE,20-29,6,9,15,ITC,ITC1,1,Piemonte
 2026-11-04,Pfizer/BioNTech,PIE,30-39,11,34,45,ITC,ITC1,1,Piemonte
-2026-11-04,Pfizer/BioNTech,PIE,40-49,25,21,46,ITC,ITC1,1,Piemonte
-2026-11-04,Pfizer/BioNTech,PIE,50-59,37,56,93,ITC,ITC1,1,Piemonte
-2026-11-04,Pfizer/BioNTech,PIE,60-69,99,91,190,ITC,ITC1,1,Piemonte
-2026-11-04,Pfizer/BioNTech,PIE,70-79,135,150,285,ITC,ITC1,1,Piemonte
-2026-11-04,Pfizer/BioNTech,PIE,80-89,101,111,212,ITC,ITC1,1,Piemonte
-2026-11-04,Pfizer/BioNTech,PIE,90+,21,35,56,ITC,ITC1,1,Piemonte
+2026-11-04,Pfizer/BioNTech,PIE,40-49,27,23,50,ITC,ITC1,1,Piemonte
+2026-11-04,Pfizer/BioNTech,PIE,50-59,36,58,94,ITC,ITC1,1,Piemonte
+2026-11-04,Pfizer/BioNTech,PIE,60-69,101,97,198,ITC,ITC1,1,Piemonte
+2026-11-04,Pfizer/BioNTech,PIE,70-79,141,156,297,ITC,ITC1,1,Piemonte
+2026-11-04,Pfizer/BioNTech,PIE,80-89,109,128,237,ITC,ITC1,1,Piemonte
+2026-11-04,Pfizer/BioNTech,PIE,90+,27,55,82,ITC,ITC1,1,Piemonte
+2026-11-04,Pfizer/BioNTech,SIC,60-69,1,0,1,ITG,ITG1,19,Sicilia
+2026-11-04,Pfizer/BioNTech,SIC,70-79,0,1,1,ITG,ITG1,19,Sicilia
 2026-11-04,Pfizer/BioNTech,TOS,12-19,0,1,1,ITI,ITI1,9,Toscana
-2026-11-04,Pfizer/BioNTech,TOS,20-29,10,2,12,ITI,ITI1,9,Toscana
+2026-11-04,Pfizer/BioNTech,TOS,20-29,10,3,13,ITI,ITI1,9,Toscana
 2026-11-04,Pfizer/BioNTech,TOS,30-39,8,14,22,ITI,ITI1,9,Toscana
 2026-11-04,Pfizer/BioNTech,TOS,40-49,19,15,34,ITI,ITI1,9,Toscana
-2026-11-04,Pfizer/BioNTech,TOS,50-59,18,24,42,ITI,ITI1,9,Toscana
-2026-11-04,Pfizer/BioNTech,TOS,60-69,90,83,173,ITI,ITI1,9,Toscana
-2026-11-04,Pfizer/BioNTech,TOS,70-79,96,105,201,ITI,ITI1,9,Toscana
-2026-11-04,Pfizer/BioNTech,TOS,80-89,92,120,212,ITI,ITI1,9,Toscana
-2026-11-04,Pfizer/BioNTech,TOS,90+,12,29,41,ITI,ITI1,9,Toscana
+2026-11-04,Pfizer/BioNTech,TOS,50-59,19,25,44,ITI,ITI1,9,Toscana
+2026-11-04,Pfizer/BioNTech,TOS,60-69,93,88,181,ITI,ITI1,9,Toscana
+2026-11-04,Pfizer/BioNTech,TOS,70-79,101,111,212,ITI,ITI1,9,Toscana
+2026-11-04,Pfizer/BioNTech,TOS,80-89,98,123,221,ITI,ITI1,9,Toscana
+2026-11-04,Pfizer/BioNTech,TOS,90+,13,32,45,ITI,ITI1,9,Toscana
 2026-11-04,Pfizer/BioNTech,UMB,12-19,1,0,1,ITI,ITI2,10,Umbria
 2026-11-04,Pfizer/BioNTech,UMB,30-39,0,2,2,ITI,ITI2,10,Umbria
-2026-11-04,Pfizer/BioNTech,UMB,40-49,5,3,8,ITI,ITI2,10,Umbria
-2026-11-04,Pfizer/BioNTech,UMB,50-59,5,6,11,ITI,ITI2,10,Umbria
-2026-11-04,Pfizer/BioNTech,UMB,60-69,17,19,36,ITI,ITI2,10,Umbria
-2026-11-04,Pfizer/BioNTech,UMB,70-79,31,28,59,ITI,ITI2,10,Umbria
-2026-11-04,Pfizer/BioNTech,UMB,80-89,27,24,51,ITI,ITI2,10,Umbria
-2026-11-04,Pfizer/BioNTech,UMB,90+,6,9,15,ITI,ITI2,10,Umbria
+2026-11-04,Pfizer/BioNTech,UMB,40-49,6,3,9,ITI,ITI2,10,Umbria
+2026-11-04,Pfizer/BioNTech,UMB,50-59,6,6,12,ITI,ITI2,10,Umbria
+2026-11-04,Pfizer/BioNTech,UMB,60-69,21,20,41,ITI,ITI2,10,Umbria
+2026-11-04,Pfizer/BioNTech,UMB,70-79,34,32,66,ITI,ITI2,10,Umbria
+2026-11-04,Pfizer/BioNTech,UMB,80-89,28,29,57,ITI,ITI2,10,Umbria
+2026-11-04,Pfizer/BioNTech,UMB,90+,7,11,18,ITI,ITI2,10,Umbria
+2026-11-04,Pfizer/BioNTech,VDA,60-69,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-11-04,Pfizer/BioNTech,VDA,70-79,1,0,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-11-04,Pfizer/BioNTech,VDA,80-89,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-11-04,Pfizer/BioNTech,VDA,90+,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
 2026-11-04,Pfizer/BioNTech,VEN,12-19,3,0,3,ITH,ITH3,5,Veneto
-2026-11-04,Pfizer/BioNTech,VEN,20-29,10,15,25,ITH,ITH3,5,Veneto
-2026-11-04,Pfizer/BioNTech,VEN,30-39,19,22,41,ITH,ITH3,5,Veneto
-2026-11-04,Pfizer/BioNTech,VEN,40-49,16,20,36,ITH,ITH3,5,Veneto
-2026-11-04,Pfizer/BioNTech,VEN,50-59,19,14,33,ITH,ITH3,5,Veneto
-2026-11-04,Pfizer/BioNTech,VEN,60-69,35,23,58,ITH,ITH3,5,Veneto
-2026-11-04,Pfizer/BioNTech,VEN,70-79,18,14,32,ITH,ITH3,5,Veneto
-2026-11-04,Pfizer/BioNTech,VEN,80-89,8,15,23,ITH,ITH3,5,Veneto
-2026-11-04,Pfizer/BioNTech,VEN,90+,3,4,7,ITH,ITH3,5,Veneto
+2026-11-04,Pfizer/BioNTech,VEN,20-29,11,16,27,ITH,ITH3,5,Veneto
+2026-11-04,Pfizer/BioNTech,VEN,30-39,22,24,46,ITH,ITH3,5,Veneto
+2026-11-04,Pfizer/BioNTech,VEN,40-49,16,21,37,ITH,ITH3,5,Veneto
+2026-11-04,Pfizer/BioNTech,VEN,50-59,19,15,34,ITH,ITH3,5,Veneto
+2026-11-04,Pfizer/BioNTech,VEN,60-69,43,26,69,ITH,ITH3,5,Veneto
+2026-11-04,Pfizer/BioNTech,VEN,70-79,23,21,44,ITH,ITH3,5,Veneto
+2026-11-04,Pfizer/BioNTech,VEN,80-89,23,20,43,ITH,ITH3,5,Veneto
+2026-11-04,Pfizer/BioNTech,VEN,90+,12,6,18,ITH,ITH3,5,Veneto
 2026-11-05,Pfizer Pediatrico,VEN,05-11,3,0,3,ITH,ITH3,5,Veneto
-2026-11-05,Pfizer/BioNTech,EMR,12-19,3,0,3,ITH,ITH5,8,Emilia-Romagna
-2026-11-05,Pfizer/BioNTech,EMR,20-29,11,13,24,ITH,ITH5,8,Emilia-Romagna
-2026-11-05,Pfizer/BioNTech,EMR,30-39,28,32,60,ITH,ITH5,8,Emilia-Romagna
-2026-11-05,Pfizer/BioNTech,EMR,40-49,49,45,94,ITH,ITH5,8,Emilia-Romagna
-2026-11-05,Pfizer/BioNTech,EMR,50-59,99,118,217,ITH,ITH5,8,Emilia-Romagna
-2026-11-05,Pfizer/BioNTech,EMR,60-69,300,268,568,ITH,ITH5,8,Emilia-Romagna
-2026-11-05,Pfizer/BioNTech,EMR,70-79,545,497,1042,ITH,ITH5,8,Emilia-Romagna
-2026-11-05,Pfizer/BioNTech,EMR,80-89,388,409,797,ITH,ITH5,8,Emilia-Romagna
-2026-11-05,Pfizer/BioNTech,EMR,90+,84,179,263,ITH,ITH5,8,Emilia-Romagna
+2026-11-05,Pfizer/BioNTech,ABR,20-29,1,0,1,ITF,ITF1,13,Abruzzo
+2026-11-05,Pfizer/BioNTech,ABR,30-39,4,3,7,ITF,ITF1,13,Abruzzo
+2026-11-05,Pfizer/BioNTech,ABR,40-49,4,2,6,ITF,ITF1,13,Abruzzo
+2026-11-05,Pfizer/BioNTech,ABR,50-59,12,7,19,ITF,ITF1,13,Abruzzo
+2026-11-05,Pfizer/BioNTech,ABR,60-69,11,7,18,ITF,ITF1,13,Abruzzo
+2026-11-05,Pfizer/BioNTech,ABR,70-79,20,13,33,ITF,ITF1,13,Abruzzo
+2026-11-05,Pfizer/BioNTech,ABR,80-89,6,1,7,ITF,ITF1,13,Abruzzo
+2026-11-05,Pfizer/BioNTech,ABR,90+,0,2,2,ITF,ITF1,13,Abruzzo
+2026-11-05,Pfizer/BioNTech,EMR,12-19,4,2,6,ITH,ITH5,8,Emilia-Romagna
+2026-11-05,Pfizer/BioNTech,EMR,20-29,23,41,64,ITH,ITH5,8,Emilia-Romagna
+2026-11-05,Pfizer/BioNTech,EMR,30-39,63,65,128,ITH,ITH5,8,Emilia-Romagna
+2026-11-05,Pfizer/BioNTech,EMR,40-49,94,93,187,ITH,ITH5,8,Emilia-Romagna
+2026-11-05,Pfizer/BioNTech,EMR,50-59,182,200,382,ITH,ITH5,8,Emilia-Romagna
+2026-11-05,Pfizer/BioNTech,EMR,60-69,450,432,882,ITH,ITH5,8,Emilia-Romagna
+2026-11-05,Pfizer/BioNTech,EMR,70-79,774,723,1497,ITH,ITH5,8,Emilia-Romagna
+2026-11-05,Pfizer/BioNTech,EMR,80-89,578,637,1215,ITH,ITH5,8,Emilia-Romagna
+2026-11-05,Pfizer/BioNTech,EMR,90+,133,290,423,ITH,ITH5,8,Emilia-Romagna
 2026-11-05,Pfizer/BioNTech,FVG,12-19,1,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-05,Pfizer/BioNTech,FVG,20-29,3,3,6,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-05,Pfizer/BioNTech,FVG,30-39,6,3,9,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-05,Pfizer/BioNTech,FVG,40-49,11,10,21,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-05,Pfizer/BioNTech,FVG,50-59,19,21,40,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-05,Pfizer/BioNTech,FVG,60-69,45,46,91,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-05,Pfizer/BioNTech,FVG,70-79,65,69,134,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-05,Pfizer/BioNTech,FVG,80-89,37,35,72,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-05,Pfizer/BioNTech,FVG,90+,9,23,32,ITH,ITH4,6,Friuli-Venezia Giulia
-2026-11-05,Pfizer/BioNTech,PIE,20-29,7,8,15,ITC,ITC1,1,Piemonte
-2026-11-05,Pfizer/BioNTech,PIE,30-39,24,22,46,ITC,ITC1,1,Piemonte
-2026-11-05,Pfizer/BioNTech,PIE,40-49,24,38,62,ITC,ITC1,1,Piemonte
-2026-11-05,Pfizer/BioNTech,PIE,50-59,59,52,111,ITC,ITC1,1,Piemonte
-2026-11-05,Pfizer/BioNTech,PIE,60-69,136,179,315,ITC,ITC1,1,Piemonte
-2026-11-05,Pfizer/BioNTech,PIE,70-79,297,224,521,ITC,ITC1,1,Piemonte
-2026-11-05,Pfizer/BioNTech,PIE,80-89,197,206,403,ITC,ITC1,1,Piemonte
-2026-11-05,Pfizer/BioNTech,PIE,90+,33,97,130,ITC,ITC1,1,Piemonte
+2026-11-05,Pfizer/BioNTech,FVG,20-29,6,6,12,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-05,Pfizer/BioNTech,FVG,30-39,8,11,19,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-05,Pfizer/BioNTech,FVG,40-49,12,14,26,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-05,Pfizer/BioNTech,FVG,50-59,22,25,47,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-05,Pfizer/BioNTech,FVG,60-69,49,54,103,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-05,Pfizer/BioNTech,FVG,70-79,77,78,155,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-05,Pfizer/BioNTech,FVG,80-89,41,42,83,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-05,Pfizer/BioNTech,FVG,90+,12,26,38,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-05,Pfizer/BioNTech,LOM,12-19,21,14,35,ITC,ITC4,3,Lombardia
+2026-11-05,Pfizer/BioNTech,LOM,20-29,39,58,97,ITC,ITC4,3,Lombardia
+2026-11-05,Pfizer/BioNTech,LOM,30-39,79,109,188,ITC,ITC4,3,Lombardia
+2026-11-05,Pfizer/BioNTech,LOM,40-49,103,122,225,ITC,ITC4,3,Lombardia
+2026-11-05,Pfizer/BioNTech,LOM,50-59,182,222,404,ITC,ITC4,3,Lombardia
+2026-11-05,Pfizer/BioNTech,LOM,60-69,445,465,910,ITC,ITC4,3,Lombardia
+2026-11-05,Pfizer/BioNTech,LOM,70-79,558,591,1149,ITC,ITC4,3,Lombardia
+2026-11-05,Pfizer/BioNTech,LOM,80-89,436,636,1072,ITC,ITC4,3,Lombardia
+2026-11-05,Pfizer/BioNTech,LOM,90+,123,333,456,ITC,ITC4,3,Lombardia
+2026-11-05,Pfizer/BioNTech,PIE,20-29,8,8,16,ITC,ITC1,1,Piemonte
+2026-11-05,Pfizer/BioNTech,PIE,30-39,29,26,55,ITC,ITC1,1,Piemonte
+2026-11-05,Pfizer/BioNTech,PIE,40-49,27,41,68,ITC,ITC1,1,Piemonte
+2026-11-05,Pfizer/BioNTech,PIE,50-59,67,58,125,ITC,ITC1,1,Piemonte
+2026-11-05,Pfizer/BioNTech,PIE,60-69,150,201,351,ITC,ITC1,1,Piemonte
+2026-11-05,Pfizer/BioNTech,PIE,70-79,321,250,571,ITC,ITC1,1,Piemonte
+2026-11-05,Pfizer/BioNTech,PIE,80-89,226,256,482,ITC,ITC1,1,Piemonte
+2026-11-05,Pfizer/BioNTech,PIE,90+,41,161,202,ITC,ITC1,1,Piemonte
+2026-11-05,Pfizer/BioNTech,SIC,20-29,1,0,1,ITG,ITG1,19,Sicilia
 2026-11-05,Pfizer/BioNTech,TOS,12-19,0,1,1,ITI,ITI1,9,Toscana
 2026-11-05,Pfizer/BioNTech,TOS,20-29,4,3,7,ITI,ITI1,9,Toscana
-2026-11-05,Pfizer/BioNTech,TOS,30-39,17,15,32,ITI,ITI1,9,Toscana
-2026-11-05,Pfizer/BioNTech,TOS,40-49,13,10,23,ITI,ITI1,9,Toscana
-2026-11-05,Pfizer/BioNTech,TOS,50-59,20,29,49,ITI,ITI1,9,Toscana
-2026-11-05,Pfizer/BioNTech,TOS,60-69,91,101,192,ITI,ITI1,9,Toscana
-2026-11-05,Pfizer/BioNTech,TOS,70-79,119,142,261,ITI,ITI1,9,Toscana
-2026-11-05,Pfizer/BioNTech,TOS,80-89,89,125,214,ITI,ITI1,9,Toscana
-2026-11-05,Pfizer/BioNTech,TOS,90+,13,24,37,ITI,ITI1,9,Toscana
+2026-11-05,Pfizer/BioNTech,TOS,30-39,19,16,35,ITI,ITI1,9,Toscana
+2026-11-05,Pfizer/BioNTech,TOS,40-49,14,11,25,ITI,ITI1,9,Toscana
+2026-11-05,Pfizer/BioNTech,TOS,50-59,26,29,55,ITI,ITI1,9,Toscana
+2026-11-05,Pfizer/BioNTech,TOS,60-69,102,114,216,ITI,ITI1,9,Toscana
+2026-11-05,Pfizer/BioNTech,TOS,70-79,135,153,288,ITI,ITI1,9,Toscana
+2026-11-05,Pfizer/BioNTech,TOS,80-89,108,146,254,ITI,ITI1,9,Toscana
+2026-11-05,Pfizer/BioNTech,TOS,90+,15,39,54,ITI,ITI1,9,Toscana
 2026-11-05,Pfizer/BioNTech,UMB,20-29,0,1,1,ITI,ITI2,10,Umbria
-2026-11-05,Pfizer/BioNTech,UMB,30-39,1,2,3,ITI,ITI2,10,Umbria
-2026-11-05,Pfizer/BioNTech,UMB,40-49,0,4,4,ITI,ITI2,10,Umbria
-2026-11-05,Pfizer/BioNTech,UMB,50-59,3,3,6,ITI,ITI2,10,Umbria
-2026-11-05,Pfizer/BioNTech,UMB,60-69,13,22,35,ITI,ITI2,10,Umbria
-2026-11-05,Pfizer/BioNTech,UMB,70-79,25,18,43,ITI,ITI2,10,Umbria
-2026-11-05,Pfizer/BioNTech,UMB,80-89,16,14,30,ITI,ITI2,10,Umbria
-2026-11-05,Pfizer/BioNTech,UMB,90+,6,6,12,ITI,ITI2,10,Umbria
-2026-11-05,Pfizer/BioNTech,VEN,12-19,6,4,10,ITH,ITH3,5,Veneto
-2026-11-05,Pfizer/BioNTech,VEN,20-29,9,12,21,ITH,ITH3,5,Veneto
-2026-11-05,Pfizer/BioNTech,VEN,30-39,21,32,53,ITH,ITH3,5,Veneto
-2026-11-05,Pfizer/BioNTech,VEN,40-49,18,20,38,ITH,ITH3,5,Veneto
-2026-11-05,Pfizer/BioNTech,VEN,50-59,25,26,51,ITH,ITH3,5,Veneto
-2026-11-05,Pfizer/BioNTech,VEN,60-69,38,38,76,ITH,ITH3,5,Veneto
-2026-11-05,Pfizer/BioNTech,VEN,70-79,15,16,31,ITH,ITH3,5,Veneto
-2026-11-05,Pfizer/BioNTech,VEN,80-89,9,7,16,ITH,ITH3,5,Veneto
-2026-11-05,Pfizer/BioNTech,VEN,90+,0,5,5,ITH,ITH3,5,Veneto
+2026-11-05,Pfizer/BioNTech,UMB,30-39,1,3,4,ITI,ITI2,10,Umbria
+2026-11-05,Pfizer/BioNTech,UMB,40-49,0,5,5,ITI,ITI2,10,Umbria
+2026-11-05,Pfizer/BioNTech,UMB,50-59,5,3,8,ITI,ITI2,10,Umbria
+2026-11-05,Pfizer/BioNTech,UMB,60-69,17,26,43,ITI,ITI2,10,Umbria
+2026-11-05,Pfizer/BioNTech,UMB,70-79,36,26,62,ITI,ITI2,10,Umbria
+2026-11-05,Pfizer/BioNTech,UMB,80-89,23,24,47,ITI,ITI2,10,Umbria
+2026-11-05,Pfizer/BioNTech,UMB,90+,8,11,19,ITI,ITI2,10,Umbria
+2026-11-05,Pfizer/BioNTech,VDA,60-69,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-11-05,Pfizer/BioNTech,VDA,70-79,2,0,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-11-05,Pfizer/BioNTech,VDA,80-89,3,0,3,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-11-05,Pfizer/BioNTech,VEN,12-19,6,5,11,ITH,ITH3,5,Veneto
+2026-11-05,Pfizer/BioNTech,VEN,20-29,11,13,24,ITH,ITH3,5,Veneto
+2026-11-05,Pfizer/BioNTech,VEN,30-39,27,35,62,ITH,ITH3,5,Veneto
+2026-11-05,Pfizer/BioNTech,VEN,40-49,18,21,39,ITH,ITH3,5,Veneto
+2026-11-05,Pfizer/BioNTech,VEN,50-59,31,30,61,ITH,ITH3,5,Veneto
+2026-11-05,Pfizer/BioNTech,VEN,60-69,43,47,90,ITH,ITH3,5,Veneto
+2026-11-05,Pfizer/BioNTech,VEN,70-79,24,20,44,ITH,ITH3,5,Veneto
+2026-11-05,Pfizer/BioNTech,VEN,80-89,12,11,23,ITH,ITH3,5,Veneto
+2026-11-05,Pfizer/BioNTech,VEN,90+,2,13,15,ITH,ITH3,5,Veneto
+2026-11-06,Pfizer Pediatrico,EMR,05-11,1,1,2,ITH,ITH5,8,Emilia-Romagna
+2026-11-06,Pfizer Pediatrico,FVG,05-11,1,1,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-06,Pfizer Pediatrico,VEN,05-11,3,0,3,ITH,ITH3,5,Veneto
+2026-11-06,Pfizer/BioNTech,ABR,30-39,1,4,5,ITF,ITF1,13,Abruzzo
+2026-11-06,Pfizer/BioNTech,ABR,40-49,2,2,4,ITF,ITF1,13,Abruzzo
+2026-11-06,Pfizer/BioNTech,ABR,50-59,1,1,2,ITF,ITF1,13,Abruzzo
+2026-11-06,Pfizer/BioNTech,ABR,60-69,16,16,32,ITF,ITF1,13,Abruzzo
+2026-11-06,Pfizer/BioNTech,ABR,70-79,20,12,32,ITF,ITF1,13,Abruzzo
+2026-11-06,Pfizer/BioNTech,ABR,80-89,16,8,24,ITF,ITF1,13,Abruzzo
+2026-11-06,Pfizer/BioNTech,ABR,90+,1,3,4,ITF,ITF1,13,Abruzzo
+2026-11-06,Pfizer/BioNTech,EMR,12-19,5,6,11,ITH,ITH5,8,Emilia-Romagna
+2026-11-06,Pfizer/BioNTech,EMR,20-29,20,41,61,ITH,ITH5,8,Emilia-Romagna
+2026-11-06,Pfizer/BioNTech,EMR,30-39,53,78,131,ITH,ITH5,8,Emilia-Romagna
+2026-11-06,Pfizer/BioNTech,EMR,40-49,78,77,155,ITH,ITH5,8,Emilia-Romagna
+2026-11-06,Pfizer/BioNTech,EMR,50-59,147,157,304,ITH,ITH5,8,Emilia-Romagna
+2026-11-06,Pfizer/BioNTech,EMR,60-69,387,388,775,ITH,ITH5,8,Emilia-Romagna
+2026-11-06,Pfizer/BioNTech,EMR,70-79,622,599,1221,ITH,ITH5,8,Emilia-Romagna
+2026-11-06,Pfizer/BioNTech,EMR,80-89,544,581,1125,ITH,ITH5,8,Emilia-Romagna
+2026-11-06,Pfizer/BioNTech,EMR,90+,141,219,360,ITH,ITH5,8,Emilia-Romagna
+2026-11-06,Pfizer/BioNTech,FVG,12-19,0,2,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-06,Pfizer/BioNTech,FVG,20-29,4,10,14,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-06,Pfizer/BioNTech,FVG,30-39,17,11,28,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-06,Pfizer/BioNTech,FVG,40-49,19,22,41,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-06,Pfizer/BioNTech,FVG,50-59,33,40,73,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-06,Pfizer/BioNTech,FVG,60-69,77,68,145,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-06,Pfizer/BioNTech,FVG,70-79,107,89,196,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-06,Pfizer/BioNTech,FVG,80-89,75,98,173,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-06,Pfizer/BioNTech,FVG,90+,24,73,97,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-06,Pfizer/BioNTech,LOM,12-19,9,14,23,ITC,ITC4,3,Lombardia
+2026-11-06,Pfizer/BioNTech,LOM,20-29,53,80,133,ITC,ITC4,3,Lombardia
+2026-11-06,Pfizer/BioNTech,LOM,30-39,101,124,225,ITC,ITC4,3,Lombardia
+2026-11-06,Pfizer/BioNTech,LOM,40-49,134,130,264,ITC,ITC4,3,Lombardia
+2026-11-06,Pfizer/BioNTech,LOM,50-59,214,215,429,ITC,ITC4,3,Lombardia
+2026-11-06,Pfizer/BioNTech,LOM,60-69,389,426,815,ITC,ITC4,3,Lombardia
+2026-11-06,Pfizer/BioNTech,LOM,70-79,511,496,1007,ITC,ITC4,3,Lombardia
+2026-11-06,Pfizer/BioNTech,LOM,80-89,385,581,966,ITC,ITC4,3,Lombardia
+2026-11-06,Pfizer/BioNTech,LOM,90+,87,282,369,ITC,ITC4,3,Lombardia
+2026-11-06,Pfizer/BioNTech,PIE,12-19,1,1,2,ITC,ITC1,1,Piemonte
+2026-11-06,Pfizer/BioNTech,PIE,20-29,16,9,25,ITC,ITC1,1,Piemonte
+2026-11-06,Pfizer/BioNTech,PIE,30-39,38,35,73,ITC,ITC1,1,Piemonte
+2026-11-06,Pfizer/BioNTech,PIE,40-49,34,41,75,ITC,ITC1,1,Piemonte
+2026-11-06,Pfizer/BioNTech,PIE,50-59,85,98,183,ITC,ITC1,1,Piemonte
+2026-11-06,Pfizer/BioNTech,PIE,60-69,225,216,441,ITC,ITC1,1,Piemonte
+2026-11-06,Pfizer/BioNTech,PIE,70-79,317,261,578,ITC,ITC1,1,Piemonte
+2026-11-06,Pfizer/BioNTech,PIE,80-89,198,186,384,ITC,ITC1,1,Piemonte
+2026-11-06,Pfizer/BioNTech,PIE,90+,34,75,109,ITC,ITC1,1,Piemonte
+2026-11-06,Pfizer/BioNTech,SIC,60-69,2,0,2,ITG,ITG1,19,Sicilia
+2026-11-06,Pfizer/BioNTech,TOS,12-19,0,1,1,ITI,ITI1,9,Toscana
+2026-11-06,Pfizer/BioNTech,TOS,20-29,4,4,8,ITI,ITI1,9,Toscana
+2026-11-06,Pfizer/BioNTech,TOS,30-39,11,16,27,ITI,ITI1,9,Toscana
+2026-11-06,Pfizer/BioNTech,TOS,40-49,14,13,27,ITI,ITI1,9,Toscana
+2026-11-06,Pfizer/BioNTech,TOS,50-59,27,22,49,ITI,ITI1,9,Toscana
+2026-11-06,Pfizer/BioNTech,TOS,60-69,86,84,170,ITI,ITI1,9,Toscana
+2026-11-06,Pfizer/BioNTech,TOS,70-79,84,102,186,ITI,ITI1,9,Toscana
+2026-11-06,Pfizer/BioNTech,TOS,80-89,95,115,210,ITI,ITI1,9,Toscana
+2026-11-06,Pfizer/BioNTech,TOS,90+,9,27,36,ITI,ITI1,9,Toscana
+2026-11-06,Pfizer/BioNTech,UMB,20-29,0,2,2,ITI,ITI2,10,Umbria
+2026-11-06,Pfizer/BioNTech,UMB,30-39,0,1,1,ITI,ITI2,10,Umbria
+2026-11-06,Pfizer/BioNTech,UMB,40-49,1,1,2,ITI,ITI2,10,Umbria
+2026-11-06,Pfizer/BioNTech,UMB,50-59,2,4,6,ITI,ITI2,10,Umbria
+2026-11-06,Pfizer/BioNTech,UMB,60-69,10,5,15,ITI,ITI2,10,Umbria
+2026-11-06,Pfizer/BioNTech,UMB,70-79,17,13,30,ITI,ITI2,10,Umbria
+2026-11-06,Pfizer/BioNTech,UMB,80-89,13,20,33,ITI,ITI2,10,Umbria
+2026-11-06,Pfizer/BioNTech,UMB,90+,7,9,16,ITI,ITI2,10,Umbria
+2026-11-06,Pfizer/BioNTech,VDA,70-79,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-11-06,Pfizer/BioNTech,VEN,12-19,2,1,3,ITH,ITH3,5,Veneto
+2026-11-06,Pfizer/BioNTech,VEN,20-29,8,7,15,ITH,ITH3,5,Veneto
+2026-11-06,Pfizer/BioNTech,VEN,30-39,18,41,59,ITH,ITH3,5,Veneto
+2026-11-06,Pfizer/BioNTech,VEN,40-49,21,16,37,ITH,ITH3,5,Veneto
+2026-11-06,Pfizer/BioNTech,VEN,50-59,20,28,48,ITH,ITH3,5,Veneto
+2026-11-06,Pfizer/BioNTech,VEN,60-69,41,39,80,ITH,ITH3,5,Veneto
+2026-11-06,Pfizer/BioNTech,VEN,70-79,27,34,61,ITH,ITH3,5,Veneto
+2026-11-06,Pfizer/BioNTech,VEN,80-89,18,23,41,ITH,ITH3,5,Veneto
+2026-11-06,Pfizer/BioNTech,VEN,90+,5,10,15,ITH,ITH3,5,Veneto
+2026-11-07,Pfizer Pediatrico,VEN,05-11,15,5,20,ITH,ITH3,5,Veneto
+2026-11-07,Pfizer/BioNTech,ABR,30-39,2,3,5,ITF,ITF1,13,Abruzzo
+2026-11-07,Pfizer/BioNTech,ABR,40-49,5,4,9,ITF,ITF1,13,Abruzzo
+2026-11-07,Pfizer/BioNTech,ABR,50-59,2,6,8,ITF,ITF1,13,Abruzzo
+2026-11-07,Pfizer/BioNTech,ABR,60-69,10,8,18,ITF,ITF1,13,Abruzzo
+2026-11-07,Pfizer/BioNTech,ABR,70-79,14,18,32,ITF,ITF1,13,Abruzzo
+2026-11-07,Pfizer/BioNTech,ABR,80-89,13,2,15,ITF,ITF1,13,Abruzzo
+2026-11-07,Pfizer/BioNTech,ABR,90+,2,2,4,ITF,ITF1,13,Abruzzo
+2026-11-07,Pfizer/BioNTech,EMR,12-19,0,1,1,ITH,ITH5,8,Emilia-Romagna
+2026-11-07,Pfizer/BioNTech,EMR,20-29,6,13,19,ITH,ITH5,8,Emilia-Romagna
+2026-11-07,Pfizer/BioNTech,EMR,30-39,16,20,36,ITH,ITH5,8,Emilia-Romagna
+2026-11-07,Pfizer/BioNTech,EMR,40-49,33,29,62,ITH,ITH5,8,Emilia-Romagna
+2026-11-07,Pfizer/BioNTech,EMR,50-59,70,70,140,ITH,ITH5,8,Emilia-Romagna
+2026-11-07,Pfizer/BioNTech,EMR,60-69,164,181,345,ITH,ITH5,8,Emilia-Romagna
+2026-11-07,Pfizer/BioNTech,EMR,70-79,307,283,590,ITH,ITH5,8,Emilia-Romagna
+2026-11-07,Pfizer/BioNTech,EMR,80-89,232,237,469,ITH,ITH5,8,Emilia-Romagna
+2026-11-07,Pfizer/BioNTech,EMR,90+,57,66,123,ITH,ITH5,8,Emilia-Romagna
+2026-11-07,Pfizer/BioNTech,FVG,30-39,0,2,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-07,Pfizer/BioNTech,FVG,40-49,1,1,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-07,Pfizer/BioNTech,FVG,50-59,3,6,9,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-07,Pfizer/BioNTech,FVG,60-69,13,14,27,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-07,Pfizer/BioNTech,FVG,70-79,20,20,40,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-07,Pfizer/BioNTech,FVG,80-89,23,25,48,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-07,Pfizer/BioNTech,FVG,90+,2,8,10,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-07,Pfizer/BioNTech,LOM,12-19,9,9,18,ITC,ITC4,3,Lombardia
+2026-11-07,Pfizer/BioNTech,LOM,20-29,38,41,79,ITC,ITC4,3,Lombardia
+2026-11-07,Pfizer/BioNTech,LOM,30-39,78,74,152,ITC,ITC4,3,Lombardia
+2026-11-07,Pfizer/BioNTech,LOM,40-49,85,72,157,ITC,ITC4,3,Lombardia
+2026-11-07,Pfizer/BioNTech,LOM,50-59,175,170,345,ITC,ITC4,3,Lombardia
+2026-11-07,Pfizer/BioNTech,LOM,60-69,254,266,520,ITC,ITC4,3,Lombardia
+2026-11-07,Pfizer/BioNTech,LOM,70-79,344,301,645,ITC,ITC4,3,Lombardia
+2026-11-07,Pfizer/BioNTech,LOM,80-89,270,321,591,ITC,ITC4,3,Lombardia
+2026-11-07,Pfizer/BioNTech,LOM,90+,56,85,141,ITC,ITC4,3,Lombardia
+2026-11-07,Pfizer/BioNTech,PIE,12-19,2,3,5,ITC,ITC1,1,Piemonte
+2026-11-07,Pfizer/BioNTech,PIE,20-29,9,4,13,ITC,ITC1,1,Piemonte
+2026-11-07,Pfizer/BioNTech,PIE,30-39,2,9,11,ITC,ITC1,1,Piemonte
+2026-11-07,Pfizer/BioNTech,PIE,40-49,11,9,20,ITC,ITC1,1,Piemonte
+2026-11-07,Pfizer/BioNTech,PIE,50-59,21,20,41,ITC,ITC1,1,Piemonte
+2026-11-07,Pfizer/BioNTech,PIE,60-69,58,42,100,ITC,ITC1,1,Piemonte
+2026-11-07,Pfizer/BioNTech,PIE,70-79,101,70,171,ITC,ITC1,1,Piemonte
+2026-11-07,Pfizer/BioNTech,PIE,80-89,46,57,103,ITC,ITC1,1,Piemonte
+2026-11-07,Pfizer/BioNTech,PIE,90+,10,36,46,ITC,ITC1,1,Piemonte
+2026-11-07,Pfizer/BioNTech,SIC,30-39,2,4,6,ITG,ITG1,19,Sicilia
+2026-11-07,Pfizer/BioNTech,SIC,40-49,1,2,3,ITG,ITG1,19,Sicilia
+2026-11-07,Pfizer/BioNTech,SIC,50-59,0,2,2,ITG,ITG1,19,Sicilia
+2026-11-07,Pfizer/BioNTech,SIC,60-69,0,1,1,ITG,ITG1,19,Sicilia
+2026-11-07,Pfizer/BioNTech,TOS,20-29,1,0,1,ITI,ITI1,9,Toscana
+2026-11-07,Pfizer/BioNTech,TOS,30-39,2,3,5,ITI,ITI1,9,Toscana
+2026-11-07,Pfizer/BioNTech,TOS,40-49,2,3,5,ITI,ITI1,9,Toscana
+2026-11-07,Pfizer/BioNTech,TOS,50-59,6,5,11,ITI,ITI1,9,Toscana
+2026-11-07,Pfizer/BioNTech,TOS,60-69,22,16,38,ITI,ITI1,9,Toscana
+2026-11-07,Pfizer/BioNTech,TOS,70-79,19,22,41,ITI,ITI1,9,Toscana
+2026-11-07,Pfizer/BioNTech,TOS,80-89,25,17,42,ITI,ITI1,9,Toscana
+2026-11-07,Pfizer/BioNTech,TOS,90+,0,2,2,ITI,ITI1,9,Toscana
+2026-11-07,Pfizer/BioNTech,UMB,12-19,1,0,1,ITI,ITI2,10,Umbria
+2026-11-07,Pfizer/BioNTech,UMB,20-29,1,2,3,ITI,ITI2,10,Umbria
+2026-11-07,Pfizer/BioNTech,UMB,30-39,1,1,2,ITI,ITI2,10,Umbria
+2026-11-07,Pfizer/BioNTech,UMB,40-49,0,5,5,ITI,ITI2,10,Umbria
+2026-11-07,Pfizer/BioNTech,UMB,50-59,1,0,1,ITI,ITI2,10,Umbria
+2026-11-07,Pfizer/BioNTech,UMB,60-69,0,4,4,ITI,ITI2,10,Umbria
+2026-11-07,Pfizer/BioNTech,UMB,70-79,3,3,6,ITI,ITI2,10,Umbria
+2026-11-07,Pfizer/BioNTech,UMB,80-89,2,5,7,ITI,ITI2,10,Umbria
+2026-11-07,Pfizer/BioNTech,UMB,90+,2,9,11,ITI,ITI2,10,Umbria
+2026-11-07,Pfizer/BioNTech,VEN,12-19,15,21,36,ITH,ITH3,5,Veneto
+2026-11-07,Pfizer/BioNTech,VEN,20-29,32,45,77,ITH,ITH3,5,Veneto
+2026-11-07,Pfizer/BioNTech,VEN,30-39,95,109,204,ITH,ITH3,5,Veneto
+2026-11-07,Pfizer/BioNTech,VEN,40-49,91,76,167,ITH,ITH3,5,Veneto
+2026-11-07,Pfizer/BioNTech,VEN,50-59,104,110,214,ITH,ITH3,5,Veneto
+2026-11-07,Pfizer/BioNTech,VEN,60-69,138,128,266,ITH,ITH3,5,Veneto
+2026-11-07,Pfizer/BioNTech,VEN,70-79,85,88,173,ITH,ITH3,5,Veneto
+2026-11-07,Pfizer/BioNTech,VEN,80-89,53,55,108,ITH,ITH3,5,Veneto
+2026-11-07,Pfizer/BioNTech,VEN,90+,7,19,26,ITH,ITH3,5,Veneto
+2026-11-08,Pfizer/BioNTech,EMR,12-19,1,0,1,ITH,ITH5,8,Emilia-Romagna
+2026-11-08,Pfizer/BioNTech,EMR,20-29,1,4,5,ITH,ITH5,8,Emilia-Romagna
+2026-11-08,Pfizer/BioNTech,EMR,30-39,3,5,8,ITH,ITH5,8,Emilia-Romagna
+2026-11-08,Pfizer/BioNTech,EMR,40-49,4,4,8,ITH,ITH5,8,Emilia-Romagna
+2026-11-08,Pfizer/BioNTech,EMR,50-59,10,7,17,ITH,ITH5,8,Emilia-Romagna
+2026-11-08,Pfizer/BioNTech,EMR,60-69,29,29,58,ITH,ITH5,8,Emilia-Romagna
+2026-11-08,Pfizer/BioNTech,EMR,70-79,44,38,82,ITH,ITH5,8,Emilia-Romagna
+2026-11-08,Pfizer/BioNTech,EMR,80-89,53,45,98,ITH,ITH5,8,Emilia-Romagna
+2026-11-08,Pfizer/BioNTech,EMR,90+,9,15,24,ITH,ITH5,8,Emilia-Romagna
+2026-11-08,Pfizer/BioNTech,FVG,80-89,1,1,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-08,Pfizer/BioNTech,LOM,12-19,3,10,13,ITC,ITC4,3,Lombardia
+2026-11-08,Pfizer/BioNTech,LOM,20-29,1,8,9,ITC,ITC4,3,Lombardia
+2026-11-08,Pfizer/BioNTech,LOM,30-39,7,12,19,ITC,ITC4,3,Lombardia
+2026-11-08,Pfizer/BioNTech,LOM,40-49,16,24,40,ITC,ITC4,3,Lombardia
+2026-11-08,Pfizer/BioNTech,LOM,50-59,30,39,69,ITC,ITC4,3,Lombardia
+2026-11-08,Pfizer/BioNTech,LOM,60-69,49,45,94,ITC,ITC4,3,Lombardia
+2026-11-08,Pfizer/BioNTech,LOM,70-79,87,87,174,ITC,ITC4,3,Lombardia
+2026-11-08,Pfizer/BioNTech,LOM,80-89,66,68,134,ITC,ITC4,3,Lombardia
+2026-11-08,Pfizer/BioNTech,LOM,90+,15,18,33,ITC,ITC4,3,Lombardia
+2026-11-08,Pfizer/BioNTech,PIE,12-19,0,1,1,ITC,ITC1,1,Piemonte
+2026-11-08,Pfizer/BioNTech,PIE,30-39,1,1,2,ITC,ITC1,1,Piemonte
+2026-11-08,Pfizer/BioNTech,PIE,40-49,2,2,4,ITC,ITC1,1,Piemonte
+2026-11-08,Pfizer/BioNTech,PIE,50-59,6,5,11,ITC,ITC1,1,Piemonte
+2026-11-08,Pfizer/BioNTech,PIE,60-69,7,7,14,ITC,ITC1,1,Piemonte
+2026-11-08,Pfizer/BioNTech,PIE,70-79,14,16,30,ITC,ITC1,1,Piemonte
+2026-11-08,Pfizer/BioNTech,PIE,80-89,10,16,26,ITC,ITC1,1,Piemonte
+2026-11-08,Pfizer/BioNTech,PIE,90+,5,11,16,ITC,ITC1,1,Piemonte
+2026-11-08,Pfizer/BioNTech,TOS,60-69,0,1,1,ITI,ITI1,9,Toscana
+2026-11-08,Pfizer/BioNTech,TOS,70-79,0,1,1,ITI,ITI1,9,Toscana
+2026-11-08,Pfizer/BioNTech,VEN,40-49,1,0,1,ITH,ITH3,5,Veneto
+2026-11-08,Pfizer/BioNTech,VEN,60-69,1,0,1,ITH,ITH3,5,Veneto
+2026-11-08,Pfizer/BioNTech,VEN,70-79,0,1,1,ITH,ITH3,5,Veneto
+2026-11-08,Pfizer/BioNTech,VEN,80-89,4,3,7,ITH,ITH3,5,Veneto
+2026-11-08,Pfizer/BioNTech,VEN,90+,1,1,2,ITH,ITH3,5,Veneto
+2026-11-09,Pfizer Pediatrico,EMR,05-11,2,0,2,ITH,ITH5,8,Emilia-Romagna
+2026-11-09,Pfizer Pediatrico,VEN,05-11,3,2,5,ITH,ITH3,5,Veneto
+2026-11-09,Pfizer/BioNTech,ABR,50-59,1,1,2,ITF,ITF1,13,Abruzzo
+2026-11-09,Pfizer/BioNTech,ABR,60-69,8,8,16,ITF,ITF1,13,Abruzzo
+2026-11-09,Pfizer/BioNTech,ABR,70-79,16,8,24,ITF,ITF1,13,Abruzzo
+2026-11-09,Pfizer/BioNTech,ABR,80-89,4,5,9,ITF,ITF1,13,Abruzzo
+2026-11-09,Pfizer/BioNTech,ABR,90+,2,1,3,ITF,ITF1,13,Abruzzo
+2026-11-09,Pfizer/BioNTech,EMR,12-19,1,2,3,ITH,ITH5,8,Emilia-Romagna
+2026-11-09,Pfizer/BioNTech,EMR,20-29,13,23,36,ITH,ITH5,8,Emilia-Romagna
+2026-11-09,Pfizer/BioNTech,EMR,30-39,28,40,68,ITH,ITH5,8,Emilia-Romagna
+2026-11-09,Pfizer/BioNTech,EMR,40-49,55,50,105,ITH,ITH5,8,Emilia-Romagna
+2026-11-09,Pfizer/BioNTech,EMR,50-59,84,89,173,ITH,ITH5,8,Emilia-Romagna
+2026-11-09,Pfizer/BioNTech,EMR,60-69,254,261,515,ITH,ITH5,8,Emilia-Romagna
+2026-11-09,Pfizer/BioNTech,EMR,70-79,421,386,807,ITH,ITH5,8,Emilia-Romagna
+2026-11-09,Pfizer/BioNTech,EMR,80-89,313,357,670,ITH,ITH5,8,Emilia-Romagna
+2026-11-09,Pfizer/BioNTech,EMR,90+,87,204,291,ITH,ITH5,8,Emilia-Romagna
+2026-11-09,Pfizer/BioNTech,FVG,20-29,5,11,16,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-09,Pfizer/BioNTech,FVG,30-39,9,20,29,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-09,Pfizer/BioNTech,FVG,40-49,12,16,28,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-09,Pfizer/BioNTech,FVG,50-59,35,37,72,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-09,Pfizer/BioNTech,FVG,60-69,43,34,77,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-09,Pfizer/BioNTech,FVG,70-79,36,35,71,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-09,Pfizer/BioNTech,FVG,80-89,33,32,65,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-09,Pfizer/BioNTech,FVG,90+,11,18,29,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-09,Pfizer/BioNTech,LOM,12-19,4,10,14,ITC,ITC4,3,Lombardia
+2026-11-09,Pfizer/BioNTech,LOM,20-29,36,47,83,ITC,ITC4,3,Lombardia
+2026-11-09,Pfizer/BioNTech,LOM,30-39,65,93,158,ITC,ITC4,3,Lombardia
+2026-11-09,Pfizer/BioNTech,LOM,40-49,87,92,179,ITC,ITC4,3,Lombardia
+2026-11-09,Pfizer/BioNTech,LOM,50-59,158,144,302,ITC,ITC4,3,Lombardia
+2026-11-09,Pfizer/BioNTech,LOM,60-69,301,331,632,ITC,ITC4,3,Lombardia
+2026-11-09,Pfizer/BioNTech,LOM,70-79,388,380,768,ITC,ITC4,3,Lombardia
+2026-11-09,Pfizer/BioNTech,LOM,80-89,304,421,725,ITC,ITC4,3,Lombardia
+2026-11-09,Pfizer/BioNTech,LOM,90+,49,271,320,ITC,ITC4,3,Lombardia
+2026-11-09,Pfizer/BioNTech,PIE,12-19,1,0,1,ITC,ITC1,1,Piemonte
+2026-11-09,Pfizer/BioNTech,PIE,20-29,5,13,18,ITC,ITC1,1,Piemonte
+2026-11-09,Pfizer/BioNTech,PIE,30-39,26,33,59,ITC,ITC1,1,Piemonte
+2026-11-09,Pfizer/BioNTech,PIE,40-49,33,35,68,ITC,ITC1,1,Piemonte
+2026-11-09,Pfizer/BioNTech,PIE,50-59,45,73,118,ITC,ITC1,1,Piemonte
+2026-11-09,Pfizer/BioNTech,PIE,60-69,155,160,315,ITC,ITC1,1,Piemonte
+2026-11-09,Pfizer/BioNTech,PIE,70-79,208,160,368,ITC,ITC1,1,Piemonte
+2026-11-09,Pfizer/BioNTech,PIE,80-89,147,153,300,ITC,ITC1,1,Piemonte
+2026-11-09,Pfizer/BioNTech,PIE,90+,30,103,133,ITC,ITC1,1,Piemonte
+2026-11-09,Pfizer/BioNTech,TOS,12-19,2,0,2,ITI,ITI1,9,Toscana
+2026-11-09,Pfizer/BioNTech,TOS,20-29,3,8,11,ITI,ITI1,9,Toscana
+2026-11-09,Pfizer/BioNTech,TOS,30-39,8,11,19,ITI,ITI1,9,Toscana
+2026-11-09,Pfizer/BioNTech,TOS,40-49,16,12,28,ITI,ITI1,9,Toscana
+2026-11-09,Pfizer/BioNTech,TOS,50-59,23,25,48,ITI,ITI1,9,Toscana
+2026-11-09,Pfizer/BioNTech,TOS,60-69,75,71,146,ITI,ITI1,9,Toscana
+2026-11-09,Pfizer/BioNTech,TOS,70-79,63,84,147,ITI,ITI1,9,Toscana
+2026-11-09,Pfizer/BioNTech,TOS,80-89,67,78,145,ITI,ITI1,9,Toscana
+2026-11-09,Pfizer/BioNTech,TOS,90+,6,9,15,ITI,ITI1,9,Toscana
+2026-11-09,Pfizer/BioNTech,UMB,40-49,0,2,2,ITI,ITI2,10,Umbria
+2026-11-09,Pfizer/BioNTech,UMB,50-59,2,1,3,ITI,ITI2,10,Umbria
+2026-11-09,Pfizer/BioNTech,UMB,60-69,5,3,8,ITI,ITI2,10,Umbria
+2026-11-09,Pfizer/BioNTech,UMB,70-79,6,7,13,ITI,ITI2,10,Umbria
+2026-11-09,Pfizer/BioNTech,UMB,80-89,4,1,5,ITI,ITI2,10,Umbria
+2026-11-09,Pfizer/BioNTech,UMB,90+,0,1,1,ITI,ITI2,10,Umbria
+2026-11-09,Pfizer/BioNTech,VDA,70-79,2,0,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-11-09,Pfizer/BioNTech,VDA,80-89,1,1,2,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-11-09,Pfizer/BioNTech,VEN,12-19,1,2,3,ITH,ITH3,5,Veneto
+2026-11-09,Pfizer/BioNTech,VEN,20-29,4,10,14,ITH,ITH3,5,Veneto
+2026-11-09,Pfizer/BioNTech,VEN,30-39,12,11,23,ITH,ITH3,5,Veneto
+2026-11-09,Pfizer/BioNTech,VEN,40-49,12,16,28,ITH,ITH3,5,Veneto
+2026-11-09,Pfizer/BioNTech,VEN,50-59,19,15,34,ITH,ITH3,5,Veneto
+2026-11-09,Pfizer/BioNTech,VEN,60-69,21,17,38,ITH,ITH3,5,Veneto
+2026-11-09,Pfizer/BioNTech,VEN,70-79,29,20,49,ITH,ITH3,5,Veneto
+2026-11-09,Pfizer/BioNTech,VEN,80-89,11,18,29,ITH,ITH3,5,Veneto
+2026-11-09,Pfizer/BioNTech,VEN,90+,3,9,12,ITH,ITH3,5,Veneto
+2026-11-10,Pfizer Pediatrico,EMR,05-11,1,1,2,ITH,ITH5,8,Emilia-Romagna
+2026-11-10,Pfizer Pediatrico,FVG,05-11,0,2,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-10,Pfizer Pediatrico,PIE,05-11,0,1,1,ITC,ITC1,1,Piemonte
+2026-11-10,Pfizer Pediatrico,VEN,05-11,1,0,1,ITH,ITH3,5,Veneto
+2026-11-10,Pfizer/BioNTech,ABR,20-29,1,2,3,ITF,ITF1,13,Abruzzo
+2026-11-10,Pfizer/BioNTech,ABR,40-49,4,3,7,ITF,ITF1,13,Abruzzo
+2026-11-10,Pfizer/BioNTech,ABR,50-59,5,7,12,ITF,ITF1,13,Abruzzo
+2026-11-10,Pfizer/BioNTech,ABR,60-69,8,13,21,ITF,ITF1,13,Abruzzo
+2026-11-10,Pfizer/BioNTech,ABR,70-79,14,10,24,ITF,ITF1,13,Abruzzo
+2026-11-10,Pfizer/BioNTech,ABR,80-89,5,7,12,ITF,ITF1,13,Abruzzo
+2026-11-10,Pfizer/BioNTech,ABR,90+,3,2,5,ITF,ITF1,13,Abruzzo
+2026-11-10,Pfizer/BioNTech,EMR,12-19,5,4,9,ITH,ITH5,8,Emilia-Romagna
+2026-11-10,Pfizer/BioNTech,EMR,20-29,17,42,59,ITH,ITH5,8,Emilia-Romagna
+2026-11-10,Pfizer/BioNTech,EMR,30-39,54,55,109,ITH,ITH5,8,Emilia-Romagna
+2026-11-10,Pfizer/BioNTech,EMR,40-49,69,78,147,ITH,ITH5,8,Emilia-Romagna
+2026-11-10,Pfizer/BioNTech,EMR,50-59,124,143,267,ITH,ITH5,8,Emilia-Romagna
+2026-11-10,Pfizer/BioNTech,EMR,60-69,382,363,745,ITH,ITH5,8,Emilia-Romagna
+2026-11-10,Pfizer/BioNTech,EMR,70-79,590,555,1145,ITH,ITH5,8,Emilia-Romagna
+2026-11-10,Pfizer/BioNTech,EMR,80-89,424,436,860,ITH,ITH5,8,Emilia-Romagna
+2026-11-10,Pfizer/BioNTech,EMR,90+,111,218,329,ITH,ITH5,8,Emilia-Romagna
+2026-11-10,Pfizer/BioNTech,FVG,12-19,2,1,3,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-10,Pfizer/BioNTech,FVG,20-29,4,17,21,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-10,Pfizer/BioNTech,FVG,30-39,4,7,11,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-10,Pfizer/BioNTech,FVG,40-49,9,16,25,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-10,Pfizer/BioNTech,FVG,50-59,20,20,40,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-10,Pfizer/BioNTech,FVG,60-69,48,43,91,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-10,Pfizer/BioNTech,FVG,70-79,71,72,143,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-10,Pfizer/BioNTech,FVG,80-89,50,81,131,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-10,Pfizer/BioNTech,FVG,90+,15,47,62,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-10,Pfizer/BioNTech,LOM,12-19,14,11,25,ITC,ITC4,3,Lombardia
+2026-11-10,Pfizer/BioNTech,LOM,20-29,53,129,182,ITC,ITC4,3,Lombardia
+2026-11-10,Pfizer/BioNTech,LOM,30-39,74,85,159,ITC,ITC4,3,Lombardia
+2026-11-10,Pfizer/BioNTech,LOM,40-49,89,99,188,ITC,ITC4,3,Lombardia
+2026-11-10,Pfizer/BioNTech,LOM,50-59,156,175,331,ITC,ITC4,3,Lombardia
+2026-11-10,Pfizer/BioNTech,LOM,60-69,348,351,699,ITC,ITC4,3,Lombardia
+2026-11-10,Pfizer/BioNTech,LOM,70-79,491,478,969,ITC,ITC4,3,Lombardia
+2026-11-10,Pfizer/BioNTech,LOM,80-89,351,513,864,ITC,ITC4,3,Lombardia
+2026-11-10,Pfizer/BioNTech,LOM,90+,86,339,425,ITC,ITC4,3,Lombardia
+2026-11-10,Pfizer/BioNTech,PIE,12-19,2,0,2,ITC,ITC1,1,Piemonte
+2026-11-10,Pfizer/BioNTech,PIE,20-29,12,12,24,ITC,ITC1,1,Piemonte
+2026-11-10,Pfizer/BioNTech,PIE,30-39,28,30,58,ITC,ITC1,1,Piemonte
+2026-11-10,Pfizer/BioNTech,PIE,40-49,26,36,62,ITC,ITC1,1,Piemonte
+2026-11-10,Pfizer/BioNTech,PIE,50-59,69,65,134,ITC,ITC1,1,Piemonte
+2026-11-10,Pfizer/BioNTech,PIE,60-69,155,177,332,ITC,ITC1,1,Piemonte
+2026-11-10,Pfizer/BioNTech,PIE,70-79,249,199,448,ITC,ITC1,1,Piemonte
+2026-11-10,Pfizer/BioNTech,PIE,80-89,138,194,332,ITC,ITC1,1,Piemonte
+2026-11-10,Pfizer/BioNTech,PIE,90+,38,104,142,ITC,ITC1,1,Piemonte
+2026-11-10,Pfizer/BioNTech,SIC,40-49,0,2,2,ITG,ITG1,19,Sicilia
+2026-11-10,Pfizer/BioNTech,TOS,12-19,0,1,1,ITI,ITI1,9,Toscana
+2026-11-10,Pfizer/BioNTech,TOS,20-29,5,3,8,ITI,ITI1,9,Toscana
+2026-11-10,Pfizer/BioNTech,TOS,30-39,8,13,21,ITI,ITI1,9,Toscana
+2026-11-10,Pfizer/BioNTech,TOS,40-49,11,13,24,ITI,ITI1,9,Toscana
+2026-11-10,Pfizer/BioNTech,TOS,50-59,21,25,46,ITI,ITI1,9,Toscana
+2026-11-10,Pfizer/BioNTech,TOS,60-69,72,63,135,ITI,ITI1,9,Toscana
+2026-11-10,Pfizer/BioNTech,TOS,70-79,56,60,116,ITI,ITI1,9,Toscana
+2026-11-10,Pfizer/BioNTech,TOS,80-89,56,89,145,ITI,ITI1,9,Toscana
+2026-11-10,Pfizer/BioNTech,TOS,90+,6,17,23,ITI,ITI1,9,Toscana
+2026-11-10,Pfizer/BioNTech,UMB,20-29,2,1,3,ITI,ITI2,10,Umbria
+2026-11-10,Pfizer/BioNTech,UMB,30-39,2,2,4,ITI,ITI2,10,Umbria
+2026-11-10,Pfizer/BioNTech,UMB,40-49,6,2,8,ITI,ITI2,10,Umbria
+2026-11-10,Pfizer/BioNTech,UMB,50-59,0,6,6,ITI,ITI2,10,Umbria
+2026-11-10,Pfizer/BioNTech,UMB,60-69,7,11,18,ITI,ITI2,10,Umbria
+2026-11-10,Pfizer/BioNTech,UMB,70-79,19,18,37,ITI,ITI2,10,Umbria
+2026-11-10,Pfizer/BioNTech,UMB,80-89,14,19,33,ITI,ITI2,10,Umbria
+2026-11-10,Pfizer/BioNTech,UMB,90+,4,7,11,ITI,ITI2,10,Umbria
+2026-11-10,Pfizer/BioNTech,VDA,80-89,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-11-10,Pfizer/BioNTech,VDA,90+,0,1,1,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2026-11-10,Pfizer/BioNTech,VEN,12-19,0,4,4,ITH,ITH3,5,Veneto
+2026-11-10,Pfizer/BioNTech,VEN,20-29,10,8,18,ITH,ITH3,5,Veneto
+2026-11-10,Pfizer/BioNTech,VEN,30-39,13,14,27,ITH,ITH3,5,Veneto
+2026-11-10,Pfizer/BioNTech,VEN,40-49,9,12,21,ITH,ITH3,5,Veneto
+2026-11-10,Pfizer/BioNTech,VEN,50-59,11,28,39,ITH,ITH3,5,Veneto
+2026-11-10,Pfizer/BioNTech,VEN,60-69,35,35,70,ITH,ITH3,5,Veneto
+2026-11-10,Pfizer/BioNTech,VEN,70-79,21,17,38,ITH,ITH3,5,Veneto
+2026-11-10,Pfizer/BioNTech,VEN,80-89,16,23,39,ITH,ITH3,5,Veneto
+2026-11-10,Pfizer/BioNTech,VEN,90+,0,14,14,ITH,ITH3,5,Veneto
+2026-11-11,Pfizer Pediatrico,EMR,05-11,3,3,6,ITH,ITH5,8,Emilia-Romagna
+2026-11-11,Pfizer Pediatrico,FVG,05-11,1,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-11,Pfizer/BioNTech,ABR,30-39,1,0,1,ITF,ITF1,13,Abruzzo
+2026-11-11,Pfizer/BioNTech,ABR,40-49,3,2,5,ITF,ITF1,13,Abruzzo
+2026-11-11,Pfizer/BioNTech,ABR,50-59,3,9,12,ITF,ITF1,13,Abruzzo
+2026-11-11,Pfizer/BioNTech,ABR,60-69,14,10,24,ITF,ITF1,13,Abruzzo
+2026-11-11,Pfizer/BioNTech,ABR,70-79,9,16,25,ITF,ITF1,13,Abruzzo
+2026-11-11,Pfizer/BioNTech,ABR,80-89,11,12,23,ITF,ITF1,13,Abruzzo
+2026-11-11,Pfizer/BioNTech,ABR,90+,4,7,11,ITF,ITF1,13,Abruzzo
+2026-11-11,Pfizer/BioNTech,EMR,12-19,4,2,6,ITH,ITH5,8,Emilia-Romagna
+2026-11-11,Pfizer/BioNTech,EMR,20-29,16,35,51,ITH,ITH5,8,Emilia-Romagna
+2026-11-11,Pfizer/BioNTech,EMR,30-39,44,56,100,ITH,ITH5,8,Emilia-Romagna
+2026-11-11,Pfizer/BioNTech,EMR,40-49,58,66,124,ITH,ITH5,8,Emilia-Romagna
+2026-11-11,Pfizer/BioNTech,EMR,50-59,106,129,235,ITH,ITH5,8,Emilia-Romagna
+2026-11-11,Pfizer/BioNTech,EMR,60-69,352,341,693,ITH,ITH5,8,Emilia-Romagna
+2026-11-11,Pfizer/BioNTech,EMR,70-79,541,515,1056,ITH,ITH5,8,Emilia-Romagna
+2026-11-11,Pfizer/BioNTech,EMR,80-89,495,548,1043,ITH,ITH5,8,Emilia-Romagna
+2026-11-11,Pfizer/BioNTech,EMR,90+,120,193,313,ITH,ITH5,8,Emilia-Romagna
+2026-11-11,Pfizer/BioNTech,FVG,12-19,3,1,4,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-11,Pfizer/BioNTech,FVG,20-29,3,10,13,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-11,Pfizer/BioNTech,FVG,30-39,6,6,12,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-11,Pfizer/BioNTech,FVG,40-49,7,8,15,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-11,Pfizer/BioNTech,FVG,50-59,11,14,25,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-11,Pfizer/BioNTech,FVG,60-69,35,36,71,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-11,Pfizer/BioNTech,FVG,70-79,51,48,99,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-11,Pfizer/BioNTech,FVG,80-89,40,60,100,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-11,Pfizer/BioNTech,FVG,90+,11,47,58,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-11,Pfizer/BioNTech,LOM,12-19,8,7,15,ITC,ITC4,3,Lombardia
+2026-11-11,Pfizer/BioNTech,LOM,20-29,37,93,130,ITC,ITC4,3,Lombardia
+2026-11-11,Pfizer/BioNTech,LOM,30-39,63,79,142,ITC,ITC4,3,Lombardia
+2026-11-11,Pfizer/BioNTech,LOM,40-49,93,81,174,ITC,ITC4,3,Lombardia
+2026-11-11,Pfizer/BioNTech,LOM,50-59,152,170,322,ITC,ITC4,3,Lombardia
+2026-11-11,Pfizer/BioNTech,LOM,60-69,321,314,635,ITC,ITC4,3,Lombardia
+2026-11-11,Pfizer/BioNTech,LOM,70-79,416,404,820,ITC,ITC4,3,Lombardia
+2026-11-11,Pfizer/BioNTech,LOM,80-89,331,415,746,ITC,ITC4,3,Lombardia
+2026-11-11,Pfizer/BioNTech,LOM,90+,66,226,292,ITC,ITC4,3,Lombardia
+2026-11-11,Pfizer/BioNTech,PIE,12-19,2,1,3,ITC,ITC1,1,Piemonte
+2026-11-11,Pfizer/BioNTech,PIE,20-29,4,7,11,ITC,ITC1,1,Piemonte
+2026-11-11,Pfizer/BioNTech,PIE,30-39,29,19,48,ITC,ITC1,1,Piemonte
+2026-11-11,Pfizer/BioNTech,PIE,40-49,31,29,60,ITC,ITC1,1,Piemonte
+2026-11-11,Pfizer/BioNTech,PIE,50-59,41,65,106,ITC,ITC1,1,Piemonte
+2026-11-11,Pfizer/BioNTech,PIE,60-69,164,143,307,ITC,ITC1,1,Piemonte
+2026-11-11,Pfizer/BioNTech,PIE,70-79,195,169,364,ITC,ITC1,1,Piemonte
+2026-11-11,Pfizer/BioNTech,PIE,80-89,124,131,255,ITC,ITC1,1,Piemonte
+2026-11-11,Pfizer/BioNTech,PIE,90+,25,65,90,ITC,ITC1,1,Piemonte
+2026-11-11,Pfizer/BioNTech,TOS,12-19,2,0,2,ITI,ITI1,9,Toscana
+2026-11-11,Pfizer/BioNTech,TOS,20-29,4,5,9,ITI,ITI1,9,Toscana
+2026-11-11,Pfizer/BioNTech,TOS,30-39,5,16,21,ITI,ITI1,9,Toscana
+2026-11-11,Pfizer/BioNTech,TOS,40-49,9,10,19,ITI,ITI1,9,Toscana
+2026-11-11,Pfizer/BioNTech,TOS,50-59,13,24,37,ITI,ITI1,9,Toscana
+2026-11-11,Pfizer/BioNTech,TOS,60-69,79,86,165,ITI,ITI1,9,Toscana
+2026-11-11,Pfizer/BioNTech,TOS,70-79,89,107,196,ITI,ITI1,9,Toscana
+2026-11-11,Pfizer/BioNTech,TOS,80-89,72,106,178,ITI,ITI1,9,Toscana
+2026-11-11,Pfizer/BioNTech,TOS,90+,8,16,24,ITI,ITI1,9,Toscana
+2026-11-11,Pfizer/BioNTech,UMB,20-29,1,1,2,ITI,ITI2,10,Umbria
+2026-11-11,Pfizer/BioNTech,UMB,30-39,1,3,4,ITI,ITI2,10,Umbria
+2026-11-11,Pfizer/BioNTech,UMB,40-49,9,2,11,ITI,ITI2,10,Umbria
+2026-11-11,Pfizer/BioNTech,UMB,50-59,6,9,15,ITI,ITI2,10,Umbria
+2026-11-11,Pfizer/BioNTech,UMB,60-69,20,14,34,ITI,ITI2,10,Umbria
+2026-11-11,Pfizer/BioNTech,UMB,70-79,46,26,72,ITI,ITI2,10,Umbria
+2026-11-11,Pfizer/BioNTech,UMB,80-89,23,34,57,ITI,ITI2,10,Umbria
+2026-11-11,Pfizer/BioNTech,UMB,90+,3,15,18,ITI,ITI2,10,Umbria
+2026-11-11,Pfizer/BioNTech,VEN,12-19,1,2,3,ITH,ITH3,5,Veneto
+2026-11-11,Pfizer/BioNTech,VEN,20-29,11,21,32,ITH,ITH3,5,Veneto
+2026-11-11,Pfizer/BioNTech,VEN,30-39,19,23,42,ITH,ITH3,5,Veneto
+2026-11-11,Pfizer/BioNTech,VEN,40-49,21,15,36,ITH,ITH3,5,Veneto
+2026-11-11,Pfizer/BioNTech,VEN,50-59,22,20,42,ITH,ITH3,5,Veneto
+2026-11-11,Pfizer/BioNTech,VEN,60-69,34,37,71,ITH,ITH3,5,Veneto
+2026-11-11,Pfizer/BioNTech,VEN,70-79,31,23,54,ITH,ITH3,5,Veneto
+2026-11-11,Pfizer/BioNTech,VEN,80-89,21,26,47,ITH,ITH3,5,Veneto
+2026-11-11,Pfizer/BioNTech,VEN,90+,5,7,12,ITH,ITH3,5,Veneto
+2026-11-12,Pfizer Pediatrico,PIE,05-11,1,0,1,ITC,ITC1,1,Piemonte
+2026-11-12,Pfizer/BioNTech,EMR,12-19,4,3,7,ITH,ITH5,8,Emilia-Romagna
+2026-11-12,Pfizer/BioNTech,EMR,20-29,12,9,21,ITH,ITH5,8,Emilia-Romagna
+2026-11-12,Pfizer/BioNTech,EMR,30-39,23,28,51,ITH,ITH5,8,Emilia-Romagna
+2026-11-12,Pfizer/BioNTech,EMR,40-49,39,46,85,ITH,ITH5,8,Emilia-Romagna
+2026-11-12,Pfizer/BioNTech,EMR,50-59,83,91,174,ITH,ITH5,8,Emilia-Romagna
+2026-11-12,Pfizer/BioNTech,EMR,60-69,240,243,483,ITH,ITH5,8,Emilia-Romagna
+2026-11-12,Pfizer/BioNTech,EMR,70-79,427,354,781,ITH,ITH5,8,Emilia-Romagna
+2026-11-12,Pfizer/BioNTech,EMR,80-89,300,373,673,ITH,ITH5,8,Emilia-Romagna
+2026-11-12,Pfizer/BioNTech,EMR,90+,75,148,223,ITH,ITH5,8,Emilia-Romagna
+2026-11-12,Pfizer/BioNTech,FVG,12-19,1,2,3,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-12,Pfizer/BioNTech,FVG,20-29,0,2,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-12,Pfizer/BioNTech,FVG,30-39,5,6,11,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-12,Pfizer/BioNTech,FVG,40-49,4,8,12,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-12,Pfizer/BioNTech,FVG,50-59,12,14,26,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-12,Pfizer/BioNTech,FVG,60-69,48,40,88,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-12,Pfizer/BioNTech,FVG,70-79,45,40,85,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-12,Pfizer/BioNTech,FVG,80-89,32,35,67,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-12,Pfizer/BioNTech,FVG,90+,4,8,12,ITH,ITH4,6,Friuli-Venezia Giulia
+2026-11-12,Pfizer/BioNTech,LOM,12-19,18,2,20,ITC,ITC4,3,Lombardia
+2026-11-12,Pfizer/BioNTech,LOM,20-29,24,45,69,ITC,ITC4,3,Lombardia
+2026-11-12,Pfizer/BioNTech,LOM,30-39,40,39,79,ITC,ITC4,3,Lombardia
+2026-11-12,Pfizer/BioNTech,LOM,40-49,63,72,135,ITC,ITC4,3,Lombardia
+2026-11-12,Pfizer/BioNTech,LOM,50-59,124,120,244,ITC,ITC4,3,Lombardia
+2026-11-12,Pfizer/BioNTech,LOM,60-69,231,239,470,ITC,ITC4,3,Lombardia
+2026-11-12,Pfizer/BioNTech,LOM,70-79,331,314,645,ITC,ITC4,3,Lombardia
+2026-11-12,Pfizer/BioNTech,LOM,80-89,268,353,621,ITC,ITC4,3,Lombardia
+2026-11-12,Pfizer/BioNTech,LOM,90+,64,199,263,ITC,ITC4,3,Lombardia
+2026-11-12,Pfizer/BioNTech,PIE,12-19,3,1,4,ITC,ITC1,1,Piemonte
+2026-11-12,Pfizer/BioNTech,PIE,20-29,7,10,17,ITC,ITC1,1,Piemonte
+2026-11-12,Pfizer/BioNTech,PIE,30-39,17,30,47,ITC,ITC1,1,Piemonte
+2026-11-12,Pfizer/BioNTech,PIE,40-49,23,26,49,ITC,ITC1,1,Piemonte
+2026-11-12,Pfizer/BioNTech,PIE,50-59,59,63,122,ITC,ITC1,1,Piemonte
+2026-11-12,Pfizer/BioNTech,PIE,60-69,148,146,294,ITC,ITC1,1,Piemonte
+2026-11-12,Pfizer/BioNTech,PIE,70-79,225,177,402,ITC,ITC1,1,Piemonte
+2026-11-12,Pfizer/BioNTech,PIE,80-89,121,143,264,ITC,ITC1,1,Piemonte
+2026-11-12,Pfizer/BioNTech,PIE,90+,26,50,76,ITC,ITC1,1,Piemonte
+2026-11-12,Pfizer/BioNTech,TOS,20-29,7,3,10,ITI,ITI1,9,Toscana
+2026-11-12,Pfizer/BioNTech,TOS,30-39,4,12,16,ITI,ITI1,9,Toscana
+2026-11-12,Pfizer/BioNTech,TOS,40-49,14,27,41,ITI,ITI1,9,Toscana
+2026-11-12,Pfizer/BioNTech,TOS,50-59,24,24,48,ITI,ITI1,9,Toscana
+2026-11-12,Pfizer/BioNTech,TOS,60-69,101,81,182,ITI,ITI1,9,Toscana
+2026-11-12,Pfizer/BioNTech,TOS,70-79,87,98,185,ITI,ITI1,9,Toscana
+2026-11-12,Pfizer/BioNTech,TOS,80-89,51,78,129,ITI,ITI1,9,Toscana
+2026-11-12,Pfizer/BioNTech,TOS,90+,11,14,25,ITI,ITI1,9,Toscana
+2026-11-12,Pfizer/BioNTech,UMB,20-29,0,1,1,ITI,ITI2,10,Umbria
+2026-11-12,Pfizer/BioNTech,UMB,30-39,3,2,5,ITI,ITI2,10,Umbria
+2026-11-12,Pfizer/BioNTech,UMB,40-49,3,4,7,ITI,ITI2,10,Umbria
+2026-11-12,Pfizer/BioNTech,UMB,50-59,4,3,7,ITI,ITI2,10,Umbria
+2026-11-12,Pfizer/BioNTech,UMB,60-69,22,12,34,ITI,ITI2,10,Umbria
+2026-11-12,Pfizer/BioNTech,UMB,70-79,34,28,62,ITI,ITI2,10,Umbria
+2026-11-12,Pfizer/BioNTech,UMB,80-89,25,16,41,ITI,ITI2,10,Umbria
+2026-11-12,Pfizer/BioNTech,UMB,90+,7,7,14,ITI,ITI2,10,Umbria
+2026-11-12,Pfizer/BioNTech,VEN,12-19,1,1,2,ITH,ITH3,5,Veneto
+2026-11-12,Pfizer/BioNTech,VEN,20-29,10,15,25,ITH,ITH3,5,Veneto
+2026-11-12,Pfizer/BioNTech,VEN,30-39,21,22,43,ITH,ITH3,5,Veneto
+2026-11-12,Pfizer/BioNTech,VEN,40-49,21,18,39,ITH,ITH3,5,Veneto
+2026-11-12,Pfizer/BioNTech,VEN,50-59,17,15,32,ITH,ITH3,5,Veneto
+2026-11-12,Pfizer/BioNTech,VEN,60-69,38,28,66,ITH,ITH3,5,Veneto
+2026-11-12,Pfizer/BioNTech,VEN,70-79,21,21,42,ITH,ITH3,5,Veneto
+2026-11-12,Pfizer/BioNTech,VEN,80-89,17,22,39,ITH,ITH3,5,Veneto
+2026-11-12,Pfizer/BioNTech,VEN,90+,4,16,20,ITH,ITH3,5,Veneto
